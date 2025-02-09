@@ -1,0 +1,84 @@
+Up Apple Watch App
+
+Building Up, Updates
+
+As of version 1.13.0, we've updated our Apple Watch app to support transfers between your savers and spending account, along with improving the navigation to follow a hierarchical structure as opposed to page based layout - and given the UI a big refresh to handle larger merchant/saver names and support for emojis, amongst other subtle enhancements.
+
+We recently released our Apple Watch app for Up, and have been delighted to see its uptake and use by our customers.
+
+Designing and developing for the Apple Watch was quite different than the iPhone app – the nature of the device favours quick interactions for specific tasks, and with the most recent watches supporting cellular data, having access to your banking data while on the go, either with or without your iPhone we saw as being highly desirable.
+
+After reviewing many other banking Apple Watch apps, we also wanted to have something more functional and useful than just providing access to your balance or your nearest ATM, and something more powerful that doesn't need to rely on the presence of your counterpart iPhone app for data or updates.
+
+Registration
+
+Once installed the watch app registers itself as its own independent first class Up citizen. This process happens via one of two possible ways, using either our proximity based registration method if your iPhone is nearby, or by providing your mobile number to the watch app and performing an OTP/passcode based authentication.
+
+The proximity based method is preferred and offers a great customer experience by leveraging the fact you have an authenticated Up device nearby. It registers and authenticates your watch app quickly and seamlessly for you on your behalf, and means no OTP nor passcode data entry is required on the smaller watch screen. You'll also notice a HomePod/AirPods inspired setup UI in the Up iOS app. 🙂
+
+Activity, savers, card controls and savers
+
+Once registered, the app provides a hierarchical based layout, with access to your recent activity, card controls and savers.
+
+Your recent activity shows the 20 most recent activity items, which can be a combination of transactions and/or events. Tapping on a transaction will bring up a receipt screen showing the primary details for that transaction, eg time, merchant name and logo, etc.
+
+For savers you can also transfer funds in between your savers and spending account, using the digital crown to dial in the desired transfer amount and toggle the transfer direction.
+
+There is a lot more information on your iPhone for a given transaction and the ability to jump to merchant insights, so we've integrated handoff support when viewing a receipt (and navigating the watch app in general) to jump to the corresponding receipt screen on the iPhone, without needing to browse/search for that same transaction.
+
+For card controls, you have direct access to the status of your card, and can block or unblock your card. This feature was taken from a recent scenario where one of our customers had lost their iPhone and wallet while cycling to work, and wanted an instant method of being able to secure their card.
+
+Complications
+
+On the watch face you have access to an Up complication. We support all text based complication types across the various watch faces for showing your Up account balance, and in the case of the graphic rectangular complication that has room for more information, we also additionally show your most recent activity item.
+
+Push notifications
+
+Receiving push notifications are another big use case for the watch, so we've also included a custom push notification UI. You'll notice that transactions notifications include a custom layout and the merchant logo when available, along with support chats and payments that include a relevant icon.
+
+Siri
+
+Up also supports Siri on the Apple Watch similar to the iPhone app, you can currently ask your Apple Watch to check your balance, or transfer funds from your Up account to a saver. For example “Check my bank balance”, or “transfer $5 to my holiday account”.
+
+Under the hood the Up watch app talks directly to our Up servers via its own network connection for data, and we have a few strategies in place for keeping its content up to date. The watch app has a regular schedule that it follows for requesting data in the background from the Up servers. In addition, asynchronous events will update the watch app when notifications are delivered to the watch app directly, eg. purchases, payments, etc, or are triggered via the counterpart iPhone app via watch connectivity.
+
+Feedback
+
+We are really excited to see the Apple Watch app for Up available for us and we're keen to add support for more features in the future. If you have any feedback, please let us know, we'd love to hear from you.
+
+The Up Apple Watch app is available from Up versions 1.4.0 onwards.
+
+Marcus Crafter
+
+Engineer
+
+@crafterm
+
+Tags: Apple Watch, Technology, Development, Innovation
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Up 1.4.5 Release Notes
+
+Transaction tagging, contact icons, new card ordering.
+
+Up
+
+Jun 06, 2019
+
+Up 1.4.4 Release Notes
+
+New statements, new loaders, new emoji and skin tone support.
+
+Up
+
+May 22, 2019
+Keep reading
+
+More from the makers of Up.

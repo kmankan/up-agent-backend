@@ -1,0 +1,89 @@
+Section H: Automatic payments
+
+Current and historical versions of the Section H: Automatic payments section of the Up Personal Accounts Terms & Conditions.
+
+Publication date:
+
+Thursday, 9 November 2023
+Friday, 31 May 2019
+Published Thursday, 9 November 2023
+
+This section applies if you arrange for automatic payments to be made out of your account. Automatic payments are not available on all accounts. The Key Features Table indicates the accounts for which they are available.
+
+Types of automatic payments
+
+53.1. If you give us authority, we can have regular payments made automatically out of your account on pre-set dates, advised by you. This type of payment is called a "direct debit". A direct debit is when a company, organisation or fund, sends direct debits to your account according to an authority which you need to set up through the company, organisation or fund receiving the money, allowing us to make these payments.
+
+54. Arranging an automatic payment
+
+54.1. The biller will supply you with a Direct Debit Request Service Agreement for you to complete and sign to provide them with this authority.
+
+54.2. You must give us the information we require to enable us to make an automatic payment. This information may include the BSB and account numbers, and account name of the accounts from and to which payments are to be made. You must check that all information you give to us is correct (including, but not limited to, the BSB and the account number). We do not check, and are not responsible for checking, that any information you give to us is correct, including whether the BSB and account numbers correspond to the account name which you advise us. You are liable for any payment we carry out in accordance with your instructions.
+
+55. Timing of the automatic payment
+
+55.1. The details regarding timing of the payment will be outlined in the Direct Debit Request Service Agreement your biller has supplied to you.
+
+55.2. You must ensure that you have sufficient cleared funds available in your account from which a payment will be made, to enable that payment to be made. If the payment date falls on a day other than a business day, those funds must be available by 10am (AEST/AEDT) on the previous day.
+
+55.3. If you have insufficient funds in your account, any direct debits may be returned unpaid (dishonoured) to the originating third party.
+
+55.4. A fee may be debited to your account in these circumstances. Current fees and charges are set out in this document.
+
+55.5. If you have insufficient funds in your account on three consecutive payment due dates, the authority will be cancelled and you will be notified via the Up app.
+
+55.6. Subject to these conditions, when you instruct us to make a payment to an account held with another financial institution, we will endeavour to make that payment to the BSB and account number you advise us. If you give us instructions to make a payment on a business day after 10am (AEST/AEDT) on that business day, we may process that payment the following business day.
+
+56. Liability
+
+56.1. To the extent permitted by law and subject to any other provisions of these terms and conditions, we are not liable for any loss or damage you suffer as a result of using the automatic payment facility or any delay, omission or failure in respect of any payment. Without limitation, this includes, if you request us to make a payment to an account held with another financial institution:
+
+any delay or failure to make a payment which results in a technical failure in the system we use to make a payment from your account with us to another financial institution; and
+any omission, delay or failure on the part of the other financial institution in processing that payment.
+
+We do not exclude any liability to you for loss or damage to you arising directly from the fraud, negligence or wilful misconduct of us, our employees or agents or a receiver appointed by us.
+
+56.2. If we debit or credit your account under an automatic payment arrangement we are not acting as your agent or the agent of another person. We are not liable for any loss or damage to you from us not acting as you require.
+
+57. Migrating a direct debit arrangement to PayTo
+
+If you have authorised a merchant or other third party to debit your account as a direct debit arrangement and the merchant or third party migrates the direct debit arrangement to PayTo, the direct debit arrangement will cease to be a direct debit arrangement and will instead be treated as a PayTo Payment Agreement (see Section J (PayTo) for more information about PayTo and Migrated DDRs).
+
+Published Friday, 31 May 2019
+
+This section applies if you arrange for automatic payments to be made out of your account. Automatic payments are not available on all accounts. The Key Features Table indicates the accounts for which they are available.
+
+Types of automatic payments
+
+53.1. If you give us authority, we can have regular payments made automatically out of your account on pre-set dates, advised by you. This type of payment is called a "direct debit". A direct debit is when a company, organisation or fund, sends direct debits to your account according to an authority which you need to set up through the company, organisation or fund receiving the money, allowing us to make these payments.
+
+54. Arranging an automatic payment
+
+54.1. The biller will supply you with a Direct Debit Request Service Agreement for you to complete and sign to provide them with this authority.
+
+54.2. You must give us the information we require to enable us to make an automatic payment. This information may include the BSB and account numbers, and account name of the accounts from and to which payments are to be made. You must check that all information you give to us is correct (including, but not limited to, the BSB and the account number). We do not check, and are not responsible for checking, that any information you give to us is correct, including whether the BSB and account numbers correspond to the account name which you advise us. You are liable for any payment we carry out in accordance with your instructions.
+
+55. Timing of the automatic payment
+
+55.1. The details regarding timing of the payment will be outlined in the Direct Debit Request Service Agreement your biller has supplied to you.
+
+55.2. You must ensure that you have sufficient cleared funds available in your account from which a payment will be made, to enable that payment to be made. If the payment date falls on a day other than a business day, those funds must be available by 10am (AEST/AEDT) on the previous day.
+
+55.3. If you have insufficient funds in your account, any direct debits may be returned unpaid (dishonoured) to the originating third party.
+
+55.4. A fee may be debited to your account in these circumstances. Current fees and charges are set out in this document.
+
+55.5. If you have insufficient funds in your account on three consecutive payment due dates, the authority will be cancelled and you will be notified via the Up app.
+
+55.6. Subject to these conditions, when you instruct us to make a payment to an account held with another financial institution, we will endeavour to make that payment to the BSB and account number you advise us. If you give us instructions to make a payment on a business day after 10am (AEST/AEDT) on that business day, we may process that payment the following business day.
+
+56. Liability
+
+56.1. To the extent permitted by law and subject to any other provisions of these terms and conditions, we are not liable for any loss or damage you suffer as a result of using the automatic payment facility or any delay, omission or failure in respect of any payment. Without limitation, this includes, if you request us to make a payment to an account held with another financial institution:
+
+any delay or failure to make a payment which results in a technical failure in the system we use to make a payment from your account with us to another financial institution; and
+any omission, delay or failure on the part of the other financial institution in processing that payment.
+
+56.2. If we debit or credit your account under an automatic payment arrangement we are not acting as your agent or the agent of another person. We are not liable for any loss or damage to you from us not acting as you require.
+
+Prior to June 2019, our Product Terms were available in PDF form.

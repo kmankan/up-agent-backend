@@ -1,0 +1,341 @@
+Section J: PayTo
+
+Current and historical versions of the Section J: PayTo section of the Up Personal Accounts Terms & Conditions.
+
+Publication date:
+
+Friday, 10 November 2023
+Thursday, 9 November 2023
+Published Friday, 10 November 2023
+
+69. This ‘PayTo’ section applies in relation to your use or attempted use of PayTo and any Payment Agreement that is created for an account, and related PayTo Payments, if PayTo is available for your account. The Key Features Tables indicate the accounts for which PayTo is available.
+
+PayTo allows payers to approve Payment Agreements with Merchants or Payment Initiators who offer PayTo as a payment option.
+
+70. PayTo definitions
+
+In this section and clause 68 (PayIDs), the following definitions apply:
+
+Defined term	Definitions
+Migrated DDR	A Payment Agreement created by a Merchant or Payment Initiator to process payments under an existing direct debit arrangement as PayTo Payments instead of through the direct debit system – see the ‘Migration of Direct Debit arrangements’ clause below.
+Mandate Management Service (MMS)	The Mandate Management Service being a central, secure database of Payment Agreements operated by NPP Australia Limited.
+Merchant	A merchant with which you have, or would like to have, a Payment Agreement.
+NPP	The New Payments Platform operated by or on behalf of NPP Australia Limited.
+NPP Payment	A payment cleared and settled via the NPP.
+PayTo Agreement or Payment Agreement	An agreement created by an approved Merchant or Payment Initiator in the Mandate Management Service by which you authorise us to make payments from your account or a Migrated DDR.
+Payment Initiator	An approved payment service provider who, whether acting on behalf of you or a Merchant, is authorised by you to initiate payments from your account.
+PayTo	The NPP functionality which enables us to process NPP Payments from your account in accordance with and on the terms set out in a Payment Agreement.
+PayTo Payment	An NPP Payment we make pursuant to a Payment Agreement.
+71. Creating a Payment Agreement
+
+You can set up a Payment Agreement with a Merchant or Payment Initiator that offers PayTo as a payment option by providing the Merchant or Payment Initiator with a PayID you have created for your account (see clause 68 ‘PayID’ above) or the BSB and account number for your account. You are responsible for ensuring that the PayID or BSB and account number you provide for the purpose of establishing a Payment Agreement are correct. Any personal information or data you provide to the Merchant or Payment Initiator will be subject to the privacy policy and terms and conditions of the relevant Merchant or Payment Initiator.
+
+If you agree to setup a Payment Agreement with a Merchant or Payment Initiator, they will create the Payment Agreement in the Mandate Management Service through their financial institution or payments processor and we will be notified.
+
+After we receive notification that a Payment Agreement has been created for your account, we will notify you with the details of the Payment Agreement and ask you to confirm your approval of the Payment Agreement. You may approve or decline any Payment Agreement in your discretion and we will record whether you approved or declined the Payment Agreement in the Mandate Management Service.
+
+If a Payment Agreement required your confirmation within a timeframe stipulated by the Merchant or Payment Initiator, and you do not provide confirmation within that timeframe, the Payment Agreement may be withdrawn by the Merchant or Payment Initiator.
+
+If you tell us that you approve a Payment Agreement it will be active once we record your approval in the Mandate Management Service. Payment requests may be made by a Merchant or Payment Initiator immediately after you have approved a Payment Agreement so do not approve a Payment Agreement unless you are sure all the details are correct.
+
+If you think the payment amount, frequency or any other detail presented in a Payment Agreement is incorrect, you should decline the Payment Agreement and contact the relevant Merchant or Payment Initiator to have them resubmit a new Payment Agreement with the correct details.
+
+71.1 By approving a Payment Agreement, you:
+
+authorise us to collect, use and store your name and account details and other details about you and the Payment Agreement from and in the Mandate Management Service; and
+
+acknowledge that these details may be disclosed to NPP Australia Limited (who operates the Mandate Management Service) and the financial institution or payment processor for the Merchant or Payment Initiator for the purposes of creating payment instructions and constructing NPP Payment messages, enabling us to make PayTo Payments from your account and for related purposes; and
+
+consent to us, other financial institutions and payment processors, NPP Australia Limited, Merchants and Payment Initiators using and disclosing such of your personal information as is contained in a Payment Agreement record in the Mandate Management Service as contemplated by the NPP regulations and procedures.
+
+72. Payments
+
+By authorising a Payment Agreement you instruct us to make PayTo Payments from your account in accordance with the Payment Agreement each time a PayTo Payment is requested by the Merchant or Payment Initiator who is a party to the Payment Agreement or their financial institution or payment processor.
+
+It is your responsibility to ensure you have sufficient funds in your account to process each PayTo Payment. We are not required to make a PayTo Payment if there are insufficient cleared funds in your account at the time the PayTo Payment is requested.
+
+72.1 Amending a Payment Agreement
+
+We are not able to amend any other terms of the Payment Agreement including the details of the Merchant or Payment Initiator.
+
+A Payment Agreement can be amended from time to time by the Merchant or Payment Initiator. If a Merchant or Payment Initiator seeks to amend a Payment Agreement, we will notify you of the amendment and request that you approve or decline the amendment. We will record whether you approved or declined the Payment Agreement amendment request in the Mandate Management Service.
+
+If you think the payment amount, frequency or any other detail presented in a Payment Agreement amendment request we provide to you for approval is incorrect, you should decline the amendment request and contact the relevant Merchant or Payment Initiator to have them resubmit a new amendment request with the correct details. We cannot change the details in an amendment request.
+
+If you do not respond to a Payment Agreement amendment request within 5 calendar days it will expire and it will be treated as being declined by you.
+
+We will record whether you approve or decline a Payment Agreement amendment request in the Mandate Management Service.
+
+If you approve a Payment Agreement amendment request, the amendment will be effective once we record your approval in the Mandate Management Service.
+
+If you decline a Payment Agreement amendment request, the Payment Agreement will not be affected by the amendment request and will continue as if the amendment request had not been submitted.
+
+72.2 Pausing or resuming a Payment Agreement
+
+You can pause a Payment Agreement, or resume a paused Payment Agreement, in the Up app or by contacting us. We will promptly act on your instruction to pause or resume a Payment Agreement by updating the Mandate Management Service. The Merchant or Payment Initiator who is a party to the Payment Agreement will be notified each time you pause or resume a Payment Agreement.
+
+A Payment Agreement may also be paused or resumed by the relevant Merchant or Payment Initiator. We will notify you each time a Payment Agreement is paused or resumed by the Merchant or Payment Initiator.
+
+We may also pause any Payment Agreement that has been setup using a PayID if the PayID is locked or closed. If we do, we will resume the Payment Agreement once the PayID is unlocked or we obtain instructions from you that otherwise enables the Payment Agreement to be resumed (unless the Payment Agreement has since been cancelled). We will notify you if we pause or resume a Payment Agreement and the Merchant or Payment Initiator associated with the Payment Agreement will also be notified each time we pause or resume a Payment Agreement.
+
+While a Payment Agreement is paused, we will not process any PayTo Payment requests we receive pursuant to the Payment Agreement. PayTo Payments will resume once a paused Payment Agreement is resumed.
+
+Warning! Although pausing a Payment Agreement will stop related PayTo Payments being made from your account, doing so may breach the terms of your agreement with the relevant Merchant or Payment Initiator or you may be required to make payment in some other way. We suggest that you ensure you understand the consequences of pausing a Payment Agreement before you do so and, if necessary, contact the relevant Merchant or Payment Initiator.
+
+We will not be liable to you or any other person for any loss that you or any other person suffers as a result of a Payment Agreement being paused by you or the Merchant or Payment Initiator.
+
+72.3 Transferring a Payment Agreement
+
+It is not currently possible to transfer a Payment Agreement between accounts with us or another financial institution. If you want to change a Payment Agreement, including to change it from one account to another, you will need to contact the Merchant or Payment Initiator through whom the Payment Agreement was set up.
+
+72.4 Cancelling a Payment Agreement
+
+You can cancel a Payment Agreement at any time in the Up app or by contacting us. We will promptly act on your instruction to cancel a Payment Agreement by updating the Mandate Management Service. The Merchant or Payment Initiator associated with your Payment Agreement will then be notified that you have cancelled the Payment Agreement.
+
+A Payment Agreement may also be cancelled by the relevant Merchant or Payment Initiator. We will notify you if a Payment Agreement is cancelled by the Merchant or Payment Initiator.
+
+We may also cancel any Payment Agreement that has been setup using a PayID if the PayID is closed, unless we agree otherwise with you. We will notify you if we cancel a Payment Agreement and the Merchant or Payment Initiator associated with the Payment Agreement will also be notified that the Payment Agreement has been cancelled.
+
+We will not process any PayTo Payment requests we receive from the Merchant or Payment Initiator pursuant to a Payment Agreement after it has been cancelled.
+
+Warning! Although cancelling a Payment Agreement will stop related PayTo Payments being made from your account, doing so may breach the terms of your agreement with the relevant Merchant or Payment Initiator or you may be required to make payment in some other way. We suggest that you ensure you understand the consequences of cancelling a Payment Agreement before you do so and, if necessary, contact the relevant Merchant or Payment Initiator.
+
+We will not be liable to you or any other person for any loss that you or any other person suffers as a result of a Payment Agreement being cancelled by you or the Merchant or Payment Initiator.
+
+72.5 Migration of Direct Debit arrangements
+
+If you have an existing direct debit arrangement with a Merchant or a Payment Initiator, the Merchant or Payment Initiator may choose to create a Payment Agreement for the direct debit arrangement to process payments as PayTo Payments instead of through the direct debit system.
+
+If a Merchant or a Payment Initiator does this, you will receive notice from them that your future payments will be migrated to PayTo and you will then have the option of telling the Merchant or Payment Initiator that you do not consent.
+
+If you do not advise the Merchant or Payment Initiator that you do not consent to your direct debit arrangement being migrated to PayTo, the Merchant or Payment Initiator may create a Payment Agreement in the Mandate Management Service that reflects the terms of your direct debit service agreement and the Payment Agreement will be deemed to have been approved by you. We will not seek your approval of a Payment Agreement that relates to a migrated direct debit arrangement.
+
+Once the Payment Agreement has been created by the Merchant or Payment Initiator, you and the Merchant or Payment Initiator will be able to amend, pause and resume and cancel a Payment Agreement that has been established to migrate a direct debit arrangement, and you will be able to transfer the Payment Agreement, in the same way as any other Payment Agreement as set out above.
+
+By permitting the creation of a Payment Agreement for a direct debit arrangement (by not contacting the Merchant or Payment Initiator and telling them that you do not consent), you:
+
+authorise us to collect, use and store your name and account details and other details about you and the Payment Agreement from and in the Mandate Management Service;
+
+acknowledge that these details may be disclosed to NPP Australia (who operates the Mandate Management Service) and the financial institution or payment processor for the Merchant or Payment Initiator for the purposes of creating payment instructions and constructing NPP Payment messages, enabling us to make PayTo payments from your account and for related purposes; and
+
+consent to us, other financial institutions and payment processors, NPP Australia Limited, Merchants and Payment Initiators using and disclosing such of your personal information as is contained in a Payment Agreement record in the Mandate Management Service as contemplated by the NPP regulations and procedures.
+
+73. General PayTo obligations
+
+We will accurately reflect all information you provide to us in connection with a Payment Agreement in the Mandate Management Service.
+
+You must:
+
+ensure that all information and data you provide to us or to any Merchant or Payment Initiator that is authorised to use PayTo is accurate and up-to-date;
+
+not use PayTo to send threatening, harassing or offensive messages to a Merchant, Payment Initiator or any other person;
+
+where we allow you to provide a payment description or reference in connection with a Payment Agreement you must ensure that it does not contain, refer to or link to:
+
+any swearing, profanity or offensive, discriminatory, threatening or abusive content;
+any information that is confidential or must be kept secret;
+sensitive personal information of any person (including information or an opinion about a person’s racial or ethnic origin, political opinions or membership of a political association, philosophical beliefs, membership of a professional or trade association, membership of a trade union, sexual orientation or practices, criminal record and health information);
+anything which infringes the intellectual property rights of any person; or
+anything which is illegal or seeks to promote illegal activity;
+
+comply with all applicable laws in connection with your use of PayTo;
+
+promptly consider, action and respond to any Payment Agreement creation request, amendment request or other notification we send you (if you use the Bendigo Bank app, we recommend that you allow notifications from it on your device to ensure that you promptly receive and are able to respond to such requests and notifications in a timely way);
+
+immediately notify us if you no longer hold or have authority to operate the account from which payments under a Payment Agreement you have approved or permitted to be created are being or are to be made;
+
+promptly notify us if you receive a Payment Agreement creation request or amendment request or become aware of PayTo Payments being processed from your account that you are not expecting, or experience any other activities that appear suspicious or erroneous;
+
+promptly notify us if you become aware of a PayTo Payment being made from your account that is not permitted under the terms of your Payment Agreement or that was not authorised by you; and
+
+comply with any direction we give you where doing so is necessary for us to comply with our obligations relating to PayTo including under the NPP regulations and procedures.
+
+You are responsible for complying with the terms of any agreement that you have with the Merchant or Payment Initiator who is a party to a Payment Agreement (including any payment and notice giving obligations or termination requirements) and for dealing with the Merchant or Payment Initiator in relation to any concerns or complaints you have in relation to any goods or services relating to the Payment Agreement.
+
+From time to time, we may request that you confirm that one or more of your Payment Agreements are accurate and up-to-date. You must promptly action and respond to any such request. If you fail to do so, we may pause the relevant Payment Agreement(s).
+
+We may monitor your Payment Agreements for misuse, fraud and security reasons. You acknowledge and consent to us pausing or cancelling all or some of your Payment Agreements if we reasonably suspect misuse, fraud or security issues. We will promptly notify you if we pause or cancel a Payment Agreement for these purposes but only if we are legally permitted to do so. You must promptly respond to any notification that you receive from us regarding the pausing or cancellation of a Payment Agreement for misuse, fraud or for any other reason.
+
+If you notify us of a PayTo Payment being made from your account that is not permitted under the terms of your Payment Agreement or that was not authorised by you and submit a claim, we will respond to your claim within 10 business days and, if the claim is founded, we will refund the PayTo Payment to your account.
+
+74. Liability for PayTo
+
+To the maximum extent permitted by law, we will not be liable to you or any other person for any loss suffered as a result of:
+
+processing payments under a Payment Agreement which you have approved or are deemed to have approved;
+
+you failing to properly consider or promptly respond to any Payment Agreement creation request or amendment request we send you;
+
+you or a Merchant or Payment Initiator pausing, resuming or cancelling a Payment Agreement; or
+
+any delay or failure in respect of a Payment Agreement or a PayTo Payment being processed due to the unavailability or failure of the Mandate Management Service,
+
+except to the extent such loss is caused by us failing to comply with our obligations relating to PayTo under these Terms and Conditions.
+
+Published Thursday, 9 November 2023
+
+69. This ‘PayTo’ section applies in relation to your use or attempted use of PayTo and any Payment Agreement that is created for an account, and related PayTo Payments, if PayTo is available for your account. The Key Features Tables indicate the accounts for which PayTo is available.
+
+PayTo allows payers to approve Payment Agreements with Merchants or Payment Initiators who offer PayTo as a payment option.
+
+70. PayTo definitions
+
+In this section and clause 68 (PayIDs), the following definitions apply:
+
+Defined term	Definitions
+Migrated DDR	A Payment Agreement created by a Merchant or Payment Initiator to process payments under an existing direct debit arrangement as PayTo Payments instead of through the direct debit system – see the ‘Migration of Direct Debit arrangements’ clause below.
+Mandate Management Service (MMS)	The Mandate Management Service being a central, secure database of Payment Agreements operated by NPP Australia Limited.
+Merchant	A merchant with which you have, or would like to have, a Payment Agreement.
+NPP	The New Payments Platform operated by or on behalf of NPP Australia Limited.
+NPP Payment	A payment cleared and settled via the NPP.
+PayTo Agreement or Payment Agreement	An agreement created by an approved Merchant or Payment Initiator in the Mandate Management Service by which you authorise us to make payments from your account or a Migrated DDR.
+Payment Initiator	An approved payment service provider who, whether acting on behalf of you or a Merchant, is authorised by you to initiate payments from your account.
+PayTo	The NPP functionality which enables us to process NPP Payments from your account in accordance with and on the terms set out in a Payment Agreement.
+PayTo Payment	An NPP Payment we make pursuant to a Payment Agreement.
+71. Creating a Payment Agreement
+
+You can set up a Payment Agreement with a Merchant or Payment Initiator that offers PayTo as a payment option by providing the Merchant or Payment Initiator with a PayID you have created for your account (see clause 68 ‘PayID’ above) or the BSB and account number for your account. You are responsible for ensuring that the PayID or BSB and account number you provide for the purpose of establishing a Payment Agreement are correct. Any personal information or data you provide to the Merchant or Payment Initiator will be subject to the privacy policy and terms and conditions of the relevant Merchant or Payment Initiator.
+
+If you agree to setup a Payment Agreement with a Merchant or Payment Initiator, they will create the Payment Agreement in the Mandate Management Service through their financial institution or payments processor and we will be notified.
+
+After we receive notification that a Payment Agreement has been created for your account, we will notify you with the details of the Payment Agreement and ask you to confirm your approval of the Payment Agreement. You may approve or decline any Payment Agreement in your discretion and we will record whether you approved or declined the Payment Agreement in the Mandate Management Service.
+
+If a Payment Agreement required your confirmation within a timeframe stipulated by the Merchant or Payment Initiator, and you do not provide confirmation within that timeframe, the Payment Agreement may be withdrawn by the Merchant or Payment Initiator.
+
+If you tell us that you approve a Payment Agreement it will be active once we record your approval in the Mandate Management Service. Payment requests may be made by a Merchant or Payment Initiator immediately after you have approved a Payment Agreement so do not approve a Payment Agreement unless you are sure all the details are correct.
+
+If you think the payment amount, frequency or any other detail presented in a Payment Agreement is incorrect, you should decline the Payment Agreement and contact the relevant Merchant or Payment Initiator to have them resubmit a new Payment Agreement with the correct details.
+
+71.1 By approving a Payment Agreement, you:
+
+authorise us to collect, use and store your name and account details and other details about you and the Payment Agreement from and in the Mandate Management Service; and
+
+acknowledge that these details may be disclosed to NPP Australia Limited (who operates the Mandate Management Service) and the financial institution or payment processor for the Merchant or Payment Initiator for the purposes of creating payment instructions and constructing NPP Payment messages, enabling us to make PayTo Payments from your account and for related purposes; and
+
+consent to us, other financial institutions and payment processors, NPP Australia Limited, Merchants and Payment Initiators using and disclosing such of your personal information as is contained in a Payment Agreement record in the Mandate Management Service as contemplated by the NPP regulations and procedures.
+
+72. Payments
+
+By authorising a Payment Agreement you instruct us to make PayTo Payments from your account in accordance with the Payment Agreement each time a PayTo Payment is requested by the Merchant or Payment Initiator who is a party to the Payment Agreement or their financial institution or payment processor.
+
+It is your responsibility to ensure you have sufficient funds in your account to process each PayTo Payment. We are not required to make a PayTo Payment if there are insufficient cleared funds in your account at the time the PayTo Payment is requested.
+
+72.1 Amending a Payment Agreement
+
+We are not able to amend any other terms of the Payment Agreement including the details of the Merchant or Payment Initiator.
+
+A Payment Agreement can be amended from time to time by the Merchant or Payment Initiator. If a Merchant or Payment Initiator seeks to amend a Payment Agreement, we will notify you of the amendment and request that you approve or decline the amendment. We will record whether you approved or declined the Payment Agreement amendment request in the Mandate Management Service.
+
+If you think the payment amount, frequency or any other detail presented in a Payment Agreement amendment request we provide to you for approval is incorrect, you should decline the amendment request and contact the relevant Merchant or Payment Initiator to have them resubmit a new amendment request with the correct details. We cannot change the details in an amendment request.
+
+If you do not respond to a Payment Agreement amendment request within 5 calendar days it will expire and it will be treated as being declined by you.
+
+We will record whether you approve or decline a Payment Agreement amendment request in the Mandate Management Service.
+
+If you approve a Payment Agreement amendment request, the amendment will be effective once we record your approval in the Mandate Management Service.
+
+If you decline a Payment Agreement amendment request, the Payment Agreement will not be affected by the amendment request and will continue as if the amendment request had not been submitted.
+
+72.2 Pausing or resuming a Payment Agreement
+
+You can pause a Payment Agreement, or resume a paused Payment Agreement, in Bendigo e-banking or by contacting us. We will promptly act on your instruction to pause or resume a Payment Agreement by updating the Mandate Management Service. The Merchant or Payment Initiator who is a party to the Payment Agreement will be notified each time you pause or resume a Payment Agreement.
+
+A Payment Agreement may also be paused or resumed by the relevant Merchant or Payment Initiator. We will notify you each time a Payment Agreement is paused or resumed by the Merchant or Payment Initiator.
+
+We may also pause any Payment Agreement that has been setup using a PayID if the PayID is locked or closed. If we do, we will resume the Payment Agreement once the PayID is unlocked or we obtain instructions from you that otherwise enables the Payment Agreement to be resumed (unless the Payment Agreement has since been cancelled). We will notify you if we pause or resume a Payment Agreement and the Merchant or Payment Initiator associated with the Payment Agreement will also be notified each time we pause or resume a Payment Agreement.
+
+While a Payment Agreement is paused, we will not process any PayTo Payment requests we receive pursuant to the Payment Agreement. PayTo Payments will resume once a paused Payment Agreement is resumed.
+
+Warning! Although pausing a Payment Agreement will stop related PayTo Payments being made from your account, doing so may breach the terms of your agreement with the relevant Merchant or Payment Initiator or you may be required to make payment in some other way. We suggest that you ensure you understand the consequences of pausing a Payment Agreement before you do so and, if necessary, contact the relevant Merchant or Payment Initiator.
+
+We will not be liable to you or any other person for any loss that you or any other person suffers as a result of a Payment Agreement being paused by you or the Merchant or Payment Initiator.
+
+72.3 Transferring a Payment Agreement
+
+It is not currently possible to transfer a Payment Agreement between accounts with us or another financial institution. If you want to change a Payment Agreement, including to change it from one account to another, you will need to contact the Merchant or Payment Initiator through whom the Payment Agreement was set up.
+
+72.4 Cancelling a Payment Agreement
+
+You can cancel a Payment Agreement at any time in Bendigo e-banking or by contacting us. We will promptly act on your instruction to cancel a Payment Agreement by updating the Mandate Management Service. The Merchant or Payment Initiator associated with your Payment Agreement will then be notified that you have cancelled the Payment Agreement.
+
+A Payment Agreement may also be cancelled by the relevant Merchant or Payment Initiator. We will notify you if a Payment Agreement is cancelled by the Merchant or Payment Initiator.
+
+We may also cancel any Payment Agreement that has been setup using a PayID if the PayID is closed, unless we agree otherwise with you. We will notify you if we cancel a Payment Agreement and the Merchant or Payment Initiator associated with the Payment Agreement will also be notified that the Payment Agreement has been cancelled.
+
+We will not process any PayTo Payment requests we receive from the Merchant or Payment Initiator pursuant to a Payment Agreement after it has been cancelled.
+
+Warning! Although cancelling a Payment Agreement will stop related PayTo Payments being made from your account, doing so may breach the terms of your agreement with the relevant Merchant or Payment Initiator or you may be required to make payment in some other way. We suggest that you ensure you understand the consequences of cancelling a Payment Agreement before you do so and, if necessary, contact the relevant Merchant or Payment Initiator.
+
+We will not be liable to you or any other person for any loss that you or any other person suffers as a result of a Payment Agreement being cancelled by you or the Merchant or Payment Initiator.
+
+72.5 Migration of Direct Debit arrangements
+
+If you have an existing direct debit arrangement with a Merchant or a Payment Initiator, the Merchant or Payment Initiator may choose to create a Payment Agreement for the direct debit arrangement to process payments as PayTo Payments instead of through the direct debit system.
+
+If a Merchant or a Payment Initiator does this, you will receive notice from them that your future payments will be migrated to PayTo and you will then have the option of telling the Merchant or Payment Initiator that you do not consent.
+
+If you do not advise the Merchant or Payment Initiator that you do not consent to your direct debit arrangement being migrated to PayTo, the Merchant or Payment Initiator may create a Payment Agreement in the Mandate Management Service that reflects the terms of your direct debit service agreement and the Payment Agreement will be deemed to have been approved by you. We will not seek your approval of a Payment Agreement that relates to a migrated direct debit arrangement.
+
+Once the Payment Agreement has been created by the Merchant or Payment Initiator, you and the Merchant or Payment Initiator will be able to amend, pause and resume and cancel a Payment Agreement that has been established to migrate a direct debit arrangement, and you will be able to transfer the Payment Agreement, in the same way as any other Payment Agreement as set out above.
+
+By permitting the creation of a Payment Agreement for a direct debit arrangement (by not contacting the Merchant or Payment Initiator and telling them that you do not consent), you:
+
+authorise us to collect, use and store your name and account details and other details about you and the Payment Agreement from and in the Mandate Management Service;
+
+acknowledge that these details may be disclosed to NPP Australia (who operates the Mandate Management Service) and the financial institution or payment processor for the Merchant or Payment Initiator for the purposes of creating payment instructions and constructing NPP Payment messages, enabling us to make PayTo payments from your account and for related purposes; and
+
+consent to us, other financial institutions and payment processors, NPP Australia Limited, Merchants and Payment Initiators using and disclosing such of your personal information as is contained in a Payment Agreement record in the Mandate Management Service as contemplated by the NPP regulations and procedures.
+
+73. General PayTo obligations
+
+We will accurately reflect all information you provide to us in connection with a Payment Agreement in the Mandate Management Service.
+
+You must:
+
+ensure that all information and data you provide to us or to any Merchant or Payment Initiator that is authorised to use PayTo is accurate and up-to-date;
+
+not use PayTo to send threatening, harassing or offensive messages to a Merchant, Payment Initiator or any other person;
+
+where we allow you to provide a payment description or reference in connection with a Payment Agreement you must ensure that it does not contain, refer to or link to:
+
+any swearing, profanity or offensive, discriminatory, threatening or abusive content;
+any information that is confidential or must be kept secret;
+sensitive personal information of any person (including information or an opinion about a person’s racial or ethnic origin, political opinions or membership of a political association, philosophical beliefs, membership of a professional or trade association, membership of a trade union, sexual orientation or practices, criminal record and health information);
+anything which infringes the intellectual property rights of any person; or
+anything which is illegal or seeks to promote illegal activity;
+
+comply with all applicable laws in connection with your use of PayTo;
+
+promptly consider, action and respond to any Payment Agreement creation request, amendment request or other notification we send you (if you use the Bendigo Bank app, we recommend that you allow notifications from it on your device to ensure that you promptly receive and are able to respond to such requests and notifications in a timely way);
+
+immediately notify us if you no longer hold or have authority to operate the account from which payments under a Payment Agreement you have approved or permitted to be created are being or are to be made;
+
+promptly notify us if you receive a Payment Agreement creation request or amendment request or become aware of PayTo Payments being processed from your account that you are not expecting, or experience any other activities that appear suspicious or erroneous;
+
+promptly notify us if you become aware of a PayTo Payment being made from your account that is not permitted under the terms of your Payment Agreement or that was not authorised by you; and
+
+comply with any direction we give you where doing so is necessary for us to comply with our obligations relating to PayTo including under the NPP regulations and procedures.
+
+You are responsible for complying with the terms of any agreement that you have with the Merchant or Payment Initiator who is a party to a Payment Agreement (including any payment and notice giving obligations or termination requirements) and for dealing with the Merchant or Payment Initiator in relation to any concerns or complaints you have in relation to any goods or services relating to the Payment Agreement.
+
+From time to time, we may request that you confirm that one or more of your Payment Agreements are accurate and up-to-date. You must promptly action and respond to any such request. If you fail to do so, we may pause the relevant Payment Agreement(s).
+
+We may monitor your Payment Agreements for misuse, fraud and security reasons. You acknowledge and consent to us pausing or cancelling all or some of your Payment Agreements if we reasonably suspect misuse, fraud or security issues. We will promptly notify you if we pause or cancel a Payment Agreement for these purposes but only if we are legally permitted to do so. You must promptly respond to any notification that you receive from us regarding the pausing or cancellation of a Payment Agreement for misuse, fraud or for any other reason.
+
+If you notify us of a PayTo Payment being made from your account that is not permitted under the terms of your Payment Agreement or that was not authorised by you and submit a claim, we will respond to your claim within 10 business days and, if the claim is founded, we will refund the PayTo Payment to your account.
+
+74. Liability for PayTo
+
+To the maximum extent permitted by law, we will not be liable to you or any other person for any loss suffered as a result of:
+
+processing payments under a Payment Agreement which you have approved or are deemed to have approved;
+
+you failing to properly consider or promptly respond to any Payment Agreement creation request or amendment request we send you;
+
+you or a Merchant or Payment Initiator pausing, resuming or cancelling a Payment Agreement; or
+
+any delay or failure in respect of a Payment Agreement or a PayTo Payment being processed due to the unavailability or failure of the Mandate Management Service,
+
+except to the extent such loss is caused by us failing to comply with our obligations relating to PayTo under these Terms and Conditions.
+
+Prior to June 2019, our Product Terms were available in PDF form.

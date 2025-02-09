@@ -1,0 +1,96 @@
+The Future of Banking is Looking Up
+
+Building Up, Updates
+
+We're excited to announce that over 100,000 customers have joined Up since we launched just over 8 months ago in October 2018. This places Up in the company of the fastest growing digital banks in the world.
+
+That we have achieved this in Australia — a far smaller market than either Europe or the US — is a testament to the traction we’ve had in a competitive market and the latent desire for a genuine innovator in banking.
+
+Our lightning fast sign-up (averaging under 3 minutes), including instant provisioning of Apple Pay, has meant customers have been able to quickly try Up and see for themselves what the future of banking looks like.
+
+Who are our Upsiders
+
+Up is fast becoming the choice of younger Australians with particularly strong uptake amongst the Gen Z and Millennial generations. Given almost every Australian holds a bank account (or two) we expected the younger demographics to lead the way — having a simpler financial setup and perhaps a greater appetite to try something new.
+
+As you can see above, Gen Z and Millennials make up over 85% of Up customers with Gen X and older generations filling out the remainder. Our customers range in age from 16 at the youngest to 90 at the oldest.
+
+Spending Wisely
+
+One of our key areas of focus has been to better connect customers to their spending. We’ve been working to give customers the tools and insight to determine where their money goes. Some of our key innovations in this space include:
+
+Merchant ID
+
+We’ve developed a world-class platform for properly identifying the merchants customers spend with. No more ALL CAPS puzzles — Up can determine names, logos, locations and much more for tens of thousands of merchants in Australia and abroad. Our platform is improving every day, powered by a crowd-sourcing engine that leverages our customers knowledge to improve the system for all Upsiders. As of June 2019, Up recognises over 55,000 merchants which represents around 90% of retail spend.
+
+Upcoming charges
+
+While much attention is given to helping customers see where their money went, Up flips this on its head and predicts where customers’ money will go. Up can recognise repeating charges and then give customers the heads-up a couple days before they’re due to be charged. We’ve also partnered with Afterpay, the buy-now pay-later service popular with millions of Australians, to recognise Afterpay charges, showing the merchant and even items purchased. Up has recognised tens of thousands of repeating charges and helped customers keep on top of their future payments.
+
+We are currently predicting almost 10,000 upcoming charges for our customers, representing about $450,000 in value.
+
+Insights on tap
+
+Up delivers weekly spending summaries as well as providing an ongoing monthly summary of how much a customer has spent and how this compares to previous months. With a single tap, customers can view their spending by merchant or see a big-picture breakdown by category. We've developed a simple, understandable set of categories that has automatically categorised 2 million transactions representing $50 million dollars in spending.
+
+Saving Effortlessly
+
+We believe the path to financial independence starts with saving earlier and more often than many of us have so far managed. We saw far too many Australians in their late teens and early twenties putting off saving for another day.
+
+Up makes it incredibly easy to start saving with no account opening forms required. Here are a few of our proudest developments in this area:
+
+Round ups
+
+With a single tap, customers can enable all purchases and charges to be rounded up to the nearest dollar and instantly transferred into a nominated Saver. To date, customers have made more than 1.1 million round ups and saved over half a million dollars.
+
+A Saver for everything
+
+Customers can easily create dozens of Savers for any and all of their savings goals. Upsiders have created over 75,000 Savers and saved over $25 million. Pictured above are some of the most popular things customers are saving for.
+
+Making saving addictive
+
+In March this year we launched a significant technology uplift that enabled our native apps to stay current without the need for customers to refresh their apps. This meant we could repurpose the "pull-to-refresh" to become "pull-to-save", an addictive way to firstly shave off any cents from your balance and then move $1 per subsequent pull. Customers have pulled-to-save over 65,000 times so far!
+
+What’s next
+
+We’ve had an incredible response to The Tree of Up, our public roadmap. Amongst other things, it gives customers a guide to some of the features they can expect over the next 6-12 months.
+
+We’re working through a number of popular requests required to build out our everyday banking capability — future and repeating payments, as well as support for BPAY and joint accounts, to name just a few.
+
+We’re also deeply invested in innovating new features to help people focus more on living and less on banking, while improving their financial literacy and wellbeing.
+
+Hitting 100,000 customers has been a hugely rewarding experience. We’re more excited and energised than ever as we seek to continue delivering a new generation of financial capability to our fantastic and loyal customer base.
+
+Anson Parker
+
+Head of Product
+
+@anson
+
+Tags: Insights, Savers, Round Ups, Tree of Up, Roadmap
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Up Apple Watch App
+
+A tour of our new Up App for Apple Watch
+
+Marcus Crafter
+
+Jun 06, 2019
+
+Up 1.4.5 Release Notes
+
+Transaction tagging, contact icons, new card ordering.
+
+Up
+
+Jun 06, 2019
+Keep reading
+
+More from the makers of Up.

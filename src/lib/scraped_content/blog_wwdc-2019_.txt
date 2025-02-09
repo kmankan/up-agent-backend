@@ -1,0 +1,66 @@
+Up at WWDC 2019
+
+Building Up
+
+First week of June we had the pleasure of representing Up at Apple’s Worldwide Developer Conference in San Jose.
+
+Each year it's super exciting, with so many announcements from the headline Keynote & State of the Union talks, through to the framework specific sessions throughout the week. It's also a big week of networking and side events such as the ATP, Talk Show live podcast shows and of course the Bash.
+
+This year was no different, Apple did an amazing job and you could see they've been very busy over the last year. 👏
+
+The conference was held at the San Jose McEnery Convention Center, and after years of lining up for the keynote in the cold San Francisco mornings, the San Jose summer was a welcome change - most days above 30C! Win!
+
+Was great to meet many fellow Australian developers who arrived in town just before the conference started - many existing Up customers that had awesome feedback for us, feature requests or were keen to just chat all things Apple and tech.
+
+We also made a limited edition WWDC 2019 Up T-Shirt for the event which proved quite popular, running out of many sizes on the first day (let us know if you'd still like one as we have a few left over and perhaps there might be another sneaky special run 😀).
+
+From the announcements there's still lots to decompress and research - Monday's Keynote and State of the Union talks always feel like making a huge database index in your brain of things to look into over the coming week and beyond.
+
+3 announcements in particular stand out from the keynote:
+
+Dark mode, iOS definitely looks great in all dark themed colours after the adoption of macOS dark mode last year.
+
+Mac Pro and Pro Display XDR reveal, what a machine, looks beautiful and insanely powerful, the crowd was going wild during its introduction. It's certainly not a machine for everyone but Apple have certainly claimed the high ground for top end hardware if you need it, amazing.
+
+SwiftUI, just one slide during the keynote after the introduction of Catalyst, but dominated the sessions during the week and looks great for having a common language and UI paradigm across all of Apple's platforms. With many on the Up team having React experience the concepts of state driven re-renders, live previews and small reusable components resonates really well.
+
+There were so many other new features and enhancements to the Apple ecosystem such as iPadOS (great to see it getting its own seat alongside iOS), Sign in with Apple, parameterised/conversational Siri Shortcuts, standalone watchOS apps, Xcode and tooling updates (Catalyst, Swift Package manager, editor minimap, thermal and network link conditioner integration) and more.
+
+We're excited and looking forward to exploring and experimenting with all the new announcements and developer enhancements in the future.
+
+PS. For the coffee lovers, after Social Policy closed just a few months ago, Voltaire was the most popular & convenient, but for me Academic and Chromatic were the best, and a nice walk or scoot in the sun from the venue. Also noticed that Flat Whites were on the menu in most places! :)
+
+Marcus Crafter
+
+Engineer
+
+@crafterm
+
+Tags: WWDC, Apple, Technology, Development, Innovation
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+The Future of Banking is Looking Up
+
+We’re excited to announce that over 100,000 customers have joined Up since we launched just over 8 months ago in October 2018. This places Up in the company of the fastest growing digital banks in the world.
+
+Anson Parker
+
+Jun 12, 2019
+
+Up Apple Watch App
+
+A tour of our new Up App for Apple Watch
+
+Marcus Crafter
+
+Jun 06, 2019
+Keep reading
+
+More from the makers of Up.

@@ -1,0 +1,90 @@
+The Ethical Engineer
+
+How to Up, Upsider Stories
+
+Any advice provided on this website is of a general nature only and does not take into account your personal needs, objectives and financial circumstances. You should consider whether it is appropriate for your situation.
+
+Hi, my name is Matthew. I’m an engineer living in Melbourne with a real passion for tinkering with technology — data, automation, AI, you name it.
+
+During the endless lockdowns of 2020/21, I’ve been learning to bake sourdough and discovering how many different spots that I can work from in my apartment... for a bit of variety... and thinking about how to buy better quality things that will last longer compared to a cheaper option. It’s an attempt to buy less, spend less time shopping, and lighten my environmental and social impact a bit.
+
+E-ink displays are rad
+
+To make this a bit easier to track, I added a few savers in Up that are dedicated to saving towards buying better quality albeit more expensive things; furniture, tech, clothes, etc.
+
+When it came to choosing what I was saving towards, I could make decent choices about furniture and tech, but fashion was and continues to be a total blindspot for me. I wanted to avoid fast fashion, but I had absolutely no idea where to start.
+
+Coincidentally, I had also been on the hunt for something to build as a little side project that would teach me the basics of a programming language called ‘Go’. The Up API had been burning a hole in my pocket for too long so it was time to see what it could do! Let’s build something to help me learn how ethical my fashion choices are… somehow.
+
+Finding some decent data
+
+The search was on for some data about the ethics of fashion brands, or even just the retail stores themselves. A lot of brands do make the effort to use sustainable fabrics, ethical labour, emissions offsets, and so on. But there’s a lot of info out there, and you don’t always know if you’ve made the right choice.
+
+I could cross check every clothing purchase myself but that sounds like a lot of work… I really don’t want to have to do that. I want a computer to check for me.
+
+There's a few websites and apps out there that aggregate information about brands' efforts which was a great find. I wondered if I could use one of those websites or apps to check if a brand was ethical or not. If all of my purchases could be magically scrutinised by these websites, then I thought that I could bridge the gap between guesstimating a brand’s ethics and knowing that my purchase supports a decent or questionable business.
+
+In comes the Up API. I started pulling down my transaction data to see what info I could pull out of descriptions, merchant info, whatever I could get my hands on. I was able to get the names of some of the stores that I've purchased from in the past so I had a decent catalogue of brand names to use as test data. Now let’s see how those brands measure up!
+
+Two APIs Are Better Than One
+
+Getting access to my purchase history was the easy part. Now I had to determine how well I chose my clothes; ethical fashion excellence or fast fashion fail. I looked through different sources of fashion ethics data and nothing really fit what I needed until I hit a service called GoodOnYou. GoodOnYou have created an app and a website that allows you to check out the ethics of fashion brands, absolutely free!
+
+I worked out how to pull a little bit of a sneaky and check a brand name against their ethics API without having to go to the website and do it myself ... automation! Hook that up to the brands that I got from my Up transactions and hey presto, my past fashion purchases are judged before my very eyes!
+
+Taking a peek behind the covers of GoodOnYou (and good on them for making a great service)
+
+The verdict was good and bad, a bit of a mix between brands that are tight lipped about their ethics, and brands that go out of their way to tell you how they source ethically, engage in good labour practices, etc.
+
+Most importantly, now that I know about my past choices in fashion, I can make more informed choices in the future!
+
+Goodness, notifications!
+
+We won’t stop there though. I could easily forget to do this kind of analysis as time goes on. Sure, it’s automated, but it still relies on me pushing a button to pull down my transaction data and feed it into GoodOnYou.
+
+To take things a step further, I wanted to know the ethics of a brand as soon as I purchased something from them: near-instant feedback. Luckily, the Up API was already feature packed and ready to enable me! I took my script that compares the brand in a transaction against GoodOnYou and hooked it up to what’s called a webhook in the API.
+
+Now, every time that I buy something, it will be automatically fed into that script via the webhook and I can be notified of the ethics of my purchase within a minute of buying it! (And that’s enough time to cancel if I’ve made a big mistake).
+
+This is fantastic! I’m reminded that the store I just visited is ethical or questionable as soon as I buy something there. The only way that it could be better is if it knew what I’m going to buy before I buy it so that it can metaphorically slap my hand away from my credit card. Maybe one day.
+
+A satisfying project, the first of many
+
+All in all I made a pretty nifty toy, learned the basics of a new programming language, and had a bit of fun along the way. Tying together my shopping habits with ethical consumerism has been very satisfying and leaves me wondering what’s next for the Up API.
+
+I love reading about what other people have done with data, automation, any and all things tech-related. If you want to chat, ping me on Twitter @MULTI_GREY or - LinkedIn.
+
+How do you use Up?
+
+This post is part of an Up series, about all the ways people customise Up to fit their own personal money style. If you’ve got a story to tell, we’d love to hear it. Email anne@up.com.au.
+
+Matthew Grey
+
+Tags: API, Development, Fashion, Savers, Technology, Innovation
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Easy Money with Up and Wise
+
+Exploring the Wise-Up transfer experience and how easy it would have been for my semester exchange in Japan.
+
+Rukmal De Silva
+
+Oct 29, 2021
+
+Up 2.1.7 Release Notes
+
+Set fixed amounts when Pay Splitting
+
+Up
+
+Oct 12, 2021
+Keep reading
+
+More from the makers of Up.

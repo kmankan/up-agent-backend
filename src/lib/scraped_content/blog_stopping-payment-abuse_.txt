@@ -1,0 +1,157 @@
+Stopping Payment Abuse: How Up is Designing for Safety
+
+Building Up, How to Up, Staying Safe
+
+In July 2020, we got a message from a customer saying their ex-partner was sending abusive chat messages through Up. By August, we’d built new code to find payment abuse, and designed a new approach to stopping abuse on Up.
+
+We’re not finished yet, but our whole team is committed to helping keep Upsiders safe and secure. Here’s how we’re tackling it.
+
+In this blog:
+What is Payment Abuse?
+Designing a New Solution
+The New Rules: How Up Detects and Blocks Abuse
+How Up has Changed
+Up Tools You Can Use to Set Your Own Boundaries
+Getting Help in an Abusive Situation
+What is Payment Abuse? Is it Different to Financial Abuse?
+
+Up’s features make payments easy. But like so many good things, sometimes they’re misused. Payment abuse is the use of payment descriptions to send unwanted communication.
+
+For example: once an abuser has been blocked from physical contact with their victim, texting, or sending DMs on social, one of the last things they might try is to send messages attached to a small bank payment. A bit of money and some words, to ruin someone’s day.
+
+We've now supported a broad spectrum of customers through complex abusive situations, including, but not limited to payment abuse. People breaking up on bad terms, and people experiencing domestic violence, and/or financial abuse (when someone else controls you through money). People who just want some distance and peace after a bad break up. Maybe even mates who have fallen out over money owed.
+
+Here at Up we are all about safe spaces and respect. And while we don't have insight into people's relationships, we do have a commitment to help keep our customers safe.
+
+Our platform makes money and transactions more conversational, but good conversations go two ways. So we’ve put a lot of effort into the question of how to stop payment abuse from happening, and more widely, how best to protect Upsiders.
+
+Designing a New Solution
+
+First, we took a look at how other banks handle payment abuse. Some, for example, block ‘bad words’ before they’re sent; some boot people who use those words out of the service straight away.
+
+We had a hunch that any one-size-fits-all definition of abusive language wouldn’t work. We don't think it's our job to tell you you're not allowed to use swears; and in Australia at least, swearing is pretty poorly correlated with real intent to cause harm. Our research confirmed that just blocking any list of words or phrases would still leave many customers vulnerable to abuse, and we wanted to find a way to help as many Upsiders as possible.
+
+Next, we took a look at chats where we could be sure abuse was occurring; to see if we could find a different kind of pattern. And we found one. It wasn’t much to do with the actual words used: it was actually low value payments with no reply. That is, someone was sending out heaps of really small payments, and getting few or no transfers in return.
+
+When we reviewed the data across our entire customer base looking for those kinds of payments, we now had a much higher success rate for detecting payment abuse. So now that’s what we look for.
+
+The New Rules: How Up Deals with Abuse
+
+Of course, finding it is only part of the solution. So here’s what we now do when we detect suspected abuse, or when it’s reported to us:
+
+For the person receiving the abuse: we talk with them and try to offer the help they need from their bank in their particular situation. We offer support to stop the abuse in-app, and give them the option to remove any abuse received in the past from their activity feed. And of course, based on the customer’s individual experience, we refer them to appropriate support services such as 1800RESPECT, or Lifeline.
+
+For the person sending abuse: in the small number of cases where the abuser is, for example, threatening violence, we will ban them from Up and offer all the support we can to their victim - including working alongside police and other support services. More often, we send abusers a warning notification alerting them that inappropriate behaviour has been detected and that their account will be closed if they (1) don't respond and comply, or (2) send any additional abusive payments from the point the warning is received.
+
+They have a day to respond or their account is shut down in line with our T&Cs.
+
+We know what you’re asking. Why don't we close all abusers’ accounts immediately?
+
+The decision to not immediately close all of these accounts ASAP isn’t intuitive, but when we got deep into research and consultation with the organisations best equipped to advise, it ended up feeling right.
+
+When we're supporting Upsiders receiving abuse, they’re often worried and stressed about triggering their abuser. They may not want us to act, as long as we can help block the abuse. We're not going to turn a blind eye to abusive behaviour, but we also want to be part of a community where we're not making it someone else's problem.
+
+The act of closing someone’s account seemed not enough, and in some instances even amplifying. So our approach is to help protect the customers who are receiving abuse in a way that makes sense for them, warn and monitor the people who are sending the abuse to let them know it’s not ok, and help ensure it actually stops.
+
+How Up Has Changed
+
+Learning from Upsiders who experience abuse has helped us grow, and helped us design new tools that give all Upsiders useful controls over who contacts them and how. For example, when we first started this work, we were getting around 20 confirmed cases a month of payment abuse. Since shipping the feature that allows customers to directly block Up payments from their app, this number has significantly reduced.
+
+Having a solid system in place to support customers who are experiencing abuse has also had a huge impact on our team. A big part of this was building up our confidence and understanding of how we can support customers as their bank, with tooling like payment blocks, and when to refer customers to other support services like police, 1800 RESPECT, or the Government's eSafety website.
+
+And we’re still learning. We’re not going to sit back and call this done.
+
+Other Ways Up Helps Keeps You Safe
+
+We’ve updated our T&Cs and depending on each customer’s situation, Up now offers a range of different ways to set boundaries, get safe, and stay safe. Some of these are things you can use yourself if you need to. For others, you can get help by hitting ‘Talk To Us’ in the app.
+
+Mute payments
+
+Just say the word via Talk To Us - we can remove payment descriptions and the name of the payee from your transaction history and statements. You don’t have to see that in your history. (But we will retain the records in case you need them later).
+
+Block, Lock and Roll
+
+If you're receiving unwanted or unsolicited payment messages from someone via Up, you can stop them in their tracks with one swift block.
+
+To block an Upsider, head to their payment thread and tap the ‘more options’ ellipsis to find the 'Block Upsider’ option. This will stop them sending you any future Upsider payments and vice versa.
+
+If they've turned a corner and you're ready to open back up, you can unblock them the same way or head to the 'Blocked Upsiders' menu.
+
+Keep a low profile
+
+If you’d prefer not to be found, we respect that. Just sail on over to ‘Payment Settings’ under the Up tab. From there, you can turn off ‘allow contacts to see I'm on Up’ and become a super secret Upsider.
+
+Or, set course for Protected Mode: Upsiders will need both your Upname and your mobile number to find you and pay you.
+
+Get a New PayID
+
+You don’t have to get a whole new account with Up to escape someone who knows your old PayID. We can make a new one for you, to give you privacy and control.
+
+In severe cases, we can open a new account for you and close your old one.
+
+What's Next
+
+Next, we’re working on what we call, ‘safe account’.
+
+It doesn’t feel fair that someone who is already in a vulnerable position has to do more stressful admin to feel safe again. Losing all your transaction history and having to set up all of your direct debits again doesn’t feel right to us. So we're in the process of delivering a new feature to create a new BSB and Account number for Upsiders (basically a new account) and auto migrate all of their transaction history and direct debits.
+
+One Last Thing
+
+If you’re the victim of ongoing abuse, harassment or intimidation through payment messages, that’s not OK and supporting you is our team’s priority. In addition to making use of any of the linked services below that makes sense to you, please reach out via Talk to Us in your app. It’s staffed by people who care very deeply about your safety and they’ll get right on the case.
+
+Domestic & Family Violence
+1800RESPECT
+Aboriginal Family Domestic Violence Hotline - 1800 019 123
+Domestic Violence Resource Centre Victoria (DVRCV)
+LGBTIQ Domestic Violence Information
+MensLine Australia
+Orange Door
+QLife
+Safe Relationships Project
+Safe Steps Family Violence Response Centre
+White Ribbon Australia
+eSafety reporting adult cyber abuse
+Mental Health
+Beyond Blue
+Headspace
+Kids Helpline
+Lifeline
+Suicide Call Back Service
+Government & Legal Services
+Centrelink/Department of Human Services
+Community Legal Centre (CLC)
+Legal Aid
+Women's Legal Services Australia
+
+Nektarea Cameron-Smith
+
+Head of Customer Experience
+
+Tags: Payment Abuse, Innovation, Support, PayID
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Request money and say goodbye to OMT
+
+Don't let Owed Money Tension get you down. When the sacred bonds of mateship don’t get you your money back when you need it, you can now request money from your mates on Up.
+
+Up
+
+Feb 15, 2021
+
+Level Up for 2021
+
+A new year deserves a new challenge, so today we’re bringing you three levels of Up to tackle. From setting up your first shiny Saver, to building your very own custom tagging system.
+
+Up
+
+Jan 29, 2021
+Keep reading
+
+More from the makers of Up.

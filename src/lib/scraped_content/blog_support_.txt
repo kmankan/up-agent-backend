@@ -1,0 +1,14 @@
+Up Blog
+
+Keep up to date with in-depth content from the makers of Up.
+
+Support
+Back to Blog
+
+Stopping Payment Abuse: How Up is Designing for Safety
+
+In July 2020, we got a message from a customer saying their ex-partner was sending abusive chat messages through Up. By August, we’d built new code to find payment abuse, and designed a new approach to stopping abuse on Up.
+
+Nektarea Cameron-Smith
+
+Feb 26, 2021

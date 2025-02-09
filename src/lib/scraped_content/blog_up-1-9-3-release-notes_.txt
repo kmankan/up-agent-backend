@@ -1,0 +1,72 @@
+Up 1.9.3 Release Notes
+
+Updates
+
+Time for a little money magic 🔮💸
+
+Automate your way to a better day with Auto Transfers.
+
+Auto Transfers to Savers
+
+Shift your Savers into gear & automatically move money from your spend account to any one of your savers. Just let us know the frequency and the amount, we’ll take care of the heavy lifting.
+
+To start creating Auto Transfers to Savers just head on over to the Saver you would like to transfer to and tap on the Auto Transfer icon.
+
+Set the speed at which your Savers shall swell. You can set an Auto Transfer to deposit into a Saver every week, fortnight or month.
+
+We’ll remember even if you don’t; Auto Transfers to Savers will be added to your Upcoming screen for future planning.
+
+Auto Transfers From Savers
+
+Put that thing down flip it and reverse it. Turn Auto Transfers on it’s head and move money from your Savers to your spend account, you guessed it…Automatically.
+
+Set yourself an allowance so you don’t spend tomorrow money today.
+
+To create an Auto Transfer from a Saver to your Spend account simply navigate to the saver you’d like to transfer from and tap on the Auto Transfer Icon.
+
+Set your Auto Transfer to withdrawal and let us know how you like it.
+
+Pay yourself every week, fortnight, month or even daily!
+
+If your auto transfer should tumble due to lack of funds, we’ll flick you a notification and just turn it off. Auto Transfer again whenever you’re ready.
+
+Instant Samsung Pay
+
+Lace up those trainers and break out the sweat bands. Samsung customers can now hit the ground running with Instant Samsung Pay! Activate Samsung Pay before your physical card arrives. Satisfy the need for speed.
+
+Samsung Pay joins Apple and Google Pay in the Up instant provisioning club.
+
+Up
+
+Easy Money
+
+@up_banking
+
+Tags: Release Notes, Up 1.9.3, Saving, Samsung Pay, Payments
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+CSV: Custom Savings Viewer
+
+CSV export is (finally) here - and we've got a starting point for you to play with.
+
+David Buchan-Swanson
+
+Oct 31, 2019
+
+Pay Day
+
+Introducing Salary Identification and Split Payments. Pay day just got a whole lot better with Up.
+
+Mark Brown
+
+Oct 17, 2019
+Keep reading
+
+More from the makers of Up.

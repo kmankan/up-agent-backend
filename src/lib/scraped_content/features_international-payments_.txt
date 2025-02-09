@@ -1,0 +1,560 @@
+FEATURE: INTERNATIONAL PAYMENTS
+
+International Money Transfers
+with Wise.
+
+Get your money where it needs to be, hassle-free. Up has partnered with Wise to give you one of the fastest and cheapest ways to send money overseas.
+
+Easily move money directly from your Up account into your Wise account and from there into 48 different currencies.
+
+But Don’t Just Believe Us, Do A Comparison
+
+Old-school transfers go through several banks, and each of them adds a fee. You might be able to see what that fee is in advance… but then again, you might not. Sometimes the fee is even hidden in an 'exchange rate', which seems less than cool to us.
+
+Wise charges you the real exchange rate plus one small, transparent charge; there is no additional fee for using Wise through Up.
+
+International transfer comparison quote details
+
+Amount you want to send in Australian dollar’s
+
+YOU SEND in Australian dollar’s
+
+Select currency:
+
+AUD
+
+Amount your recipient will receive in British pound’s
+
+RECIPIENT GETS in British pound’s
+
+Select currency:
+
+GBP
+
+Popular currencies
+
+EUREuro
+
+GBPBritish pound
+
+INRIndian rupee
+
+NZDNew Zealand dollar
+
+USDUnited States dollar
+
+All currencies
+
+AEDUnited Arab Emirates dirham
+
+ARSArgentine peso
+
+BDTBangladeshi taka
+
+BGNBulgarian lev
+
+BRLBrazilian real
+
+CADCanadian dollar
+
+CHFSwiss franc
+
+CLPChilean peso
+
+CNYChinese yuan
+
+COPColombian peso
+
+CRCCosta Rican colón
+
+CZKCzech koruna
+
+DKKDanish krone
+
+EGPEgyptian pound
+
+GELGeorgian lari
+
+GHSGhanaian cedi
+
+GTQGuatemalan quetzal
+
+HKDHong Kong dollar
+
+HRKCroatian kuna
+
+HUFHungarian forint
+
+IDRIndonesian rupiah
+
+ILSIsraeli shekel
+
+JPYJapanese yen
+
+KESKenyan shilling
+
+KRWSouth Korean won
+
+LKRSri Lankan rupee
+
+MADMoroccan dirham
+
+MXNMexican peso
+
+MYRMalaysian ringgit
+
+NGNNigerian naira
+
+NOKNorwegian krone
+
+NPRNepalese rupee
+
+PHPPhilippine peso
+
+PKRPakistani rupee
+
+PLNPolish złoty
+
+RONRomanian leu
+
+RUBRussian rouble
+
+SEKSwedish krona
+
+SGDSingapore dollar
+
+THBThai baht
+
+TRYTurkish lira
+
+TZSTanzanian shilling
+
+UAHUkrainian hryvnia
+
+UGXUgandan shilling
+
+UYUUruguayan peso
+
+VNDVietnamese dong
+
+XOFWest African CFA franc
+
+ZARSouth African rand
+
+You could saveup to $38.47AUD
+
+When sending 250 AUD with Wise, your recipient would receive 123.91 GBP, with a transfer fee of 2.24 AUD, at an exchange rate of 0.500141.
+
+When sending 250 AUD with Instarem, your recipient would receive 123.68 GBP, with a transfer fee of 2.625 AUD, at an exchange rate of 0.4999590513.
+
+When sending 250 AUD with Remitly, your recipient would receive 123.65 GBP, with a transfer fee of 1.99 AUD, at an exchange rate of 0.4985807473.
+
+When sending 250 AUD with Western Union, your recipient would receive 122.65 GBP, with a transfer fee of 2.99 AUD, at an exchange rate of 0.4965193997.
+
+When sending 250 AUD with WorldRemit, your recipient would receive 122.07 GBP, with a transfer fee of 1.99 AUD, at an exchange rate of 0.4921855604.
+
+When sending 250 AUD with National Australia Bank, your recipient would receive 121.86 GBP, with a transfer fee of 0 AUD, at an exchange rate of 0.487423094.
+
+When sending 250 AUD with Commonwealth Bank of Australia, your recipient would receive 119.61 GBP, with a transfer fee of 0 AUD, at an exchange rate of 0.478454341.
+
+When sending 250 AUD with Moneygram, your recipient would receive 117.48 GBP, with a transfer fee of 2.99 AUD, at an exchange rate of 0.4755894103.
+
+When sending 250 AUD with PayPal, your recipient would receive 116.23 GBP, with a transfer fee of 5.99 AUD, at an exchange rate of 0.4763199051.
+
+When sending 250 AUD with ANZ, your recipient would receive 115.95 GBP, with a transfer fee of 9 AUD, at an exchange rate of 0.4811.
+
+When sending 250 AUD with OFX, your recipient would receive 115.73 GBP, with a transfer fee of 15 AUD, at an exchange rate of 0.4924808532.
+
+SENDING 250.00 AUD WITH	RECIPIENT GETStotal after fees	TRANSFER FEE	RATE
+
+	
+
+Sending
+
+250.00 AUD
+
+	
+
+Recipient gets
+
+123.91 GBP
+
+	
+
+Transfer fee
+
+2.24 AUD
+
+	
+
+Exchange rate
+
+0.50
+
+
+	
+
+Sending
+
+250 AUD
+
+	
+
+Recipient gets
+
+123.68 GBP
+
+	
+
+Transfer fee
+
+2.63 AUD
+
+	
+
+Exchange rate
+
+0.50
+
+
+	
+
+Sending
+
+250 AUD
+
+	
+
+Recipient gets
+
+123.65 GBP
+
+	
+
+Transfer fee
+
+1.99 AUD
+
+	
+
+Exchange rate
+
+0.50
+
+
+	
+
+Sending
+
+250 AUD
+
+	
+
+Recipient gets
+
+122.65 GBP
+
+	
+
+Transfer fee
+
+2.99 AUD
+
+	
+
+Exchange rate
+
+0.50
+
+
+	
+
+Sending
+
+250 AUD
+
+	
+
+Recipient gets
+
+122.07 GBP
+
+	
+
+Transfer fee
+
+1.99 AUD
+
+	
+
+Exchange rate
+
+0.49
+
+
+	
+
+Sending
+
+250 AUD
+
+	
+
+Recipient gets
+
+121.86 GBP
+
+	
+
+Transfer fee
+
+0.00 AUD
+
+	
+
+Exchange rate
+
+0.49
+
+
+	
+
+Sending
+
+250 AUD
+
+	
+
+Recipient gets
+
+119.61 GBP
+
+	
+
+Transfer fee
+
+0.00 AUD
+
+	
+
+Exchange rate
+
+0.48
+
+
+	
+
+Sending
+
+250 AUD
+
+	
+
+Recipient gets
+
+117.48 GBP
+
+	
+
+Transfer fee
+
+2.99 AUD
+
+	
+
+Exchange rate
+
+0.48
+
+
+	
+
+Sending
+
+250 AUD
+
+	
+
+Recipient gets
+
+116.23 GBP
+
+	
+
+Transfer fee
+
+5.99 AUD
+
+	
+
+Exchange rate
+
+0.48
+
+
+	
+
+Sending
+
+250 AUD
+
+	
+
+Recipient gets
+
+115.95 GBP
+
+	
+
+Transfer fee
+
+9.00 AUD
+
+	
+
+Exchange rate
+
+0.48
+
+
+	
+
+Sending
+
+250 AUD
+
+	
+
+Recipient gets
+
+115.73 GBP
+
+	
+
+Transfer fee
+
+15.00 AUD
+
+	
+
+Exchange rate
+
+0.49
+
+The data supplied in the comparisons above was supplied by Wise on 5/2/2025 through their Comparison API. Their Comparison disclaimer applies to the information and calculations shown. Fees and rates shown are estimates only.
+
+How does Wise collect this data? You can read the small print here.
+
+We base our price comparisons on data that TransferWise collects from other providers’ websites, on specific dates. Some providers don’t make their fees and exchange rates publicly available. In those cases, TransferWise use their service for bank-to-bank transfers - just as if they were customers - right until the point of paying. They do this multiple times, entering different amounts of money.
+
+The comparison table shows how much it costs a customer to send money internationally, between the currencies specified, using each of the providers listed. It also shows the amount the recipient gets at the end of the process.
+
+In case you want to know more, here's what all the different bits of this comparison table mean - and how it's worked out.
+
+1. The transfer fee
+
+The ‘transfer fee’ is simply how much the provider says it costs to use their service online. TransferWise only compares costs for online transfers from bank to bank. Telephone banking, paying from a branch or paying for a transfer via credit card are usually more expensive.
+
+2. The exchange rate
+
+The ‘exchange rate’ represents the estimated exchange rate for each provider. It isn’t the exact exchange rate TransferWise saw on the day that they used that provider’s service. It wouldn’t be fair to providers to show these collected rates - simply because TransferWise didn't collect all of the listed data at exactly the same time. Instead, they estimated what each provider’s exchange rate would be right now. Here’s how they work out that estimate.
+
+First, work out the markup on each provider’s exchange rate.
+
+To do this, TransferWise record the exchange rate each provider is offering on their website. At the same time, they check the mid-market rate from Reuters. Then, they calculate the difference between those two figures. For instance, if a provider’s rate was 1.4, and the mid-market rate on Reuters was 1.6, they’d record a difference of 0.2 (12.5%). They call this difference the ‘markup’.
+
+Then, subtract each provider’s markup from the mid-market rate
+
+When you see the comparison table - which might be on the same day for most providers, but could be later for others - TransferWise check the mid-market rate from Reuters again. Then, they estimate each provider’s exchange rate by subtracting their markup they previously recorded, from the latest mid-market rate. Using our last example, if the mid-market rate has moved to 2.0 when you see the table, they’d show that particular provider’s exchange rate as 1.75. That’s because TransferWise recorded their markup as 12.5%.
+
+3. How TransferWise work out a comparison for exact amounts that they haven’t collected
+
+When TransferWise collect data from providers, they do it using different “amounts”. So, pretending they're a customer again, they might go through the transfer process with $100, $500 and $2000. What that means, is that for some providers, the amount(s) entered when TransferWise used their service might not be the same as the one you’ve just seen in the comparison table.
+
+This is important, because providers tend to offer better exchange rates and smaller transfer fees when a customer is moving larger sums of money. So where TransferWise haven’t collected data on the exact amount shown in the comparison table - they make sure they’re fair to other providers, by looking at the nearest amounts that they’ve got data for (e.g. just greater or smaller than the amount in the table). And when you see the table, they’re showing the cheapest transfer fee and best exchange rate found from these nearest amounts.
+
+What all this means for you
+
+This means that the ‘transfer fee’ and ‘rate’ you see in the comparison table might be slightly different to the ones each provider currently has on their website. In fact, the comparison table might show a better transfer fee and a better exchange rate for all the providers.
+
+You can find the names of the providers, the “amounts” that TransferWise checked and the dates and times of data collection below:
+
+Provider	Currency Route	Amount Checked	Date And Time Collected
+OFX	AUD to GBP	1.40 AUD	5 Feb 2025 0:13 UTC
+OFX	AUD to GBP	99.99 AUD	5 Feb 2025 0:13 UTC
+OFX	AUD to GBP	524.63 AUD	5 Feb 2025 0:13 UTC
+OFX	AUD to GBP	1047.86 AUD	5 Feb 2025 0:13 UTC
+OFX	AUD to GBP	1571.09 AUD	5 Feb 2025 0:13 UTC
+OFX	AUD to GBP	2094.31 AUD	5 Feb 2025 0:13 UTC
+OFX	AUD to GBP	2617.54 AUD	5 Feb 2025 0:13 UTC
+OFX	AUD to GBP	3140.77 AUD	5 Feb 2025 0:13 UTC
+OFX	AUD to GBP	3664.00 AUD	5 Feb 2025 0:13 UTC
+Moneygram	AUD to GBP	1.00 AUD	4 Feb 2025 15:08 UTC
+Moneygram	AUD to GBP	100.00 AUD	4 Feb 2025 15:09 UTC
+Wise	AUD to GBP	1.40 AUD	5 Feb 2025 1:01 UTC
+Wise	AUD to GBP	5.00 AUD	5 Feb 2025 1:01 UTC
+Wise	AUD to GBP	10.00 AUD	5 Feb 2025 1:01 UTC
+Wise	AUD to GBP	15.00 AUD	5 Feb 2025 1:01 UTC
+Wise	AUD to GBP	2572.63 AUD	5 Feb 2025 1:01 UTC
+Wise	AUD to GBP	5143.86 AUD	5 Feb 2025 1:01 UTC
+Wise	AUD to GBP	7715.09 AUD	5 Feb 2025 1:01 UTC
+Wise	AUD to GBP	10286.30 AUD	5 Feb 2025 1:01 UTC
+Wise	AUD to GBP	12857.50 AUD	5 Feb 2025 1:01 UTC
+Wise	AUD to GBP	15428.80 AUD	5 Feb 2025 1:01 UTC
+Wise	AUD to GBP	18000.00 AUD	5 Feb 2025 1:01 UTC
+WorldRemit	AUD to GBP	50.00 AUD	1 Feb 2025 4:56 UTC
+WorldRemit	AUD to GBP	98.88 AUD	1 Feb 2025 4:56 UTC
+Commonwealth Bank of Australia	AUD to GBP	500.00 AUD	5 Feb 2025 0:10 UTC
+Western Union	AUD to GBP	500.00 AUD	4 Feb 2025 9:03 UTC
+ANZ	AUD to GBP	5.00 AUD	5 Feb 2025 1:00 UTC
+ANZ	AUD to GBP	10.00 AUD	5 Feb 2025 1:00 UTC
+ANZ	AUD to GBP	50.00 AUD	5 Feb 2025 1:00 UTC
+ANZ	AUD to GBP	99.99 AUD	5 Feb 2025 1:00 UTC
+ANZ	AUD to GBP	100.00 AUD	5 Feb 2025 1:00 UTC
+ANZ	AUD to GBP	500.00 AUD	5 Feb 2025 1:00 UTC
+National Australia Bank	AUD to GBP	400.00 AUD	5 Feb 2025 0:20 UTC
+Smash Nasty Surprises
+
+Wise tells us exactly what each transfer will cost, and we show you this price in real time. You’ll know exactly how much it’ll cost you to shout your mates in London a pizza, or pay that Hungarian freelance designer. Before you press Send.
+
+You'll even get an estimated time of delivery. Knowledge is power.
+
+Set It Up
+Fast
+Make A Wise Account
+
+Let’s make this easy. When you start an international payment we’ll create a Wise account for you using your Up account info. If you’re a Wise pro, just sign in and you’re set. Don’t sweat the petty.
+
+Choose A Currency To Send In
+
+Pounds, Yen, Rupees or Ringgit? The gang is all here. Make your selection from up to 48 currencies.
+
+Tell Us How Much To Send
+
+Punch in the amount you’d like to send and watch it convert before your very eyes. You’ll see the cost in AUD and your recipient’s currency, as well as estimated arrival date and the small one‑off charge.
+
+Tell Us Where To Send It
+
+Of course you’re prepared and have your buddy’s account details ready. Enter in all their details so this payment can get to where it needs to go.
+
+Send It With Love
+
+Add a short and simple message to your Transaction. From 'Thanks friend' to 'Auntie Jan’s Birthday', a little goes a long way.
+
+Wise has excellent exchange rates and it’s amazing that I can send money from Australia to Europe and the recipient receives the money within 2‑3 hours. I’ve used to pay $22 for international transfer fee through my bank and it took days for the money to go through.
+
+Trustpilot review by B Tavali
+
+Safety First
+
+We have fun. But we keep it safe. Up loves Wise because they have bank level safeguarding, and geek out on data security just like we do.
+
+8 million customers use Wise and they move millions of dollars around the world every day.
+
+We both operate under strict Australian regulations.
+
+Up can also help you...
+
+Easy saving Easy spending Better with mates Travel easy Upsider perks 
+Upgrade Your Banking
+Sign Up In Minutes

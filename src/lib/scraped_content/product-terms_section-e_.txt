@@ -1,0 +1,222 @@
+Section E: Use and security of your card, biometric identification, passcode and PIN
+
+Current and historical versions of the Section E: Use and security of your card, biometric identification, passcode and PIN section of the Up Personal Accounts Terms & Conditions.
+
+Publication date:
+
+Thursday, 11 April 2024
+Friday, 31 May 2019
+Published Thursday, 11 April 2024
+39. Protecting your card, biometric identification, passcode and PIN
+
+39.1. The security of your card, biometric identification, passcode and PIN is very important. You may be liable for unauthorised transactions which you contribute to by not keeping your card, biometric identification, passcode and PIN secure. Your liability is governed by clause 44.
+
+39.2. You must ensure that you:
+
+keep your card, recovery code, passcode and PIN secure and protected;
+do not tell anyone your PIN, passcode or recovery code;
+do not record your PIN, passcode or recovery code in electronic or written form.
+do not select a passcode or PIN that is easily identified with you (e.g. your date of birth, your name or part of it or your phone number);
+do not select a passcode or PIN that is a common or easily guessed combination (e.g. repeated or consecutive numbers such as 5555 or 1234);
+do not provide your PIN, recovery code, passcode or card to any person (including a family member or a friend);
+do not allow any unauthorised person to observe or hear your recovery code, PIN or passcode;
+do not allow any unauthorised person to enrol or register their biometric information on a device in which the Up app is installed and not install or use the Up app on any device on which another person has enrolled or registered their biometric information;
+only sign in to or use the Up app on a device which is and remains in your possession and is secured in such a manner that it is only accessible by you, such as with a personal identification number or passcode that only you know, or with a biometric system such as a fingerprint or facial recognition system that only has your biometric information enrolled or registered in it.
+
+39.3. If you have a card you must also ensure that you:
+
+keep your card in a safe place;
+check regularly that you have your card in your possession;
+do not record your PIN on your card or carry any record of your PIN in an undisguised form with the card. (Merely placing a couple of digits at the beginning or end of your PIN disguising it as a telephone number or birth date is not sufficient);
+do not let anyone use your card. You may be legally liable if someone else uses your card and PIN, with or without your permission;
+destroy expired cards; and
+collect your card from the ATM after completing a transaction.
+
+39.4. The following ways of recording a PIN are often deciphered by thieves and it is strongly recommended that these ways are not used for recording PIN's:
+
+recording the PIN as a series of numbers with any of them marked, circled or highlighted to indicate the PIN;
+recording the PIN with surrounding information that makes it stand out from its context. For instance, a PIN recorded as a 4 or 6 digit telephone number where all other numbers are 8 digits;
+recording the PIN as a string of digits in isolation from other information; and
+recording the PIN as a birth date, postcode or telephone number without additional features of disguise.
+
+39.5. A reasonable attempt must be made to protect the security of a PIN. Making any reasonable attempt to disguise the PIN within the record, or prevent unauthorised access to the PIN record, includes but is not limited to:
+
+hiding or disguising the PIN record among other records,
+hiding or disguising the PIN in a place where a PIN would not be expected to be found,
+keeping a record of the PIN in a securely locked container, or
+preventing unauthorised access to an electronically stored record of the PIN.
+
+39.6. You must not act with extreme carelessness in failing to protect the security of your PIN where extreme carelessness means a degree of carelessness that greatly exceeds what would normally be considered careless behavior. An example of extreme carelessness is storing your PIN in an unprotected computer or diary under the heading PIN.
+
+40. Loss, theft and unauthorised use of your card, device, passcode, recovery code or PIN
+
+40.1. You must notify us immediately if:
+
+any record you may have of your PIN, recovery code or passcode is lost or stolen;
+someone has stolen your card;
+you have lost your card;
+you become aware or suspect another person knows your recovery code, PIN or passcode or has used your recovery code, PIN or passcode without your authority;
+someone steals your device;
+you lose your device;
+you change or otherwise lose access to or the right to use your mobile phone number; or
+the biometric identification method on your device becomes compromised or another person has registered their biometric details on your device.
+Safeguarding payment instruments
+
+You should safeguard payment instruments such as card and registered device. Subject to clauses 40, 41 and 42 you will be liable for all transactions arising from the use of a payment instrument until you have advised us of its loss, theft or misuse. If any of the above payment instruments are lost, stolen or misused, you should contact us immediately.
+
+Lost and Stolen cards:
+
+In Australia contact us on 1300 002 258 Overseas contact us on +61 1300 002 258
+
+Alternatively, phone +1 636 722 7111 reverse charges (this service is available 24 hours a day, 7 days a week), or visit the Mastercard International website at mastercard.com to obtain a toll free number for the country you are travelling in.
+
+40.2. Any unreasonable delay in notifying us may expose you to liability for losses incurred as a result of unauthorised access or transactions. Liability for unauthorised transactions is set out in clause 44.
+
+40.3. You are not liable for any unauthorised transactions which could have been prevented during any period of unavailability of all these contact points as long as you notify us within a reasonable time of a contact point becoming available.
+
+40.4. When you report the loss, theft or unauthorised use of your card, PIN or passcode, you will be given a notification number which you should retain as evidence of the date and time of your report.
+
+40.5. You should confirm any verbal notification via the Up app as soon as possible.
+
+40.6. If you find your card after reporting it lost or stolen, cut it up and do not attempt to use it. We cancel all cards reported lost or stolen.
+
+40.7. You can arrange for an emergency replacement card if required, at the time of reporting your card lost or stolen.
+
+41. Your Liability -- Non PIN generated transactions
+
+41.1. You are not liable for any transaction performed without your permission, unless you have contributed to the loss by:
+
+letting someone else use your card; or
+unreasonably delaying notifying us of the loss, theft or unauthorised use of your card.
+
+41.2. If you did either of these things, we may hold you liable for all transactions carried out using your card up to the time you notify us of the loss, theft or unauthorised use of your card.
+
+41.3. A disputed transaction may include:
+
+An unauthorised transaction -- a transaction which you believe was not authorised by use of the card or account by you. This includes any unauthorised telephone, internet or mail orders or any other unauthorised transactions on your account.
+General dispute -- a transaction which you wish to dispute. This may include a transaction which has been processed to your account more than once, or a transaction which was authorised by the use of your card or account which you wish to dispute.
+
+41.4. Despite notifying us of a disputed transaction, you remain liable for any purchase made by you.
+
+41.5. Mastercard have a dispute resolution process that is contained in the operating rule of the card scheme. This process sets out the specific circumstances and timeframes in which a member of the scheme (e.g. a bank) can claim a refund in connection with a disputed transaction on a cardholder's behalf. This is referred to as a 'chargeback right'. We will claim a chargeback right where one exists and you have disputed the transaction within the required time frame. We will claim the chargeback for the most appropriate reason. Our ability to investigate any disputed transaction on your account, and subsequently process a chargeback is restricted by the time limits imposed under the operating rules of the card scheme. The timeframes for us to process a chargeback (where a chargeback right exists) vary between 45 days and 120 days, depending on the type of transaction. We will not accept a refusal of a chargeback by a merchant's financial institution unless it is consistent with card scheme rules.
+
+42. Electronic transactions
+
+42.1. If the ePayments Code is applicable to a disputed transaction, the timeframes as specified in clause 41.5 may not apply in certain circumstances.
+
+42.2. Our ability to dispute a transaction on your behalf (where a chargeback right exists) may be lost if you do not notify us within the required timeframes. For this reason, it is in your interest to report any disputed transaction to us immediately and certainly no later than the due date shown on the statement of account. Where it can be shown that you have unreasonably delayed notifying us, you may be liable for the loss on any disputed transaction.
+
+42.3. If a dispute is withdrawn or resolved in favour of the merchant, a voucher retrieval fee may apply.
+
+42.4. Where a dispute is resolved in your favour, we will make the necessary adjustments to any interest and fees charged as a result of your dispute.
+
+To report an unauthorised transaction, please contact us via our contact methods.
+
+Published Friday, 31 May 2019
+39. Protecting your card, biometric identification, passcode and PIN
+
+39.1. The security of your card, biometric identification, passcode and PIN is very important. You may be liable for unauthorised transactions which you contribute to by not keeping your card, biometric identification, passcode and PIN secure. Your liability is governed by clause 44.
+
+39.2. You must ensure that you:
+
+keep your card, recovery code, passcode and PIN secure and protected;
+do not tell anyone your PIN, passcode or recovery code;
+do not record your PIN, passcode or recovery code in electronic or written form.
+do not select a passcode or PIN that is easily identified with you (e.g. your date of birth, your name or part of it or your phone number);
+do not select a passcode or PIN that is a common or easily guessed combination (e.g. repeated or consecutive numbers such as 5555 or 1234);
+do not provide your PIN, recovery code, passcode or card to any person (including a family member or a friend);
+do not allow any unauthorised person to observe or hear your recovery code, PIN or passcode;
+do not allow any unauthorised person to enrol or register their biometric information on a device in which the Up app is installed and not install or use the Up app on any device on which another person has enrolled or registered their biometric information;
+only sign in to or use the Up app on a device which is and remains in your possession and is secured in such a manner that it is only accessible by you, such as with a personal identification number or passcode that only you know, or with a biometric system such as a fingerprint or facial recognition system that only has your biometric information enrolled or registered in it.
+
+39.3. If you have a card you must also ensure that you:
+
+sign your card as soon as you receive it;
+keep your card in a safe place;
+check regularly that you have your card in your possession;
+do not record your PIN on your card or carry any record of your PIN in an undisguised form with the card. (Merely placing a couple of digits at the beginning or end of your PIN disguising it as a telephone number or birth date is not sufficient);
+do not let anyone use your card. You may be legally liable if someone else uses your card and PIN, with or without your permission;
+destroy expired cards; and
+collect your card from the ATM after completing a transaction.
+
+39.4. The following ways of recording a PIN are often deciphered by thieves and it is strongly recommended that these ways are not used for recording PIN's:
+
+recording the PIN as a series of numbers with any of them marked, circled or highlighted to indicate the PIN;
+recording the PIN with surrounding information that makes it stand out from its context. For instance, a PIN recorded as a 4 or 6 digit telephone number where all other numbers are 8 digits;
+recording the PIN as a string of digits in isolation from other information; and
+recording the PIN as a birth date, postcode or telephone number without additional features of disguise.
+
+39.5. A reasonable attempt must be made to protect the security of a PIN. Making any reasonable attempt to disguise the PIN within the record, or prevent unauthorised access to the PIN record, includes but is not limited to:
+
+hiding or disguising the PIN record among other records,
+hiding or disguising the PIN in a place where a PIN would not be expected to be found,
+keeping a record of the PIN in a securely locked container, or
+preventing unauthorised access to an electronically stored record of the PIN.
+
+39.6. You must not act with extreme carelessness in failing to protect the security of your PIN where extreme carelessness means a degree of carelessness that greatly exceeds what would normally be considered careless behavior. An example of extreme carelessness is storing your PIN in an unprotected computer or diary under the heading PIN.
+
+40. Loss, theft and unauthorised use of your card, device, passcode, recovery code or PIN
+
+40.1. You must notify us immediately if:
+
+any record you may have of your PIN, recovery code or passcode is lost or stolen;
+someone has stolen your card;
+you have lost your card;
+you become aware or suspect another person knows your recovery code, PIN or passcode or has used your recovery code, PIN or passcode without your authority;
+someone steals your device;
+you lose your device;
+you change or otherwise lose access to or the right to use your mobile phone number; or
+the biometric identification method on your device becomes compromised or another person has registered their biometric details on your device.
+Safeguarding payment instruments
+
+You should safeguard payment instruments such as card and registered device. Subject to clauses 40, 41 and 42 you will be liable for all transactions arising from the use of a payment instrument until you have advised us of its loss, theft or misuse. If any of the above payment instruments are lost, stolen or misused, you should contact us immediately.
+
+Lost and Stolen cards:
+
+In Australia contact us on 1300 002 258 Overseas contact us on +61 1300 002 258
+
+Alternatively, phone +1 636 722 7111 reverse charges (this service is available 24 hours a day, 7 days a week), or visit the Mastercard International website at mastercard.com to obtain a toll free number for the country you are travelling in.
+
+40.2. Any unreasonable delay in notifying us may expose you to liability for losses incurred as a result of unauthorised access or transactions. Liability for unauthorised transactions is set out in clause 44.
+
+40.3. You are not liable for any unauthorised transactions which could have been prevented during any period of unavailability of all these contact points as long as you notify us within a reasonable time of a contact point becoming available.
+
+40.4. When you report the loss, theft or unauthorised use of your card, PIN or passcode, you will be given a notification number which you should retain as evidence of the date and time of your report.
+
+40.5. You should confirm any verbal notification via the Up app as soon as possible.
+
+40.6. If you find your card after reporting it lost or stolen, cut it up and do not attempt to use it. We cancel all cards reported lost or stolen.
+
+40.7. You can arrange for an emergency replacement card if required, at the time of reporting your card lost or stolen.
+
+41. Your Liability -- Non PIN generated transactions
+
+41.1. You are not liable for any transaction performed without your permission, unless you have contributed to the loss by:
+
+letting someone else use your card; or
+unreasonably delaying notifying us of the loss, theft or unauthorised use of your card.
+
+41.2. If you did either of these things, we may hold you liable for all transactions carried out using your card up to the time you notify us of the loss, theft or unauthorised use of your card.
+
+41.3. A disputed transaction may include:
+
+An unauthorised transaction -- a transaction which you believe was not authorised by use of the card or account by you. This includes any unauthorised telephone, internet or mail orders or any other unauthorised transactions on your account.
+General dispute -- a transaction which you wish to dispute. This may include a transaction which has been processed to your account more than once, or a transaction which was authorised by the use of your card or account which you wish to dispute.
+
+41.4. Despite notifying us of a disputed transaction, you remain liable for any purchase made by you.
+
+41.5. Mastercard have a dispute resolution process that is contained in the operating rule of the card scheme. This process sets out the specific circumstances and timeframes in which a member of the scheme (e.g. a bank) can claim a refund in connection with a disputed transaction on a cardholder's behalf. This is referred to as a 'chargeback right'. We will claim a chargeback right where one exists and you have disputed the transaction within the required time frame. We will claim the chargeback for the most appropriate reason. Our ability to investigate any disputed transaction on your account, and subsequently process a chargeback is restricted by the time limits imposed under the operating rules of the card scheme. The timeframes for us to process a chargeback (where a chargeback right exists) vary between 45 days and 120 days, depending on the type of transaction. We will not accept a refusal of a chargeback by a merchant's financial institution unless it is consistent with card scheme rules.
+
+42. Electronic transactions
+
+42.1. If the ePayments Code is applicable to a disputed transaction, the timeframes as specified in clause 41.5 may not apply in certain circumstances.
+
+42.2. Our ability to dispute a transaction on your behalf (where a chargeback right exists) may be lost if you do not notify us within the required timeframes. For this reason, it is in your interest to report any disputed transaction to us immediately and certainly no later than the due date shown on the statement of account. Where it can be shown that you have unreasonably delayed notifying us, you may be liable for the loss on any disputed transaction.
+
+42.3. If a dispute is withdrawn or resolved in favour of the merchant, a voucher retrieval fee may apply.
+
+42.4. Where a dispute is resolved in your favour, we will make the necessary adjustments to any interest and fees charged as a result of your dispute.
+
+To report an unauthorised transaction, please contact us via our contact methods.
+
+Prior to June 2019, our Product Terms were available in PDF form.

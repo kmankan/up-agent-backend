@@ -1,0 +1,1930 @@
+Up Personal Accounts Terms & Conditions
+
+Last updated Thursday, 5 December 2024
+
+Table of contents
+
+About this document
+Contact details
+Issuer
+Key Features
+Section A: Meaning of words
+Section B: General terms and conditions
+Section C: Cards
+Section D: The Up app
+Section E: Use and security of your card, biometric identification, passcode and PIN
+Section F: EFT Transactions – PIN, Passcode and mobile number generated transactions
+Section G: BPAY
+Section H: Automatic payments
+Section I: Pay Anyone Service
+Section J: PayTo
+Section K: TransferWise (now known as “Wise”)
+Section L: 2Up Joint Accounts
+Section M: Fees & Charges
+Disclaimer
+About this document
+
+Section last updated Thursday, 5 December 2024
+
+View earlier versions of this section
+
+This is an important document. It sets out the terms, conditions, fees and charges applicable to the following accounts and payment facilities provided to you through the Up app:
+
+Personal Accounts
+Up Everyday Account
+Up Saver Account
+Payment Facilities
+Up app, to the extent that it facilitates payments (including by our Pay Anyone Service and BPAY®)
+Debit Mastercard linked to an Up Everyday Account
+Automatic payments (direct debits)
+
+You should read this document carefully before acquiring any of the products to which this document applies. This document must be read in conjunction with the pricing page on the Up website - https://up.com.au/pricing/. Together they form the Up Personal Accounts Terms and Conditions.
+
+We are committed to improved support for financially vulnerable customers, staff, suppliers, and our wider community. We recognise financial abuse can happen to anyone and may also include forms of family and domestic violence or elder abuse.
+
+Our products and services must not be used to engage in financial or other abuse.
+
+Examples of this conduct include, but are not limited to:
+
+making defamatory, harassing or discriminatory comments to any person, including through payment descriptions or references;
+using or encouraging threatening or abusive language;
+engaging in coercive or controlling behaviour, eg to restrict a person's account access or use of funds; or
+promoting or encouraging physical or mental harm to any person.
+
+We may take steps to investigate circumstances where we reasonably believe any product or service is being used in this way.
+
+We can take action, for example to close, stop, suspend, or deny access or use of our products or services, or to block or decline payments or payment methods, if we reasonably consider it necessary to protect you or another person from financial or other abuse. This is in addition to any other rights we may have under these terms. You should be aware that we may not be able to provide you prior notice before taking such action.
+
+Contact details
+
+Section last updated Friday, 31 May 2019
+
+You can contact us via:
+
+the Up app (on a compatible iOS or Android device)
+telephone on 1300 002 258
+or overseas on +61 1300 002 258
+email on support@up.com.au
+Issuer
+
+Section last updated Tuesday, 19 July 2022
+
+View earlier versions of this section
+
+Bendigo and Adelaide Bank Limited (ABN 11 068 049 178, AFSL and Australian Credit Licence No 237879) is the issuer of all Up branded banking and financial products and the Up apps.
+
+Registered address: The Bendigo Centre, Bath Lane, Bendigo, Vic, 3550
+
+®Registered to BPAY Pty Ltd ABN 69 079 137 518.
+
+Mastercard and the Mastercard brand are registered trademarks of Mastercard International Incorporated
+
+Key Features
+
+Section last updated Monday, 30 September 2024
+
+View earlier versions of this section
+
+The accounts to which this document applies have different features and some have restrictions. Set out below is a summary of the main features of, and restrictions applying to, the accounts. All statements for the accounts are provided electronically.
+
+Section B: General Terms and Conditions explains the way in which these accounts operate.
+
+The accounts described inside this document are not available for use by a business or for business purposes.
+
+These accounts are available only to individuals over 16 years of age for private or domestic use.
+
+Personal Accounts – Key Features Table
+Feature	Up Everyday Account
+& 2Up Joint Accounts	Up Saver Account
+& 2Up Saver Account
+Accounts can be Opened by	Individuals over 16 years of age	Individuals over 16 years of age
+Minimum to Open	$1	$1
+Minimum Balance to Maintain	Nil	Nil
+Interest Earning	No	Yes*
+Interest Calculated	Not applicable	Daily
+Interest Type	Not applicable	Stepped
+Interest Credited	Not applicable	Monthly*
+Funds Availability	At Call	At Call
+Access through the Up app	Yes	Yes
+BPAY	Yes	Yes
+Bank@Post™	Yes	No
+Pay Anyone	Yes	Yes
+Automatic Payments	Yes	Yes
+Debit Mastercard	Yes	No
+PayTo	Yes	No
+
+*Up Saver Accounts and 2Up Saver Accounts are not interest earning, and no interest will be credited, during any period while we are treating the account as an offset account for a loan account or if you have told us that you do not want to receive interest payments in the Up App. See our Home Loan Booklet for details about when accounts are treated as offset accounts.
+
+Bank@Post™ and its device mark are trademarks (registered or otherwise) of Australia Postal Corporation. All rights reserved.
+
+Terms and Conditions
+Section A: Meaning of words
+
+Section last updated Thursday, 9 November 2023
+
+View earlier versions of this section
+
+In this document the following expressions have the following meanings:
+
+"2Up account" means a joint account and each joint Up saver we open pursuant to Section K of this document.
+
+"access method" means any method we make available to you to authenticate yourself to us for the purposes of transacting on and otherwise accessing your accounts. An access method comprises of one or more components (including, but not limited to, a card, a PIN, a passcode, recovery code, biometric identification, or any combination of these). It excludes methods involving a user's written signature.
+
+"account" means an Up Everyday Account or an Up Saver Account we establish in your name except in clause 11 where it means any account you have with us (including accounts to which these terms and conditions do not apply). In Sections D and E of these terms and conditions (and defined terms when used in those sections), “account” also includes any Up loan account that we allow you to access through the Up app.
+
+"ATM" means an automatic teller machine.
+
+"bank" means Bendigo and Adelaide Bank Limited ABN 11 068 049 178 AFSL/Australian Credit Licence No. 237879
+
+"Bank@Post™" means when you make a withdrawal, deposit or balance enquiry at a Bank@Post™ terminal in an Australia Post Office using a Up Bank card where this facility is available. Bank@Post™ and its device mark are trademarks (registered or otherwise) of Australia Postal Corporation. All rights reserved.
+
+"basic NPP payment" means a transfer of funds processed through the NPP which does not use Osko.
+
+"biometric identification" means the use of supported biometric identification features of your device, including but not limited to Touch ID, Face ID, and other fingerprint and retina scanning technology.
+
+"BPAY conditions" means the terms and conditions applying to the BPAY scheme as set out in Section G of this document.
+
+"BPAY payments" means payments which you have instructed us to make through the BPAY scheme to billers who can accept payments made to them through that scheme.
+
+"BPAY scheme" means the 'BPAY Payments' electronic payments scheme operated by BPAY Pty Ltd through which you instruct us to make payments to billers who can accept payments made to them through this scheme.
+
+"business day" means any day on which banks in Melbourne or Sydney are able to effect settlement through the Reserve Bank of Australia.
+
+"card" means a Debit Mastercard issued to you by us, that bears the Mastercard symbol, which is linked to an account and can be used to undertake an EFT transaction.
+
+"contactless terminal" means an electronic point of sale terminal which is capable of performing a contactless transaction.
+
+"contactless transaction" means the authorisation of a transaction by presenting a card (which is capable of performing a contactless transaction) or other device at a contactless terminal without the requirement to insert or swipe the card.
+
+"device" means any electronic device such as a smartphone, tablet, or computer on which the Up app is installed or your Up account can be accessed and used.
+
+"direct debit" means a transaction debited directly to your account by another party, under an arrangement that you and that other party have previously reached.
+
+"direct entry payment" means an electronic transfer of funds processed through the Bulk Electronic Clearing System (BECS) administered by the Australian Payments Network Limited.
+
+"EFT conditions" means the terms and conditions applying to EFT transactions as set out in Section F.
+
+"EFT transaction" means a payment, funds transfer or cash withdrawal initiated using electronic equipment and not intended to be authenticated by comparing a manual signature with a specimen signature. An EFT transaction includes, without limitation, an electronic transaction undertaken using an access method via EFTPOS or an ATM, and a transaction undertaken using the Up app.
+
+"EFTPOS" (Electronic Funds Transfer at the Point of Sale) means the system that allows you to make purchases or withdraw cash with your card by presenting it at a merchant's terminal.
+
+"ePayments Code" means the ePayments Code administered by the Australian Securities and Investments Commission (ASIC), as amended from time to time.
+
+"Government charges" means all charges or duties on deposits into, or withdrawals from your account that are payable under a law of the Commonwealth or any State or Territory or any other jurisdiction whether or not you are primarily liable to pay these charges.
+
+"law" means common law, principles of equity and laws made by parliament (including regulations and other instruments under them, and consolidations, amendments, re-enactments or replacements of them).
+
+"Mastercard SecureCode" means the online authentication service provided for Mastercard cardholders when making online transactions at participating merchants.
+
+"mobile number" means the mobile phone number you have nominated to use on or with the device or devices you use to access the Up app.
+
+"NPP" means the New Payments Platform owned and operated by or for NPP Australia Limited.
+
+"NPP Addressing Service" means the addressing service component of the NPP which facilitates the registration of PayIDs.
+
+"NPP Payment" means a payment processed through the NPP and includes Osko Payments and Basic NPP Payments.
+
+"PayTo" - The NPP functionality which enables us to process NPP Payments from your account in accordance with and on the terms set out in a Payment Agreement.
+
+"Osko" means the Osko payment service provided by BPAY Pty Ltd.
+
+"Osko Payment" means a transfer of funds processed using Osko.
+
+"Pay Anyone conditions" means the terms and conditions applying to the Pay Anyone Service as set out in Section H of this document.
+
+"PayID" means a PayID (also known as an 'alias') which is able to be created with the NPP Address Service and used for the purpose of making and receiving NPP Payments (for example, an email address or telephone number).
+
+"payment facility" means each of the following:
+
+The Up app (including the Pay Anyone Service and BPAY), but only to the extent that it facilitates payments
+Up Debit Mastercard
+Automatic payments (direct debits) to an account
+PayTo;
+
+"PIN" means the Personal Identification Number issued by us or selected by you to use in conjunction with a card.
+
+"recovery code" means the code given to you on sign up that you can use to recover your account
+
+"regular payment" means either a recurring payment or an instalment which represents an agreement between a cardholder and a merchant to debit a card at predetermined intervals (e.g. monthly or quarterly) or at intervals as agreed by both parties.
+
+"passcode" means a sequence of alphanumeric or other characters known only by you that are required as one of the access methods for your account and/or to use the Up app.
+
+"Post Office" means Australia Post.
+
+"stepped" means that different rates of interest will apply to different portions of your account balance.
+
+For example:
+
+if the rate of interest is 0.05% per year on that part of the account balance that is less than $2,000 and 1.5% per year. on that part of the account balance that equals or exceeds $2,000; and
+your account balance is $3,000 the rate of interest applying to your account will be 0.05% per year on $1,999.99 and 1.5% per year on the remainder.
+
+"Up app" means the software we offer on compatible iOS and Android devices, with which you can transact on and otherwise access a nominated account.
+
+"we", "us" and "our" means Bendigo and Adelaide Bank Limited ABN 11 068 049 178 AFSL No. 237879.
+
+"you" and "your" means the holder of an account. In relation to a 2Up account, “you” and “your” includes each joint account holder.
+
+The singular refers to the plural and vice versa.
+
+A reference to a document includes any variation or replacement of it.
+
+A reference to anything includes the whole and each part of it.
+
+All examples used in this document are for illustrative purposes only.
+
+Section B: General terms and conditions
+
+Section last updated Thursday, 5 December 2024
+
+View earlier versions of this section
+
+Unless you have previously agreed to be bound by these terms and conditions, your first use of any account or payment facility indicates that you understand and agree to be bound by these terms and conditions.
+
+1. Opening and holding an account
+
+1.1. You must provide us with any information we reasonably require to open an account or provide a payment facility.
+
+1.2. Subject to the requirements of any law, acting reasonably, we may refuse to open an account or provide a payment facility.
+
+1.3. You may not be eligible to open and hold all types of accounts. The Key Features Table sets out eligibility requirements that apply.
+
+1.4. None of the accounts to which this document applies are available for use by a business or for business purposes.
+
+1.5. We may require you at any time to provide us with proof that you meet the eligibility requirements for an account. If:
+
+after opening an account you no longer meet the eligibility requirements; or
+you do not provide us with proof that you meet the eligibility requirements when we ask for it,
+
+we may change your account to another type of account to which this document applies.
+
+1.6. We may require you to deposit a minimum amount with us in order to open an account. The minimum amounts that currently apply are set out in the Key Features Table.
+
+1.7. There is no minimum account balance required to maintain an account. However, where an account has been opened without you depositing any amount (that is, with a zero balance) and you do not operate your account within 180 days of opening, we may close the account without giving you notice.
+
+2. Identification
+
+2.1. We require identification information for all relevant parties as required by law. This will include information such as name, residential address and date of birth. We may also require other information such as information about your activities and reason for opening an account in Australia.
+
+3. Verification
+
+3.1. We may, and you consent to us doing so, seek verification of your identification and identification documents from independent sources and/or third party service providers.
+
+3.2. We will keep copies of all documents provided by you and will disclose or provide copies of your identification documents to third party bodies as required by law.
+
+3.3. We may request, and you must provide, further documentary evidence of your identity as we deem necessary to confirm your identity.
+
+3.4. We may request that you produce, and you must provide in person if necessary, the original and/or certified true copies of all documentary evidence confirming your identity.
+
+4. Inability to confirm identity
+
+4.1. In the event that we are unable to properly confirm your identity, we may at our sole discretion, reject your application, suspend the operation of your account, refuse transactions and/or place a freeze on your funds until such time as your identity can be confirmed.
+
+5. Additional Information and use of account
+
+5.1. Acting reasonably, we may request, and you must provide, any other additional information we deem necessary in relation to your identity, personal affairs, business dealings and/or the purpose of your relationship with us. In the event you refuse or fail to provide us with information we have reasonably requested, we may at our sole discretion, reject your application, suspend the operation of your account, refuse transactions and/or place a freeze on your funds until such time as the information is provided.
+
+5.2. You provide us with the following undertakings:
+
+you will not initiate, engage in or effect a transaction that may be in breach of Australian law or sanctions (or the law or sanctions of any other country); and
+the underlying activity/product for which the Up app is being provided does not breach any Australian law or sanctions (or the law or sanctions of any other country).
+6. Payment Facilities
+
+6.1. Depending on the type of account you hold with us, you may be able to gain access to one or more payment facilities. The payment facilities that are currently available with each type of account are set out in the Key Features Table.
+
+7. Deposits and Withdrawals
+Deposits
+
+7.1. You may make deposits to your account by:
+
+arranging an automatic deposit of your salary or other income or amounts to be paid directly into your account using the BSB and account number for your account; or
+transferring funds electronically into your account from another financial institution account using the BSB and account number for your account.
+At any Post Office using Bank@Post™ (where available and subject to restrictions, see clause 29.5);
+
+Some of the above methods for deposits may not be accessible by you when you are outside of Australia.
+
+7.2. The proceeds of a deposit may not be available for up to 5 business days after the deposit is made. It will usually take three business days for a cheque to clear. If we allow you to draw on a cheque before it has cleared, you will be liable for the amount of the cheque if it is subsequently dishonoured and you authorise us to debit the amount of the cheque plus applicable bank charges to your account. International deposits may be subject to extended clearance times.
+
+7.3. We will not accept any cheque that is not payable to you whether the cheque has been endorsed in your favour or not.
+
+Bank@Post™ and its device mark are trademarks (registered or otherwise) of Australian Postal Corporation. All rights reserved.
+
+Withdrawals
+
+7.4. You may make withdrawals from your account in the following ways:
+
+if your account is linked to a card, using the card (including in a digital wallet):
+at an ATM;
+via EFTPOS terminals;
+at a Post Office using Bank@Post™ (where available and subject to restrictions, see clause 29.5)
+by transferring funds electronically in the Up app using Pay Anyone or BPAY
+using an Automatic Payment.
+
+You cannot make cash or other withdrawals from your account in a bank branch except by using a card at an ATM.
+
+Also, some of the above methods for withdrawals may not be accessible by you when you are outside of Australia.
+
+7.5. Acting reasonably, we can at our discretion impose a limit on the amount you can withdraw in cash from your account at a branch, from an ATM or via an EFTPOS terminal.
+
+Cash out limit: Our current maximum daily cash out default limit for transactions conducted at an ATM or EFTPOS terminal and using a PIN is $1000. This amount may be varied for customers upon application and approval.
+
+Purchase limit: Our current maximum daily purchase limit for transactions conducted at an EFTPOS terminal and using a PIN is the available balance of your account.
+
+We may vary the default amount of these limits or any other limit we impose from time to time. We may also limit the way in which money is dispensed. For example, if you want to withdraw $400 (and that amount is not in excess of the maximum daily withdrawal limit), the ATM may not pay out on that amount in one transaction. You may receive $300 and then make another withdrawal of $100 as a separate transaction.
+
+7.6. You should ensure that the purchase amount is correct on any electronic equipment you use when you perform a transaction.
+
+7.7. EFTPOS merchants may have other restrictions on the amount of cash that can be withdrawn. Merchants or other institutions (including the Post Office) may also impose additional restrictions on the use of your card or PIN.
+
+7.8. We may decline a withdrawal if we do not have proof of your identity that is satisfactory to us.
+
+7.9. You authorise us to debit to your account with all withdrawals you make from that account.
+
+7.10. Contactless transactions are subject to separate transaction limits. These limits are imposed by us and the financial institution responsible for the EFTPOS terminal.
+
+8. Interest
+
+8.1. If the Key Features Table indicates that your account is interest earning, we will pay you interest on the credit balance of your account. However, we will not pay you interest on the credit balance of any account while:
+
+we are treating it as an offset account in relation to a loan account (even if the credit balance of the account exceeds the debit balance of the loan account); or
+
+you have told us that you do not want to receive interest in the Up App.
+
+8.2. You can find the current interest rates for your account and any relevant qualification criteria at any time by visiting our website at Up.com.au. If our website indicates that eligibility or qualification criteria applies for an interest rate (including any bonus rate) we will pay interest at that rate as stated on our website if you meet the relevant eligibility or qualification criteria.
+
+8.3. We calculate interest by applying the applicable daily percentage rate to the balance of your account (or if it is stepped interest, to the relevant part of your balance) at the end of each day. The applicable daily percentage rate is the relevant applicable interest rate divided by 365, or in a leap year, 366.
+
+8.4 Interest is credited to your account monthly on the first day of each calendar month (for interest accrued in the previous calendar month). However, if you satisfy the eligibility or qualification criteria for an interest rate after we have commenced our end of month processing on the last day of the month (approximately 7pm AEST/AEDT), the crediting of interest to your account for that month at that rate may be delayed by a full calendar month and we will only pay that interest to you if you keep your account open until it has been credited.
+
+8.5 We may change the interest rate(s) and any relevant eligibility or qualification criteria from time to time at our discretion. If any law regulates such a change, we will only make the change to the extent permitted by, and subject to, the requirements of that law. We will give you such notice of a change in the interest rate if we are legally required to do so.
+
+8.6 If you have opted out of earning interest before 7pm AEST/AEDT on the last day of the month, you will not earn interest on any of your Up Saver or 2Up Saver accounts (as applicable) for any day in that month and any day after that. If you opt out after 7pm on the last day of the month, you may still earn interest for that month
+
+After you opt out of earning interest on your Up Saver or 2Up Saver accounts, you can opt back in at any time. If you opt back in before 7pm AEST/AEDT on the last day of the month, you may earn interest for that month in accordance with these terms and conditions. If you opt back in after 7pm AEST/AEDT on the last day of the month, no interest will be earned for any day in that month and you may earn interest starting the next month in accordance with the terms and conditions.
+
+Any joint account holder can opt out or opt in of earning interest if you have a 2Up account.
+
+9. Transaction Processing
+
+9.1. We may assign any date we reasonably consider appropriate to a debit or credit to your account, except that, in the case of a debit, the date must not be earlier than the date on which the relevant transaction occurs. However, we will credit payments to your account as soon as practicable after we receive them. This is not necessarily the same day that you make the payment. We give effect to the debit or credit based upon the date assigned to it by us.
+
+9.2. We may subsequently adjust debits and credits to your account so as to accurately reflect the legal obligations of you and us, for example, because of an error or because a cheque is dishonoured. If we do this, we may make consequential changes, including to interest.
+
+For example: If a payment or deposit is made into your account in error, we may withdraw that payment or deposit from your account without your consent, including any interest paid into your account on that payment or deposit. If you have spent those funds you will be required to repay them or your account may be overdrawn.
+
+9.3 We may reject, decline, fail to authorise, or delay any transaction to or from your account or, in the case of a credit to your account, delay making the funds available to you where we consider it reasonable to do so. Without limitation, this includes where:
+
+we reasonably believe we are required to do so in order to comply with any applicable laws (including any laws relating to anti-money laundering or sanctions) or under the rules, regulations and procedures that apply to the payment system the transaction was processed through;
+you fail to comply with any of your obligations under these terms and conditions; or
+we consider it necessary or desirable to do so to enable us to review or investigate the transaction for any fraudulent, illegal or improper activity or for compliance with any applicable sanctions.
+
+We are not liable to you for any loss or damage you suffer as a result of us rejecting declining, failing to authorise or delaying any transaction to or from your account or any delay in funds being made available to you. However, we do not exclude liability for loss or damage to the extent it was incurred due to the fraud, negligence or wilful misconduct of us, our employees or agents, or a receiver appointed by us.
+
+9.4 If we determine, acting reasonably, that a payment or credit to an account was an error, made by mistake (for example, where the sender entered or selected the account details by mistake) or was made in connection with fraud or a scam (including where the funds are the proceeds of fraud or a scam payment) we may return the amount to the sender or the person to whom we reasonably believe is legally entitled to the funds and debit the account. If we do, your and our rights and obligations will be the same as if the payment or credit was never made and we may make adjustments to the account to reflect this. If the payment is a mistaken internet payment we will act consistently with any other parts of these terms and conditions that deal with mistaken internet payments and the ePayments Code (where it applies).
+
+10. Overdrawn accounts
+
+10.1. You must keep a credit balance in your account at all times and must not overdraw your account or use a payment facility or request a payment service which could overdraw your account.
+
+10.2. If you do overdraw your account in breach of these terms and conditions:
+
+we may debit the overdrawn amount to your account;
+we may restrict the way in which you gain access to your account, such as suspending card access;
+we may calculate interest on the overdrawn amount on a daily basis, and debit it to your account half yearly for the Up Everyday Account & Monthly for the UP Saver Account, until the overdrawn amount is repaid;
+you must repay the overdrawn amount immediately; and
+we may cancel any payment facility linked to the account.
+
+10.3. We may change the interest rates for overdrawn accounts from time to time at our discretion. If any law regulates such a change we will only make the change to the extent permitted by, and subject to, the requirements of that law. Our right to make these changes is subject to the conditions in clause 18. Our current interest rates for overdrawn accounts are available on our website at Up.com.au.
+
+10.4. We do not agree to provide you with credit merely because we debit an amount to your account that causes it to be overdrawn.
+
+10.5. If you are the recipient of Centrelink benefits we will act in accordance with our obligations under the Code of Operation for Department of Human Services and Department of Veterans' Affairs Direct Credit Payments when exercising our rights in relation to your overdrawn account, for example, where we combine accounts. In particular unless otherwise agreed, we will allow you to access up to 90% of your future Centrelink benefits until the account is no longer overdrawn.
+
+11. Account Combination
+
+You agree that we may combine the balances of two or more of your accounts, including accounts you have with us that are not the subject of these terms and conditions. For example, we may do this if one of your accounts is overdrawn or in debit and the other is in credit. In this situation the credit in one account would be used to reduce the debit balance in the other account. We will promptly inform you if we combine your accounts. We need not notify you in advance.
+
+12. Statements and Confirmation of Transactions
+
+12.1 We will issue you with a statement of account at least once every 6 months.
+
+If you would like to receive a statement of account more frequently, please contact us. A fee may apply to this service. Current fees and charges are set out in this document.
+
+12.2. You must immediately notify us if you notice an error or possible unauthorised transaction.
+
+12.3. You should keep your statements safe for future reference.
+
+12.4. You agree that confirmation of transactions involving your account or any payment facility may be provided in the Up app.
+
+12.5. You agree that any request you make for a balance or information using the Up app or by any other means, in relation to any account which is regulated by the National Credit Code is not a request for a statement of a kind referred to in that Code in respect of that regulated accounts.
+
+13. Receipts and vouchers
+
+13.1. You should keep your printed records of transactions to reconcile to your statement. We are not obliged to provide you with copies of merchant or transaction vouchers.
+
+13.2. We strongly advise you to keep all of these documents in a safe place, as you may need them to do things such as complete tax returns, confirm payments have been made for goods and services and check for payments that are unpresented and how much money you have in your account at any one time.
+
+13.3. If you misplace any of your account records or need us to provide you with information about any of your transactions, such as interest payments for tax purposes, we can help by conducting a search of our records. A fee may apply for this service to cover our costs. Current fees and charges are set out in this document.
+
+14. Cancelling a payment facility
+
+14.1. We may cancel a payment facility at any time if:
+
+we have received notice of your mental incapacity, bankruptcy or death;
+we believe any of your access methods are being used, or will be used, in a way that will cause loss to you or us;
+we reasonably believe you induced us to issue the payment facility by fraud;
+you breach any of these terms and conditions;
+we close your account;
+we believe the security or quality of the Up app or any other related service or network is threatened; or
+it is reasonably necessary to protect our legitimate interests, or it is to benefit you.
+
+14.2. We will take and promptly process your instruction to cancel a direct debit request which is set up using your account number. You may cancel a direct debit request at any time by contacting us through our contact details.
+
+14.3. You are encouraged to maintain a record of any Regular Payment arrangement entered into with a merchant using your card number.
+
+14.4. To either change or cancel any Regular Payment arrangement set up using your card number you should contact the merchant at least 15 days prior to the next scheduled payment. Until you attempt to cancel the Regular Payment arrangement with the merchant directly we must accept the merchant's transaction. If possible you should retain a copy of their change/cancellation request. Should the merchant fail to act in accordance with these instructions you may have rights to dispute the transaction.
+
+14.5. Should your card number be changed i.e. as a result of lost or stolen card you must request the merchant to change the details of your existing Regular Payment arrangement to ensure arrangements continue. If you fail to undertake this activity your Regular Payment arrangement either may not be honoured by us or the merchant may stop providing the goods and/or services.
+
+14.6. Should you elect to close your account or your account is closed by us you should contact the merchant to amend any Regular Payment arrangement set up using your card number; as the merchant may stop providing the goods and/or services.
+
+14.7. If we cancel a payment facility we will notify you as soon as possible afterwards except if we cancel a direct debit after being advised by the payee that no further payment is required or your account is closed.
+
+14.8. You may alter, stop or cancel a payment facility at any time via the Up app or contacting us using our contact details.
+
+14.9. If your card is cancelled, you must immediately destroy it for your protection.
+
+14.10. If your access to the Up app is cancelled, we may refuse any transaction you initiate without giving any reason or advance notice to you.
+
+14.11. If you cancel a direct debit we must receive your instructions at least 1 business day prior to the due date of the next payment, otherwise that payment may nevertheless be made. For direct debit cancellations we suggest that you also contact the merchant concerned.
+
+15. Stopping or closing your account
+
+15.1. You may request us to close your account only if it is in credit using the account in the Up app or by contacting us using our contact details
+
+15.2. If a card is linked to your account, you must give us 14 days notice of your intention to close your account. You must destroy all cards issued on the account at the time of giving notice. This 14 day period is to allow for outstanding card transactions to be presented for payment before the account is closed.
+
+15.3. We may close your account at any time, due to unsatisfactory conduct or for any other reason if we consider it necessary to prevent fraud or other losses to you or us, or to protect our legitimate interests, by giving you notice that is reasonable in all the relevant circumstances and paying to you any amount standing to the credit of your account. If you breach any of these terms and conditions, we may close the account without giving you prior notice.
+
+Examples of unsatisfactory conduct include:
+
+Behaviour that is defamatory, harassing, threatening to any person.
+Behaviour that promotes or encourages physical or mental harm of any person.
+We believe that your banking conduct poses a regulatory risk or is beyond our risk appetite.
+We have reason to believe that the account is being operated fraudulently.
+We have reason to believe that you have attempted to deceive Up, either knowingly or unknowingly.
+We have reason to believe that you have allowed another person to use Up on your device or to impersonate you in Up.
+We have reason to believe that your account is being used for business purposes.
+Your account is opened with a zero balance, and you do not operate your account within 180 days of opening.
+
+15.4. We will give you notice as soon as possible after closing the account (unless we have previously given you notice) and will pay to you the amount standing to the credit of your account. This will not apply where we close any account opened with a zero balance and which has not been operated within 180 days of opening.
+
+15.5. If your account is closed:
+
+we may cancel any card linked to the account and disable your access to other payment facilities linked to the account;
+you will be liable for any transactions that were not processed, or that occur, on the account (including, but not limited to, outstanding merchant purchases) at the time the account is closed;
+you must pay to us on demand all unpaid fees and charges prior to closing the account;
+we may require that any overdrawn or unpaid amounts be repaid to us before we agree to provide any other banking or financial products or services to you.
+
+15.6. You should make arrangements for any automatic payments, direct debit, direct credit payments, interest payments or ongoing Pay Anyone Service Payments that are paid into or out of your account to be re-directed before the account is closed.
+
+15.7. We reserve the right to withdraw any account from offer without notice.
+
+15.8. Acting reasonably, we may place a stop on your account if:
+
+you are in breach of any of the terms and conditions;
+you have not provided us with information that we have asked you to provide;
+we receive notice of your mental incapacity, bankruptcy or death; or
+we become aware of any dispute which in our reasonable opinion has a bearing on the account.
+
+If we place a stop on your account, you or anyone else will not be able to make any withdrawal transactions on the account or otherwise operate it. Credit transactions will still be allowed unless you specifically request credit transactions be stopped.
+
+15.9. If we receive notice of a dispute from a third party who claims a beneficial interest in the funds held in the account, we may at our discretion freeze the account until the dispute has been resolved to our reasonable satisfaction.
+
+16. Account conversion
+
+In the event we cease to provide, or allow you to access your account using, the Up app, we may convert your account to another type of deposit account with us by giving you reasonable prior notice of the conversion and giving you the terms and conditions that will apply to the new deposit account after the conversion takes effect.
+
+17. Dormant accounts
+
+17.1. If you do not operate your account for a number of years, your account may be deemed dormant.
+
+17.2. We will contact you through the Up app or via SMS to notify you that your account is dormant, giving you the following options:
+
+you can make a transaction to re-activate the account; or
+you can close the account.
+
+17.3. If you do not make a transaction to re-activate the account, your account will be closed and where required to do so by law, the balance of your account will be sent to the Commonwealth Government as unclaimed money.
+
+18. Changes
+
+18.1. Acting reasonably, we may change these terms and conditions at any time. If any law regulates that change, we will only make the change to the extent permitted by, and subject to, the requirements of that law.
+
+We can only make changes to the extent reasonably necessary to protect our legitimate interests, or to benefit you, including:
+
+changes because of changes to our cost of funds or other costs of doing business or to ensure that we receive an adequate return on assets;
+changes because of requirements of laws or industry codes of practice, prudential standards, court decisions, decisions of our dispute resolution scheme, guidance or directions from regulators, and similar reasons;
+changes due to changes in the way we operate our business or our systems;
+changes we think are necessary to fix errors or to make things clearer;
+changes for information security or similar purposes;
+changes to reflect market practice or standards or to keep our products competitive and meeting customer expectations and needs; or
+changes made for other good reasons.
+
+18.2. Subject to the requirements of any law, you agree that we can give notice of changes to these terms and conditions and of any change that affects, any of the matters specified in this document (including changes to fees and charges and interest rates):
+
+via the Up app;
+in writing (including by notice in your statements of account);
+by an advertisement published in a major daily newspaper published in Australia;
+In such other manner as we reasonably consider is likely to come to the attention of as many account holders as possible; or
+In accordance with clause 27.4.
+
+18.3. The notice of change table sets out how much prior notice we will give you of changes, if prior notice is required.
+
+If a Government charge payable directly or indirectly by you is introduced or varied, we will notify you by advertisement in the national media or local media or in writing unless the introduction or variation is publicised by the Government.
+
+18.4. Notice of Change
+
+Type of change.	Minimum number of days notice
+Any change that is an increase in fees or charges.	30
+A variation of the method by which interest is calculated.
+A variation of the frequency with which interest is debited or credited.
+A variation of the balance ranges within which interest rate apply.	30
+Increase your liability for losses relating to EFT transactions.	30
+Impose, remove or adjust the daily or periodical withdrawal limits applying to the use of an access method, an account from which we permit you to initiate EFT transactions, or electronic equipment.	30
+Change to the EFT conditions, BPAY conditions or Pay Anyone conditions (that is not caught by the above). Note: We will not give you advance notice of a change necessitated by an immediate need to restore or maintain the security of the Up app, any systems it uses or connects to or individual accounts.	In time to comply with any applicable law. Otherwise in advance of the date the change takes effect.
+Other changes to the terms and conditions (apart from a change in Government charges payable directly or indirectly by you).	No later than the day on which the change takes effect.
+19. Tax
+
+19.1. When you open an account with us, you have the option of supplying us with your Tax File Number.
+
+19.2. Providing your Tax File Number is not compulsory, but is advisable.
+
+19.3. If you choose not to provide us with your Tax File Number, we are required to deduct withholding tax at the highest marginal tax rate plus the Medicare Levy, when you earn interest income of $120 or more a year.
+
+19.4. If you are entitled to an exemption in relation to this tax you should advise us of your type of exemption and provide any supporting documentation we may require.
+
+19.5. The above clauses 19.1, 19.2 and 19.3 do not apply if you are not a resident of Australia. We are required to withhold Australian non-resident withholding tax from interest income earned on your account at the prescribed rate, which is currently 10%.
+
+20. Privacy
+
+20.1. We are committed to ensuring your privacy is protected and understand your concerns regarding the confidentiality and security of personal information you provide to us. Our privacy policy in relation to the accounts and payment facilities to which these terms and conditions apply is available on our website at https://up.com.au/privacy.
+
+21. If you have a complaint
+
+21.1. We consider Internal Dispute Resolution (IDR) to be an important and necessary first step in the complaint handling process as it gives us an opportunity to hear when we do not meet our customers' expectations and address them genuinely, efficiently and effectively.
+
+You can raise a complaint by contacting us using our contact details.
+
+21.2. If you are not satisfied with the response provided, you may refer your complaint directly to our External Dispute Resolution scheme (refer to clause 21.5).
+
+Concerns or complaints about EFT transactions
+
+21.4. If your complaint is in relation to an EFT transaction, we will advise you in writing of the procedures for investigating and handling the complaint.
+
+If we are unable to resolve the complaint within 30 days, we will notify you of this fact, inform you of the reasons for the delay, provide you with monthly updates on the progress of your complaint and specify a date by which a decision can reasonably be expected (unless we are waiting for a response from you and we have told you that we require that response);
+when we have completed our investigation of your complaint, we will promptly advise you of the outcome of that investigation, the reasons for that outcome including references to relevant clauses of the ePayments Code and, except where the complaint has been resolved completely in your favour, we will inform you of any further action you can take under the ePayments Code. Our advice will be in writing unless we are able to resolve the matter immediately to the satisfaction of both you and us;
+if on completion of our investigation we decide that your account has not been incorrectly debited or credited, or in the case of unauthorised transactions, that you have contributed to at least part of the loss occasioned by the unauthorised use, we will supply you with copies of any documents or other evidence relevant to the outcome of our investigation, including information about any logs or audit trails relating to the transaction and advise you whether there was any system or equipment malfunction at the time of the transaction (for example, if you don't protect your mobile phone by using a passcode or biometric lock it could contribute to the chance of unauthorised transactions);
+if we conclude as a result of our investigation that your account has been incorrectly debited or credited we will promptly make adjustments to your account (including making adjustments to interest and charges) and notify you in writing of the amount by which your account has been debited or credited as a result;
+if we decide to resolve your complaint in your favour, we may adjust your account accordingly within 7 business days of receiving the complaint and provide the information required by paragraph b and close the investigation. When we choose this course of action we are not required to comply with clause 21.5;
+if we fail to observe the appropriate allocation of liability in accordance with the relevant clauses of the ePayments Code or fail to explain the reasons of any findings that you are liable by reference to relevant aspects of those paragraphs, or in any material respect we fail to observe the complaint investigation and resolution procedures set out in this clause or as required by the ePayments Code, and where such failure has contributed to a decision by us against you or delayed the resolution of your complaint, we may accept full or partial liability for the amount of the transaction which is the subject of your complaint.
+Australian Financial Complaints Authority (AFCA)
+
+21.5. We are a member of the Australian Financial Complaints Authority. You can contact AFCA at:
+
+Australian Financial Complaints Authority
+
+GPO Box 3
+
+Melbourne VIC 3001
+
+Telephone: 1800 931 678
+
+Website: www.afca.org.au
+
+Email: info@afca.org.au
+
+The Australian Financial Complaints Authority is provided to you free of charge.
+
+22. If you have changed your name, address or contact details
+
+22.1. If you have changed your name, we will need to amend our records as soon as possible. Before amending our records, we will require evidence of your name change, such as a marriage certificate, birth certificate, decree nisi or dissolution of marriage, or certificate of registration of change of name.
+
+22.2. If you have changed your address (home, business, or email, where relevant) or contact details, you must provide us with your new address or contact details as soon as possible through the Up app.
+
+22.3. You should advise us of the details of all of your accounts so that all our records can be changed.
+
+22.4. You must notify us through the Up app as soon as possible of any proposed or actual changes to your financial or legal status (including name changes, mergers, administration or receivership, schemes of arrangement, bankruptcies, liquidations, windings up, dissolutions or acting or failing to act in a manner which could result in any of these situations) or any other material changes that may affect or impact upon your use of your account or any payment facility or your ability to continue operating in a financially viable manner.
+
+23. Banking Code of Practice
+
+23.1. The bank is bound by the Banking Code of Practice.
+
+23.2. The Banking Code of Practice requires us to draw your attention to the availability of general descriptive information concerning our banking services. This includes:
+
+information about account opening procedures;
+our obligations regarding the confidentiality of your information;
+complaint handling procedures;
+the advisability of you informing us promptly when you are in financial difficulty so that we may discuss your situation;
+the advisability of you reading the terms and conditions applying to this banking service.
+24. Financial Claims Scheme
+
+24.1. The Financial Claims Scheme protects depositors through the provision of a guarantee on deposits (up to a cap) held in authorised deposit-taking institutions (ADI's) in Australia and allows quick access to their deposits if an ADI becomes insolvent. As such please note the following information:
+
+You may be entitled to a payment under the Financial Claims Scheme in the event that we become insolvent.
+Accessibility to the Financial Claims Scheme is subject to eligibility criteria.
+Information about the Financial Claims Scheme can be found at www.fcs.gov.au.
+25. Anti-Money Laundering and Counter-Terrorism Financing (AML/CTF)
+
+25.1. We are committed to complying with anti-money laundering and counter-terrorism financing regulations. To comply with these requirements we may:
+
+require you to provide to us, or otherwise obtain, any additional documentation or other information;
+suspend, block or delay transactions on your account, or refuse to provide services to you;
+report any, or any proposed, transaction or activity to anybody authorised to accept such reports relating to AML/CTF or any other law.
+26. Liability
+
+26.1. Subject to any other provision of these terms and conditions, to the extent permitted by law, we are not liable to you for or in connection with:
+
+any loss or damage you suffer as a result of using your account or a payment facility;
+any delay or failure in processing a transaction on your behalf;
+any transaction which is processed by us on your behalf;
+any failure, malfunction, delay or error (for any reason) of any equipment, system or software (including, without limitation, the telephone, internet enabled device, software and telecommunications and ISP services you use to access an account or payment facility);
+any unavailability or failure of a payment facility to accept instructions from you;
+any failure of a card, passcode or PIN to permit you to access a payment facility;
+any unauthorised access to, or disclosure of information relating to, your account through a payment facility; or
+any other action taken or not taken in relation to your account or a payment facility.
+
+We do not exclude any liability to you for loss or damage to you arising directly from the fraud, negligence or wilful misconduct of us, our employees or agents or a receiver appointed by us.
+
+27. Other
+
+27.1. We may decide, at our discretion, the order in which payments will be processed.
+
+27.2. We may give you a certificate about a matter in connection with an account. We may use the certificate as evidence of the matter, unless it is incorrect.
+
+27.3. Notices and other communications for us may be:
+
+sent via the Up app;
+sent by post to our registered office;
+delivered by any other means permitted by law.
+
+27.4. Subject to the requirements of any law, notices and other communications for you may be:
+
+sent via the Up app;
+sent by email to your email address last notified to us;
+sent by prepaid post or left at any address specified by you, or your residential or business address last known to us;
+delivered by any other means permitted by law.
+
+27.5. We may also give you notices and other communications by making them available electronically (for example, by publishing them on our website) and notifying you that we have done so and how you can obtain the notice or communication.
+
+27.6. Enforcement expenses may become payable if you breach these terms and conditions. For instance, if you overdraw your account without our written permission we may take legal action to recover the debt. Any reasonable expenses we incur in recovering our debt will be payable by you and you authorise us to debit the amount of these expenses to your account.
+
+Our rights under these terms and conditions
+
+27.7. We may choose at any time to waive any of our rights under these terms and conditions. Subject to any applicable law, a waiver by us is not a change to, and does not reduce our rights under, these terms and conditions unless we give you written notice that it is a change to these terms and conditions.
+
+27.8. Nothing in this agreement has the effect of excluding, restricting or modifying rights in the Australian Securities and Investments Commission Act or Competition and Consumer Act, which cannot be excluded, restricted or modified by agreement.
+
+27.9. Part or all of any provision of these terms and conditions that is illegal or unenforceable will be severed from these terms and conditions, however the remaining provisions of these terms and conditions will continue in force.
+
+27.10. We may assign or otherwise deal with our rights under these terms and conditions in any way we consider appropriate.
+
+27.11. You agree that we may disclose any information or documents we consider desirable to help us exercise this right. You also agree that we may disclose information or documents at any time to a person to whom we assign our rights under these terms and conditions.
+
+27.12. You should inform us promptly if you are in financial difficulty.
+
+27.13. To the extent that the National Credit Code applies to these terms and conditions and:
+
+that Code would otherwise make a provision of these terms and conditions illegal, void or unenforceable; or
+a provision of these terms and conditions would otherwise contravene a requirement of that Code or impose an obligation or liability which is prohibited by that Code,
+
+these terms and conditions are to be read as if that provision were varied to the extent necessary to comply with that Code or, if necessary, omitted.
+
+27.14. We may only exercise our rights under a term in these terms and conditions to the extent (if any) reasonably necessary to protect our legitimate interests. This clause applies to a term in these terms and conditions, despite any other term, if it:
+
+is subject to unfair contract terms legislation; and
+is to our advantage; and
+causes a significant imbalance in the rights and obligations of you and us under these terms and conditions; and
+would cause detriment to you if we applied the term or relied on the term.
+
+Words used in this clause have the meanings given to them in the unfair contract terms legislation.
+
+When your credit rating could be affected
+
+27.15. If your account(s):
+
+becomes overdrawn without arrangements; and
+remains overdrawn for more than 60 days after the end of any period we allow for you to repay the amount overdrawn,
+
+then we may commence enforcement action and report your default to a credit reporting agency.
+
+Section C: Cards
+
+Section last updated Thursday, 9 November 2023
+
+View earlier versions of this section
+
+Up issues both digital and physical cards. Digital cards cannot be used at ATMs or in environments where contactless payment is not supported.
+
+We warrant that we will comply with the requirements of the ePayments Code. This section and Section E apply whenever we issue a card that is linked to an account to which this document applies.
+
+28. Your Card
+
+28.1. Cards are not available on all accounts. The Key Features Table indicates the accounts for which they are available.
+
+28.2. The issue and use of a card is at all times at our discretion. The card will always remain our property and must be returned to us on demand.
+
+28.3. We may issue replacement cards at any time, for example when the cardholder has changed his or her name, or when the card has been damaged. If we issue a replacement card to you, you must not use the card it replaces and you remain liable for any use of the replaced card.
+
+28.4. Before the expiry date of your card, we will automatically issue you with a renewal card unless you request us in writing not to do so. At least two months prior to your card expiring, you must notify us of any changes to your address. This will ensure our records are up to date in the event that we mail your reissued card directly to you.
+
+28.5. If you wish to receive a physical card we will mail it to you via post. Once you have received the card, you are responsible for the security of the card.
+
+28.6. You must choose a PIN for your card. We may ask you for this PIN at any time as further proof of your identity.
+
+28.7. You may be required to produce suitable identification when using your card.
+
+29. Using your card
+Within Australia
+
+29.1. You can use your physical card at ATMs to:
+
+make withdrawals from your account; and
+obtain account balances for your account.
+
+29.2. Other financial institutions can determine from time to time what transactions can be carried out at their ATMs.
+
+29.3. You can use your physical card at any EFTPOS terminal in Australia to purchase goods and services or withdraw cash from your account (providing the merchant operating the EFTPOS terminal has a policy which allows for cash withdrawals).
+
+29.4. You can use your card at a contactless terminal to perform a contactless transaction if your card is capable of performing such transaction or if we allow you to register your card in a digital wallet. A cash withdrawal cannot be completed when performing a contactless transaction.
+
+29.5. You can use your physical card at a Bank@Post™ terminal (however the Post Office may have restrictions and Australia Post reserves the right not to process a transaction) to;
+
+make withdrawals from your Up Everyday account;
+make deposits to your Up Everyday deposit account;
+obtain account balances for your Up Everyday account.
+Outside Australia
+
+29.6. You can use your physical card to withdraw from your account at any ATM overseas bearing the Mastercard, Cirrus or Maestro symbol that allows you to select this option.
+
+29.7. You should contact us via our contact details before travelling for information on use of your card overseas.
+
+Within Australia and outside Australia
+
+29.8. You can use your card to purchase goods or services via mail order, by telephone or by other means (such as the Internet) where the merchant accepts that form of payment.
+
+Other
+
+29.9. The fact that any promotional material is displayed at the premises does not mean that we guarantee that all goods and services available there may be obtained by using your card. We are not responsible if a merchant or financial institution refuses to accept your card, does not allow cash withdrawals or places other limitations on using your card.
+
+29.10. To the extent permitted by law, we are not responsible for the following:
+
+any goods or services which you have obtained from a merchant using your card;
+any refund by a merchant.
+
+29.11. If you have any complaints about goods or services, you must raise them directly with the merchant.
+
+29.12. We do not warrant that ATMs will always have money available.
+
+30. Card Transactions
+
+30.1. All transactions need authorisation from us. We can refuse to authorise a proposed transaction if:
+
+the transaction exceeds the cleared funds;
+your card has been reported lost or stolen;
+we have any other good reason to do so.
+
+30.2. You authorise us to give information to other persons for the purpose of authorising transactions made using your card.
+
+30.3. You authorise us to debit your account with the amount of any purchases, withdrawals and any other transactions made using your card.
+
+31. Foreign Currency Transactions
+
+31.1. Transactions in foreign currency amounts conducted using your card, may incur a fee. Current fees and charges are set out in this document. They are converted (depending on the foreign currency conversion) into either:
+
+Australian dollars at the appropriate Mastercard International exchange rate as at the date of processing; or
+United States dollars and then into Australian dollars at the appropriate Mastercard International exchange rate as at the date of processing.
+
+31.2. The Australian dollar amount is then debited to your account.
+
+31.3. When you use your card outside Australia you are bound by any exchange control requirements of the Reserve Bank of Australia.
+
+Section D: The Up app
+
+Section last updated Thursday, 9 November 2023
+
+View earlier versions of this section
+
+We warrant that we will comply with the requirements of the ePayments Code. This section and Section E apply when you use the Up app.
+
+32. Passcode and Biometric authentication
+
+32.1. When you sign up for Up, you designate a passcode which you can subsequently use to authenticate with the Up app.
+
+32.2. You acknowledge and accept that:
+
+the mobile number you supply and your selected passcode together form the means by which we authenticate you when you use the Up app;
+anyone using your mobile number and passcode will be able to authenticate themselves as you using the Up app, and hence will be able to access and conduct transactions on your accounts.
+
+32.3. You authorise us to act upon all instructions given to us using your mobile number and passcode. Subject to any other provision of these terms and conditions, you are liable for any such instructions.
+
+32.4. We may delay acting on an instruction given by you when we reasonably believe it is necessary for us to do so.
+
+33. Services Available Using the Up app
+
+33.1. By using the Up app you may be able to:
+
+review the balance of your accounts to determine the current or available balance;
+transfer funds between accounts;
+arrange recurring or future specific date funds transfers;
+review the transaction history of an account;
+review the details of a transaction on an account including the date of the transaction, the type of the transaction (such as a withdrawal or BPAY payment) and the amount;
+select an individual transaction or a range of transactions on an account for closer examination;
+access chat functionality which enables you to exchange secure messages with Up support staff. Sensitive information should not be submitted via chat (e.g. Tax File Numbers, Card Numbers. passcodes, PINs, etc);
+make BPAY payments;
+transfer funds using the Pay Anyone Service to any account at any financial institution within Australia using a valid BSB number and account number; and
+Other actions and functionality, as we make it available.
+34. Equipment
+
+34.1. It is your responsibility to obtain and maintain any electronic equipment (e.g. computer hardware or smart phone) which you may need to access the Up app.
+
+34.2. The Up app is available for iOS and Android devices and can be installed by using the app store functionality on those devices.
+
+35. Access
+
+35.1. You will only have access to an account using the Up app where:
+
+the account is an Up account;
+we have received no notification or we are unaware that the account is under a dispute of any kind with any other party or entity; and
+we have received no notification or we are unaware that an application for bankruptcy or liquidation has been filed either by you, or issued or lodged by another person or entity.
+
+35.2. In our discretion, we may require that you authenticate yourself in the Up app using two factor or progressive authentication before we accept your instructions for certain types of activities or transactions in the Up app. For example, we may require you insert a code we send you via SMS or other notification. Where we do so, we may refuse to accept your instruction until you have authenticated yourself as requested.
+
+35.3. We will make reasonable efforts to ensure the availability of the Up app and ensure that information we make available to you through the Up app is correct. However, to the extent permitted by law, we do not guarantee the Up app will always be available or error free.
+
+35.4. We may block access to the Up app at any time without notice if we believe either it is being misused by you or used without your authority.
+
+35.5. You must only use the Up app on a device that has not had its operating software modified against the operating system provider's specifications or recommendations (i.e. it is not "jailbroken" or "rooted") and must promptly install and apply any operating system updates or security patches released by the operating system provider on your device.
+
+35.6. We may temporarily block your access to the Up app at any time without prior notice to you in the event of any Up system malfunction.
+
+35.7. We may remove your access to the Up app without giving you notice where you have not accessed the Up app for at least six months.
+
+35.8. If you give us notice to cancel your access, you remain bound by these terms and conditions which may apply notwithstanding that your access has been cancelled.
+
+35.9. Without limiting clause 35.4, 35.6 or 35.7, we may cease to allow you to access your accounts using the Up app, without providing any reason to you, at any time by providing reasonable prior notice to you.
+
+36. Confirmation of Transactions
+
+36.1. We will provide you with a transaction receipt number every time you make a transaction on your account using the Up app. You should record the transaction receipt number and it should be quoted if you or they have any queries in relation to that transaction.
+
+36.2. Subject to the requirements of any law, records of transactions made using the Up app will be made available to you on the Up app immediately on completion of the transaction and as part of the associated account's transaction history for later viewing. You can save or print the transaction receipt at your own discretion. We will not provide you with a paper transaction record or receipt.
+
+37. Our responsibility for the Up app
+
+37.1. Subject to any other provisions of these terms and conditions, to the extent permitted by law, we are not liable to you for or in connection with:
+
+any loss or damage you suffer as a result of using the Up app or a payment facility;
+any malfunction or failure of any electronic equipment;
+any malfunction or failure of any other system or software you use to access the Up app, including without limitation, telecommunications and ISP services;
+any unavailability or failure (of which you should have been aware) of the Up app to accept instructions from you;
+any failure of a passcode to permit you to access the Up app;
+disclosure of information relating to your accounts through the Up app where the information has been obtained by or in conjunction with any person using your passcode or mobile number; or
+any unauthorised access to your information transmitted by us through the Up app in relation to a nominated account.
+
+We do not exclude any liability to you for loss or damage to you arising directly from the fraud, negligence or wilful misconduct of us, our employees or agents or a receiver appointed by us.
+
+37.2. You acknowledge and accept that the Up app may only show transactions and balances current as at the previous business day.
+
+38. Liability
+
+38.1. You will be liable for all transactions on your account carried out using a supported access method. You authorise us to debit all such transactions to your account.
+
+38.2. To the extent permitted by law, we will not be liable for any loss or damage you suffer as a result of using the Up app.
+
+Section E: Use and security of your card, biometric identification, passcode and PIN
+
+Section last updated Thursday, 11 April 2024
+
+View earlier versions of this section
+
+39. Protecting your card, biometric identification, passcode and PIN
+
+39.1. The security of your card, biometric identification, passcode and PIN is very important. You may be liable for unauthorised transactions which you contribute to by not keeping your card, biometric identification, passcode and PIN secure. Your liability is governed by clause 44.
+
+39.2. You must ensure that you:
+
+keep your card, recovery code, passcode and PIN secure and protected;
+do not tell anyone your PIN, passcode or recovery code;
+do not record your PIN, passcode or recovery code in electronic or written form.
+do not select a passcode or PIN that is easily identified with you (e.g. your date of birth, your name or part of it or your phone number);
+do not select a passcode or PIN that is a common or easily guessed combination (e.g. repeated or consecutive numbers such as 5555 or 1234);
+do not provide your PIN, recovery code, passcode or card to any person (including a family member or a friend);
+do not allow any unauthorised person to observe or hear your recovery code, PIN or passcode;
+do not allow any unauthorised person to enrol or register their biometric information on a device in which the Up app is installed and not install or use the Up app on any device on which another person has enrolled or registered their biometric information;
+only sign in to or use the Up app on a device which is and remains in your possession and is secured in such a manner that it is only accessible by you, such as with a personal identification number or passcode that only you know, or with a biometric system such as a fingerprint or facial recognition system that only has your biometric information enrolled or registered in it.
+
+39.3. If you have a card you must also ensure that you:
+
+keep your card in a safe place;
+check regularly that you have your card in your possession;
+do not record your PIN on your card or carry any record of your PIN in an undisguised form with the card. (Merely placing a couple of digits at the beginning or end of your PIN disguising it as a telephone number or birth date is not sufficient);
+do not let anyone use your card. You may be legally liable if someone else uses your card and PIN, with or without your permission;
+destroy expired cards; and
+collect your card from the ATM after completing a transaction.
+
+39.4. The following ways of recording a PIN are often deciphered by thieves and it is strongly recommended that these ways are not used for recording PIN's:
+
+recording the PIN as a series of numbers with any of them marked, circled or highlighted to indicate the PIN;
+recording the PIN with surrounding information that makes it stand out from its context. For instance, a PIN recorded as a 4 or 6 digit telephone number where all other numbers are 8 digits;
+recording the PIN as a string of digits in isolation from other information; and
+recording the PIN as a birth date, postcode or telephone number without additional features of disguise.
+
+39.5. A reasonable attempt must be made to protect the security of a PIN. Making any reasonable attempt to disguise the PIN within the record, or prevent unauthorised access to the PIN record, includes but is not limited to:
+
+hiding or disguising the PIN record among other records,
+hiding or disguising the PIN in a place where a PIN would not be expected to be found,
+keeping a record of the PIN in a securely locked container, or
+preventing unauthorised access to an electronically stored record of the PIN.
+
+39.6. You must not act with extreme carelessness in failing to protect the security of your PIN where extreme carelessness means a degree of carelessness that greatly exceeds what would normally be considered careless behavior. An example of extreme carelessness is storing your PIN in an unprotected computer or diary under the heading PIN.
+
+40. Loss, theft and unauthorised use of your card, device, passcode, recovery code or PIN
+
+40.1. You must notify us immediately if:
+
+any record you may have of your PIN, recovery code or passcode is lost or stolen;
+someone has stolen your card;
+you have lost your card;
+you become aware or suspect another person knows your recovery code, PIN or passcode or has used your recovery code, PIN or passcode without your authority;
+someone steals your device;
+you lose your device;
+you change or otherwise lose access to or the right to use your mobile phone number; or
+the biometric identification method on your device becomes compromised or another person has registered their biometric details on your device.
+Safeguarding payment instruments
+
+You should safeguard payment instruments such as card and registered device. Subject to clauses 40, 41 and 42 you will be liable for all transactions arising from the use of a payment instrument until you have advised us of its loss, theft or misuse. If any of the above payment instruments are lost, stolen or misused, you should contact us immediately.
+
+Lost and Stolen cards:
+
+In Australia contact us on 1300 002 258 Overseas contact us on +61 1300 002 258
+
+Alternatively, phone +1 636 722 7111 reverse charges (this service is available 24 hours a day, 7 days a week), or visit the Mastercard International website at mastercard.com to obtain a toll free number for the country you are travelling in.
+
+40.2. Any unreasonable delay in notifying us may expose you to liability for losses incurred as a result of unauthorised access or transactions. Liability for unauthorised transactions is set out in clause 44.
+
+40.3. You are not liable for any unauthorised transactions which could have been prevented during any period of unavailability of all these contact points as long as you notify us within a reasonable time of a contact point becoming available.
+
+40.4. When you report the loss, theft or unauthorised use of your card, PIN or passcode, you will be given a notification number which you should retain as evidence of the date and time of your report.
+
+40.5. You should confirm any verbal notification via the Up app as soon as possible.
+
+40.6. If you find your card after reporting it lost or stolen, cut it up and do not attempt to use it. We cancel all cards reported lost or stolen.
+
+40.7. You can arrange for an emergency replacement card if required, at the time of reporting your card lost or stolen.
+
+41. Your Liability -- Non PIN generated transactions
+
+41.1. You are not liable for any transaction performed without your permission, unless you have contributed to the loss by:
+
+letting someone else use your card; or
+unreasonably delaying notifying us of the loss, theft or unauthorised use of your card.
+
+41.2. If you did either of these things, we may hold you liable for all transactions carried out using your card up to the time you notify us of the loss, theft or unauthorised use of your card.
+
+41.3. A disputed transaction may include:
+
+An unauthorised transaction -- a transaction which you believe was not authorised by use of the card or account by you. This includes any unauthorised telephone, internet or mail orders or any other unauthorised transactions on your account.
+General dispute -- a transaction which you wish to dispute. This may include a transaction which has been processed to your account more than once, or a transaction which was authorised by the use of your card or account which you wish to dispute.
+
+41.4. Despite notifying us of a disputed transaction, you remain liable for any purchase made by you.
+
+41.5. Mastercard have a dispute resolution process that is contained in the operating rule of the card scheme. This process sets out the specific circumstances and timeframes in which a member of the scheme (e.g. a bank) can claim a refund in connection with a disputed transaction on a cardholder's behalf. This is referred to as a 'chargeback right'. We will claim a chargeback right where one exists and you have disputed the transaction within the required time frame. We will claim the chargeback for the most appropriate reason. Our ability to investigate any disputed transaction on your account, and subsequently process a chargeback is restricted by the time limits imposed under the operating rules of the card scheme. The timeframes for us to process a chargeback (where a chargeback right exists) vary between 45 days and 120 days, depending on the type of transaction. We will not accept a refusal of a chargeback by a merchant's financial institution unless it is consistent with card scheme rules.
+
+42. Electronic transactions
+
+42.1. If the ePayments Code is applicable to a disputed transaction, the timeframes as specified in clause 41.5 may not apply in certain circumstances.
+
+42.2. Our ability to dispute a transaction on your behalf (where a chargeback right exists) may be lost if you do not notify us within the required timeframes. For this reason, it is in your interest to report any disputed transaction to us immediately and certainly no later than the due date shown on the statement of account. Where it can be shown that you have unreasonably delayed notifying us, you may be liable for the loss on any disputed transaction.
+
+42.3. If a dispute is withdrawn or resolved in favour of the merchant, a voucher retrieval fee may apply.
+
+42.4. Where a dispute is resolved in your favour, we will make the necessary adjustments to any interest and fees charged as a result of your dispute.
+
+To report an unauthorised transaction, please contact us via our contact methods.
+
+Section F: EFT Transactions – PIN, Passcode and mobile number generated transactions
+
+Section last updated Friday, 31 May 2019
+
+We warrant that we will comply with the requirements of the ePayments Code.
+
+43. Liability for authorised transactions
+
+43.1. You are responsible for all transactions carried out using a PIN, or your registered mobile number and passcode, by you or by anyone else with your knowledge and consent.
+
+43.2. If the Up app malfunctions after having accepted your instructions or fails to complete the transaction in accordance with your instructions resulting in loss to you of some or all of the amount of a transaction, we will correct that loss by making any necessary adjustments to your account, including an adjustment of any interest or fee. If you consider that you have incurred additional losses as a consequence of the malfunction you may make a claim for any such loss.
+
+43.3. If you are aware or should have been aware that the Up app was unavailable for use or was malfunctioning, then our responsibility will be limited to the correction of errors in your account and the refund of any fee imposed as a result.
+
+43.4. We may withdraw electronic access to your account without prior notice to you in the event of any Up app malfunction.
+
+44. Liability for unauthorised transactions
+
+44.1. You will not be liable for losses arising out of:
+
+unauthorised transactions where it is clear that you have not contributed to the loss;
+the fraudulent or negligent conduct of our employees or agents or companies involved in networking arrangements or of merchants who are linked to the EFT system or their agents or employees;
+any component of an access method that is forged, faulty, expired or cancelled;
+unauthorised transactions occurring after you have notified us as required by these terms and conditions of the loss, theft or misuse of a card, forming part of an access method or that the security of a PIN, your passcode or mobile number has been breached;
+transactions which require the use of a card or PIN linked to your account, and that occurred before you received that card or PIN from us (including a reissued or replacement card or PIN);
+the same transaction being incorrectly debited more than once to the same account.
+
+44.2. You are liable where we can prove on the balance of probability that you have contributed to the losses in any of the following ways:
+
+through your fraud;
+by you voluntarily disclosing the recovery code, PIN or your passcode to anyone, including a family member or friend;
+by keeping a record of the PIN (without making any reasonable attempt to disguise the PIN or prevent unauthorised access to the PIN) on the one article, or on several articles, carried with the card, so that they are liable to loss or theft simultaneously with the card;
+by keeping a record of your PIN or passcode (without making any reasonable attempt to protect the security of the records) on the one article, or on several articles so that they are liable to loss or theft simultaneously;
+where we permit you to select or change a PIN or passcode, by selecting numbers which represent your birth date or letters which are a recognisable part of your name, if immediately before this was done we specifically warned you not to do so and that you might incur liability by doing so;
+by acting with extreme carelessness in failing to protect the security of the recovery code, PIN or your passcode;
+where the ePayments Code requires, that the recording or voluntary disclosure of one or more but not all of the codes forming part of the access method was the dominant contributing cause of the loss;
+by leaving a card in an ATM which incorporates reasonable safety standards that mitigate the risk of a card being left in the ATM.
+
+In these cases, you will be liable for the actual losses which happened before you notified us that the card had been misused, lost or stolen or that the security of an access method had been breached, but you will not be liable for any of the following amounts:
+
+that portion of the losses incurred on any one day which exceed the applicable daily withdrawal limits;
+that portion of the losses incurred in a period which exceeds any other periodic withdrawal limits applicable to that period;
+that portion of the total losses incurred on any account which exceeds the balance of that account (including any prearranged credit);
+all losses incurred on any accounts which we and you had not agreed could be accessed using the access method;
+any losses incurred as a result of conduct we expressly authorised you to engage in;
+any losses incurred as a result of you disclosing, recording or storing a recovery code, PIN or passcode in a way that is required for the purposes of using a service such as a password manager, or storing your codes in an electronic wallet on your computer which is expressly or implicitly promoted, endorsed or authorised by us.
+
+44.3. Where we can prove on the balance of probability that you have contributed to the losses by unreasonably delaying notification after becoming aware of the misuse, loss or theft of a card forming part of the access method, or that the security of all the codes forming part of the access method has been breached, you are liable for the actual losses which occur between when you became aware (or should reasonably have become aware in the case of a lost or stolen card) and when we were actually notified, but you are not liable for any of the following amounts:
+
+that portion of the losses incurred on any one day which exceed any applicable daily withdrawal limits;
+that portion of the losses incurred in a period which exceeds any other periodic withdrawal limits applicable to that period;
+that portion of the total losses incurred on any account which exceeds the balance of that account;
+all losses incurred on any accounts which you and we had not agreed could be accessed using the access method.
+
+44.4. Where we cannot prove you were liable under clauses 44.2 or 44.3 and a PIN or passcode was required to perform the unauthorised transaction, you will be liable for the least of:
+
+$150;
+the balance of those accounts (including any prearranged credit) which you and we have agreed may be accessed using the access method;
+the actual loss at the time we were notified (where relevant) that the card has been misused, lost or stolen or that the security of the codes forming part of the access method has been breached (excluding that portion of the losses incurred on any one day which exceed any applicable daily withdrawal or other periodical withdrawal limits).
+
+44.5. | You authorise us to debit any amount for which you are liable under this clause 44 to your account.
+
+Section G: BPAY
+
+Section last updated Thursday, 9 November 2023
+
+View earlier versions of this section
+
+45. About the BPAY scheme
+
+45.1. This section applies if you ask us to make a BPAY payment on your behalf.
+
+45.2. The BPAY scheme is an electronic payments scheme through which you can ask us to make payments to billers who inform you that you can make BPAY payments to them through the BPAY scheme.
+
+45.3. We are a member of the BPAY scheme and we will inform you if we are no longer a member.
+
+45.4. Access to the Up app is required to make BPAY payments through the BPAY scheme for Up accounts.
+
+45.5. We are not acting as your agent or the agent of the biller when we make a BPAY payment on your behalf.
+
+46. Using the BPAY scheme
+
+46.1. When you tell us to make a BPAY payment, you must provide us with the following information in the Up app:
+
+the account from which the BPAY payment is to be debited;
+the BPAY biller code of the biller to be paid;
+the amount of the BPAY payment; and
+the biller customer reference number.
+
+46.2. You acknowledge and accept that we are not obliged to effect a BPAY payment if you do not give to us all of the above information or give us inaccurate information.
+
+46.3. We will then debit the account you specify with the amount of that BPAY payment.
+
+46.4. We may decide not to make the BPAY payment if there are insufficient cleared funds in the specified account at the time you have told us to make that payment.
+
+47. Payments
+
+47.1. We may impose restrictions on the accounts from which a BPAY payment may be made or impose limits on the amount of BPAY payments.
+
+47.2. We will not accept an instruction to stop a BPAY payment once you have instructed us to make that BPAY payment except for future dated payments which can be cancelled before the due payment date.
+
+47.3. Billers who participate in the BPAY scheme have agreed that a BPAY payment you make will be treated as received by the biller to whom it is directed:
+
+on the date that you make that BPAY payment, if you tell us to make the BPAY payment before our payment cut-off time on a business day (for payment cut-off times see clause 51 below);
+on the next business day, if you tell us to make a BPAY payment after our payment cut-off time on a business day or on a non- business day; or
+on the day or next business day, you have nominated for a scheduled payment to take place.
+
+47.4. A delay may occur in the processing of a BPAY payment where:
+
+there is a public or bank holiday on the day you tell us to make a BPAY payment;
+you tell us to make a BPAY payment either on a day which is not a business day or after our payment cut-off time on a business day;
+another financial institution participating in the BPAY scheme does not comply with its obligations under the BPAY scheme;
+a biller fails to comply with its obligations under the BPAY scheme.
+
+47.5. Although a delay in processing a BPAY payment is not expected to continue for more than one business day, you acknowledge and accept that a delay may continue for a longer period.
+
+47.6. Regardless of when an immediate BPAY payment is made, the account from which you want us to debit the BPAY payment will be debited immediately.
+
+48. If the amount of a payment to a biller is incorrect
+
+48.1. You must ensure that the information in relation to each BPAY payment is correct. If you discover that you have instructed us to make a payment to a biller for an incorrect amount:
+
+if the amount you instructed us to pay is greater than the required amount, contact the biller for a refund;
+if the amount is less than the required amount, you should make a further BPAY payment for the difference.
+49. When a Biller cannot process a payment
+
+49.1. If we are notified that your BPAY payment cannot be processed by a biller, we will notify you and credit your account for the amount of the BPAY payment.
+
+50. Suspension of BPAY
+
+50.1. We may suspend your right to participate in the BPAY service at any time if you are suspected of acting in a fraudulent manner.
+
+51. Cut-off times
+
+51.1. If you instruct us to make a BPAY payment before the time specified below, it will in most cases be treated as having been made on the same day.
+
+Cut-off times:
+
+Monday -- Friday 6:30pm (Victorian Time) Saturday, Sunday and Public Holidays: processed next business day.
+
+51.2. BPAY payments may take longer to be credited to a biller if you tell us to make a BPAY payment on a Saturday, Sunday or public holiday or if the biller does not process a payment as soon as they receive its details.
+
+52. Liability for mistaken payments, unauthorised transactions and fraud
+
+52.1. You must notify us immediately if:
+
+you become aware that you may have made a mistake (except in relation to the BPAY payment amount -- see clause 48.1) when instructing us to make a BPAY payment;
+you did not authorise the BPAY payment from your account;
+you believe the BPAY payment was not processed in accordance with your instructions (including delays);
+you think you have been fraudulently induced to make a BPAY payment.
+
+52.2. We will attempt to rectify any such matters in relation to your BPAY payment in the way described in this clause. If a BPAY payment is made on your account without your knowledge or consent, liability for that unauthorised BPAY payment will be determined in accordance with clause 44. Otherwise, except as set out in this clause, we will not be liable for any loss or damage you suffer as a result of using the BPAY scheme.
+
+52.3. If a BPAY payment is made to a person or for an amount which is not in accordance with your instructions (if any), and your account has been debited with the amount of that payment, we will credit that amount to your account. However, if you were responsible for a mistake resulting in that payment and we cannot recover the amount within 20 business days of us attempting to do so from the person who received the amount of that payment, you must pay us that amount and you authorise us to debit that amount from your account.
+
+52.4. If a BPAY payment is made in accordance with a payment direction which appeared to us to be from you or on your behalf but for which you did not give authority, we will credit your account with the amount of that unauthorised payment. However, you must pay us the amount of that unauthorised payment, and you authorise us to debit that amount to your account, if:
+
+we cannot recover that amount within 20 business days of us attempting to do so from the person who receives it; and
+the payment was made as a result of a payment direction which didn't comply with any requirements we may have for such payments directions.
+
+52.5. If a BPAY payment is induced by the fraud of a person involved in the BPAY scheme, then that person should refund you the amount of the fraud induced payment. However, if that person does not refund the amount of the fraud induced payment, you must bear that loss (and you authorised us to debit that amount of the fraud induced payment to your account) unless some other person involved in the BPAY scheme knew of the fraud or would have detected it with reasonable diligence, in which case we will attempt to obtain a refund for you of the fraud induced payment.
+
+52.6. If a BPAY payment you have made falls with the type described in clause 52.3 and also clause 52.4 or 52.5, then we will apply the principles set out in clause 52.4. If a BPAY payment you have made falls within both the types described in clauses 52.3 and 52.5, then we will apply the principles set out in clause 52.5.
+
+52.7. If you tell us that a BPAY payment made from your account is unauthorised, you must first give us your written consent addressed to the biller who received that BPAY payment, consenting to us obtaining from the biller information about your account with that biller or the BPAY payment, including your customer reference number and such information as we reasonably require to investigate the BPAY payment. We are not obligated to investigate or rectify any BPAY payment if you do not give us this consent. If you do not give us that consent, the biller may not be permitted under law to disclose to us information we need to investigate or rectify that BPAY payment.
+
+52.8. We are not liable for any consequential loss or damage you suffer as a result of using the BPAY scheme, other than loss or damage which is due to our negligence or a breach of any condition or warranty implied by law which cannot be excluded, restricted or modified at all or only to a limited extent.
+
+Section H: Automatic payments
+
+Section last updated Thursday, 9 November 2023
+
+View earlier versions of this section
+
+This section applies if you arrange for automatic payments to be made out of your account. Automatic payments are not available on all accounts. The Key Features Table indicates the accounts for which they are available.
+
+Types of automatic payments
+
+53.1. If you give us authority, we can have regular payments made automatically out of your account on pre-set dates, advised by you. This type of payment is called a "direct debit". A direct debit is when a company, organisation or fund, sends direct debits to your account according to an authority which you need to set up through the company, organisation or fund receiving the money, allowing us to make these payments.
+
+54. Arranging an automatic payment
+
+54.1. The biller will supply you with a Direct Debit Request Service Agreement for you to complete and sign to provide them with this authority.
+
+54.2. You must give us the information we require to enable us to make an automatic payment. This information may include the BSB and account numbers, and account name of the accounts from and to which payments are to be made. You must check that all information you give to us is correct (including, but not limited to, the BSB and the account number). We do not check, and are not responsible for checking, that any information you give to us is correct, including whether the BSB and account numbers correspond to the account name which you advise us. You are liable for any payment we carry out in accordance with your instructions.
+
+55. Timing of the automatic payment
+
+55.1. The details regarding timing of the payment will be outlined in the Direct Debit Request Service Agreement your biller has supplied to you.
+
+55.2. You must ensure that you have sufficient cleared funds available in your account from which a payment will be made, to enable that payment to be made. If the payment date falls on a day other than a business day, those funds must be available by 10am (AEST/AEDT) on the previous day.
+
+55.3. If you have insufficient funds in your account, any direct debits may be returned unpaid (dishonoured) to the originating third party.
+
+55.4. A fee may be debited to your account in these circumstances. Current fees and charges are set out in this document.
+
+55.5. If you have insufficient funds in your account on three consecutive payment due dates, the authority will be cancelled and you will be notified via the Up app.
+
+55.6. Subject to these conditions, when you instruct us to make a payment to an account held with another financial institution, we will endeavour to make that payment to the BSB and account number you advise us. If you give us instructions to make a payment on a business day after 10am (AEST/AEDT) on that business day, we may process that payment the following business day.
+
+56. Liability
+
+56.1. To the extent permitted by law and subject to any other provisions of these terms and conditions, we are not liable for any loss or damage you suffer as a result of using the automatic payment facility or any delay, omission or failure in respect of any payment. Without limitation, this includes, if you request us to make a payment to an account held with another financial institution:
+
+any delay or failure to make a payment which results in a technical failure in the system we use to make a payment from your account with us to another financial institution; and
+any omission, delay or failure on the part of the other financial institution in processing that payment.
+
+We do not exclude any liability to you for loss or damage to you arising directly from the fraud, negligence or wilful misconduct of us, our employees or agents or a receiver appointed by us.
+
+56.2. If we debit or credit your account under an automatic payment arrangement we are not acting as your agent or the agent of another person. We are not liable for any loss or damage to you from us not acting as you require.
+
+57. Migrating a direct debit arrangement to PayTo
+
+If you have authorised a merchant or other third party to debit your account as a direct debit arrangement and the merchant or third party migrates the direct debit arrangement to PayTo, the direct debit arrangement will cease to be a direct debit arrangement and will instead be treated as a PayTo Payment Agreement (see Section J (PayTo) for more information about PayTo and Migrated DDRs).
+
+Section I: Pay Anyone Service
+
+Section last updated Thursday, 9 November 2023
+
+View earlier versions of this section
+
+This section applies if you use the Pay Anyone Service. The Key Features Table indicates the accounts for which this is available.
+
+58. About the Pay Anyone Service
+
+The Pay Anyone Service is an online service that allows you to transfer funds directly to accounts at financial institutions within Australia. The transfer may be a once only transfer (either immediate or future date) or you can arrange regular reoccurring transfers.
+
+59. Using the Pay Anyone Service
+
+59.1. When you tell us to make a Pay Anyone transfer, you must provide us with the following information:
+
+the account from which you want us to debit the Pay Anyone transfer;
+the correct account number of the person or business to whom you wish to transfer funds;
+the correct BSB of the financial institution at which the account to whom you wish to transfer funds is held or a PayID created and linked to the account;
+a reference;
+the amount of the Pay Anyone transfer; and
+when you want the transfer made.
+
+59.2. You acknowledge and accept that we are not obliged to effect a Pay Anyone transfer if you do not give us all of the above information or give us inaccurate information.
+
+59.3. You authorise us to debit the nominated account you specify with the amount of that Pay Anyone transfer(s) you instruct us to make.
+
+Warning: Some banks do not cross check the account number with the account name, which may lead to your payment being placed into the wrong account, if you enter an incorrect BSB or account number. You must ensure that the BSB and account number you give us are correct. We will not be liable for any loss as a result of you entering the wrong BSB or account number.
+
+59.4. Pay Anyone transfers may be processed as a Direct Entry Payment or, once the NPP has been launched, as an Osko Payment.
+
+59.5. We may decide whether to process Pay Anyone transfers you request from your accounts as Direct Entry Payments or Osko Payments in our absolute discretion and you must not assume that Osko Payments will always be available or offered to you.
+
+60. Payments
+
+60.1. We may impose restrictions on the accounts from which a Pay Anyone transfer may be made or impose limits on the amount of Pay Anyone transfers. Limits will be advised in-app.
+
+60.2. We may decide not to make any payment if there are insufficient funds available for withdrawal in the specified nominated account to be debited on the due payment date.
+
+60.3. We may decide not to process a future-dated Pay Anyone transfer if you have instructed us to make the transfer using a PayID and, at the relevant transfer time, we become aware that the details registered for that PayID in the NPP Addressing Service have substantially changed since you instructed us or, in the case of recurring payments, since the previous transfer.
+
+60.4. A delay may occur in the processing of a Pay Anyone transfer where:
+
+there is a public or bank holiday on the day you instruct us to make a Pay Anyone transfer; or
+you instruct us to make a Pay Anyone transfer on a day which is not a business day or after our payment cut-off time on a business day (for payment cut-off times see clause 64).
+
+60.5. Regardless of when an immediate Pay Anyone transfer is made, the account from which you want us to debit the Pay Anyone transfer will be debited immediately unless we enforce a delay (such as described in 60.8), in which case the amount will not be debited until that delay has elapsed.
+
+60.6. Pay Anyone transfers are irrevocable and once you have told us to make a Pay Anyone transfer it cannot be stopped or cancelled. You must therefore take care to ensure all information you give us in relation to a Pay Anyone transfer request is correct and complete.
+
+60.7. Where we process a Pay Anyone transfer as an Osko Payment, the transfer will generally be processed, cleared and settled on a 24/7 near real-time basis.
+
+60.8. We may delay processing a Pay Anyone transfer (including an Osko Payment) for up to 24 hours when you are transferring to a payee account you have not made a Pay Anyone transfer to previously or where the amount of the Pay Anyone transfer is greater than the amount of Pay Anyone transfers you have made to the account previously. We may also delay processing a Pay Anyone transfer as described in clause 9.3.
+
+60.9. In relation to transactions to or from the account, you authorise Up to disclose and collect information (including personal information) to and from other financial institutions, to the extent Up considers this reasonably necessary.
+
+61. If a transfer amount is incorrect
+
+61.1. You must ensure that the information you give us in relation to each Pay Anyone transfer is correct. If you discover that we have been instructed to make a transfer for an incorrect amount:
+
+if the amount transferred is greater than the required amount, contact the person or business to whom the funds were transferred to obtain a refund for the excess;
+if the amount transferred is less than the required amount, you can simply make a further Pay Anyone transfer for the difference.
+62. Suspension of the Pay Anyone Service
+
+62.1. We may suspend your right to use the Pay Anyone service at any time if you are suspected of acting in a fraudulent or improper manner or we believe doing so is reasonably necessary in order for us to ensure the security or integrity of the Up app, the Pay Anyone service or your account.
+
+63. Limit reductions
+
+63.1. We may reduce your Pay Anyone daily limit if you do not use any or part of your limit over a period of time. We will notify you in writing at least 20 days before taking such action, where we are required to do so under the ePayments Code.
+
+64. Cut-off times
+
+64.1. If you instruct us to transfer funds before the time specified below, the transfer will be processed overnight on that business day. Subject to the financial institution to whom the funds are being transferred, the payment will in most cases settle on the next business day.
+
+Cut-off times:
+
+Monday -- Friday: 7.00pm (AEST/AEDT)
+
+Saturday, Sunday and Public Holidays: processed next business day.
+
+64.2. Pay Anyone transfers may take longer to be credited if you tell us to make a Pay Anyone transfer on a Saturday, Sunday or public holiday or if the recipient's financial institution does not process the payment as soon as they receive it.
+
+65. Liability for mistaken payments, unauthorised transactions and fraud
+
+65.1. You must notify us immediately:
+
+if you become aware that you may have made a mistake (except in relation to the Pay Anyone transfer amount - see clause 61 above or paying funds to an Unintended Recipient -- see clause 66.1), when instructing us to make a Pay Anyone transfer;
+if you did not authorise the Pay Anyone transfer from your account;
+if you believe a Pay Anyone transfer was not processed in accordance with your instructions (including delays);
+if you think you have been fraudulently induced to make a Pay Anyone transfer.
+
+65.2. We will attempt to rectify any such matters in relation to your Pay Anyone transfer in the way described in this clause. If a Pay Anyone transfer is made on your account without your knowledge or consent, liability for that unauthorised Pay Anyone transfer will be determined in accordance with clause 44. Otherwise, except as set out in this clause 64 we will not be liable for any loss or damage you suffer as a result of using the Pay Anyone Service.
+
+65.3. We are not liable for any consequential loss or damage you suffer as a result of using the Pay Anyone Service other than any loss or damage which is due to our negligence or breach of any condition or warranty implied by law which cannot be excluded, restricted or modified at all or only to a limited extent.
+
+66. Mistaken Internet Payments
+
+66.1. In this clause, the following words have these specific meanings:
+
+"Mistaken Internet Payment" means a 'Mistaken Internet Payment' under the ePayments Code or a 'Mistaken Payment' under the NPP Regulations.
+
+Note: This relates to payments you make to an Unintended Recipient using the Pay Anyone Service where you enter an incorrect BSB or account number. It does not include Misdirected Payment under the NPP Regulations or payments made using BPAY.
+
+"Other ADI" means the authorised deposit-taking institution (as defined in the Banking Act 1959 Cth) of the Unintended Recipient.
+
+"Unintended Recipient" means the recipient of funds as a result of a Mistaken Internet Payment.
+
+66.2. This clause applies where you have made a Mistaken Internet Payment covered by the ePayments Code and the Other ADI subscribes to the ePayment Code or which was processed through NPP.
+
+66.3. If you have made a Mistaken Internet Payment, you must notify us as soon as possible. We will investigate the matter and inform you (in writing) of the outcome within 30 business days from the date you notified us.
+
+66.4. Without the consent of the Unintended Recipient, it may be possible to retrieve the funds from your Mistaken Internet Payment if:
+
+you reported the Mistaken Internet Payment to us within 7 months;
+we decide that a Mistaken Internet Payment has occurred;
+the Other ADI decides that a Mistaken Internet Payment has occurred; and
+the Unintended Recipient has sufficient credit available in their account to retrieve the funds.
+
+Note: If you report the Mistaken Internet Payment after 10 days but before 7 months, the Unintended Recipient will be given an opportunity to establish that they are entitled to the funds.
+
+66.5. With the consent of the Unintended Recipient, it may be possible to retrieve the funds from your Mistaken Internet Payment if:
+
+both we and the Other ADI decide that a Mistaken Internet Payment has occurred but the Unintended Recipient does not have sufficient credit in their account;
+both we and the Other ADI decide that a Mistaken Internet Payment has occurred, but you reported the Mistaken Internet Payment after seven months; or
+the Other ADI decides (in their discretion) to seek the Unintended Recipient's consent to return the funds even if the Other ADI is not satisfied that a Mistaken Internet Payment has occurred.
+
+66.6. If the Other ADI withdraws funds from the Unintended Recipient's account, they will return the funds to us. We will then return the funds to you as soon as possible.
+
+66.7. You will be responsible for any of your losses following a Mistaken Internet Payment if:
+
+both we and the Other ADI decide that no Mistaken Internet Payment has occurred; or
+in certain circumstances, the Unintended Recipient is able to establish that they are entitled to the funds; or
+the consent as described in clause 66.5 is not obtained from the Unintended Recipient.
+
+66.8. You can complain to us about the way your report of a Mistaken Internet Payment is dealt with by contacting us on telephone 1300 002 258 from 9:00am -- 5.00pm (AEST/AEDT) Monday to Friday.
+
+66.9 If you are not satisfied with the outcome under clause 66.8, you may contact our external dispute resolution scheme. External dispute resolution is a free service established to provide you with an independent mechanism to resolve specific complaints. Our external dispute resolution provider is the Australian Financial Complaints Authority (AFCA). You can contact the AFCA at:
+
+Australian Financial Complaints Authority
+
+GPO Box 3
+
+Melbourne VIC 3001
+
+Phone: 1800 931 678
+
+Website: www.afca.org.au
+
+Email: info@afca.org.au
+
+66.9. We are not liable for any consequential loss or damage you suffer as a result of using the Pay Anyone facility other than any loss or damage which is due to our negligence or breach of any condition or warranty implied by law which cannot be excluded, restricted or modified at all or only to a limited extent.
+
+66.10. Where you are the recipient of a Mistaken Internet Payment, you authorise us to withdraw the funds relating to that Mistaken Internet Payment from your account if we are required under the ePayments Code to recover those funds from you and return them to the payer's authorised deposit taking institution.
+
+67. Incorrect Account Number
+
+67.1. When we process your Pay Anyone transfer, we process the Pay Anyone transfer based on the BSB and account number you provide.
+
+WARNING: We do not cross check the account number with the account name or reference you provide us.
+
+67.2. If your Pay Anyone transfer is to another financial institution, your Pay Anyone transfer may also be processed on the BSB and account number provided as not all financial institutions cross check account numbers and names.
+
+Example 1: You want to send a Pay Anyone transfer to Mr Citizen's account, being BSB 001 012 Account Number 123456 however you type in BSB 001 012 Account Number 123465, the payment will be made into account number 123465 instead of Mr Citizen's account.
+
+Example 2: You want to send a Pay Anyone transfer to Mr Citizen's account, being BSB 001 012 Account Number 123456 however you type in BSB 001 021 Account Number 123456, the payment will be made into account number 123456 at BSB 001 021 instead of BSB 001 012.
+
+67.3. It is vital that you include the correct account number and BSB.
+
+68. PayIDs
+
+68.1. In our discretion, we may allow you to create a PayID for your account so that NPP Payments can be made to your account using the PayID instead of the BSB and account number.
+
+68.2. Creating a PayID using your personal details (eg. mobile phone number or email address) is optional. We will not create a PayID for your account using your personal details without your consent.
+
+68.3. We will issue you with an Up generated PayID as part of holding an account with Up, and may disclose it to other Up customers.
+
+Creating a PayID
+
+68.4. You may register and unregister a PayID for your account in the Up application.
+
+68.5. You may only create a PayID for your account if:
+
+we are able to verify your identity in a manner that is satisfactory to us;
+you own or are authorised to use the PayID;
+the PayID is not likely to be misleading as to who the accountholder for the account is; and
+creating the PayID will not infringe on the intellectual property rights of any person.
+
+68.6. We may refuse to allow you to create a PayID for any reason, including where we have not been able to satisfactorily verify your identity or we are not satisfied that you own or are authorised to use the PayID you are trying to create or we are not satisfied that creating the PayID will not infringe the intellectual property rights of any person.
+
+68.7. By creating a PayID for your account:
+
+you assure us that you own or are authorised to use the PayID;
+you agree to immediately notify us if any of the information you provide to us when creating the PayID changes or becomes incorrect or misleading;
+you acknowledge that the PayID and information relating to you and the account the PayID is linked to (including the account name, BSB and account number) will be registered in the NPP Addressing Service operated by NPP Australia Limited (not us); and
+you consent to:
+us disclosing your personal information and the other information you provide to us to NPP Australia Limited as necessary to create the PayID in the NPP Addressing Service;
+third parties, such as NPP Australia Limited and other financial institutions that connect to or use the NPP, collecting, storing, using and disclosing that information (including your name and account details) in accordance with the NPP Regulations and NPP Procedures and as necessary for purposes related to NPP Payments to you or your account. Without limiting the last sentence, you acknowledge that the account name associated with your account, or a summary of it, may be disclosed to any person that initiates a NPP Payment using the PayID and.
+third parties such as NPP Australia Limited and other financial institutions that connect to or use the NPP, accessing your PayID information for the purposes of creating and sending PayTo Payment Agreement creation requests to us to seek your authorisation and for the purposes of sending PayTo Payment requests, in connection with an authorised Payment Agreement, to us for processing from your Account.
+
+68.8. The types of PayIDs we allow you to create and link to your account may differ depending on your circumstances and the type of account you have.
+
+68.9. More than one PayID can be created and linked to an account provided that each PayID is unique.
+
+68.10. When creating a PayID we will automatically provision a PayID name that is substantially representative of the account.
+
+Transferring a PayID from or to another account
+
+68.11. With the exception of PayIDs generated by Up (eg. @up.me addresses) you can transfer a PayID created and linked to one account with us or another financial institution to another account with us or another financial institution. However, you cannot transfer a PayID while it is locked (see 68.17 below).
+
+68.12. If you want to transfer a PayID you have created for one account with us to another account with us or another financial institution, you can do so by contacting us and requesting that we transfer the PayID. We will action your request within one business day unless we agree another time period with you. A transfer of your PayID to another institution is completed by that institution.
+
+68.13. If you want to transfer a PayID that has been created and linked to an account at another institution to an account with us, you must first contact the other financial institution to tell them you want to transfer the PayID and then create the PayID with us.
+
+Updating, locking and closing a PayID
+
+68.14. With the exception of PayIDs generated by Up (eg. @up.me addresses) you can request that we update or close a PayID that has been created and linked to your account at any time by contacting us. Generated PayIDs cannot be cancelled or transferred.
+
+68.15. You must promptly notify us if, at any time, you cease to own or be authorised to use a PayID created and linked to your account or if any of the information you give us when the PayID is created changes, and request that we update or close the PayID.
+
+68.16. We will action a request from you to update or close a PayID within one business day unless we agree another time period with you.
+
+68.17. We may, if we have reasonable grounds for doing so, lock or close a PayID created and linked to your account at any time without prior notice to you. Without limitation, this includes where we suspect you created the PayID or are using the PayID in connection with fraudulent or illegal activity.
+
+68.18. If your PayID is locked, you can request that it be unlocked by contacting us. If a PayID is closed it must be re-created before it can be used again.
+
+PayID disputes
+
+68.19. If a PayID cannot be created for your account because it has already been created and linked to another account by someone else we can lodge a dispute. However, there is no guarantee that the dispute will be resolved in your favour or result in you being able to create the PayID for your account. We will promptly notify you of the outcome of the dispute.
+
+Liability for PayIDs
+
+68.20. To the maximum extent permitted by law, we are not liable to you for any loss or damage you suffer as a result of:
+
+a PayID being created and linked to your account or you using or attempting to use a PayID that has been created and linked to your account;
+us refusing to create a PayID or any delay in a PayID being created and linked to your account;
+us locking or closing a PayID that has been created and linked to your account; or
+any failure or malfunction of the NPP (including the NPP Address Service) or any of our systems or procedures that use or connect with the NPP.
+
+We do not exclude any liability to you for loss or damage to you arising directly from the fraud, negligence or wilful misconduct of us, our employees or agents or a receiver appointed by us.
+
+Sending to Up PayIDs
+
+68.21. When receiving a payment from another Up customer, we will reveal their Up-generated PayID to you. This will allow you to make a payment back to that PayID. This feature is only available between Up customers and does not apply to accounts from other institutions. Payments sent using this PayID are covered by the same terms as any other PayID payment.
+
+Section J: PayTo
+
+Section last updated Friday, 10 November 2023
+
+View earlier versions of this section
+
+69. This ‘PayTo’ section applies in relation to your use or attempted use of PayTo and any Payment Agreement that is created for an account, and related PayTo Payments, if PayTo is available for your account. The Key Features Tables indicate the accounts for which PayTo is available.
+
+PayTo allows payers to approve Payment Agreements with Merchants or Payment Initiators who offer PayTo as a payment option.
+
+70. PayTo definitions
+
+In this section and clause 68 (PayIDs), the following definitions apply:
+
+Defined term	Definitions
+Migrated DDR	A Payment Agreement created by a Merchant or Payment Initiator to process payments under an existing direct debit arrangement as PayTo Payments instead of through the direct debit system – see the ‘Migration of Direct Debit arrangements’ clause below.
+Mandate Management Service (MMS)	The Mandate Management Service being a central, secure database of Payment Agreements operated by NPP Australia Limited.
+Merchant	A merchant with which you have, or would like to have, a Payment Agreement.
+NPP	The New Payments Platform operated by or on behalf of NPP Australia Limited.
+NPP Payment	A payment cleared and settled via the NPP.
+PayTo Agreement or Payment Agreement	An agreement created by an approved Merchant or Payment Initiator in the Mandate Management Service by which you authorise us to make payments from your account or a Migrated DDR.
+Payment Initiator	An approved payment service provider who, whether acting on behalf of you or a Merchant, is authorised by you to initiate payments from your account.
+PayTo	The NPP functionality which enables us to process NPP Payments from your account in accordance with and on the terms set out in a Payment Agreement.
+PayTo Payment	An NPP Payment we make pursuant to a Payment Agreement.
+71. Creating a Payment Agreement
+
+You can set up a Payment Agreement with a Merchant or Payment Initiator that offers PayTo as a payment option by providing the Merchant or Payment Initiator with a PayID you have created for your account (see clause 68 ‘PayID’ above) or the BSB and account number for your account. You are responsible for ensuring that the PayID or BSB and account number you provide for the purpose of establishing a Payment Agreement are correct. Any personal information or data you provide to the Merchant or Payment Initiator will be subject to the privacy policy and terms and conditions of the relevant Merchant or Payment Initiator.
+
+If you agree to setup a Payment Agreement with a Merchant or Payment Initiator, they will create the Payment Agreement in the Mandate Management Service through their financial institution or payments processor and we will be notified.
+
+After we receive notification that a Payment Agreement has been created for your account, we will notify you with the details of the Payment Agreement and ask you to confirm your approval of the Payment Agreement. You may approve or decline any Payment Agreement in your discretion and we will record whether you approved or declined the Payment Agreement in the Mandate Management Service.
+
+If a Payment Agreement required your confirmation within a timeframe stipulated by the Merchant or Payment Initiator, and you do not provide confirmation within that timeframe, the Payment Agreement may be withdrawn by the Merchant or Payment Initiator.
+
+If you tell us that you approve a Payment Agreement it will be active once we record your approval in the Mandate Management Service. Payment requests may be made by a Merchant or Payment Initiator immediately after you have approved a Payment Agreement so do not approve a Payment Agreement unless you are sure all the details are correct.
+
+If you think the payment amount, frequency or any other detail presented in a Payment Agreement is incorrect, you should decline the Payment Agreement and contact the relevant Merchant or Payment Initiator to have them resubmit a new Payment Agreement with the correct details.
+
+71.1 By approving a Payment Agreement, you:
+
+authorise us to collect, use and store your name and account details and other details about you and the Payment Agreement from and in the Mandate Management Service; and
+
+acknowledge that these details may be disclosed to NPP Australia Limited (who operates the Mandate Management Service) and the financial institution or payment processor for the Merchant or Payment Initiator for the purposes of creating payment instructions and constructing NPP Payment messages, enabling us to make PayTo Payments from your account and for related purposes; and
+
+consent to us, other financial institutions and payment processors, NPP Australia Limited, Merchants and Payment Initiators using and disclosing such of your personal information as is contained in a Payment Agreement record in the Mandate Management Service as contemplated by the NPP regulations and procedures.
+
+72. Payments
+
+By authorising a Payment Agreement you instruct us to make PayTo Payments from your account in accordance with the Payment Agreement each time a PayTo Payment is requested by the Merchant or Payment Initiator who is a party to the Payment Agreement or their financial institution or payment processor.
+
+It is your responsibility to ensure you have sufficient funds in your account to process each PayTo Payment. We are not required to make a PayTo Payment if there are insufficient cleared funds in your account at the time the PayTo Payment is requested.
+
+72.1 Amending a Payment Agreement
+
+We are not able to amend any other terms of the Payment Agreement including the details of the Merchant or Payment Initiator.
+
+A Payment Agreement can be amended from time to time by the Merchant or Payment Initiator. If a Merchant or Payment Initiator seeks to amend a Payment Agreement, we will notify you of the amendment and request that you approve or decline the amendment. We will record whether you approved or declined the Payment Agreement amendment request in the Mandate Management Service.
+
+If you think the payment amount, frequency or any other detail presented in a Payment Agreement amendment request we provide to you for approval is incorrect, you should decline the amendment request and contact the relevant Merchant or Payment Initiator to have them resubmit a new amendment request with the correct details. We cannot change the details in an amendment request.
+
+If you do not respond to a Payment Agreement amendment request within 5 calendar days it will expire and it will be treated as being declined by you.
+
+We will record whether you approve or decline a Payment Agreement amendment request in the Mandate Management Service.
+
+If you approve a Payment Agreement amendment request, the amendment will be effective once we record your approval in the Mandate Management Service.
+
+If you decline a Payment Agreement amendment request, the Payment Agreement will not be affected by the amendment request and will continue as if the amendment request had not been submitted.
+
+72.2 Pausing or resuming a Payment Agreement
+
+You can pause a Payment Agreement, or resume a paused Payment Agreement, in the Up app or by contacting us. We will promptly act on your instruction to pause or resume a Payment Agreement by updating the Mandate Management Service. The Merchant or Payment Initiator who is a party to the Payment Agreement will be notified each time you pause or resume a Payment Agreement.
+
+A Payment Agreement may also be paused or resumed by the relevant Merchant or Payment Initiator. We will notify you each time a Payment Agreement is paused or resumed by the Merchant or Payment Initiator.
+
+We may also pause any Payment Agreement that has been setup using a PayID if the PayID is locked or closed. If we do, we will resume the Payment Agreement once the PayID is unlocked or we obtain instructions from you that otherwise enables the Payment Agreement to be resumed (unless the Payment Agreement has since been cancelled). We will notify you if we pause or resume a Payment Agreement and the Merchant or Payment Initiator associated with the Payment Agreement will also be notified each time we pause or resume a Payment Agreement.
+
+While a Payment Agreement is paused, we will not process any PayTo Payment requests we receive pursuant to the Payment Agreement. PayTo Payments will resume once a paused Payment Agreement is resumed.
+
+Warning! Although pausing a Payment Agreement will stop related PayTo Payments being made from your account, doing so may breach the terms of your agreement with the relevant Merchant or Payment Initiator or you may be required to make payment in some other way. We suggest that you ensure you understand the consequences of pausing a Payment Agreement before you do so and, if necessary, contact the relevant Merchant or Payment Initiator.
+
+We will not be liable to you or any other person for any loss that you or any other person suffers as a result of a Payment Agreement being paused by you or the Merchant or Payment Initiator.
+
+72.3 Transferring a Payment Agreement
+
+It is not currently possible to transfer a Payment Agreement between accounts with us or another financial institution. If you want to change a Payment Agreement, including to change it from one account to another, you will need to contact the Merchant or Payment Initiator through whom the Payment Agreement was set up.
+
+72.4 Cancelling a Payment Agreement
+
+You can cancel a Payment Agreement at any time in the Up app or by contacting us. We will promptly act on your instruction to cancel a Payment Agreement by updating the Mandate Management Service. The Merchant or Payment Initiator associated with your Payment Agreement will then be notified that you have cancelled the Payment Agreement.
+
+A Payment Agreement may also be cancelled by the relevant Merchant or Payment Initiator. We will notify you if a Payment Agreement is cancelled by the Merchant or Payment Initiator.
+
+We may also cancel any Payment Agreement that has been setup using a PayID if the PayID is closed, unless we agree otherwise with you. We will notify you if we cancel a Payment Agreement and the Merchant or Payment Initiator associated with the Payment Agreement will also be notified that the Payment Agreement has been cancelled.
+
+We will not process any PayTo Payment requests we receive from the Merchant or Payment Initiator pursuant to a Payment Agreement after it has been cancelled.
+
+Warning! Although cancelling a Payment Agreement will stop related PayTo Payments being made from your account, doing so may breach the terms of your agreement with the relevant Merchant or Payment Initiator or you may be required to make payment in some other way. We suggest that you ensure you understand the consequences of cancelling a Payment Agreement before you do so and, if necessary, contact the relevant Merchant or Payment Initiator.
+
+We will not be liable to you or any other person for any loss that you or any other person suffers as a result of a Payment Agreement being cancelled by you or the Merchant or Payment Initiator.
+
+72.5 Migration of Direct Debit arrangements
+
+If you have an existing direct debit arrangement with a Merchant or a Payment Initiator, the Merchant or Payment Initiator may choose to create a Payment Agreement for the direct debit arrangement to process payments as PayTo Payments instead of through the direct debit system.
+
+If a Merchant or a Payment Initiator does this, you will receive notice from them that your future payments will be migrated to PayTo and you will then have the option of telling the Merchant or Payment Initiator that you do not consent.
+
+If you do not advise the Merchant or Payment Initiator that you do not consent to your direct debit arrangement being migrated to PayTo, the Merchant or Payment Initiator may create a Payment Agreement in the Mandate Management Service that reflects the terms of your direct debit service agreement and the Payment Agreement will be deemed to have been approved by you. We will not seek your approval of a Payment Agreement that relates to a migrated direct debit arrangement.
+
+Once the Payment Agreement has been created by the Merchant or Payment Initiator, you and the Merchant or Payment Initiator will be able to amend, pause and resume and cancel a Payment Agreement that has been established to migrate a direct debit arrangement, and you will be able to transfer the Payment Agreement, in the same way as any other Payment Agreement as set out above.
+
+By permitting the creation of a Payment Agreement for a direct debit arrangement (by not contacting the Merchant or Payment Initiator and telling them that you do not consent), you:
+
+authorise us to collect, use and store your name and account details and other details about you and the Payment Agreement from and in the Mandate Management Service;
+
+acknowledge that these details may be disclosed to NPP Australia (who operates the Mandate Management Service) and the financial institution or payment processor for the Merchant or Payment Initiator for the purposes of creating payment instructions and constructing NPP Payment messages, enabling us to make PayTo payments from your account and for related purposes; and
+
+consent to us, other financial institutions and payment processors, NPP Australia Limited, Merchants and Payment Initiators using and disclosing such of your personal information as is contained in a Payment Agreement record in the Mandate Management Service as contemplated by the NPP regulations and procedures.
+
+73. General PayTo obligations
+
+We will accurately reflect all information you provide to us in connection with a Payment Agreement in the Mandate Management Service.
+
+You must:
+
+ensure that all information and data you provide to us or to any Merchant or Payment Initiator that is authorised to use PayTo is accurate and up-to-date;
+
+not use PayTo to send threatening, harassing or offensive messages to a Merchant, Payment Initiator or any other person;
+
+where we allow you to provide a payment description or reference in connection with a Payment Agreement you must ensure that it does not contain, refer to or link to:
+
+any swearing, profanity or offensive, discriminatory, threatening or abusive content;
+any information that is confidential or must be kept secret;
+sensitive personal information of any person (including information or an opinion about a person’s racial or ethnic origin, political opinions or membership of a political association, philosophical beliefs, membership of a professional or trade association, membership of a trade union, sexual orientation or practices, criminal record and health information);
+anything which infringes the intellectual property rights of any person; or
+anything which is illegal or seeks to promote illegal activity;
+
+comply with all applicable laws in connection with your use of PayTo;
+
+promptly consider, action and respond to any Payment Agreement creation request, amendment request or other notification we send you (if you use the Bendigo Bank app, we recommend that you allow notifications from it on your device to ensure that you promptly receive and are able to respond to such requests and notifications in a timely way);
+
+immediately notify us if you no longer hold or have authority to operate the account from which payments under a Payment Agreement you have approved or permitted to be created are being or are to be made;
+
+promptly notify us if you receive a Payment Agreement creation request or amendment request or become aware of PayTo Payments being processed from your account that you are not expecting, or experience any other activities that appear suspicious or erroneous;
+
+promptly notify us if you become aware of a PayTo Payment being made from your account that is not permitted under the terms of your Payment Agreement or that was not authorised by you; and
+
+comply with any direction we give you where doing so is necessary for us to comply with our obligations relating to PayTo including under the NPP regulations and procedures.
+
+You are responsible for complying with the terms of any agreement that you have with the Merchant or Payment Initiator who is a party to a Payment Agreement (including any payment and notice giving obligations or termination requirements) and for dealing with the Merchant or Payment Initiator in relation to any concerns or complaints you have in relation to any goods or services relating to the Payment Agreement.
+
+From time to time, we may request that you confirm that one or more of your Payment Agreements are accurate and up-to-date. You must promptly action and respond to any such request. If you fail to do so, we may pause the relevant Payment Agreement(s).
+
+We may monitor your Payment Agreements for misuse, fraud and security reasons. You acknowledge and consent to us pausing or cancelling all or some of your Payment Agreements if we reasonably suspect misuse, fraud or security issues. We will promptly notify you if we pause or cancel a Payment Agreement for these purposes but only if we are legally permitted to do so. You must promptly respond to any notification that you receive from us regarding the pausing or cancellation of a Payment Agreement for misuse, fraud or for any other reason.
+
+If you notify us of a PayTo Payment being made from your account that is not permitted under the terms of your Payment Agreement or that was not authorised by you and submit a claim, we will respond to your claim within 10 business days and, if the claim is founded, we will refund the PayTo Payment to your account.
+
+74. Liability for PayTo
+
+To the maximum extent permitted by law, we will not be liable to you or any other person for any loss suffered as a result of:
+
+processing payments under a Payment Agreement which you have approved or are deemed to have approved;
+
+you failing to properly consider or promptly respond to any Payment Agreement creation request or amendment request we send you;
+
+you or a Merchant or Payment Initiator pausing, resuming or cancelling a Payment Agreement; or
+
+any delay or failure in respect of a Payment Agreement or a PayTo Payment being processed due to the unavailability or failure of the Mandate Management Service,
+
+except to the extent such loss is caused by us failing to comply with our obligations relating to PayTo under these Terms and Conditions.
+
+Section K: TransferWise (now known as “Wise”)
+
+Section last updated Thursday, 9 November 2023
+
+View earlier versions of this section
+
+75. About the Wise Integration
+
+75.1. This section applies if you create an account with TransferWise Australia Pty Ltd (“Wise”) ACN 616 463 855 AFSL 513764 through the Up app or you link to or access an existing Wise account through the Up app.
+
+75.2.  Wise provides international payment services. If you have a Wise account, you can link to and access your Wise account and instruct Wise to make international payments on your behalf through the Up app, rather than accessing your Wise account in other ways (for example, through Wise’s website).
+
+75.3. Wise, and not us, is responsible for providing the international transfer service directly to you as its customer. The Wise terms and conditions that apply between Wise and you will apply in relation to any access to a Wise account and any Wise transfers instructed through the Up app.
+
+75.4. If you create a Wise account through the Up app, you are contracting directly with Wise, and not us, in relation to your Wise account. Any international instructions you provide through the Up app are provided by you to Wise.
+
+75.5. Under our arrangements with Wise, we act simply as a service provider to Wise to enable the integration between your Wise account and the Up app and, to enable you to deal with Wise, and create and/or access your Wise account conveniently through the Up App. It is Wise that receives and processes any international transfer instruction given by you through the Up App, from your Wise account.
+
+76. Creating or linking your Wise account
+
+76.1. If you create a Wise account with Wise through the Up app, you consent and agree to us disclosing your personal information (including your name, contact details and identification details) to Wise for the purpose of them creating your Wise account and providing its services to you.
+
+76.2. If you link to and access an existing Wise account through the Up app, you consent to us and Wise disclosing to each other your personal information (including your name, contact details and identification details) for the purposes of linking and providing you with access to your Wise account through the Up app.
+
+76.3. If you have access to a Wise account through the Up app (whether you created it through the Up app or not), you consent and agree to us providing your updated details (including your name, contact details and identification details) to Wise whenever you update your details with us or we otherwise become aware that your details have changed.
+
+76.4. Collection, use and handling of your personal information by Wise is subject to Wise’s terms and conditions and privacy policy.
+
+77. Using Wise through the Up app
+
+77.1. When you make a Wise transfer through the Up App:
+
+you are instructing Wise to process the transfer and must provide all the relevant information requested as directed through the Up App; and
+you authorise us to debit the amount necessary to complete the transfer from your Up account and to pay it to Wise on your behalf.
+
+77.2. You must ensure that there are sufficient available funds in your nominated account to process the debit relating to any transfer instruction you give to Wise through the Up app and that the information you provide in relation to the transfer is correct.
+
+77.3. You acknowledge and accept that we are not obliged to transfer any funds to Wise on your behalf if there are not sufficient available funds in your nominated account or we consider, acting reasonably, that not processing the transfer is necessary to avoid us or you suffering loss or to avoid a breach of any law.
+
+77.4 You must notify us immediately if you did not authorise a Wise transfer related to a debit to your Up account.
+
+77.5. Your liability and rights in relation to your Wise account and any Wise transfers you instruct through the Up app is determined in accordance with the terms and conditions of the contract between you and Wise.
+
+77.6. In seeking customer support related to your Wise transactions completed through the Up app, you acknowledge and agree that:
+
+You may contact Up directly, using the Talk to Us feature in the Up app, for customer support and assistance with creating or viewing Wise transactions within the Up app.
+Up is not able to directly assist you with issues relating to your Wise account, outside of the Up/Wise integration.
+
+77.7. To the maximum extent permitted by law, we will not be liable to you for any loss or damage you suffer as a result of creating a Wise account, linking to or accessing a Wise account or instructing any Wise transfers through the Up app.
+
+77.8. If Wise returns any funds to us we will return the funds to your Up account.
+
+78. Suspension of the Wise integration
+
+78.1. We may suspend your access to your Wise account through the Up app at any time for any reason, including if you are suspected of acting in a fraudulent or illegal manner. Us doing so will not affect your rights and obligations in respect of Wise or your Wise account, other than that you will be unable to access the Wise account through the Up app.
+
+78.2. We are not required to notify you before we do this but will notify you within a reasonable period after we do so. We may also notify Wise that we have done so.
+
+Section L: 2Up Joint Accounts
+
+Section last updated Thursday, 9 November 2023
+
+View earlier versions of this section
+
+79.1. This clause applies if we agree to establish a “2Up” joint account arrangement for you and another person, or any request that we do so.
+
+79.2. A 2Up may have a maximum of two persons only and you may only be a party to one 2Up at a time.
+
+79.3. We may suspend or close the operation of a 2Up or any associated 2Up account if we believe that a person associated with the 2Up has or has attempted to be a party to a 2Up or open a 2Up account in breach of clause 79.2 above or has otherwise not complied with this clause 79. If we close a 2Up account pursuant to this clause we will do so in accordance with clause 15.3 of these terms and conditions.
+
+Establishing a 2Up
+
+79.4. To establish and maintain a 2Up, each person who is to be a party to the 2Up must be an existing Up customer and each person must have and maintain separate individual Up accounts that are not 2Up accounts.
+
+79.5. You and the other person who is to be a party to a 2Up with you must both request that we establish a 2Up or agree to being a party to the 2Up before we will agree to establish the 2Up.
+
+79.6. By requesting that we establish a 2Up or agreeing to be a party to a 2Up, you agree and consent to 2Up accounts being opened, operated, suspended and closed as set out in these terms and conditions.
+
+79.7. We may refuse to establish a 2Up in our discretion.
+
+79.8. If we establish a 2Up, we will open a new joint Up Everyday Account in the name of you and the other person who is a party to the 2Up with you as joint account holders.
+
+79.9. Each person who is a party to a 2Up may open joint Up Savers through the Up app in the names of the persons who are a party to the 2Up as joint account holders.
+
+Understanding your 2Up account obligations
+
+79.10. Your liability under these terms and conditions in relation to 2Up is both joint and several with the other person who is a party to the 2Up with you. This means that each of you is liable both on your own and together for the whole of any debit balance on the 2Up, any amounts payable to us in respect of the 2Up account, and performance of all obligations under these terms and conditions in relation to 2Up. You should carefully consider who you enter a 2Up with as you and that other person will be joint account holders and jointly and severally liable in respect of the 2Up account.
+
+79.11. Each joint account holder on a 2Up account may transact on, authorise transactions on and give us instructions in relation to 2Up without the authority or consent of the other joint account holder. This means that any joint account holder can transfer money or make payments using the Up app or a card, or close the account, without the other’s consent.
+
+79.12. However, at any time, any joint account holder may request that we restrict a 2Up account so that the account can only be operated on the joint instructions of all joint account holders, by contacting us (see our Contact details above). If we receive such a request in relation to 2Up, we will restrict the account as soon as reasonably practicable such that no transactions may be processed on the account, and the account cannot be closed, without the joint instructions of all joint account holders. This means that any cards linked to the account will not be able to be used to transact on the account and electronic payments through the Up app will not be able to be processed.
+
+79.13. We may also restrict a 2Up account if:
+
+we are notified of or otherwise become aware of any dispute between the joint account holders affecting the account;
+we are notified or otherwise become aware of the bankruptcy of a joint account holder; or
+we consider it to be necessary to prevent financial harm or abuse.
+
+79.14. If we restrict a 2Up account, we may insist on joint written instructions being provided to us, in a form that is acceptable to us, as to how the account, or funds in the account, are to be dealt with in the future before we remove the restriction or reinstate access to the account.
+
+79.15. You agree that each joint account holder acts as agent for the other and any notice or statement we give any joint account holder is taken to be a notice or statement given to all joint account holders, except where we are legally obliged to do otherwise.
+
+79.16. You agree that each joint account holder may have access to information about a 2Up account or any associated 2Up account without the consent of the other joint account holder.
+
+79.17. Each 2Up account is held jointly by the joint account holders. In the event of the death of any joint account holder, the 2Up account will be treated as the account of the surviving account holder only.
+
+Closing your 2Up arrangement
+
+79.18. You may request that we close a 2Up account only if all associated 2Up saver accounts have been closed. All associated joint Up saver accounts must be closed before your joint everyday account can be closed. If we have restricted a 2Up account so that it may not be transacted on or closed without the joint instructions of all joint account holders, you may be unable to close your 2Up until the joint instructions of all joint account holders has been received to close the relevant 2Up accounts.
+
+Section M: Fees & Charges
+
+Section last updated Wednesday, 3 April 2024
+
+View earlier versions of this section
+
+There are three types of fees and charges which can apply to your account:
+
+Transaction fees
+Other fees and charges
+Government charges
+
+This is an important section. It provides you with information about the fees and charges applicable to your accounts.
+
+Fees and charges and Government charges may apply to your account and your use of payment facilities. You authorise us to debit these fees and charges and Government charges to your account. Current fees and charges are set out in this document.
+
+We may change the fees and charges from time to time including introducing new fees and charges and Government charges. However, we will not introduce entry fees, exit fees or charges for the management of funds, excluding charges for the maintenance of the account. There is no maximum limit for the amount of fees and charges we may impose. If the law regulates such a change we will only make the change to the extent permitted by, and subject to, the requirements of that law.
+
+We may at our sole discretion waive any or all fees and charges from time to time, substitute one fee or charge for an alternative fee or charge, or impose a lower fee or charge.
+
+Transaction Fees
+
+Unless otherwise stated, the following fees & charges are charged to your account at the time of the transaction.
+
+Retail Purchase
+
+When you make a payment for goods and services with your Debit Mastercard by mail, telephone or Internet, or through a manual merchant facility or EFTPOS terminal where "credit" is selected.
+
+Free
+
+EFTPOS Withdrawal
+
+When you make a payment for goods and services by selecting "savings" or "cheque", or request cash from an EFTPOS terminal using a PIN in conjunction with your Debit Mastercard.
+
+Free
+
+Pay Anyone Transfer
+
+When you instruct us to make a payment to another account at any financial institution within Australia using the Pay Anyone Service.
+
+Free
+
+BPAY Payment
+
+When you instruct us through the Up app to pay a bill via the BPAY scheme.
+
+Free
+
+Direct Debit
+
+When you make an arrangement with a third party to automatically debit your account, e.g. insurance and health fund premiums, membership and subscription payments.
+
+Free
+
+ATM Withdrawal, Balance Enquiry or Transfer
+
+When you make a withdrawal, balance enquiry or transfer at an ATM in Australia using your Debit Mastercard.
+
+Free
+
+Note: Other financial institutions may charge you a fee for using their ATMs. This fee will be displayed at the time of the transaction and allows you to accept or decline the fee as shown.
+
+International ATM Withdrawal or Enquiry
+
+When you make a withdrawal or enquiry at an International ATM using your Debit Mastercard.
+
+Free
+
+Note: ATM operators may charge you a fee for using their ATMs. In Australia and many other countries, ATM providers must tell you if they're going to charge a fee, and the amount of the fee, and you have the option of proceeding with or cancelling the transaction or enquiry before the fee is incurred. However, in other parts of the world you won't always be notified that a fee applies or the amount of the fee. Any fees charged by an ATM provider will be debited to your account where you use their ATM, including in a country where the fees are not required to be notified to you before being incurred. We suggest reading up on your travel destination before you travel and, if in doubt, check the applicable fees with the ATM provider before using an ATM.
+
+Other Fees & Charges
+
+Unless otherwise stated, the following fees & charges are charged to your account when you request us to provide the service.
+
+2Up Plastic Card
+
+2Up cards can be ordered through the app for a one-off charge. Note: a digital debit card comes free with 2Up.
+
+$10.00
+
+Replacement Card Fee
+
+Charged when you request a replacement or re-issue of your Debit Mastercard.
+
+Free
+
+Express card delivery or redirection.
+
+$15.00
+
+Emergency Replacement Cards
+
+Charged when you request the emergency replacement of your Debit Mastercard lost or stolen overseas, within 72 hours of request.
+
+$100.00
+
+Sales Voucher Retrieval Fee
+
+Applies if we make a retrieval request for a Sales voucher for a non-PIN generated transaction and the retrieval request is withdrawn or determined as being a valid transaction.
+
+$10.00 per retrieval
+
+Audit Request
+
+When you or your representative (for example, your accountant) request us to provide a written statement of your financial accounts with us.
+
+$60.00 per hour (minimum charge $30.00)
+
+BPAY Transaction Trace Fee
+
+When you request us to trace a bill payment you have made through the BPAY scheme.
+
+$20.00
+
+BPAY transaction Recall Fee
+
+When you request us to recall a bill payment you have made through the BPAY scheme.
+
+$20.00
+
+Pay Anyone Trace Fee (including Osko)
+
+Applies to each direct entry transaction (including Osko) where a trace is requested by the customer to obtain information about the transaction made or received by the customer.
+
+$30.00
+
+International Inward Telegraphic Transfers
+
+Acceptance of payments in a foreign currency for SWIFT transfer into your account.
+
+$10.00
+
+Acceptance of payment in AUD currency for SWIFT transfer into your account.
+
+$2.00
+
+Note: Transfer of Australian dollars or foreign currency into any Bendigo and Adelaide Bank account may incur a handling or acceptance fee by the accepting bank and / or intermediary bank(s), (the amounts of which are not disclosed to us). These fees may be deducted from the total funds originally remitted.
+
+Domestic Inward Telegraphic Transfer
+
+Acceptance of a payment from an Australian financial institution for fast transfer into your account.
+
+$2.00
+
+Domestic Telegraphic Transfer Return Request
+
+Applies if you request the return payment of a telegraphic transfer.
+
+$25.00
+
+Tips on minimising your transaction fees
+
+There are several ways in which you can minimise your transaction fees. They include:
+
+By making withdrawal and deposit transactions that are free of transaction fees.
+If using an ATM which charges you a fee, withdrawing more cash less often may reduce the number of transactions you make.
+
+As these tips have been prepared without taking into account your objectives, financial situation or needs, before acting on these tips, you should consider how appropriate they are having regard to your objectives, financial situation and needs.
+
+Disclaimer
+
+Section last updated Tuesday, 19 July 2022
+
+View earlier versions of this section
+
+Up is designed, developed and delivered through a collaboration between Ferocia Pty Ltd ABN 67 152 963 712 and Bendigo and Adelaide Bank Limited ABN 11 068 049 178, AFSL and Australian Credit Licence No 237879.
+
+The Up software application is published by Up Money Pty Ltd ACN 624 373 084 on our behalf.
+
+Bendigo and Adelaide Bank Limited is the issuer of all Up branded banking and financial products provided through Up apps.
+
+Registered address: The Bendigo Centre, Bath Lane, Bendigo, Vic, 3550
+
+® Registered to BPAY Pty Ltd ABN 69 079 137 518.
+
+BEN50TC076
+
+Prior to 30 June 2019 our Product Terms were available in PDF form.

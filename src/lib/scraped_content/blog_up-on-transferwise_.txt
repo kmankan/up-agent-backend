@@ -1,0 +1,124 @@
+Up on TransferWise
+
+How to Up, Updates
+
+We’re so pleased international payments are now available to all Up customers. Up is now one of the cheapest and fastest ways in Australia to send money overseas via TransferWise.
+
+This will be welcome news to all travellers, temporary residents or those with family and friends abroad. Covid aside, the world has become a much smaller place. People travel and work overseas more freely now than at any other time in history. People today need a way to move money across borders quickly and easily and that’s exactly what we’ve achieved through our integration with the TransferWise for Banks API. The first of its kind in Australia.
+
+Story time
+
+When I was living in London, TransferWise was recommended to me by a friend and colleague named Christian. I’ve used it for all international payments since. It made moving money between my Australian and UK bank accounts a breeze. When I travelled with friends in Europe and Asia we were able to pay each other effortlessly. When friends from overseas visited me in Australia they were able to pay me back via TransferWise.
+
+The Up debit card is already a great travel companion. You can withdraw cash from international ATMs and make purchases using the MasterCard® mid-market rate without any markup. Now, with the addition of international payments in Up you can truly roam free, without borders.
+
+Let me walk you through it and explain how it works.
+
+Create or connect an account
+
+After a few taps and agreeing to the terms you’ll have your own TransferWise account that’s set to move money abroad. Up Yeah!
+
+Already have a TransferWise account?
+
+Perfect, by logging into your account and granting Up access we’ll bring across all recipients that you’ve paid in the past. This makes it a matter of seconds to send money to them again from within Up. Simply enter an amount and message for your payment and we’ll do the rest.
+
+Sending money, fast
+
+There are currently 48 currencies available to use. All of them with low fees, the real exchange rate and you’ll see a realistic estimated delivery of when you can expect the payment to land in your recipient’s account.
+
+You can enter an amount in either AUD or the foreign currency.
+
+The time to transfer depends on the currency and payment method used, however, it’s blazing fast compared with traditional banks offerings in Australia using methods like SWIFT. As an example, popular routes like AUD to GBP will usually take mere seconds to arrive.
+
+New routes are being added all the time. COP, TZS and UGX look like they’ll be the next available currencies.
+
+Send us a message via Talk to Us if your currency isn’t there.
+
+Payment details
+
+We’ll ask you a few questions about how you want to transfer the money. The exact details we’ll need depends on the currency and amount.
+
+You can enter details like BSB and account number or use other international methods like SWIFT or IBAN. There’s even e-wallet methods available for some currencies which can make paying someone overseas as low friction as entering the mobile phone number of the recipient.
+
+More payment methods are being added all the time so you can expect it to become even easier and faster in the future.
+
+Recipient details
+
+All international payments out of Australia are required to have the recipient’s name and address so we’ll ask for those too. Rules are rules.
+
+Some currencies and countries will require extra information like a phone number or identity information of the recipient. There are wildly complex requirements and regulations for sending money between countries but TransferWise deals with all the hard stuff to make it easy for you.
+
+A clear history
+
+Up’s payment threads keep a neat history of all past payments you’ve sent, they will now also show the amount in the foreign currency. The receipt will show all details you’ve entered and provide you with a real-time status update of how the payment is progressing on TransferWise’ end too.
+
+Once completed you can download the receipt from TransferWise with details of the transfer should you need it.
+
+We’ll let you know with a push notification when the payment has been sent to your recipient’s account. If there are any problems on the receiving end and your money needs to be refunded to your Up account we'll let you know about that too.
+
+How does it work?
+
+How is it possible for a payment to be sent from your Up account, converted to a foreign currency and to have it arrive in a foreign bank account in seconds?
+
+What’s going on behind the scenes is that two payments are being made. The first is between your Up account and a TransferWise account locally and then a second payment is made between a TransferWise account and your recipient’s account in the foreign country and currency. For example, say you wanted to transfer $1,000 (545.80 GBP) to David Beckham in the UK.
+
+$1,000 would be sent from Up to an Australian TransferWise account via the New Payments Platform in AUD.
+£545.80 would be sent from a UK TransferWise account to David via the Faster Payments Service in GBP.
+
+Only local payments are being made and no on-the-fly currency conversion is taking place. Foreign exchange is still required but it can be done in larger sums at strategic times.
+
+Near-instant payment networks at both legs of the journey, combined with real-time events to wire everything together when payments are received, allow for near-instant payments across borders.
+
+Interesting to note, Up has just added its own real-time payment processing capability with the release of the Up API’s Webhooks.
+
+One week in
+
+TransferWise was already a very popular service with our customers.
+
+It’s clear that Up customers love using TranferWise for international payments and now we’ve made it even easier without the need to leave the Up app.
+
+In the first week since launch:
+
+More than 2,000 customers connected their Up accounts with TransferWise.
+Payments have been made in 28 currencies, the most popular being INR, GBP, NZD and EUR.
+Payments have been made to 36 countries, the most popular being India, United Kingdom, New Zealand and the United States.
+Most transfers are sent within 3 mins, the quickest was 19 seconds. The average, including all currencies and destinations was 2h 27m.
+
+Getting these things right takes a lot of time and coordination. The first international payment from Up was made on December 12, 2019 at 4:10pm. The final stretch was ensuring we’d done everything possible to protect individuals before releasing international payments publicly. It’s been a collaborative effort by Bendigo Bank and Ferocia (in Australia) and TransferWise (in Australia, the UK and Singapore) to achieve such a streamlined, easy-to-use, and super-fast outcome and we’re thrilled it’s now in your hands.
+
+Take it for a spin and let us know what you think, we’d love to hear from you.
+
+Mark Brown
+
+Engineer
+
+@markbrown4
+
+Tags: Transferwise, Wise, History
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Up 1.15.0 Release notes
+
+International Payments powered by TransferWise, Monthly Insights updates & Up API Changelog
+
+Up
+
+Aug 09, 2020
+
+Up 1.14.2 Release Notes
+
+1% Pay Splitting Increments, iOS Actionable Covers & Forwards, Up API & Changes to Saver Pools
+
+Up
+
+Aug 03, 2020
+Keep reading
+
+More from the makers of Up.

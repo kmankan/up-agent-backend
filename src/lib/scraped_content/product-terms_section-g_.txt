@@ -1,0 +1,325 @@
+Section G: BPAY
+
+Current and historical versions of the Section G: BPAY section of the Up Personal Accounts Terms & Conditions.
+
+Publication date:
+
+Thursday, 9 November 2023
+Tuesday, 3 December 2019
+Friday, 31 May 2019
+Published Thursday, 9 November 2023
+45. About the BPAY scheme
+
+45.1. This section applies if you ask us to make a BPAY payment on your behalf.
+
+45.2. The BPAY scheme is an electronic payments scheme through which you can ask us to make payments to billers who inform you that you can make BPAY payments to them through the BPAY scheme.
+
+45.3. We are a member of the BPAY scheme and we will inform you if we are no longer a member.
+
+45.4. Access to the Up app is required to make BPAY payments through the BPAY scheme for Up accounts.
+
+45.5. We are not acting as your agent or the agent of the biller when we make a BPAY payment on your behalf.
+
+46. Using the BPAY scheme
+
+46.1. When you tell us to make a BPAY payment, you must provide us with the following information in the Up app:
+
+the account from which the BPAY payment is to be debited;
+the BPAY biller code of the biller to be paid;
+the amount of the BPAY payment; and
+the biller customer reference number.
+
+46.2. You acknowledge and accept that we are not obliged to effect a BPAY payment if you do not give to us all of the above information or give us inaccurate information.
+
+46.3. We will then debit the account you specify with the amount of that BPAY payment.
+
+46.4. We may decide not to make the BPAY payment if there are insufficient cleared funds in the specified account at the time you have told us to make that payment.
+
+47. Payments
+
+47.1. We may impose restrictions on the accounts from which a BPAY payment may be made or impose limits on the amount of BPAY payments.
+
+47.2. We will not accept an instruction to stop a BPAY payment once you have instructed us to make that BPAY payment except for future dated payments which can be cancelled before the due payment date.
+
+47.3. Billers who participate in the BPAY scheme have agreed that a BPAY payment you make will be treated as received by the biller to whom it is directed:
+
+on the date that you make that BPAY payment, if you tell us to make the BPAY payment before our payment cut-off time on a business day (for payment cut-off times see clause 51 below);
+on the next business day, if you tell us to make a BPAY payment after our payment cut-off time on a business day or on a non- business day; or
+on the day or next business day, you have nominated for a scheduled payment to take place.
+
+47.4. A delay may occur in the processing of a BPAY payment where:
+
+there is a public or bank holiday on the day you tell us to make a BPAY payment;
+you tell us to make a BPAY payment either on a day which is not a business day or after our payment cut-off time on a business day;
+another financial institution participating in the BPAY scheme does not comply with its obligations under the BPAY scheme;
+a biller fails to comply with its obligations under the BPAY scheme.
+
+47.5. Although a delay in processing a BPAY payment is not expected to continue for more than one business day, you acknowledge and accept that a delay may continue for a longer period.
+
+47.6. Regardless of when an immediate BPAY payment is made, the account from which you want us to debit the BPAY payment will be debited immediately.
+
+48. If the amount of a payment to a biller is incorrect
+
+48.1. You must ensure that the information in relation to each BPAY payment is correct. If you discover that you have instructed us to make a payment to a biller for an incorrect amount:
+
+if the amount you instructed us to pay is greater than the required amount, contact the biller for a refund;
+if the amount is less than the required amount, you should make a further BPAY payment for the difference.
+49. When a Biller cannot process a payment
+
+49.1. If we are notified that your BPAY payment cannot be processed by a biller, we will notify you and credit your account for the amount of the BPAY payment.
+
+50. Suspension of BPAY
+
+50.1. We may suspend your right to participate in the BPAY service at any time if you are suspected of acting in a fraudulent manner.
+
+51. Cut-off times
+
+51.1. If you instruct us to make a BPAY payment before the time specified below, it will in most cases be treated as having been made on the same day.
+
+Cut-off times:
+
+Monday -- Friday 6:30pm (Victorian Time) Saturday, Sunday and Public Holidays: processed next business day.
+
+51.2. BPAY payments may take longer to be credited to a biller if you tell us to make a BPAY payment on a Saturday, Sunday or public holiday or if the biller does not process a payment as soon as they receive its details.
+
+52. Liability for mistaken payments, unauthorised transactions and fraud
+
+52.1. You must notify us immediately if:
+
+you become aware that you may have made a mistake (except in relation to the BPAY payment amount -- see clause 48.1) when instructing us to make a BPAY payment;
+you did not authorise the BPAY payment from your account;
+you believe the BPAY payment was not processed in accordance with your instructions (including delays);
+you think you have been fraudulently induced to make a BPAY payment.
+
+52.2. We will attempt to rectify any such matters in relation to your BPAY payment in the way described in this clause. If a BPAY payment is made on your account without your knowledge or consent, liability for that unauthorised BPAY payment will be determined in accordance with clause 44. Otherwise, except as set out in this clause, we will not be liable for any loss or damage you suffer as a result of using the BPAY scheme.
+
+52.3. If a BPAY payment is made to a person or for an amount which is not in accordance with your instructions (if any), and your account has been debited with the amount of that payment, we will credit that amount to your account. However, if you were responsible for a mistake resulting in that payment and we cannot recover the amount within 20 business days of us attempting to do so from the person who received the amount of that payment, you must pay us that amount and you authorise us to debit that amount from your account.
+
+52.4. If a BPAY payment is made in accordance with a payment direction which appeared to us to be from you or on your behalf but for which you did not give authority, we will credit your account with the amount of that unauthorised payment. However, you must pay us the amount of that unauthorised payment, and you authorise us to debit that amount to your account, if:
+
+we cannot recover that amount within 20 business days of us attempting to do so from the person who receives it; and
+the payment was made as a result of a payment direction which didn't comply with any requirements we may have for such payments directions.
+
+52.5. If a BPAY payment is induced by the fraud of a person involved in the BPAY scheme, then that person should refund you the amount of the fraud induced payment. However, if that person does not refund the amount of the fraud induced payment, you must bear that loss (and you authorised us to debit that amount of the fraud induced payment to your account) unless some other person involved in the BPAY scheme knew of the fraud or would have detected it with reasonable diligence, in which case we will attempt to obtain a refund for you of the fraud induced payment.
+
+52.6. If a BPAY payment you have made falls with the type described in clause 52.3 and also clause 52.4 or 52.5, then we will apply the principles set out in clause 52.4. If a BPAY payment you have made falls within both the types described in clauses 52.3 and 52.5, then we will apply the principles set out in clause 52.5.
+
+52.7. If you tell us that a BPAY payment made from your account is unauthorised, you must first give us your written consent addressed to the biller who received that BPAY payment, consenting to us obtaining from the biller information about your account with that biller or the BPAY payment, including your customer reference number and such information as we reasonably require to investigate the BPAY payment. We are not obligated to investigate or rectify any BPAY payment if you do not give us this consent. If you do not give us that consent, the biller may not be permitted under law to disclose to us information we need to investigate or rectify that BPAY payment.
+
+52.8. We are not liable for any consequential loss or damage you suffer as a result of using the BPAY scheme, other than loss or damage which is due to our negligence or a breach of any condition or warranty implied by law which cannot be excluded, restricted or modified at all or only to a limited extent.
+
+Published Tuesday, 3 December 2019
+45. About the BPAY scheme
+
+45.1. This section applies if you ask us to make a BPAY payment on your behalf.
+
+45.2. The BPAY scheme is an electronic payments scheme through which you can ask us to make payments to billers who inform you that you can make BPAY payments to them through the BPAY scheme.
+
+45.3. We are a member of the BPAY scheme and we will inform you if we are no longer a member.
+
+45.4. Access to the Up app is required to make BPAY payments through the BPAY scheme for Up accounts.
+
+45.5. We are not acting as your agent or the agent of the biller when we make a BPAY payment on your behalf.
+
+46. Using the BPAY scheme
+
+46.1. When you tell us to make a BPAY payment, you must provide us with the following information in the Up app:
+
+the account from which the BPAY payment is to be debited;
+the BPAY biller code of the biller to be paid;
+the amount of the BPAY payment; and
+the biller customer reference number.
+
+46.2. You acknowledge and accept that we are not obliged to effect a BPAY payment if you do not give to us all of the above information or give us inaccurate information.
+
+46.3. We will then debit the account you specify with the amount of that BPAY payment.
+
+46.4. We may decide not to make the BPAY payment if there are insufficient cleared funds in the specified account at the time you have told us to make that payment.
+
+47. Payments
+
+47.1. We may impose restrictions on the accounts from which a BPAY payment may be made or impose limits on the amount of BPAY payments.
+
+47.2. We will not accept an instruction to stop a BPAY payment once you have instructed us to make that BPAY payment except for future dated payments which can be cancelled before the due payment date.
+
+47.3. Billers who participate in the BPAY scheme have agreed that a BPAY payment you make will be treated as received by the biller to whom it is directed:
+
+on the date that you make that BPAY payment, if you tell us to make the BPAY payment before our payment cut-off time on a business day (for payment cut-off times see clause 65 below);
+on the next business day, if you tell us to make a BPAY payment after our payment cut-off time on a business day or on a non- business day; or
+on the day or next business day, you have nominated for a scheduled payment to take place.
+
+47.4. A delay may occur in the processing of a BPAY payment where:
+
+there is a public or bank holiday on the day you tell us to make a BPAY payment;
+you tell us to make a BPAY payment either on a day which is not a business day or after our payment cut-off time on a business day;
+another financial institution participating in the BPAY scheme does not comply with its obligations under the BPAY scheme;
+a biller fails to comply with its obligations under the BPAY scheme.
+
+47.5. Although a delay in processing a BPAY payment is not expected to continue for more than one business day, you acknowledge and accept that a delay may continue for a longer period.
+
+47.6. Regardless of when an immediate BPAY payment is made, the account from which you want us to debit the BPAY payment will be debited immediately.
+
+48. If the amount of a payment to a biller is incorrect
+
+48.1. You must ensure that the information in relation to each BPAY payment is correct. If you discover that you have instructed us to make a payment to a biller for an incorrect amount:
+
+if the amount you instructed us to pay is greater than the required amount, contact the biller for a refund;
+if the amount is less than the required amount, you should make a further BPAY payment for the difference.
+49. When a Biller cannot process a payment
+
+49.1. If we are notified that your BPAY payment cannot be processed by a biller, we will notify you and credit your account for the amount of the BPAY payment.
+
+50. Suspension of BPAY
+
+50.1. We may suspend your right to participate in the BPAY service at any time if you are suspected of acting in a fraudulent manner.
+
+51. Cut-off times
+
+51.1. If you instruct us to make a BPAY payment before the time specified below, it will in most cases be treated as having been made on the same day.
+
+Cut-off times:
+
+Monday -- Friday 6:30pm (Victorian Time) Saturday, Sunday and Public Holidays: processed next business day.
+
+51.2. BPAY payments may take longer to be credited to a biller if you tell us to make a BPAY payment on a Saturday, Sunday or public holiday or if the biller does not process a payment as soon as they receive its details.
+
+52. Liability for mistaken payments, unauthorised transactions and fraud
+
+52.1. You must notify us immediately if:
+
+you become aware that you may have made a mistake (except in relation to the BPAY payment amount -- see clause 48.1) when instructing us to make a BPAY payment;
+you did not authorise the BPAY payment from your account;
+you believe the BPAY payment was not processed in accordance with your instructions (including delays);
+you think you have been fraudulently induced to make a BPAY payment.
+
+52.2. We will attempt to rectify any such matters in relation to your BPAY payment in the way described in this clause. If a BPAY payment is made on your account without your knowledge or consent, liability for that unauthorised BPAY payment will be determined in accordance with clause 44. Otherwise, except as set out in this clause, we will not be liable for any loss or damage you suffer as a result of using the BPAY scheme.
+
+52.3. If a BPAY payment is made to a person or for an amount which is not in accordance with your instructions (if any), and your account has been debited with the amount of that payment, we will credit that amount to your account. However, if you were responsible for a mistake resulting in that payment and we cannot recover the amount within 20 business days of us attempting to do so from the person who received the amount of that payment, you must pay us that amount and you authorise us to debit that amount from your account.
+
+52.4. If a BPAY payment is made in accordance with a payment direction which appeared to us to be from you or on your behalf but for which you did not give authority, we will credit your account with the amount of that unauthorised payment. However, you must pay us the amount of that unauthorised payment, and you authorise us to debit that amount to your account, if:
+
+we cannot recover that amount within 20 business days of us attempting to do so from the person who receives it; and
+the payment was made as a result of a payment direction which didn't comply with any requirements we may have for such payments directions.
+
+52.5. If a BPAY payment is induced by the fraud of a person involved in the BPAY scheme, then that person should refund you the amount of the fraud induced payment. However, if that person does not refund the amount of the fraud induced payment, you must bear that loss (and you authorised us to debit that amount of the fraud induced payment to your account) unless some other person involved in the BPAY scheme knew of the fraud or would have detected it with reasonable diligence, in which case we will attempt to obtain a refund for you of the fraud induced payment.
+
+52.6. If a BPAY payment you have made falls with the type described in clause 52.3 and also clause 52.4 or 52.5, then we will apply the principals set out in clause 52.4. If a BPAY payment you have made falls within both the types described in clauses 52.3 and 52.5, then we will apply the principles set out in clause 52.5.
+
+52.7. You indemnify us against any loss or damage we may suffer due to any claims, suits, demands or action of any kind brought against us arising directly or indirectly because you:
+
+did not observe any of your obligations under these BPAY conditions; or
+acted negligently or fraudulently in connection with the other terms and conditions of your account.
+
+52.8. If you tell us that a BPAY payment made from your account is unauthorised, you must first give us your written consent addressed to the biller who received that BPAY payment, consenting to us obtaining from the biller information about your account with that biller or the BPAY payment, including your customer reference number and such information as we reasonably require to investigate the BPAY payment. We are not obligated to investigate or rectify any BPAY payment if you do not give us this consent. If you do not give us that consent, the biller may not be permitted under law to disclose to us information we need to investigate or rectify that BPAY payment.
+
+52.9. We are not liable for any consequential loss or damage you suffer as a result of using the BPAY scheme, other than loss or damage which is due to our negligence or a breach of any condition or warranty implied by law which cannot be excluded, restricted or modified at all or only to a limited extent.
+
+Published Friday, 31 May 2019
+45. About the BPAY scheme
+
+45.1. This section applies if you ask us to make a BPAY payment on your behalf.
+
+45.2. The BPAY scheme is an electronic payments scheme through which you can ask us to make payments to billers who inform you that you can make BPAY payments to them through the BPAY scheme.
+
+45.3. We are a member of the BPAY scheme and we will inform you if we are no longer a member.
+
+45.4. Access to the Up app is required to make BPAY payments through the BPAY scheme for Up accounts.
+
+45.5. We are not acting as your agent or the agent of the biller when we make a BPAY payment on your behalf.
+
+46. Using the BPAY scheme
+
+46.1. When you tell us to make a BPAY payment, you must provide us with the following information in the Up app:
+
+the account from which the BPAY payment is to be debited;
+the BPAY biller code of the biller to be paid;
+the amount of the BPAY payment; and
+the biller customer reference number.
+
+46.2. You acknowledge and accept that we are not obliged to effect a BPAY payment if you do not give to us all of the above information or give us inaccurate information.
+
+46.3. We will then debit the account you specify with the amount of that BPAY payment.
+
+46.4. We may decide not to make the BPAY payment if there are insufficient cleared funds in the specified account at the time you have told us to make that payment.
+
+47. Payments
+
+47.1. We may impose restrictions on the accounts from which a BPAY payment may be made or impose limits on the amount of BPAY payments.
+
+47.2. We will not accept an instruction to stop a BPAY payment once you have instructed us to make that BPAY payment except for future dated payments which can be cancelled before the due payment date.
+
+47.3. Billers who participate in the BPAY scheme have agreed that a BPAY payment you make will be treated as received by the biller to whom it is directed:
+
+on the date that you make that BPAY payment, if you tell us to make the BPAY payment before our payment cut-off time on a business day (for payment cut-off times see clause 65 below);
+on the next business day, if you tell us to make a BPAY payment after our payment cut-off time on a business day or on a non- business day; or
+on the day or next business day, you have nominated for a scheduled payment to take place.
+
+47.4. A delay may occur in the processing of a BPAY payment where:
+
+there is a public or bank holiday on the day you tell us to make a BPAY payment;
+you tell us to make a BPAY payment either on a day which is not a business day or after our payment cut-off time on a business day;
+another financial institution participating in the BPAY scheme does not comply with its obligations under the BPAY scheme;
+a biller fails to comply with its obligations under the BPAY scheme.
+
+47.5. Although a delay in processing a BPAY payment is not expected to continue for more than one business day, you acknowledge and accept that a delay may continue for a longer period.
+
+47.6. Regardless of when an immediate BPAY payment is made, the account from which you want us to debit the BPAY payment will be debited immediately.
+
+48. If the amount of a payment to a biller is incorrect
+
+48.1. You must ensure that the information in relation to each BPAY payment is correct. If you discover that you have instructed us to make a payment to a biller for an incorrect amount:
+
+if the amount you instructed us to pay is greater than the required amount, contact the biller for a refund;
+if the amount is less than the required amount, you should make a further BPAY payment for the difference.
+49. When a Biller cannot process a payment
+
+49.1. If we are notified that your BPAY payment cannot be processed by a biller, we will notify you and credit your account for the amount of the BPAY payment.
+
+50. Suspension of BPAY
+
+50.1. We may suspend your right to participate in the BPAY service at any time if you are suspected of acting in a fraudulent manner.
+
+51. Cut-off times
+
+51.1. If you instruct us to make a BPAY payment before the time specified below, it will in most cases be treated as having been made on the same day.
+
+Cut-off times:
+
+Monday -- Friday 5pm (Victorian Time)
+
+Saturday, Sunday and Public Holidays: processed next business day.
+
+51.2. BPAY payments may take longer to be credited to a biller if you tell us to make a BPAY payment on a Saturday, Sunday or public holiday or if the biller does not process a payment as soon as they receive its details.
+
+52. Liability for mistaken payments, unauthorised transactions and fraud
+
+52.1. You must notify us immediately if:
+
+you become aware that you may have made a mistake (except in relation to the BPAY payment amount -- see clause 48.1) when instructing us to make a BPAY payment;
+you did not authorise the BPAY payment from your account;
+you believe the BPAY payment was not processed in accordance with your instructions (including delays);
+you think you have been fraudulently induced to make a BPAY payment.
+
+52.2. We will attempt to rectify any such matters in relation to your BPAY payment in the way described in this clause. If a BPAY payment is made on your account without your knowledge or consent, liability for that unauthorised BPAY payment will be determined in accordance with clause 44. Otherwise, except as set out in this clause, we will not be liable for any loss or damage you suffer as a result of using the BPAY scheme.
+
+52.3. If a BPAY payment is made to a person or for an amount which is not in accordance with your instructions (if any), and your account has been debited with the amount of that payment, we will credit that amount to your account. However, if you were responsible for a mistake resulting in that payment and we cannot recover the amount within 20 business days of us attempting to do so from the person who received the amount of that payment, you must pay us that amount and you authorise us to debit that amount from your account.
+
+52.4. If a BPAY payment is made in accordance with a payment direction which appeared to us to be from you or on your behalf but for which you did not give authority, we will credit your account with the amount of that unauthorised payment. However, you must pay us the amount of that unauthorised payment, and you authorise us to debit that amount to your account, if:
+
+we cannot recover that amount within 20 business days of us attempting to do so from the person who receives it; and
+the payment was made as a result of a payment direction which didn't comply with any requirements we may have for such payments directions.
+
+52.5. If a BPAY payment is induced by the fraud of a person involved in the BPAY scheme, then that person should refund you the amount of the fraud induced payment. However, if that person does not refund the amount of the fraud induced payment, you must bear that loss (and you authorised us to debit that amount of the fraud induced payment to your account) unless some other person involved in the BPAY scheme knew of the fraud or would have detected it with reasonable diligence, in which case we will attempt to obtain a refund for you of the fraud induced payment.
+
+52.6. If a BPAY payment you have made falls with the type described in clause 52.3 and also clause 52.4 or 52.5, then we will apply the principals set out in clause 52.4. If a BPAY payment you have made falls within both the types described in clauses 52.3 and 52.5, then we will apply the principles set out in clause 52.5.
+
+52.7. You indemnify us against any loss or damage we may suffer due to any claims, suits, demands or action of any kind brought against us arising directly or indirectly because you:
+
+did not observe any of your obligations under these BPAY conditions; or
+acted negligently or fraudulently in connection with the other terms and conditions of your account.
+
+52.8. If you tell us that a BPAY payment made from your account is unauthorised, you must first give us your written consent addressed to the biller who received that BPAY payment, consenting to us obtaining from the biller information about your account with that biller or the BPAY payment, including your customer reference number and such information as we reasonably require to investigate the BPAY payment. We are not obligated to investigate or rectify any BPAY payment if you do not give us this consent. If you do not give us that consent, the biller may not be permitted under law to disclose to us information we need to investigate or rectify that BPAY payment.
+
+52.9. We are not liable for any consequential loss or damage you suffer as a result of using the BPAY scheme, other than loss or damage which is due to our negligence or a breach of any condition or warranty implied by law which cannot be excluded, restricted or modified at all or only to a limited extent.
+
+Prior to June 2019, our Product Terms were available in PDF form.

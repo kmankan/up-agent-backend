@@ -1,0 +1,52 @@
+Up 1.4.4 Release Notes
+
+Updates
+
+New Statements
+
+Statements will now make a statement in more ways than one. Sent through the ultimate design machine, your Up statements now look and feel better than before. Not a big reader? Get a quick monthly summary on page one. You’ll now see merchant logos and all your favourite icons for transfers and payments. Better margins? More transactions? -- A real treat handed down from the document gods.
+
+Emoji Updates
+
+Unicode version 11 emojis have joined the gang and are now available as Saver icons. From Leg to Llama, all your new favourites are here! You can also long press on an emoji to summon different skin tones. We are now eagerly awaiting version 12.
+
+We’ve gone deep into the emoji rabbit hole 🕳 Learn more about where emojis come from and how you can adopt an emoji in Xavier’s new blog post.
+
+Triangle Loader
+
+We’re bringing the buzz. We’ve tweaked the coordinates and set loading states on a new path. Circle loading animations are out and the colour-spectrum-buzz-triangle 3000 is in. While waiting for Up to load you’ll notice our new triangle animation. A true journey through time and space. Tell your friends.
+
+Up
+
+Easy Money
+
+@up_banking
+
+Tags: Release Notes, Up 1.4.4, Emojis
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Where Do Emoji Come From?
+
+With our most recent release supporting a crop of exciting new emojis, we ask the question: where do emoji come from anyway?
+
+Xavier Shay
+
+May 22, 2019
+
+Building Saver Icons
+
+New in our most recent release is the ability to choose a custom emoji icon for your savers. Learn some of the technical challenges surmounted while building it.
+
+Xavier Shay
+
+May 13, 2019
+Keep reading
+
+More from the makers of Up.

@@ -1,0 +1,192 @@
+Section D: The Up app
+
+Current and historical versions of the Section D: The Up app section of the Up Personal Accounts Terms & Conditions.
+
+Publication date:
+
+Thursday, 9 November 2023
+Friday, 31 May 2019
+Published Thursday, 9 November 2023
+
+We warrant that we will comply with the requirements of the ePayments Code. This section and Section E apply when you use the Up app.
+
+32. Passcode and Biometric authentication
+
+32.1. When you sign up for Up, you designate a passcode which you can subsequently use to authenticate with the Up app.
+
+32.2. You acknowledge and accept that:
+
+the mobile number you supply and your selected passcode together form the means by which we authenticate you when you use the Up app;
+anyone using your mobile number and passcode will be able to authenticate themselves as you using the Up app, and hence will be able to access and conduct transactions on your accounts.
+
+32.3. You authorise us to act upon all instructions given to us using your mobile number and passcode. Subject to any other provision of these terms and conditions, you are liable for any such instructions.
+
+32.4. We may delay acting on an instruction given by you when we reasonably believe it is necessary for us to do so.
+
+33. Services Available Using the Up app
+
+33.1. By using the Up app you may be able to:
+
+review the balance of your accounts to determine the current or available balance;
+transfer funds between accounts;
+arrange recurring or future specific date funds transfers;
+review the transaction history of an account;
+review the details of a transaction on an account including the date of the transaction, the type of the transaction (such as a withdrawal or BPAY payment) and the amount;
+select an individual transaction or a range of transactions on an account for closer examination;
+access chat functionality which enables you to exchange secure messages with Up support staff. Sensitive information should not be submitted via chat (e.g. Tax File Numbers, Card Numbers. passcodes, PINs, etc);
+make BPAY payments;
+transfer funds using the Pay Anyone Service to any account at any financial institution within Australia using a valid BSB number and account number; and
+Other actions and functionality, as we make it available.
+34. Equipment
+
+34.1. It is your responsibility to obtain and maintain any electronic equipment (e.g. computer hardware or smart phone) which you may need to access the Up app.
+
+34.2. The Up app is available for iOS and Android devices and can be installed by using the app store functionality on those devices.
+
+35. Access
+
+35.1. You will only have access to an account using the Up app where:
+
+the account is an Up account;
+we have received no notification or we are unaware that the account is under a dispute of any kind with any other party or entity; and
+we have received no notification or we are unaware that an application for bankruptcy or liquidation has been filed either by you, or issued or lodged by another person or entity.
+
+35.2. In our discretion, we may require that you authenticate yourself in the Up app using two factor or progressive authentication before we accept your instructions for certain types of activities or transactions in the Up app. For example, we may require you insert a code we send you via SMS or other notification. Where we do so, we may refuse to accept your instruction until you have authenticated yourself as requested.
+
+35.3. We will make reasonable efforts to ensure the availability of the Up app and ensure that information we make available to you through the Up app is correct. However, to the extent permitted by law, we do not guarantee the Up app will always be available or error free.
+
+35.4. We may block access to the Up app at any time without notice if we believe either it is being misused by you or used without your authority.
+
+35.5. You must only use the Up app on a device that has not had its operating software modified against the operating system provider's specifications or recommendations (i.e. it is not "jailbroken" or "rooted") and must promptly install and apply any operating system updates or security patches released by the operating system provider on your device.
+
+35.6. We may temporarily block your access to the Up app at any time without prior notice to you in the event of any Up system malfunction.
+
+35.7. We may remove your access to the Up app without giving you notice where you have not accessed the Up app for at least six months.
+
+35.8. If you give us notice to cancel your access, you remain bound by these terms and conditions which may apply notwithstanding that your access has been cancelled.
+
+35.9. Without limiting clause 35.4, 35.6 or 35.7, we may cease to allow you to access your accounts using the Up app, without providing any reason to you, at any time by providing reasonable prior notice to you.
+
+36. Confirmation of Transactions
+
+36.1. We will provide you with a transaction receipt number every time you make a transaction on your account using the Up app. You should record the transaction receipt number and it should be quoted if you or they have any queries in relation to that transaction.
+
+36.2. Subject to the requirements of any law, records of transactions made using the Up app will be made available to you on the Up app immediately on completion of the transaction and as part of the associated account's transaction history for later viewing. You can save or print the transaction receipt at your own discretion. We will not provide you with a paper transaction record or receipt.
+
+37. Our responsibility for the Up app
+
+37.1. Subject to any other provisions of these terms and conditions, to the extent permitted by law, we are not liable to you for or in connection with:
+
+any loss or damage you suffer as a result of using the Up app or a payment facility;
+any malfunction or failure of any electronic equipment;
+any malfunction or failure of any other system or software you use to access the Up app, including without limitation, telecommunications and ISP services;
+any unavailability or failure (of which you should have been aware) of the Up app to accept instructions from you;
+any failure of a passcode to permit you to access the Up app;
+disclosure of information relating to your accounts through the Up app where the information has been obtained by or in conjunction with any person using your passcode or mobile number; or
+any unauthorised access to your information transmitted by us through the Up app in relation to a nominated account.
+
+We do not exclude any liability to you for loss or damage to you arising directly from the fraud, negligence or wilful misconduct of us, our employees or agents or a receiver appointed by us.
+
+37.2. You acknowledge and accept that the Up app may only show transactions and balances current as at the previous business day.
+
+38. Liability
+
+38.1. You will be liable for all transactions on your account carried out using a supported access method. You authorise us to debit all such transactions to your account.
+
+38.2. To the extent permitted by law, we will not be liable for any loss or damage you suffer as a result of using the Up app.
+
+Published Friday, 31 May 2019
+
+We warrant that we will comply with the requirements of the ePayments Code. This section and Section E apply when you use the Up app.
+
+32. Passcode and Biometric authentication
+
+32.1. When you sign up for Up, you designate a passcode which you can subsequently use to authenticate with the Up app.
+
+32.2. You acknowledge and accept that:
+
+the mobile number you supply and your selected passcode together form the means by which we authenticate you when you use the Up app;
+anyone using your mobile number and passcode will be able to authenticate themselves as you using the Up app, and hence will be able to access and conduct transactions on your accounts.
+
+32.3. You authorise us to act upon all instructions given to us using your mobile number and passcode. Subject to any other provision of these terms and conditions, you are liable for any such instructions.
+
+32.4. We may delay acting on an instruction given by you when we reasonably believe it is necessary for us to do so.
+
+33. Services Available Using the Up app
+
+33.1. By using the Up app you may be able to:
+
+review the balance of your accounts to determine the current or available balance;
+transfer funds between accounts;
+arrange recurring or future specific date funds transfers;
+review the transaction history of an account;
+review the details of a transaction on an account including the date of the transaction, the type of the transaction (such as a withdrawal or BPAY payment) and the amount;
+select an individual transaction or a range of transactions on an account for closer examination;
+access chat functionality which enables you to exchange secure messages with Up support staff. Sensitive information should not be submitted via chat (e.g. Tax File Numbers, Card Numbers. passcodes, PINs, etc);
+make BPAY payments;
+transfer funds using the Pay Anyone Service to any account at any financial institution within Australia using a valid BSB number and account number; and
+Other actions and functionality, as we make it available.
+34. Equipment
+
+34.1. It is your responsibility to obtain and maintain any electronic equipment (e.g. computer hardware or smart phone) which you may need to access the Up app.
+
+34.2. The Up app is available for iOS and Android devices and can be installed by using the app store functionality on those devices.
+
+35. Access
+
+35.1. You will only have access to an account using the Up app where:
+
+the account is an Up account;
+we have received no notification or we are unaware that the account is under a dispute of any kind with any other party or entity; and
+we have received no notification or we are unaware that an application for bankruptcy or liquidation has been filed either by you, or issued or lodged by another person or entity.
+
+35.2. In our discretion, we may require that you authenticate yourself in the Up app using two factor or progressive authentication before we accept your instructions for certain types of activities or transactions in the Up app. For example, we may require you insert a code we send you via SMS or other notification. Where we do so, we may refuse to accept your instruction until you have authenticated yourself as requested.
+
+35.3. We will make reasonable efforts to ensure the availability of the Up app and ensure that information we make available to you through the Up app is correct. However, to the extent permitted by law, we do not guarantee the Up app will always be available or error free.
+
+35.4. We may block access to the Up app at any time without notice if we believe either it is being misused by you or used without your authority.
+
+35.5. You must only use the Up app on a device that has not had its operating software modified against the operating system provider's specifications or recommendations (i.e. it is not "jailbroken" or "rooted") and must promptly install and apply any operating system updates or security patches released by the operating system provider on your device.
+
+35.6. We may temporarily block your access to the Up app at any time without prior notice to you in the event of any Up system malfunction.
+
+35.7. We may remove your access to the Up app without giving you notice where you have not accessed the Up app for at least six months.
+
+35.8. If you give us notice to cancel your access, you remain bound by these terms and conditions which may apply notwithstanding that your access has been cancelled.
+
+35.9. Without limiting clause 35.4, 35.6 or 35.7, we may cease to allow you to access your accounts using the Up app, without providing any reason to you, at any time by providing reasonable prior notice to you.
+
+36. Confirmation of Transactions
+
+36.1. We will provide you with a transaction receipt number every time you make a transaction on your account using the Up app. You should record the transaction receipt number and it should be quoted if you or they have any queries in relation to that transaction.
+
+36.2. Subject to the requirements of any law, records of transactions made using the Up app will be made available to you on the Up app immediately on completion of the transaction and as part of the associated account's transaction history for later viewing. You can save or print the transaction receipt at your own discretion. We will not provide you with a paper transaction record or receipt.
+
+37. Our responsibility for the Up app
+
+37.1. Subject to any other provisions of these terms and conditions, to the extent permitted by law, we are not liable to you for or in connection with:
+
+any loss or damage you suffer as a result of using the Up app or a payment facility;
+any malfunction or failure of any electronic equipment;
+any malfunction or failure of any other system or software you use to access the Up app, including without limitation, telecommunications and ISP services;
+any unavailability or failure (of which you should have been aware) of the Up app to accept instructions from you;
+any failure of a passcode to permit you to access the Up app;
+disclosure of information relating to your accounts through the Up app where the information has been obtained by or in conjunction with any person using your passcode or mobile number; or
+any unauthorised access to your information transmitted by us through the Up app in relation to a nominated account.
+
+37.2. You acknowledge and accept that the Up app may only show transactions and balances current as at the previous business day.
+
+38. Liability
+
+38.1. You will be liable for all transactions on your account carried out using a supported access method. You authorise us to debit all such transactions to your account.
+
+38.2. To the extent permitted by law, we will not be liable for any loss or damage you suffer as a result of using the Up app.
+
+38.3. You indemnify us against any loss or damage we may suffer due to any claims, suits, demands or action of any kind brought against us arising directly or indirectly because you:
+
+did not observe any of your obligations under the terms and conditions in this section; or
+acted negligently or fraudulently in connection with the other terms and conditions.
+
+However, you are not obliged to indemnify us in respect of any loss or damage we suffer to the extent it was incurred due to the fraud, negligence or wilful misconduct of us, our employees or agents, or a receiver appointed by us.
+
+Prior to June 2019, our Product Terms were available in PDF form.

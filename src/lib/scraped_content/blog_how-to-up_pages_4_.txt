@@ -1,0 +1,89 @@
+Up Blog
+
+Keep up to date with in-depth content from the makers of Up.
+
+How to Up
+
+Level Up your skills with these tips, tricks and tutorials from the creators of Up.
+
+Back to Blog
+
+Up on TransferWise
+
+International Payments are now available to all Up customers via TransferWise. Let me take you on the grand tour.
+
+Mark Brown
+
+Aug 19, 2020
+
+Announcing the Up API
+
+Let's Hack On Banking Together! Today we're thrilled to announce the beta release of the Up API.
+
+Anson Parker
+
+Jul 27, 2020
+
+New release: Covers & Forwards
+
+Today we're introducing two new verbs to banking: "Covering" and "Forwarding".
+
+Anson Parker
+
+Mar 02, 2020
+
+Self-Review: Travelling with Up
+
+Our Head of Product puts the Up card through its paces on his European honeymoon.
+
+Anson Parker
+
+Jan 16, 2020
+
+CSV: Custom Savings Viewer
+
+CSV export is (finally) here - and we've got a starting point for you to play with.
+
+David Buchan-Swanson
+
+Oct 31, 2019
+
+Pay Day
+
+Introducing Salary Identification and Split Payments. Pay day just got a whole lot better with Up.
+
+Mark Brown
+
+Oct 17, 2019
+
+The Round Ups Round-up
+
+Having now made over 250,000 round ups we take a nerdy dive into the data we've seen, including the most common cents amounts on purchases and our plans for the future.
+
+Anson Parker
+
+Feb 28, 2019
+
+Who are our Upsiders?
+
+With Up flying past 30,000 customers within a few months of launch, we thought we'd introduce a few faces who are enjoying life on the Upside.
+
+Up
+
+Feb 13, 2019
+
+Afterpaying with Up
+
+Spending wisely requires being more connected to your past purchases than many of us are today. It also requires a better understanding of your future spending commitments. Armed with knowledge of the past and future you are able to make better informed — wiser — spending decisions.
+
+Anson Parker
+
+Feb 04, 2019
+
+Paying Someone
+
+The area of payments presents one of the bigger opportunities for innovation and improvement in banking, but also exerts the greatest challenge on us to remain truly forward-looking and uncompromising while maintaining compatibility with industry standards.
+
+Anson Parker
+
+Nov 21, 2018

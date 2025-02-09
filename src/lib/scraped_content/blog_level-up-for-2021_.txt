@@ -1,0 +1,138 @@
+Level Up for 2021
+
+How to Up, Saving, Spending and Budgeting
+
+A new year deserves a new challenge, so today we’re bringing you three levels of Up to tackle. From setting up your first shiny Saver, to building your very own custom tagging system, the path is laid out.
+
+What level Upsider are you now? And how will you level up in 2021?
+
+Level 1. The Savings Enthusiast
+
+Maybe you're a totally new Upsider. Welcome! Or maybe you’ve just been using Up for the melted highlighter card and easy payments.
+
+But let’s take off those training wheels. It only takes a minute or two to set up some brand new financial habits.
+
+Stack some Savers
+
+Up gives you heaps of Savers - accounts that you can create yourself right from the app. We think it feels better to break down your goals and visualise what you're saving for, than just try to grow one big lump sum.
+
+To make your first Saver, hit the ‘plus’ button on the Saver tab. Name your first account, give it a goal, give it an emoji 🎸
+
+Then play around: you can organise Savers in whatever way makes your soul happy. By emoji colour, by due date. Autobiographically?
+
+Up has changed my relationship with my money. I feel so much more in control... it’s helped me switch from using credit to buy things, to using small savers. I’m saving more, spending less, and feeling happier.
+- taybenlor, via Apple App Store
+Round Up your Round Ups
+
+Round Ups automatically save the change left over when you buy things that don't cost a full dollar. You get to choose which Saver they go into so if you're trying to put together your first emergency fund, hit the ‘Round Ups’ button in the middle of your 'In Case of Fire 🧯' Saver screen.
+
+Little bits of money can now add up to something that matters a lot.
+
+Start a Savings Habit
+
+Speaking of goals. When new Upsiders join us, we send out a 'Save Up' Card with a “$1000-in-a-year” Saver challenge. If you've used yours up or feel like a challenge, you can download a copy any time you like, and get saving.
+
+We're no interior decorators, but we reckon they’d make a very striking tiled wallpaper.
+
+Level 2: The Automator
+
+Savers mapped out, goals in place? You’re ready for the next level. Let’s get your pay cycle purring like a Honda Six with Pay Splitting; shift the mental load with Scheduled Payments; and master the smooth financial moonwalk called Covers and Forwards.
+
+Create some Pay Splits
+
+Pay Splits are one of Up's most powerful, but also kinda secret features. If you get paid into your Up account, or transfer yourself a regular amount from another account, you can automatically split that money into your Savers as soon as it arrives.
+
+Automatically splitting and saving your pay, before you spend it, can be a great way of sticking to a budget and keeping your goals on track so you can afford the stuff you need, the things you want, and the dreams you dream 💜
+
+Head to the Payments tab, find a salary payment, and tell us that money is your pay. From there, tap the name of the account to set up Pay Splitting and tell us how you’d like it split and saved - we’ll take care of it from there.
+
+(If you have more than one source of income, you’ll need to do this for each place you’re paid from.)
+
+Very easy to track my money, and now I'm finally saving some - they make it so easy. I even created a trip savings goal and it's so satisfying watching the meter fill up each pay when it automatically puts a percentage in there.
+- Kym, via Google Play
+Set a Schedule
+
+There’s no escaping rent (ugh), but you can escape having to remember what day to pay. Now that you’ve got a Saver for rent - and automatic payments to fill it - the last step is telling Up to pay rent when it's due.
+
+It's a two-step dance, but the moves are smooth.
+
+First, set up an auto-transfer from your Saver into your Spending account. Head to your Savers and set up an Auto Transfer to happen just before rent's due. You can even pick a time.
+
+Second, send that rent from Spending to Landlord Town. Head over to the ‘payments’ tab, and plug in the details to pay your rent. But don't hit send - pick 'options'. You can set up a date and time - say, a moment after that first Auto Transfer will arrive - and tell our Up Bots to repeat the whole dance for you, as often as you need.
+
+Cover, then Forward. Forward, then Cover
+
+Covers and Forwards are our ultimate budget balancer. Every time money moves in or out of your account, we’ll notify you. Long press the notification or item in your activity feed to ‘cover’ a purchase money sitting in a Saver, or ‘forward’ money that has just arrived into one.
+
+Seasoned Upsiders tend to keep most of their money in Savers, except for a buffer or float in their spending account. That buffer means there’s always a bit of cash ready at the checkout. They then cover their purchases from the right Saver so they know how much they have left for that type of thing until they get paid again.
+
+Level 3: Boss Level
+
+Woah, you’re ready. You’re a master of Savers, and you’ve set cruise control on money in and out of your account 🏎
+
+Time to really make Up yours with tags; save harder than ever; and maybe even build on Up using our custom API.
+
+DIY Tags
+
+Up comes readymade with a deep and intuitive set of spending insights: we’ll show you what you spend at different retailers, and whether you spend more on home improvements or bike upgrades. But if you’re ready, take it a level higher with customisations.
+
+Say you’ve got a new project: building a bike shed. You have a budget, so you want to track what you’re spending. But some charges will look like home costs - some like hobby costs. How can you know what the whole project is costing? By creating a custom tag for “My Glorious House of Bikes”, that’s how.
+
+Open a payment and hit ‘Add tags’ to get started. Once you've created a tag, it'll be available to select on any future purchases.
+
+To see how much you spent against a particular tag, head to your monthly insights screen by tapping a month header. You’ll get a neat summary of how much it really cost to build that bike shed. Ding ding.
+
+I love this new banking situation! It helps me stay organised… and I'm actually saving money. Keeps track of your weekly and monthly spending so you understand your outgoings a bit better and can stay on top of things. SO OBSESSED.
+- Catie, via Google Play
+Set Save to Hard Mode
+
+Ready to play in the Saver big leagues? Boost your round ups to pump more $$$ towards your savings goals and get there faster. A rare few Upsiders even boost to $10 a purchase: we bow our heads.
+
+Build It Yourself
+
+Got some developer chops? We’ve opened up our API for personal use, so grab your token and get building. Some have used our insights to build screen widgets: others have made personal alarms to make sure they keep a snack habit in check.
+
+What will you create?
+
+Happy Upping
+
+However you use Up, just by using it for your everyday spending and saving you'll have more visibility across all of your hard earned. We’re into it, and we’re cheering for you.
+
+From all of us, at Up.
+
+Please remember that Up does not provide financial advice, this is general advice. Up has not taken into account your personal objectives, financial situation or needs. You should consider the Up terms before making a decision to use Up. The information on this website is for general information only.
+
+Up
+
+Easy Money
+
+@up_banking
+
+Tags: New Year Challenge 2021, Round Ups, Pay Splitting, Spending insights
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Upgrade your finances with the Upsider community
+
+Put the kettle on. Because today our Upsider community is sharing their best advice for small-but-slick financial changes that’ll really pack a punch in 2021.
+
+Up
+
+Dec 17, 2020
+
+UpYear Is Here! Let's Wrap Up Your 2020
+
+Finish the year strong. Starting today take a trip down memory lane and get your personalised spending and saving review of 2020.
+
+Up
+
+Dec 17, 2020
+Keep reading
+
+More from the makers of Up.

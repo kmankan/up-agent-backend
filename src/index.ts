@@ -8,10 +8,10 @@ import { chatRouter } from './routes/chat';
 const app = new Elysia()
   .use(swagger())
   .use(cors({
-    origin: process.env.FRONTEND_URL || 'http://localhost:3001'
+    origin: '*'  // Allow all origins
   }))
   .use(chatRouter)
-  .listen(3000);
+  .listen(3010);
 
 console.log(
   `🦊 Elysia is running at ${app.server?.hostname}:${app.server?.port}`

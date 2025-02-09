@@ -1,0 +1,87 @@
+Five ways Up can help you spend wisely
+
+Building Up
+
+Up exists to help people get from a place where money is a cause of stress and anxiety to a place where you feel empowered and have greater control of your finances.
+
+Everything we build into Up is designed to help you spend wisely and save effortlessly. The economic uncertainty occurring as a result of COVID-19 makes being wise with your money more important than ever.
+
+Here are 5 ways you use Up to make the most of what money you have coming in.
+
+1. Pay your bills through Up so you can see what’s coming up next
+
+By paying your bills with Up you can make use of the Upcoming spend feature. This does its best to automatically detect your upcoming bills and help you understand what you’ve currently committed to and when you’re likely to be charged next.
+
+Once you can see all your upcoming expenses laid out in front of you, and know how much that will cost you, you can make decisions about which you keep and which you can do without, particularly when times are tough. You may also want to consider downgrading or pausing certain subscriptions if you don’t think you can go without them for long but might not need everything they offer right now.
+
+2. Use Up Savers to put money aside for your bills and expenses
+
+Creating Savers for each of your upcoming bills or for different categories of expenses is a great way to put money aside for essentials. Using Up you can set up as many Savers as you need, give each a target amount and emoji so you can see at a glance how you're tracking towards various expenses or goals.
+
+Savers also keep your money out of mind and ready for when it’s needed so you’re not left short. They can also be used like a priority list for your money. Long press on one to drag it into an order that suits your thinking.
+
+Covers and forwards also work really well alongside specific Savers. When you buy something from your spending account, use the Covers feature to “cover” that purchase from the appropriate Up Saver. When that Saver is empty, you’re out of money for that category of expenses. Done. To cover a purchase, simply long press on a transaction and you'll be given a list of Savers to cover it from.
+
+3. Know where you stand with Up balance notifications
+
+Health advice recently includes a recommendation to minimise the use of cash when paying for things. Up sets you up well for this given we support both tap and pay transactions using your debit card and pretty much all the digital wallets out there. If you need to deposit cash or cheque you can now use Bank@Post™ for free with Up - we encourage everyone that needs to do this to keep a safe distance from each other.
+
+While we love our digital wallets, one downside of making digital transactions is that you don’t necessarily get the same tacit awareness of how much you're spending compared to when you were handing over stacks of physical notes. To overcome this, Up sends you a push notification for every transaction you make, which also includes your balance. This means you’re always on top of how much you’ve got in your account and can reduce the likelihood you'll spend more than you can afford.
+
+4. Track your spend rate using Up’s automatic spending Insights
+
+When you have a finite amount of money understanding where you’re spending it is key to making sure you’re using it wisely. Every transaction you make using Up is automatically categorised into a range of helpful budgeting categories you can use to track your monthly spending and see how you’re tracking versus the previous three months’ worth of transactions.
+
+Tracking and comparing your spending month-to-month is really useful if you find yourself needing to reduce your spending in a category and want to know how you’re tracking mid-month, or want to see how your spending habits change over time. Having this knowledge gives you the power to change the things you’re not happy with.
+
+5. Use Pay Splitting and Auto-Transfers with Up to make budgeting easier
+
+We know that lots of Upsiders have casual jobs and there’s a high chance that those lucky enough to get paid over the next few months will get paid less than they’re used to.
+
+Pay Splitting was designed with casual workers in mind, providing a way for you to take your pay and dice it into your Savers as soon as it arrives. For example, some people allocate a certain percentage of their salary for the "Good Life" and transfer the rest straight into a Saver. Having it so the majority of your money is a step away can be a great way to ensure you don’t spend as much of it 😉
+
+Auto-transfers to and from Savers are similar, but allow you to move specific amounts for expenses that have a fixed dollar value (like rent). If you get paid at a regular time on a schedule, setting up an auto-transfer to move money into a designated Saver automatically helps make sure you put it aside.
+
+Good luck!
+
+There are tonnes of other ways you can use Up to help you spend wisely. These are just a few we hope are particularly helpful for you over the next few months.
+
+
+
+
+Please remember that Up does not provide financial advice, this is general advice. Up has not taken into account your personal objectives, financial situation or needs. You should consider the Up terms before making a decision to use Up. The information on this website is for general information only.
+
+Up
+
+Easy Money
+
+@up_banking
+
+Tags: Welcome Pack, Design, Upcoming, Savers, Covers, Forwards, Insights, Balance notifications, Bills
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Up 1.13.2 Release Notes
+
+Transfer between Savers & Upcoming Subscription prompts.
+
+Up
+
+Mar 30, 2020
+
+Deliver bank card; melt faces
+
+Cranking up the heat on our welcome pack
+
+Pete Johnson
+
+Mar 06, 2020
+Keep reading
+
+More from the makers of Up.

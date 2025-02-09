@@ -1,0 +1,115 @@
+CSV: Custom Savings Viewer
+
+How to Up, Spending and Budgeting
+
+A commonly requested feature from Upsiders is getting their data out of Up, so that they can use it in budgeting software, or in Excel, or some other means to view their data on not-a-phone.
+
+So, we've added the ability to export to a CSV, which you can then share from your phone to your computer (or, if you're brave, work with it directly on your phone 😬).
+
+CSV is short for 'Comma-separated values' (not Custom Savings Viewer - but that's what you can build with it), and lets us output your data in a format that can be read by many other programs.
+
+To export, head to your Activity feed > tap ‘Insights’ above the monthly header (i.e. December 2023) > scroll to the bottom and tap ‘Export transactions’.
+
+Before exporting, just check which period you have selected first. You can do this by tapping the “Switch” button in the top right hand corner.
+
+If you just want to jump in and see what you can do with this data, we've created a small Google Sheet which you can use as a starting point.
+
+Go to the link here and click 'File → Make a copy'.
+Download your CSV for any month, and get it onto your computer however you like.
+Open it with a text editor (Notepad if you're on Windows, TextEdit if you're on macOS). Select all, copy.
+Go to the sheet you've copied, right-click in A1 (the top-left cell), and hit paste.
+You'll get a lot of data on your screen. At the bottom, near A1, you'll get a little clipboard icon. Click that, then click 'Split to Columns'.
+Now, you can look through the other sheets at the bottom of the page to see some cool graphs. Here's my "$ per Category" graph - I'm pretty slack about adding categories to things like rent and bills, so it doesn't include any of that 💸.
+
+Hopefully these give you a bit of inspiration. From here, you can add whatever you like. If you make something cool, be sure to show us on Twitter (you'll almost certainly get a retweet from Dom) or through Talk to Us.
+
+If you want to try your hand at building your own integration, either in Excel or your favourite programming language, continue on below, where I've detailed each of the columns that you'll find in the export.
+
+Let's go over what's included:
+
+Time: this is the date + time that your transaction happened at
+
+BSB/Account Number: The details of the account this transaction was made from
+
+for now, it's always going to be your Spending account.
+
+Transaction Type: the method of money movement - we're always updating, so don't rely on this list never changing.
+
+Purchase: this one is pretty self-explanatory - you've made a purchase
+Payment: You've sent money to someone
+Deposit: Someone has sent you money
+Direct Debit: ...it's a direct debit
+Direct Credit: Another way to have money deposited into your account
+BPAY Payment: You've made a payment via BPAY
+ATM Cash Out: Withdrawing from an ATM
+ATM Operator Fee: Money paid to use an independent ATM
+Overdrawn Interest: Interest charged if you ever go overdrawn.
+Round Up: An 'orphaned' round-up. This happens only very occasionally when a company places a 'Hold' on your card, and then later withdraws the hold.
+Salary: A payment into your account from your employer
+Scheduled Transfer: Keep an eye out for a future blog about this one 😉.
+Transfer: A transfer between your accounts
+
+Payee: The person or account who you have sent money to or received money from.
+
+Description: Essentially a free-text field. Shows the raw merchant details if it's a purchase, the message you've sent if it's a transfer, etc.
+
+Category: The category of the transaction inside of Up.
+
+Tags: A comma-separated list of tags applied to a transaction. Yup. There is a CSV inside the CSV.
+
+Subtotal: The amount charged, in AUD (regardless of purchase currency), before any fees or round-ups are applied.
+
+Currency: The ISO 4217 currency code for the currency the transaction was made in. E.g. AUD, USD.
+
+Subtotal (Transaction Currency): The amount charged, in the transaction currency. You can combine this with Subtotal to calculate the exchange rate.
+
+Fee (AUD): The fee, if applicable, on the transaction. Hint: it's very often $0.
+
+Round Up (AUD): The amount moved to your round up saver due to the given transaction
+
+Total (AUD): Subtotal + Fee (AUD) + Round Up (AUD). This is the total effect the transaction had on your account balance
+
+Payment Method: The method used to move money around. This is generally only for payments you've sent/other people have sent you. You might see:
+
+Osko
+BPAY
+Direct Entry - payments that don't use Osko will be Direct Entry
+
+Settled Date: This is when the transaction actually settled.
+
+If you feel like we've missed something that you really need, feel free to jump on 'Talk to Us' in-app and let us know 💡.
+
+David Buchan-Swanson
+
+Engineer
+
+@deecewan
+
+Tags: CSV, Insights, Exporting from Up
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Pay Day
+
+Introducing Salary Identification and Split Payments. Pay day just got a whole lot better with Up.
+
+Mark Brown
+
+Oct 17, 2019
+
+TransferWise integrates with Up
+
+First of its kind collaboration in Asia-Pacific soon to offer Upsiders the best way to move money overseas.
+
+Up
+
+Oct 15, 2019
+Keep reading
+
+More from the makers of Up.

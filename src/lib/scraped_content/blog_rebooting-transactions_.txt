@@ -1,0 +1,80 @@
+Rebooting Transactions
+
+Building Up
+
+The humble banking transaction is perhaps the fundamental unit of your financial life. It represents everything from your daily spending and regular bills through to your income and interest payments. It is the key to understanding where your money actually goes, yet it’s one of the most neglected and outdated parts of today’s banking experience.
+
+To understand why, we must take a brief look back in time...
+
+A short history of the ledger
+
+A bank’s ledger is its heart and brain — an accounting of all funds and activity from which everything else derives. For centuries, a bank’s ledger existed as a physical book — literally ink on paper. The mid-20th century brought about the digitisation of the ledger. It moved from paper to magnetic tape and its upkeep was managed by large, expensive (but importantly, automated) mainframe computer systems.
+
+While this provided banks with a huge efficiency boost, it also broke the shackles between a customer and their local branch. It allowed them to access their accounts instantly from anywhere and at any time.
+
+It was at this point the evolution of the ledger largely stalled. While there have been decades of incremental updates (data is no longer stored on reels of magnetic tape for example) little has fundamentally changed.
+
+Today’s ledger can tell you how much money you have in your account, but it can’t tell you what your real financial position is. It doesn’t know which bills you have due this week or how long the money in your account needs to last until you next get paid. You can’t ask it to automatically save 10% of your salary towards a holiday or how much you’ve spent on fuel this year.
+
+Doing so is going to require a transformation of the ledger from “dumb” log file to intelligent financial engine.
+
+Up will present your purchases in a format you can understand, providing recognisable business names along with additional details like location and category.
+Capturing the complete picture
+
+Today’s ledger has a data problem. You can see evidence of this any time you look at your bank statement. All-caps listings of abbreviated business names and places, strange acronyms, and columns of credits and debits make for confusing reading. Just recognising where you made purchases can be a challenge — there is no better evidence of this than the 14 million unknown transaction enquiries Australian banks field from customers every year!
+
+The way transactions are shown is reminiscent of the columns of real estate classifieds that used to run in newspapers. A typical ad would read something like “1BR APT W/ENS & WIR. OSP”. Space was at a premium and thousands of these ads had to be printed on paper and distributed. In order to keep costs down we developed cryptic acronyms and became masters of abbreviation.
+
+The internet changed all of that.
+
+Real estate websites now publish lengthy, persuasive descriptions and feature large, high-resolution galleries of photographs with sweeping, drone-shot aerial video. Listings are augmented with floor plans, comparative pricing reports and “walkability” scores. The real estate ad has been completely transformed by technology and a new medium of distribution.
+
+We now have the computing power, storage space and the means of delivery to revolutionise the way we capture, parse and present your financial life back to you; to provide something worthy of this digital age we’re living in. You deserve to be given a complete picture of your spending and income. Time of day, location, category of spend, and business trading name are examples of just some of the gaps in the data that need to be filled.
+
+After we develop this complete data picture our work is far from over, however. We must now provide meaning and context to this data and understand the relationships within it.
+
+By understanding your spending patterns we can begin to recognize patterns. It turns out most of us have quite a few monthly recurring charges - mobile phone, rent, music streaming, and car insurance to name a few.
+A meaningful, relational data model
+
+As important as a complete and detailed picture of your transactions is, it is equally important that we consider those transactions as not just individual actions, but as actions occurring in the broader context of your financial life.
+
+Simple measures, like whether a purchase is being made with a business for the first or the tenth time have impacts on everything from security and fraud to more experiential concepts such as whether we should send a notification of the purchase to you.
+
+Going deeper and understanding the financial relationship you have with a business turns out to provide many interesting opportunities to keep you better informed going forward.
+
+For one, we can update you each month on how much you’ve spent at your local cafe or the supermarket around the corner. By recognising patterns in your spending with individual businesses, such as a charge on the same day each month, we can start to predict future charges and give you a more informed view of your upcoming financial commitments.
+
+Our new, intelligent ledger should be able to discern when an incoming credit is in fact a pay cheque, when a retail purchase is an airline ticket overseas or when a bill payment is a renewal of your car registration. These are all important, actionable triggers that will enable a new generation of financial services.
+
+Real-time and event-based
+
+Finally, we must talk about speed. The reality is that today many banking ledgers still run on batch processes — purchases can take days to appear, balances update overnight, and payments get credited in the early hours of the morning.
+
+To be responsive and relevant it is essential to have a platform that can understand and respond in real-time. A notification of a charge days (or even hours) after the actual event isn’t going to cut it.
+
+An intelligent ledger should be able to detect the instant you are paid and immediately transfer 10% into a savings target, or even more fundamentally, send you a notification that you’ve just been paid.
+
+Without this event-based capability we are left with clumsy, imprecise emulations, such as scheduling monthly recurring payments (fingers crossed the payroll is never late!) or continually checking for a change in balance.
+
+Viva la revolución
+
+It is only by starting with these right ingredients that we can truly enter the age of digital banking. An intelligent ledger is the essential foundation on top of which Up will deliver personalised, relevant, modern services.
+
+Anson Parker
+
+Head of Product
+
+@anson
+
+Tags: Security, Technology, Real-time, History
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+Keep reading
+
+More from the makers of Up.

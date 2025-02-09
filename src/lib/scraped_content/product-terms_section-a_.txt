@@ -1,0 +1,650 @@
+Section A: Meaning of words
+
+Current and historical versions of the Section A: Meaning of words section of the Up Personal Accounts Terms & Conditions.
+
+Publication date:
+
+Thursday, 9 November 2023
+Tuesday, 19 July 2022
+Saturday, 31 July 2021
+Saturday, 15 May 2021
+Tuesday, 31 March 2020
+Friday, 31 May 2019
+Published Thursday, 9 November 2023
+
+In this document the following expressions have the following meanings:
+
+"2Up account" means a joint account and each joint Up saver we open pursuant to Section K of this document.
+
+"access method" means any method we make available to you to authenticate yourself to us for the purposes of transacting on and otherwise accessing your accounts. An access method comprises of one or more components (including, but not limited to, a card, a PIN, a passcode, recovery code, biometric identification, or any combination of these). It excludes methods involving a user's written signature.
+
+"account" means an Up Everyday Account or an Up Saver Account we establish in your name except in clause 11 where it means any account you have with us (including accounts to which these terms and conditions do not apply). In Sections D and E of these terms and conditions (and defined terms when used in those sections), “account” also includes any Up loan account that we allow you to access through the Up app.
+
+"ATM" means an automatic teller machine.
+
+"bank" means Bendigo and Adelaide Bank Limited ABN 11 068 049 178 AFSL/Australian Credit Licence No. 237879
+
+"Bank@Post™" means when you make a withdrawal, deposit or balance enquiry at a Bank@Post™ terminal in an Australia Post Office using a Up Bank card where this facility is available. Bank@Post™ and its device mark are trademarks (registered or otherwise) of Australia Postal Corporation. All rights reserved.
+
+"basic NPP payment" means a transfer of funds processed through the NPP which does not use Osko.
+
+"biometric identification" means the use of supported biometric identification features of your device, including but not limited to Touch ID, Face ID, and other fingerprint and retina scanning technology.
+
+"BPAY conditions" means the terms and conditions applying to the BPAY scheme as set out in Section G of this document.
+
+"BPAY payments" means payments which you have instructed us to make through the BPAY scheme to billers who can accept payments made to them through that scheme.
+
+"BPAY scheme" means the 'BPAY Payments' electronic payments scheme operated by BPAY Pty Ltd through which you instruct us to make payments to billers who can accept payments made to them through this scheme.
+
+"business day" means any day on which banks in Melbourne or Sydney are able to effect settlement through the Reserve Bank of Australia.
+
+"card" means a Debit Mastercard issued to you by us, that bears the Mastercard symbol, which is linked to an account and can be used to undertake an EFT transaction.
+
+"contactless terminal" means an electronic point of sale terminal which is capable of performing a contactless transaction.
+
+"contactless transaction" means the authorisation of a transaction by presenting a card (which is capable of performing a contactless transaction) or other device at a contactless terminal without the requirement to insert or swipe the card.
+
+"device" means any electronic device such as a smartphone, tablet, or computer on which the Up app is installed or your Up account can be accessed and used.
+
+"direct debit" means a transaction debited directly to your account by another party, under an arrangement that you and that other party have previously reached.
+
+"direct entry payment" means an electronic transfer of funds processed through the Bulk Electronic Clearing System (BECS) administered by the Australian Payments Network Limited.
+
+"EFT conditions" means the terms and conditions applying to EFT transactions as set out in Section F.
+
+"EFT transaction" means a payment, funds transfer or cash withdrawal initiated using electronic equipment and not intended to be authenticated by comparing a manual signature with a specimen signature. An EFT transaction includes, without limitation, an electronic transaction undertaken using an access method via EFTPOS or an ATM, and a transaction undertaken using the Up app.
+
+"EFTPOS" (Electronic Funds Transfer at the Point of Sale) means the system that allows you to make purchases or withdraw cash with your card by presenting it at a merchant's terminal.
+
+"ePayments Code" means the ePayments Code administered by the Australian Securities and Investments Commission (ASIC), as amended from time to time.
+
+"Government charges" means all charges or duties on deposits into, or withdrawals from your account that are payable under a law of the Commonwealth or any State or Territory or any other jurisdiction whether or not you are primarily liable to pay these charges.
+
+"law" means common law, principles of equity and laws made by parliament (including regulations and other instruments under them, and consolidations, amendments, re-enactments or replacements of them).
+
+"Mastercard SecureCode" means the online authentication service provided for Mastercard cardholders when making online transactions at participating merchants.
+
+"mobile number" means the mobile phone number you have nominated to use on or with the device or devices you use to access the Up app.
+
+"NPP" means the New Payments Platform owned and operated by or for NPP Australia Limited.
+
+"NPP Addressing Service" means the addressing service component of the NPP which facilitates the registration of PayIDs.
+
+"NPP Payment" means a payment processed through the NPP and includes Osko Payments and Basic NPP Payments.
+
+"PayTo" - The NPP functionality which enables us to process NPP Payments from your account in accordance with and on the terms set out in a Payment Agreement.
+
+"Osko" means the Osko payment service provided by BPAY Pty Ltd.
+
+"Osko Payment" means a transfer of funds processed using Osko.
+
+"Pay Anyone conditions" means the terms and conditions applying to the Pay Anyone Service as set out in Section H of this document.
+
+"PayID" means a PayID (also known as an 'alias') which is able to be created with the NPP Address Service and used for the purpose of making and receiving NPP Payments (for example, an email address or telephone number).
+
+"payment facility" means each of the following:
+
+The Up app (including the Pay Anyone Service and BPAY), but only to the extent that it facilitates payments
+Up Debit Mastercard
+Automatic payments (direct debits) to an account
+PayTo;
+
+"PIN" means the Personal Identification Number issued by us or selected by you to use in conjunction with a card.
+
+"recovery code" means the code given to you on sign up that you can use to recover your account
+
+"regular payment" means either a recurring payment or an instalment which represents an agreement between a cardholder and a merchant to debit a card at predetermined intervals (e.g. monthly or quarterly) or at intervals as agreed by both parties.
+
+"passcode" means a sequence of alphanumeric or other characters known only by you that are required as one of the access methods for your account and/or to use the Up app.
+
+"Post Office" means Australia Post.
+
+"stepped" means that different rates of interest will apply to different portions of your account balance.
+
+For example:
+
+if the rate of interest is 0.05% per year on that part of the account balance that is less than $2,000 and 1.5% per year. on that part of the account balance that equals or exceeds $2,000; and
+your account balance is $3,000 the rate of interest applying to your account will be 0.05% per year on $1,999.99 and 1.5% per year on the remainder.
+
+"Up app" means the software we offer on compatible iOS and Android devices, with which you can transact on and otherwise access a nominated account.
+
+"we", "us" and "our" means Bendigo and Adelaide Bank Limited ABN 11 068 049 178 AFSL No. 237879.
+
+"you" and "your" means the holder of an account. In relation to a 2Up account, “you” and “your” includes each joint account holder.
+
+The singular refers to the plural and vice versa.
+
+A reference to a document includes any variation or replacement of it.
+
+A reference to anything includes the whole and each part of it.
+
+All examples used in this document are for illustrative purposes only.
+
+Published Tuesday, 19 July 2022
+
+In this document the following expressions have the following meanings:
+
+"2Up account" means a joint account and each joint Up saver we open pursuant to Section K of this document.
+
+"access method" means any method we make available to you to authenticate yourself to us for the purposes of transacting on and otherwise accessing your accounts. An access method comprises of one or more components (including, but not limited to, a card, a PIN, a passcode, recovery code, biometric identification, or any combination of these). It excludes methods involving a user's written signature.
+
+"account" means an Up Everyday Account or an Up Saver Account we establish in your name except in clause 11 where it means any account you have with us (including accounts to which these terms and conditions do not apply). In Sections D and E of these terms and conditions (and defined terms when used in those sections), “account” also includes any Up loan account that we allow you to access through the Up app.
+
+"ATM" means an automatic teller machine.
+
+"bank" means Bendigo and Adelaide Bank Limited ABN 11 068 049 178 AFSL/Australian Credit Licence No. 237879
+
+"Bank@Post™" means when you make a withdrawal, deposit or balance enquiry at a Bank@Post™ terminal in an Australia Post Office using a Up Bank card where this facility is available. Bank@Post™ and its device mark are trademarks (registered or otherwise) of Australia Postal Corporation. All rights reserved.
+
+"basic NPP payment" means a transfer of funds processed through the NPP which does not use Osko.
+
+"biometric identification" means the use of supported biometric identification features of your device, including but not limited to Touch ID, Face ID, and other fingerprint and retina scanning technology.
+
+"BPAY conditions" means the terms and conditions applying to the BPAY scheme as set out in Section G of this document.
+
+"BPAY payments" means payments which you have instructed us to make through the BPAY scheme to billers who can accept payments made to them through that scheme.
+
+"BPAY scheme" means the 'BPAY Payments' electronic payments scheme operated by BPAY Pty Ltd through which you instruct us to make payments to billers who can accept payments made to them through this scheme.
+
+"business day" means any day on which banks in Melbourne or Sydney are able to effect settlement through the Reserve Bank of Australia.
+
+"card" means a Debit Mastercard issued to you by us, that bears the Mastercard symbol, which is linked to an account and can be used to undertake an EFT transaction.
+
+"contactless terminal" means an electronic point of sale terminal which is capable of performing a contactless transaction.
+
+"contactless transaction" means the authorisation of a transaction by presenting a card (which is capable of performing a contactless transaction) or other device at a contactless terminal without the requirement to insert or swipe the card.
+
+"device" means any electronic device such as a smartphone, tablet, or computer on which the Up app is installed or your Up account can be accessed and used.
+
+"direct debit" means a transaction debited directly to your account by another party, under an arrangement that you and that other party have previously reached.
+
+"direct entry payment" means an electronic transfer of funds processed through the Bulk Electronic Clearing System (BECS) administered by the Australian Payments Network Limited.
+
+"EFT conditions" means the terms and conditions applying to EFT transactions as set out in Section F.
+
+"EFT transaction" means a payment, funds transfer or cash withdrawal initiated using electronic equipment and not intended to be authenticated by comparing a manual signature with a specimen signature. An EFT transaction includes, without limitation, an electronic transaction undertaken using an access method via EFTPOS or an ATM, and a transaction undertaken using the Up app.
+
+"EFTPOS" (Electronic Funds Transfer at the Point of Sale) means the system that allows you to make purchases or withdraw cash with your card by presenting it at a merchant's terminal.
+
+"ePayments Code" means the ePayments Code administered by the Australian Securities and Investments Commission (ASIC), as amended from time to time.
+
+"Government charges" means all charges or duties on deposits into, or withdrawals from your account that are payable under a law of the Commonwealth or any State or Territory or any other jurisdiction whether or not you are primarily liable to pay these charges.
+
+"law" means common law, principles of equity and laws made by parliament (including regulations and other instruments under them, and consolidations, amendments, re-enactments or replacements of them).
+
+"Mastercard SecureCode" means the online authentication service provided for Mastercard cardholders when making online transactions at participating merchants.
+
+"mobile number" means the mobile phone number you have nominated to use on or with the device or devices you use to access the Up app.
+
+"NPP" means the New Payments Platform owned and operated by or for NPP Australia Limited.
+
+"NPP Addressing Service" means the addressing service component of the NPP which facilitates the registration of PayIDs.
+
+"NPP Payment" means a payment processed through the NPP and includes Osko Payments and Basic NPP Payments.
+
+"Osko" means the Osko payment service provided by BPAY Pty Ltd.
+
+"Osko Payment" means a transfer of funds processed using Osko.
+
+"Pay Anyone conditions" means the terms and conditions applying to the Pay Anyone Service as set out in Section H of this document.
+
+"PayID" means a PayID (also known as an 'alias') which is able to be created with the NPP Address Service and used for the purpose of making and receiving NPP Payments (for example, an email address or telephone number).
+
+"payment facility" means each of the following:
+
+The Up app (including the Pay Anyone Service and BPAY), but only to the extent that it facilitates payments
+Up Debit Mastercard
+Automatic payments (direct debits) to an account;
+
+"PIN" means the Personal Identification Number issued by us or selected by you to use in conjunction with a card.
+
+"recovery code" means the code given to you on sign up that you can use to recover your account
+
+"regular payment" means either a recurring payment or an instalment which represents an agreement between a cardholder and a merchant to debit a card at predetermined intervals (e.g. monthly or quarterly) or at intervals as agreed by both parties.
+
+"passcode" means a sequence of alphanumeric or other characters known only by you that are required as one of the access methods for your account and/or to use the Up app.
+
+"Post Office" means Australia Post.
+
+"stepped" means that different rates of interest will apply to different portions of your account balance.
+
+For example:
+
+if the rate of interest is 0.05% per year on that part of the account balance that is less than $2,000 and 1.5% per year. on that part of the account balance that equals or exceeds $2,000; and
+your account balance is $3,000 the rate of interest applying to your account will be 0.05% per year on $1,999.99 and 1.5% per year on the remainder.
+
+"Up app" means the software we offer on compatible iOS and Android devices, with which you can transact on and otherwise access a nominated account.
+
+"we", "us" and "our" means Bendigo and Adelaide Bank Limited ABN 11 068 049 178 AFSL No. 237879.
+
+"you" and "your" means the holder of an account. In relation to a 2Up account, “you” and “your” includes each joint account holder.
+
+The singular refers to the plural and vice versa.
+
+A reference to a document includes any variation or replacement of it.
+
+A reference to anything includes the whole and each part of it.
+
+All examples used in this document are for illustrative purposes only.
+
+Published Saturday, 31 July 2021
+
+In this document the following expressions have the following meanings:
+
+2Up account means a joint account and each joint Up saver we open pursuant to Section K of this document.
+
+"access method" means any method we make available to you to authenticate yourself to us for the purposes of transacting on and otherwise accessing your accounts. An access method comprises of one or more components (including, but not limited to, a card, a PIN, a passcode, recovery code, biometric identification, or any combination of these). It excludes methods involving a user's written signature.
+
+"account" means an Up Everyday Account or an Up Saver Account we establish in your name except in clause 11 where it means any account you have with us (including accounts to which these terms and conditions do not apply).
+
+"ATM" means an automatic teller machine.
+
+"bank" means Bendigo and Adelaide Bank Limited ABN 11 068 049 178 AFSL/Australian Credit Licence No.
+
+"Bank@Post™" means when you make a withdrawal, deposit or balance enquiry at a Bank@Post™ terminal in an Australia Post Office using a Up Bank card where this facility is available. Bank@Post™ and its device mark are trademarks (registered or otherwise) of Australia Postal Corporation. All rights reserved.
+
+"basic NPP payment" means a transfer of funds processed through the NPP which does not use Osko.
+
+"biometric identification" means the use of supported biometric identification features of your device, including but not limited to Touch ID, Face ID, and other fingerprint and retina scanning technology.
+
+"BPAY conditions" means the terms and conditions applying to the BPAY scheme as set out in Section G of this document.
+
+"BPAY payments" means payments which you have instructed us to make through the BPAY scheme to billers who can accept payments made to them through that scheme.
+
+"BPAY scheme" means the 'BPAY Payments' electronic payments scheme operated by BPAY Pty Ltd through which you instruct us to make payments to billers who can accept payments made to them through this scheme.
+
+"business day" means any day on which banks in Melbourne or Sydney are able to effect settlement through the Reserve Bank of Australia.
+
+"card" means a Debit Mastercard issued to you by us, that bears the Mastercard symbol, which is linked to an account and can be used to undertake an EFT transaction.
+
+"contactless terminal" means an electronic point of sale terminal which is capable of performing a contactless transaction.
+
+"contactless transaction" means the authorisation of a transaction by presenting a card (which is capable of performing a contactless transaction) or other device at a contactless terminal without the requirement to insert or swipe the card.
+
+"device" means any electronic device such as a smartphone, tablet, or computer on which the Up app is installed or your Up account can be accessed and used.
+
+"direct debit" means a transaction debited directly to your account by another party, under an arrangement that you and that other party have previously reached.
+
+"direct entry payment" means an electronic transfer of funds processed through the Bulk Electronic Clearing System (BECS) administered by the Australian Payments Clearing Association.
+
+"EFT conditions" means the terms and conditions applying to EFT transactions as set out in Section F.
+
+"EFT transaction" means a payment, funds transfer or cash withdrawal initiated using electronic equipment and not intended to be authenticated by comparing a manual signature with a specimen signature. An EFT transaction includes, without limitation, an electronic transaction undertaken using an access method via EFTPOS or an ATM, and a transaction undertaken using the Up app.
+
+"EFTPOS" (Electronic Funds Transfer at the Point of Sale) means the system that allows you to make purchases or withdraw cash with your card by presenting it at a merchant's terminal.
+
+"ePayments Code" means the ePayments Code administered by the Australian Securities and Investments Commission (ASIC), as amended from time to time.
+
+"Government charges" means all charges or duties on deposits into, or withdrawals from your account that are payable under a law of the Commonwealth or any State or Territory or any other jurisdiction whether or not you are primarily liable to pay these charges.
+
+"law" means common law, principles of equity and laws made by parliament (including regulations and other instruments under them, and consolidations, amendments, re-enactments or replacements of them).
+
+"Mastercard SecureCode" means the online authentication service provided for Mastercard cardholders when making online transactions at participating merchants.
+
+"mobile number" means the mobile phone number you have nominated to use on or with the device or devices you use to access the Up app.
+
+"NPP" means the New Payments Platform owned and operated by or for NPP Australia Limited.
+
+"NPP Addressing Service" means the addressing service component of the NPP which facilitates the registration of PayIDs.
+
+"NPP Payment" means a payment processed through the NPP and includes Osko Payments and Basic NPP Payments.
+
+"Osko" means the Osko payment service provided by BPAY Pty Ltd.
+
+"Osko Payment" means a transfer of funds processed using Osko.
+
+"Pay Anyone conditions" means the terms and conditions applying to the Pay Anyone Service as set out in Section H of this document.
+
+"PayID" means a PayID (also known as an 'alias') which is able to be created with the NPP Address Service and used for the purpose of making and receiving NPP Payments (for example, an email address or telephone number).
+
+"payment facility" means each of the following:
+
+The Up app (including the Pay Anyone Service and BPAY), but only to the extent that it facilitates payments
+Up Debit Mastercard
+Automatic payments (direct debits) to an account;
+
+"PIN" means the Personal Identification Number issued by us or selected by you to use in conjunction with a card.
+
+"recovery code" means the code given to you on sign up that you can use to recover your account
+
+"regular payment" means either a recurring payment or an instalment which represents an agreement between a cardholder and a merchant to debit a card at predetermined intervals (e.g. monthly or quarterly) or at intervals as agreed by both parties.
+
+"passcode" means a sequence of alphanumeric or other characters known only by you that are required as one of the access methods for your account and/or to use the Up app.
+
+"Post Office" means Australia Post.
+
+"stepped" means that different rates of interest will apply to different portions of your account balance.
+
+For example:
+
+if the rate of interest is 0.05% per year on that part of the account balance that is less than $2,000 and 1.5% per year. on that part of the account balance that equals or exceeds $2,000; and
+your account balance is $3,000 the rate of interest applying to your account will be 0.05% per year on $1,999.99 and 1.5% per year on the remainder.
+
+"Up app" means the software we offer on compatible iOS and Android devices, with which you can transact on and otherwise access a nominated account.
+
+"we", "us" and "our" means Bendigo and Adelaide Bank Limited ABN 11 068 049 178 AFSL No. 237879.
+
+"you" and "your" means the holder of an account. In relation to a 2Up account, “you” and “your” includes each joint account holder.
+
+The singular refers to the plural and vice versa.
+
+A reference to a document includes any variation or replacement of it.
+
+A reference to anything includes the whole and each part of it.
+
+All examples used in this document are for illustrative purposes only.
+
+Published Saturday, 15 May 2021
+
+In this document the following expressions have the following meanings:
+
+2Up account means a joint account we open pursuant to Section K of this document.
+
+"access method" means any method we make available to you to authenticate yourself to us for the purposes of transacting on and otherwise accessing your accounts. An access method comprises of one or more components (including, but not limited to, a card, a PIN, a passcode, recovery code, biometric identification, or any combination of these). It excludes methods involving a user's written signature.
+
+"account" means an Up Everyday Account or an Up Saver Account we establish in your name except in clause 11 where it means any account you have with us (including accounts to which these terms and conditions do not apply).
+
+"ATM" means an automatic teller machine.
+
+"bank" means Bendigo and Adelaide Bank Limited ABN 11 068 049 178 AFSL/Australian Credit Licence No.
+
+"Bank@Post™" means when you make a withdrawal, deposit or balance enquiry at a Bank@Post™ terminal in an Australia Post Office using a Up Bank card where this facility is available. Bank@Post™ and its device mark are trademarks (registered or otherwise) of Australia Postal Corporation. All rights reserved.
+
+"basic NPP payment" means a transfer of funds processed through the NPP which does not use Osko.
+
+"biometric identification" means the use of supported biometric identification features of your device, including but not limited to Touch ID, Face ID, and other fingerprint and retina scanning technology.
+
+"BPAY conditions" means the terms and conditions applying to the BPAY scheme as set out in Section G of this document.
+
+"BPAY payments" means payments which you have instructed us to make through the BPAY scheme to billers who can accept payments made to them through that scheme.
+
+"BPAY scheme" means the 'BPAY Payments' electronic payments scheme operated by BPAY Pty Ltd through which you instruct us to make payments to billers who can accept payments made to them through this scheme.
+
+"business day" means any day on which banks in Melbourne or Sydney are able to effect settlement through the Reserve Bank of Australia.
+
+"card" means a Debit Mastercard issued to you by us, that bears the Mastercard symbol, which is linked to an account and can be used to undertake an EFT transaction.
+
+"contactless terminal" means an electronic point of sale terminal which is capable of performing a contactless transaction.
+
+"contactless transaction" means the authorisation of a transaction by presenting a card (which is capable of performing a contactless transaction) or other device at a contactless terminal without the requirement to insert or swipe the card.
+
+"device" means any electronic device such as a smartphone, tablet, or computer on which the Up app is installed or your Up account can be accessed and used.
+
+"direct debit" means a transaction debited directly to your account by another party, under an arrangement that you and that other party have previously reached.
+
+"direct entry payment" means an electronic transfer of funds processed through the Bulk Electronic Clearing System (BECS) administered by the Australian Payments Clearing Association.
+
+"EFT conditions" means the terms and conditions applying to EFT transactions as set out in Section F.
+
+"EFT transaction" means a payment, funds transfer or cash withdrawal initiated using electronic equipment and not intended to be authenticated by comparing a manual signature with a specimen signature. An EFT transaction includes, without limitation, an electronic transaction undertaken using an access method via EFTPOS or an ATM, and a transaction undertaken using the Up app.
+
+"EFTPOS" (Electronic Funds Transfer at the Point of Sale) means the system that allows you to make purchases or withdraw cash with your card by presenting it at a merchant's terminal.
+
+"ePayments Code" means the ePayments Code administered by the Australian Securities and Investments Commission (ASIC), as amended from time to time.
+
+"Government charges" means all charges or duties on deposits into, or withdrawals from your account that are payable under a law of the Commonwealth or any State or Territory or any other jurisdiction whether or not you are primarily liable to pay these charges.
+
+"law" means common law, principles of equity and laws made by parliament (including regulations and other instruments under them, and consolidations, amendments, re-enactments or replacements of them).
+
+"Mastercard SecureCode" means the online authentication service provided for Mastercard cardholders when making online transactions at participating merchants.
+
+"mobile number" means the mobile phone number you have nominated to use on or with the device or devices you use to access the Up app.
+
+"NPP" means the New Payments Platform owned and operated by or for NPP Australia Limited.
+
+"NPP Addressing Service" means the addressing service component of the NPP which facilitates the registration of PayIDs.
+
+"NPP Payment" means a payment processed through the NPP and includes Osko Payments and Basic NPP Payments.
+
+"Osko" means the Osko payment service provided by BPAY Pty Ltd.
+
+"Osko Payment" means a transfer of funds processed using Osko.
+
+"Pay Anyone conditions" means the terms and conditions applying to the Pay Anyone Service as set out in Section H of this document.
+
+"PayID" means a PayID (also known as an 'alias') which is able to be created with the NPP Address Service and used for the purpose of making and receiving NPP Payments (for example, an email address or telephone number).
+
+"payment facility" means each of the following:
+
+The Up app (including the Pay Anyone Service and BPAY), but only to the extent that it facilitates payments
+Up Debit Mastercard
+Automatic payments (direct debits) to an account;
+
+"PIN" means the Personal Identification Number issued by us or selected by you to use in conjunction with a card.
+
+"recovery code" means the code given to you on sign up that you can use to recover your account
+
+"regular payment" means either a recurring payment or an instalment which represents an agreement between a cardholder and a merchant to debit a card at predetermined intervals (e.g. monthly or quarterly) or at intervals as agreed by both parties.
+
+"passcode" means a sequence of alphanumeric or other characters known only by you that are required as one of the access methods for your account and/or to use the Up app.
+
+"Post Office" means Australia Post.
+
+"stepped" means that different rates of interest will apply to different portions of your account balance.
+
+For example:
+
+if the rate of interest is 0.05% per year on that part of the account balance that is less than $2,000 and 1.5% per year. on that part of the account balance that equals or exceeds $2,000; and
+your account balance is $3,000 the rate of interest applying to your account will be 0.05% per year on $1,999.99 and 1.5% per year on the remainder.
+
+"Up app" means the software we offer on compatible iOS and Android devices, with which you can transact on and otherwise access a nominated account.
+
+"we", "us" and "our" means Bendigo and Adelaide Bank Limited ABN 11 068 049 178 AFSL No. 237879.
+
+"you" and "your" means the holder of an account. In relation to a 2Up account, “you” and “your” includes each joint account holder.
+
+The singular refers to the plural and vice versa.
+
+A reference to a document includes any variation or replacement of it.
+
+A reference to anything includes the whole and each part of it.
+
+All examples used in this document are for illustrative purposes only.
+
+Published Tuesday, 31 March 2020
+
+In this document the following expressions have the following meanings:
+
+"access method" means any method we make available to you to authenticate yourself to us for the purposes of transacting on and otherwise accessing your accounts. An access method comprises of one or more components (including, but not limited to, a card, a PIN, a passcode, recovery code, biometric identification, or any combination of these). It excludes methods involving a user's written signature.
+
+"account" means an Up Everyday Account or an Up Saver Account we establish in your name except in clause 11 where it means any account you have with us (including accounts to which these terms and conditions do not apply).
+
+"ATM" means an automatic teller machine.
+
+"bank" means Bendigo and Adelaide Bank Limited ABN 11 068 049 178 AFSL/Australian Credit Licence No.
+
+"Bank@Post™" means when you make a withdrawal, deposit or balance enquiry at a Bank@Post™ terminal in an Australia Post Office using a Up Bank card where this facility is available. Bank@Post™ and its device mark are trademarks (registered or otherwise) of Australia Postal Corporation. All rights reserved.
+
+"basic NPP payment" means a transfer of funds processed through the NPP which does not use Osko.
+
+"biometric identification" means the use of supported biometric identification features of your device, including but not limited to Touch ID, Face ID, and other fingerprint and retina scanning technology.
+
+"BPAY conditions" means the terms and conditions applying to the BPAY scheme as set out in Section G of this document.
+
+"BPAY payments" means payments which you have instructed us to make through the BPAY scheme to billers who can accept payments made to them through that scheme.
+
+"BPAY scheme" means the 'BPAY Payments' electronic payments scheme operated by BPAY Pty Ltd through which you instruct us to make payments to billers who can accept payments made to them through this scheme.
+
+"business day" means any day on which banks in Melbourne or Sydney are able to effect settlement through the Reserve Bank of Australia.
+
+"card" means a Debit Mastercard issued to you by us, that bears the Mastercard symbol, which is linked to an account and can be used to undertake an EFT transaction.
+
+"contactless terminal" means an electronic point of sale terminal which is capable of performing a contactless transaction.
+
+"contactless transaction" means the authorisation of a transaction by presenting a card (which is capable of performing a contactless transaction) or other device at a contactless terminal without the requirement to insert or swipe the card.
+
+"device" means any electronic device such as a smartphone, tablet, or computer on which the Up app is installed or your Up account can be accessed and used.
+
+"direct debit" means a transaction debited directly to your account by another party, under an arrangement that you and that other party have previously reached.
+
+"direct entry payment" means an electronic transfer of funds processed through the Bulk Electronic Clearing System (BECS) administered by the Australian Payments Clearing Association.
+
+"EFT conditions" means the terms and conditions applying to EFT transactions as set out in Section F.
+
+"EFT transaction" means a payment, funds transfer or cash withdrawal initiated using electronic equipment and not intended to be authenticated by comparing a manual signature with a specimen signature. An EFT transaction includes, without limitation, an electronic transaction undertaken using an access method via EFTPOS or an ATM, and a transaction undertaken using the Up app.
+
+"EFTPOS" (Electronic Funds Transfer at the Point of Sale) means the system that allows you to make purchases or withdraw cash with your card by presenting it at a merchant's terminal.
+
+"ePayments Code" means the ePayments Code administered by the Australian Securities and Investments Commission (ASIC), as amended from time to time.
+
+"Government charges" means all charges or duties on deposits into, or withdrawals from your account that are payable under a law of the Commonwealth or any State or Territory or any other jurisdiction whether or not you are primarily liable to pay these charges.
+
+"law" means common law, principles of equity and laws made by parliament (including regulations and other instruments under them, and consolidations, amendments, re-enactments or replacements of them).
+
+"Mastercard SecureCode" means the online authentication service provided for Mastercard cardholders when making online transactions at participating merchants.
+
+"mobile number" means the mobile phone number you have nominated to use on or with the device or devices you use to access the Up app.
+
+"NPP" means the New Payments Platform owned and operated by or for NPP Australia Limited.
+
+"NPP Addressing Service" means the addressing service component of the NPP which facilitates the registration of PayIDs.
+
+"NPP Payment" means a payment processed through the NPP and includes Osko Payments and Basic NPP Payments.
+
+"Osko" means the Osko payment service provided by BPAY Pty Ltd.
+
+"Osko Payment" means a transfer of funds processed using Osko.
+
+"Pay Anyone conditions" means the terms and conditions applying to the Pay Anyone Service as set out in Section H of this document.
+
+"PayID" means a PayID (also known as an 'alias') which is able to be created with the NPP Address Service and used for the purpose of making and receiving NPP Payments (for example, an email address or telephone number).
+
+"payment facility" means each of the following:
+
+The Up app (including the Pay Anyone Service and BPAY), but only to the extent that it facilitates payments
+Up Debit Mastercard
+Automatic payments (direct debits) to an account;
+
+"PIN" means the Personal Identification Number issued by us or selected by you to use in conjunction with a card.
+
+"recovery code" means the code given to you on sign up that you can use to recover your account
+
+"regular payment" means either a recurring payment or an instalment which represents an agreement between a cardholder and a merchant to debit a card at predetermined intervals (e.g. monthly or quarterly) or at intervals as agreed by both parties.
+
+"passcode" means a sequence of alphanumeric or other characters known only by you that are required as one of the access methods for your account and/or to use the Up app.
+
+"Post Office" means Australia Post.
+
+"stepped" means that different rates of interest will apply to different portions of your account balance.
+
+For example:
+
+if the rate of interest is 0.05% per year on that part of the account balance that is less than $2,000 and 1.5% per year. on that part of the account balance that equals or exceeds $2,000; and
+your account balance is $3,000 the rate of interest applying to your account will be 0.05% per year on $1,999.99 and 1.5% per year on the remainder.
+
+"Up app" means the software we offer on compatible iOS and Android devices, with which you can transact on and otherwise access a nominated account.
+
+"we", "us" and "our" means Bendigo and Adelaide Bank Limited ABN 11 068 049 178 AFSL No. 237879.
+
+"you" and "your" means the holder of an account.
+
+The singular refers to the plural and vice versa.
+
+A reference to a document includes any variation or replacement of it.
+
+A reference to anything includes the whole and each part of it.
+
+All examples used in this document are for illustrative purposes only.
+
+Published Friday, 31 May 2019
+
+In this document the following expressions have the following meanings:
+
+"access method" means any method we make available to you to authenticate yourself to us for the purposes of transacting on and otherwise accessing your accounts. An access method comprises of one or more components (including, but not limited to, a card, a PIN, a passcode, recovery code, biometric identification, or any combination of these). It excludes methods involving a user's written signature.
+
+"account" means an Up Everyday Account or an Up Saver Account we establish in your name except in clause 11 where it means any account you have with us (including accounts to which these terms and conditions do not apply).
+
+"ATM" means an automatic teller machine.
+
+"bank" means Bendigo and Adelaide Bank Limited ABN 11 068 049 178 AFSL/Australian Credit Licence No.
+
+"basic NPP payment" means a transfer of funds processed through the NPP which does not use Osko.
+
+"biometric identification" means the use of supported biometric identification features of your device, including but not limited to Touch ID, Face ID, and other fingerprint and retina scanning technology.
+
+"BPAY conditions" means the terms and conditions applying to the BPAY scheme as set out in Section G of this document.
+
+"BPAY payments" means payments which you have instructed us to make through the BPAY scheme to billers who can accept payments made to them through that scheme.
+
+"BPAY scheme" means the 'BPAY Payments' electronic payments scheme operated by BPAY Pty Ltd through which you instruct us to make payments to billers who can accept payments made to them through this scheme.
+
+"business day" means any day on which banks in Melbourne or Sydney are able to effect settlement through the Reserve Bank of Australia.
+
+"card" means a Debit Mastercard issued to you by us, that bears the Mastercard symbol, which is linked to an account and can be used to undertake an EFT transaction.
+
+"contactless terminal" means an electronic point of sale terminal which is capable of performing a contactless transaction.
+
+"contactless transaction" means the authorisation of a transaction by presenting a card (which is capable of performing a contactless transaction) or other device at a contactless terminal without the requirement to insert or swipe the card.
+
+"device" means any electronic device such as a smartphone, tablet, or computer on which the Up app is installed or your Up account can be accessed and used.
+
+"direct debit" means a transaction debited directly to your account by another party, under an arrangement that you and that other party have previously reached.
+
+"direct entry payment" means an electronic transfer of funds processed through the Bulk Electronic Clearing System (BECS) administered by the Australian Payments Clearing Association.
+
+"EFT conditions" means the terms and conditions applying to EFT transactions as set out in Section F.
+
+"EFT transaction" means a payment, funds transfer or cash withdrawal initiated using electronic equipment and not intended to be authenticated by comparing a manual signature with a specimen signature. An EFT transaction includes, without limitation, an electronic transaction undertaken using an access method via EFTPOS or an ATM, and a transaction undertaken using the Up app.
+
+"EFTPOS" (Electronic Funds Transfer at the Point of Sale) means the system that allows you to make purchases or withdraw cash with your card by presenting it at a merchant's terminal.
+
+"ePayments Code" means the ePayments Code administered by the Australian Securities and Investments Commission (ASIC), as amended from time to time.
+
+"Government charges" means all charges or duties on deposits into, or withdrawals from your account that are payable under a law of the Commonwealth or any State or Territory or any other jurisdiction whether or not you are primarily liable to pay these charges.
+
+"law" means common law, principles of equity and laws made by parliament (including regulations and other instruments under them, and consolidations, amendments, re-enactments or replacements of them).
+
+"Mastercard SecureCode" means the online authentication service provided for Mastercard cardholders when making online transactions at participating merchants.
+
+"mobile number" means the mobile phone number you have nominated to use on or with the device or devices you use to access the Up app.
+
+"NPP" means the New Payments Platform owned and operated by or for NPP Australia Limited.
+
+"NPP Addressing Service" means the addressing service component of the NPP which facilitates the registration of PayIDs.
+
+"NPP Payment" means a payment processed through the NPP and includes Osko Payments and Basic NPP Payments.
+
+"Osko" means the Osko payment service provided by BPAY Pty Ltd.
+
+"Osko Payment" means a transfer of funds processed using Osko.
+
+"Pay Anyone conditions" means the terms and conditions applying to the Pay Anyone Service as set out in Section H of this document.
+
+"PayID" means a PayID (also known as an 'alias') which is able to be created with the NPP Address Service and used for the purpose of making and receiving NPP Payments (for example, an email address or telephone number).
+
+"payment facility" means each of the following:
+
+The Up app (including the Pay Anyone Service and BPAY), but only to the extent that it facilitates payments
+Up Debit Mastercard
+Automatic payments (direct debits) to an account;
+
+"PIN" means the Personal Identification Number issued by us or selected by you to use in conjunction with a card.
+
+"recovery code" means the code given to you on sign up that you can use to recover your account
+
+"regular payment" means either a recurring payment or an instalment which represents an agreement between a cardholder and a merchant to debit a card at predetermined intervals (e.g. monthly or quarterly) or at intervals as agreed by both parties.
+
+"passcode" means a sequence of alphanumeric or other characters known only by you that are required as one of the access methods for your account and/or to use the Up app.
+
+"stepped" means that different rates of interest will apply to different portions of your account balance.
+
+For example:
+
+if the rate of interest is 0.05% per year on that part of the account balance that is less than $2,000 and 1.5% per year. on that part of the account balance that equals or exceeds $2,000; and
+your account balance is $3,000 the rate of interest applying to your account will be 0.05% per year on $1,999.99 and 1.5% per year on the remainder.
+
+"Up app" means the software we offer on compatible iOS and Android devices, with which you can transact on and otherwise access a nominated account.
+
+"we", "us" and "our" means Bendigo and Adelaide Bank Limited ABN 11 068 049 178 AFSL No. 237879.
+
+"you" and "your" means the holder of an account.
+
+The singular refers to the plural and vice versa.
+
+A reference to a document includes any variation or replacement of it.
+
+A reference to anything includes the whole and each part of it.
+
+All examples used in this document are for illustrative purposes only.
+
+Prior to June 2019, our Product Terms were available in PDF form.

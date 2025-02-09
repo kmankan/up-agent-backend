@@ -1,0 +1,105 @@
+Continuous delivery at Up
+
+Building Up
+
+Deploying change to production is the heartbeat of any modern tech company. Not so much for most banks, where sometimes it is only done a few times per year. At Up we do it several times per day!
+
+If it hurts, do it more often — Martin Fowler
+
+Continuous Delivery, defined as building software in such a way that the software can be released to production at any time, can only be achieved when waste has been removed from every aspect of software delivery. A continuous process of creating and deploying change, feeling the pain, removing some pain, and repeating. For some organisations, this is a journey that can take years. For us, we knew we had to bake it in to the way we build Up from day one. We wanted to get to market first with the next generation of banking functionality, and we did, but we also know we need to keep that lead while the next wave of digital bank hopefuls and their huge venture capital backed teams start chasing us in the years to come.
+
+Our approach to Continuous Delivery can be broken down into the following categories:
+
+Two-speed architecture
+Automated Testing
+Configuration Management
+Continuous Integration
+Information Security
+Sustainable Culture
+Settle in, grab a beverage, and I’ll tell you a bit about how we tackle challenges in each of these categories.
+Two-speed architecture
+
+Up is a collaboration between Bendigo Bank and Ferocia. Bendigo Bank, the most trusted bank in Australia, has the banking part covered and builds out an API Gateway of banking services (think ‘create account’, ‘get transactions’, ‘make payment’). Ferocia builds out a cloud-based platform on top of those fundamental banking services to provide the features that you wonder why other banks don’t have (think ‘merchant identification’, ‘upcoming payments’, ‘time of day on transactions’).
+
+This architecture lets us move fast on the customer-facing side, and deliberately on the banking side. We can deploy change several times a day without going anywhere near the regulated banking products that underpin our platform, and where your money is actually stored.
+
+Automated Testing
+
+Testing is probably the most visible blocker to deploying change in most organisations. Developers write some code, deploy it to a test environment, and then some testers test it. If they find something wrong, they tell the developers, the developers fix it, and some testers test it. All this time, nothing is changing in production, and no value is being delivered to customers. Add in some complications, like “the test team is shared between several development teams and their time needs to be scheduled”, or “the test environment is shared by many development teams and its time needs to be scheduled”, and dreams of a lean process can go downhill fast.
+
+Our automated test status lights, affectionately known as “Pipelite”.
+
+In Up, nearly all testing is automated. We don’t have a ‘test team’, we have a tester. The job of our developers is to make her life as easy as possible. Our developers all share the responsibility of automating the tests for the code they write. We use tools such as RSpec and Appium to build massive automated test suites that run on every code change that a developer makes. We spin up a replica of our production infrastructure in seconds using Kubernetes, Terraform, and Google Cloud Platform to allow massive parallelisation of our test runs. After around 20 minutes, and thousands of test cases executed, we tear the environment down again.
+
+Do we get it perfect? Probably not. But our ability to fix issues in production within minutes, coupled with the low risk provided by our two-speed architecture means that we don’t have to get it perfect. That being said, by the time any line of code gets to production, it has been collaborated on by at least three developers (an author, a reviewer, and a deployer), and potentially our lead designer (Dan), our product manager (Anson), and our tester (Samii).
+
+Configuration Management
+
+Hand-crafted physical environments are hard. Hard to maintain, hard to share, and hard to build. From the start we knew we had to be on the cloud, and after an assessment of our options we went with Google Cloud Platform.
+
+Every single detail of our dev/test/production infrastructure is codified. We define immutable containers, and then orchestrate them using Kubernetes. We define infrastructure with Terraform. We built custom tools to take these immutable containers through the deployment pipeline and subject them to top secret security controls.
+
+Having infrastructure as code allows us to replicate a production-like environment on-demand, or deploy our infrastructure to multiple geographical regions at the click of a button. This currently takes just under 2 minutes. We never experience shared environment contention, and every change ever made is securely stored in our source control history. If we introduce an issue, we know exactly what changed and when, and it is simple to rollback.
+
+Continuous Integration
+
+Everytime a developer pushes some code, our CI system kicks into action. Our automated test suite gets split up and executed; some tests can run anywhere, but our iOS test suite runs on a fleet of physical Mac Minis. Production-like environments are spun up in Google Cloud Platform. All of this is orchestrated by Buildkite.
+
+A small number of our Mac Minis that run our device tests.
+
+When a test suite passes or fails, our developers are informed via Slack. If someone pushes some code that doesn’t pass all of the automated tests, then it is unable to be merged with the main application code until the issue is remediated.
+
+As of today, this process has happened 23,361 times in Up’s history!
+
+Information Security
+
+Information Security underpins everything we do at Up. We have processes and controls far in excess of what I have come across previously in my decade of working in the Banking industry. That being said… I am not going to talk about this, sorry.
+
+Sustainable Culture
+
+Everything we do is underpinned by a culture of trust (apart from Information Security). We don’t have a leave policy, for example, we don’t even have a ‘you must come to the office every day’ policy. If someone is sick, we’d never ask for a medical certificate. Honestly, what is that saying about trust levels if you do?
+
+We trust our people to do what needs to be done, and give them the resources and tools they need to do it. Whether that is the best laptops on the market. Books. Local and international conferences. A trainer running sessions at our amazingly equipped gym. Nutritious lunches that cater to all persuasions. Showers and bike sheds. Epic team celebrations, and the usual “hey it’s Friday” celebrations.
+
+It might be this point that large organisations find the hardest to replicate. We’ve been dedicated for a long time to keeping our team small. Growing is easy. Growing without damaging your culture, not so much.
+
+Conclusion
+
+We could fill a book going into all of the details of the stuff I have brushed on here. If you found the stuff you just read interesting, give some claps below or a share on social media. If people are interested we’ll go into deeper detail about how we do our tech around here in future blog posts.
+
+If you haven’t given us a go yet, head over to up.com.au. Sign up is quick and painless, and you can get an Apple Pay card into your digital wallet within minutes. At the moment, we are only able to provide super powered banking to Australian residents. Thanks for reading!
+
+Chris Aitchison
+
+Engineering Manager
+
+@cmaitchison
+
+Tags: Technology, Continuous Delivery, Development, Culture
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Paying Someone
+
+The area of payments presents one of the bigger opportunities for innovation and improvement in banking, but also exerts the greatest challenge on us to remain truly forward-looking and uncompromising while maintaining compatibility with industry standards.
+
+Anson Parker
+
+Nov 21, 2018
+
+Rebooting Banking
+
+Our journey began with a simple question: what could a banking platform look like if was built from scratch today, freed from legacy and designed from the outset to embrace the capabilities of current technology?
+
+Anson Parker
+
+Oct 31, 2018
+Keep reading
+
+More from the makers of Up.

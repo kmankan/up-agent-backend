@@ -1,0 +1,47 @@
+Security
+
+Security is at the heart of everything we do at Up. To help you protect your money and personal information we’ve provided some information below.
+
+Device security
+
+General tips to keep your device secure:
+
+Things that are a good idea to do:
+Always set a passcode on your mobile device. It’s best not to set your passcode to something that’s easy for other people to guess, like 123456 or 000000
+Give us a call immediately on 1300 002 258 if your device is lost or stolen, or you suspect your passcode has been compromised.
+Things that are not a good idea:
+Never leave your mobile device unattended. It could get lost or stolen. You should always keep your phone on your person, in your pocket, or your handbag, or another easily accessible place.
+Don’t let other people use your device to make purchases or payments. You may think you can trust them. But you never know what may happen.
+Don’t use the Up app with a device other than a compatible iPhone or Android device. Apart from seeing a wonky-looking app, using a non-supported device could open you up to security threats.
+Don’t use the Up app if your mobile device has been “jailbroken”. The standard iOS and Android operating systems are already amazing now-a-days, and there are likely more risks with a jailbroken device than a standard one.
+If other people use your device, then either don’t install the Up app on that device, or if you do install the Up app on a shared device make sure you tick the “Require Login” option in Security settings in the Up menu.
+Card security
+
+Basic safety rules with your card can help keep you protected:
+
+Your card
+Carry your card with you, or keep it in a safe place.
+You shouldn’t let your card out of your sight when making a purchase.
+If your card has expired, destroy it immediately.
+Your PIN or passcode
+Don’t select a PIN or passcode that’s easily identified with you (e.g. your date of birth, or your post code).
+Protect your PIN and your passcode by never disclosing them to anyone.
+We will never ask you to disclose your PIN or your passcode. Don’t be fooled by someone calling you and saying they are from Up and asking you nicely. Just say no.
+Don’t write down your PIN or passcode anywhere, except to enter it into a secure password manager.
+If your PIN or passcode has been lost, stolen or compromised in any way – you can simply change your PIN or passcode, or deactivate your card using the Up app. If you need help with this, please notify us immediately.
+When entering your PIN at an ATM or EFTPOS machine, make sure no one is watching. If you feel uncomfortable entering your PIN, or see anything suspicious, simply don't do it. You’re better safe than sorry.
+Account security
+
+Important information to help keep your account secure:
+
+Important:
+
+Stay vigilant and be wary of anyone calling claiming to be from Up, even if the person claims to know personal details about you such as your name, DOB, address or even if they know the first 6 or last 4 digits of your card.
+
+If you receive a call like this, do not share any information. Terminate the call and reach out to our specialist team in-app via Talk to Us.
+
+We'll never:
+Call and ask you for your passcode, PIN, OTP or recovery code.
+Ask you to download software or request access to your device.
+Send you links via SMS or email requiring you to log in or enter sensitive information.
+Ask you to transfer funds.

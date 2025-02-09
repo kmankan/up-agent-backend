@@ -1,0 +1,48 @@
+Up 1.13.2 Release Notes
+
+Updates
+
+Transfers between Savers
+
+Less steps means less stress. It’s recommended you strap in because this new money mover is built for speed. Barriers are broken - You can now transfer money between Savers. Tap on any of your Savers to get your hands on the new ‘Transfer money’ button. Select your 2 chosen Savers and make your move. Well played.
+
+To transfer money between Savers or to and from Spending just jump into any of your Savers and tap on the new ‘Transfer money’ button. Select the the two Savers to transfer between and pop in the amount. Hit the ‘Swap’ button to change which Savers are moving to and from. Much quicker.
+
+Upcoming Subscription Prompts
+
+We’re picking up what you’re putting down. For some new subscriptions we’ll now ask if you’ve just signed up for a recurring charge before you’ve even made your first full payment. We’ll go ahead and pop those upcoming charges in your Upcoming tab where they belong.
+
+Up
+
+Easy Money
+
+@up_banking
+
+Tags: Release Notes, Up 1.13.2, Transfer between Savers, Upcoming
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Deliver bank card; melt faces
+
+Cranking up the heat on our welcome pack
+
+Pete Johnson
+
+Mar 06, 2020
+
+New release: Covers & Forwards
+
+Today we're introducing two new verbs to banking: "Covering" and "Forwarding".
+
+Anson Parker
+
+Mar 02, 2020
+Keep reading
+
+More from the makers of Up.

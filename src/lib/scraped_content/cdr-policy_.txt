@@ -1,0 +1,99 @@
+Consumer Data Right Policy
+About Up
+
+Up is a brand of Bendigo and Adelaide Bank Limited ABN 11 068 049 178 AFSL/Australian Credit Licence 237879.
+
+This Consumer Data Right Policy applies solely to Up.
+
+Our policy
+
+Up (“we / us”) recognises the importance of protecting your privacy and managing your banking data in an open and transparent manner. We appreciate that the success of our business is largely dependent on a relationship of trust being established and maintained with past, current and prospective customers and other individuals with whom we conduct business.
+
+This Policy sets out how we will manage your banking data in accordance with the Consumer Data Right. It also outlines how you can request access to or correction of your banking data and our complaints process.
+
+For further information about how we handle your personal information, please refer to our Privacy Policy.
+
+The Consumer Data Right (“CDR”)
+
+The CDR gives you the right to share your banking data with participants who are accredited under the CDR (Accredited Data Recipients). It is an opt-in system that gives you greater control over how your banking data is handled making it easier for you to access products and services.
+
+Using the CDR facilitates the automated, secure sharing of your banking data only with your express consent. This means you can choose to share your existing banking data—such as your transaction history, interest rates and account balances—with other banks or Accredited Data Recipients. For example, you might opt to securely share your transaction data with an external budgeting tool provider.
+
+We do not provide voluntary consumer data or voluntary product data as defined in the CDR Rules.
+
+Product data
+
+The CDR requires that we provide access to banking data about products we offer including banking data about the features and descriptions of our products, interest rates, fees and charges and eligibility criteria.
+
+Product banking data is publicly available information that can only be consumed by specialized software systems. This banking data can be used by businesses—such as comparison websites—to compare products on the market.
+
+We do not charge a fee for access to product banking data.
+
+Data made available under the CDR
+
+CDR data we hold about you that we are required to make available includes:
+
+Your name
+Your contact details (address, phone number, email address)
+Your account data, including your account number, accounts balances, scheduled payments and payees
+Your transaction records, including dates, amounts, descriptions and other parties involved
+Information about products you hold with us
+
+Up CDR data includes transactions dating back to the time your accounts were created with us. We won’t share your CDR data without your consent.
+
+How to access your Up CDR data
+
+You can opt to share your Up CDR data with an Accredited Data Recipient, so that they can provide goods or services to you based on your banking data.
+
+The Accredited Data Recipient is first required to seek your consent via their website (or app).
+The Accredited Data Recipient will redirect you to Up, where we’ll ask you for your registered mobile number.
+We’ll send you a One Time Password, which you can access through your registered Up app.
+Note: We will never ask you to provide your registered mobile number or passcode to a third party. Always log in to your Up account via the Up app.
+We’ll ask you to select which accounts you wish to share banking data from and we’ll confirm the data that the Accredited Data Recipient has requested, including the time period for which your banking data will be shared.
+You have the option to confirm or decline any request to share CDR data with an Accredited Data Recipient.
+Finally, you are redirected back to the Accredited Data Recipient’s website (or app).
+Note: Details of any CDR data you have opted to share can be viewed and managed in the Up app. Navigate to “Up”, then to “Data Sharing”.
+Correction of your Up CDR data
+
+In most cases you will be able to correct banking data held by us in the Up app.
+
+If you believe banking data we hold about you is inaccurate, out of date or incomplete, you should contact us by:
+
+Using Talk to Us — in the Up app
+Emailing us — at support@up.com.au
+Calling Us — on 1300 002 258
+
+Within 30 business days after your request, we will either:
+
+Update your banking data that is inaccurate, out of date or incomplete. In some cases we may request you provide us with supporting documentation to amend the banking data we hold about you; or
+If we do not agree that your banking data is inaccurate, out of date or incomplete, we will give you written notice including the reasons why we do not agree with you and how you can make a complaint.
+How to make a complaint
+
+If you wish to make a complaint regarding the handling of your banking data by us, you can make a complaint by contacting our Customer Support Team. The best place to start is by using “Talk to Us” in the Up app. You can also call us on 1300 002 258 or e-mail us at support@up.com.au. Please provide us with as much detail as possible about your complaint.
+
+We will acknowledge receipt of your complaint as soon as possible
+We will promptly investigate your complaint and notify you of the outcome
+We aim to resolve your complaint within 30 days
+We will inform you in writing about our decision
+
+If you are not satisfied with the response provided by our Customer Support Team, you have the option of referring your complaint directly to Australian Financial Complaints Authority (AFCA).
+
+AFCA provides fair and independent financial services complaint resolution that is free to consumers.
+
+In writing to: GPO Box 3, Melbourne Vic 3001
+Online: www.afca.org.au
+Phone: 1800 931 678
+Email: info@afca.org.au
+
+Time limits may apply to complain to AFCA and so you should act promptly or otherwise consult the AFCA website to find out if or when the time limit relevant to your circumstances expire.
+
+OR
+
+Office of the Australian Information Commissioner
+
+GPO Box 5218, Sydney NSW 2001
+
+Online: www.oaic.gov.auPhone: 1300 363 992
+Email: enquiries@oaic.gov.au
+
+Last updated 7 October 2024.

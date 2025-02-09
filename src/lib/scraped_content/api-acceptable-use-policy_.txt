@@ -1,0 +1,18 @@
+API Acceptable Use Policy
+
+At this time the Up API is provided for your personal use only.
+
+The Personal Access Token (“token”) provides access to your account - do not share your token with anyone.
+
+Provided you’re using your token for personal projects it’s unlikely you’ll come up against any of the following prohibitions. The following behaviour may result in your token being revoked and/or access to the API suspended:
+
+Sharing your token with a 3rd party (including a partner or relative)
+Exceeding a reasonable request volume or otherwise attempting to disrupt or break the API service
+Attempting to probe for undocumented call points or data that’s not your own
+Attempting to extract data (such as merchant data) for use in commercial applications
+
+You are responsible for the security of your token and we are not responsible or liable should your token be disclosed, even unintentionally, to a third party.
+
+Whilst we endeavour to keep the API online, we make no guarantee around the API’s uptime/availability and we may suspend access for any reason without notice.
+
+Last updated 30 July, 2020

@@ -1,0 +1,58 @@
+Up 1.13.6 Release Notes
+
+Updates
+
+Undo Transfers
+
+Become the revert expert. Introducing our first ever feature with Ctrl+Z.
+
+You can now undo a transfer to or from your Saver with a quick tap. There are no mistakes here, just happy little accidents.
+
+Now when you make a transfer to or from a Saver you’ll notice a new undo pop up. If you didn’t nail it the first time you’ll have a few seconds to instantly reverse what you’ve done and have another crack, second time’s the charm.
+
+Attempted Charges
+
+We'll no longer exempt the attempt. Here’s a fresh injection of new activity into your feed.
+
+You'll now receive a notification & an activity item for Attempted charges. If a merchant has attempted to charge your card and was not successful, you'll be the first to know. Rejoice, you have remained in the loop.
+
+Attempted charges are not here for a long time, just here for a good time. These activity items will drop off your activity feed after a couple of days. This is the first of a couple of new activity items you can expect to see over the next few months.
+
+Android Boot Time Improvements
+
+An engine overhaul has given boot times a boost for our Android pals. Speed improvements for the modern age, welcome to the fast lane
+
+Up
+
+Easy Money
+
+@up_banking
+
+Tags: Release Notes, Up 1.13.6, Undo Transfers, Attempted Charges
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Up 1.13.5 Release Notes
+
+New 'Pay an Upsider' payment option & Upsider payment replies
+
+Up
+
+May 04, 2020
+
+Up merchant logos: back to the past.
+
+Retro logos are the best logos.
+
+Anthony Langhorne
+
+Apr 01, 2020
+Keep reading
+
+More from the makers of Up.

@@ -1,0 +1,68 @@
+Up 1.5.0 Release Notes
+
+Updates
+
+Instant Google Pay
+
+A special treat for our Android pals.
+
+There’s no excuses anymore, hit the ground running. Google Pay instant provisioning is here! Don’t get caught up waiting for your card to arrive, start spending within minutes of signing up.
+
+You’ll now be able to add your card to your Google Wallet directly from the ‘Card’ menu of the ‘Up’ tab. Just follow the prompts and you’re good to go!
+
+For all you newbies out there we’ve built the sign-up flow to include adding your card to Google Pay. Technology rules.
+
+Add, Edit and Delete Upcoming
+
+It’s been called the biggest advancement since Cut, Copy, Paste. You can now Add, Edit and Delete Upcoming payments! Expecting that gym membership every week? Rego due this time next year?
+
+Just tap that more options icon when viewing a transaction to start adding a new regular charge. You can change the expected amount, date and frequency of a charge.
+
+If you’ve cut the cable on your cable and are no longer paying a regular charge you can just delete the upcoming charge directly from your Upcoming feed.
+
+Profile Photos
+
+It’s time to dig up that photo of you wearing a fedora in Mexico from 2009...you know the one.
+
+Up Profile Photos are now here. Add your best snap or upload a selfie directly from the profile menu. To add a photo just tap on ‘Profile’ and then tap on that big ol’ circle that’s just screaming for a photo to be uploaded
+
+Felt cute might delete later? That’s cool, no one will see it just yet but best get ready for when they do. This is the first step to some more work to come!
+
+Accessibility Improvements
+
+We’ve made some accessibility improvements and those of you who use VoiceOver will now have a much better time navigating Savers and using the Talk to Us section.
+
+Up
+
+Easy Money
+
+@up_banking
+
+Tags: Release Notes, Up 1.5.0, Upcoming, Google Pay
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Up at WWDC 2019
+
+WWDC 2019 is done and dusted. Our iOS wizard, Crafter spent a week in sunny California checking it out!
+
+Marcus Crafter
+
+Jun 24, 2019
+
+The Future of Banking is Looking Up
+
+We’re excited to announce that over 100,000 customers have joined Up since we launched just over 8 months ago in October 2018. This places Up in the company of the fastest growing digital banks in the world.
+
+Anson Parker
+
+Jun 12, 2019
+Keep reading
+
+More from the makers of Up.

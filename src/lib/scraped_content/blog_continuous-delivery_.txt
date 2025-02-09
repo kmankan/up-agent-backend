@@ -1,0 +1,14 @@
+Up Blog
+
+Keep up to date with in-depth content from the makers of Up.
+
+Continuous Delivery
+Back to Blog
+
+Continuous delivery at Up
+
+Deploying change to production is the heartbeat of any modern tech company. Not so much for most banks, where sometimes it is only done a few times per year. At Up we do it several times per day!
+
+Chris Aitchison
+
+Dec 03, 2018

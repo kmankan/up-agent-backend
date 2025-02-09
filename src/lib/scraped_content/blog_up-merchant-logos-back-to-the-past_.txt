@@ -1,0 +1,95 @@
+Up merchant logos: back to the past.
+
+Building Up
+
+While you were sleeping last night we were up late in the lab. We’re very proud to say that after some tweaking to the flux capacitor, Up’s merchant identification systems successfully hit 88 miles an hour at approximately 12:01am 01/04/2020. The time circuits have been flipped on so grab a Hoverboard, bust a fat 360 flip into your Up app and check out some of your favourite merchants logos in all their retro glory. Woolworths, Telstra, KFC, McDonald’s; they've all made the trip back in time for just one day.
+
+We are, of course, very aware of what is happening in the world right now with the COVID-19 pandemic and we debated not going ahead with this. However, we thought some levity may be welcomed - we hope you enjoy this one day special. If you like it, let us know on socials or in-app via "Talk to us" and who knows, Up may get a retro mode one day. And if you don’t like them at least they’re only here for one day.
+
+Merchants... merchants everywhere
+
+We haven’t talked a lot about our merchant system here at Up, however, with it powering the retro logos for today, we thought this was a good chance to share some info.
+
+Firstly, what is a merchant? Put simply, it is a business that you transact with. We've put in a lot of work to try and show you the merchant you transacted - as you'd know them - and not the standard bank ABC CORP TOWNSVI descriptions you have no doubt seen elsewhere. When we can’t do a better job we've asked you, our faithful Upsiders, to help us out and suggest who the merchant is. We're constantly amazed at how you've taken this duty to heart and helped make Up awesome.
+
+Some stats from the Up merchant system:
+
+~275,000 merchants identified by customers (these are specific to individual customers and help us improve merchants for all customers)
+~112,000 merchants identified (Up is confident the merchant is correct and all customers see it with the same name, logo, website etc)
+93% of all purchases are from an identified merchant
+~89,000 merchants with a category
+~31,000 merchant notes received from customers
+
+Some fun insights from Up customers:
+
+Nearly 1 million purchases have been made at Up’s most popular merchant!
+More customers use Uber than Uber Eats, but more money has been spent on Uber Eats 🤔
+More money has been spent on Airbnb than Jetstar & Qantas combined
+Big W is twice as popular as Target
+Officeworks’ biggest day was Melbourne Cup Day (office sweepstake supplies?)
+IGA is more popular than ALDI
+Netflix is the most popular streaming service followed closely by Spotify
+
+We are always striving to make Up’s merchant data better. You can help us! Whenever you see an unidentified merchant you can try and identify it from your receipt page - that merchant will be identified for you forever and the Up merchant system may even take your suggestion and use it for all customers. Even things like changing a transaction category can help improve merchant data - once enough of a merchants transactions are being recategorised the same way by customers we are prompted to review the merchants category. The more you use Up and interact with Up’s merchants the better they get.
+
+Some new tricks
+
+We haven’t posted about many of the small improvements we’re making but we thought today would be a good day to share a few (some of you may have already seen these in action).
+
+Potential Card Checks
+
+A potential card check is one of those small charges merchants do to verify your card. Think when you sign up to Netflix they often do a $1.00 transaction on your card that disappears after 10 minutes. Up’s merchant system can now mark those transactions as potential card checks and tell you we think the transaction is temporary (and they also won’t get rounded up which is nice).
+
+Merchant subscriptions
+
+Subscriptions are things like your Netflix or Spotify plan. Up has been automatically detecting these for a while and it means after your first payment is processed, Up will automatically create a regular for you and notify you about future upcoming purchases. That first time Netflix charges you $9.99 was a surprise - all future payments won’t be.
+
+Merchant subscription suggestions
+
+We’ve recently shipped an update to our subscription detection system resulting in a new question Up might ask you: "Did you sign up to a new subscription?"
+
+When will you be asked this? It will come as part of the card check notification and on transaction receipts. For example, if you sign up to Netflix and they do a $1 transaction:
+
+Open the push notification
+Pick the subscription you signed up to (or pick "Other" and help Up learn about a new subscription)
+Confirm next transaction date and amount
+Your regular is now waiting for you in Upcoming
+
+Why is this great? When signing up to new subscriptions there is often a free trial period and it’s easy to forget to cancel if you didn’t like the service. Now Up will notify you the day before the first payment (provided you set the next transaction date correctly) and you can cancel before that first transaction hits!
+
+Final thoughts
+
+All of the above is built with your help - so if you have merchant feedback, suggestions for subscriptions or notice a card check Up didn’t flag correctly please get in touch. We can’t do all this without you.
+
+May your merchants always be identified.
+
+Anthony Langhorne
+
+Tags: Merchants, History, April Fools
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Five ways Up can help you spend wisely
+
+With the economic uncertainty as a result of COVID-19, spending wisely has become more important than ever.
+
+Up
+
+Mar 31, 2020
+
+Up 1.13.2 Release Notes
+
+Transfer between Savers & Upcoming Subscription prompts.
+
+Up
+
+Mar 30, 2020
+Keep reading
+
+More from the makers of Up.

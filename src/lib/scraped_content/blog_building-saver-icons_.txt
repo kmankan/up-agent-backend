@@ -1,0 +1,156 @@
+Building Saver Icons
+
+Building Up
+
+New in our most recent release is the ability to choose a custom emoji for your savers. In this post I'll detail some of the technical challenges we had to solve while building it.
+
+For the interface to make sense, we wanted to provide our own selector widget rather than relying on the native keyboards. I found two existing React native libraries that provide one: react-native-emoji-input and emoji-mart-native. Neither provided the look and feel we were after, but I wanted to be able to re-use much of the low-level emoji handling code. emoji-mart-native appeared to have a richer set of features (such as searching by alias), and I had problems linking react-native-emoji-input, so emoji-native-mart was the default winner.
+
+Performance
+
+My initial assumption was that searching would be a performance issue and would need background processing or other special handling. In testing though, a search operation typically only took few milliseconds -- well under the 16ms budget I had for smooth 60fps performance.
+
+Where I had to spend most of my time optimizing performance was in rendering. React Native has a built-in SectionList component that handles smart rendering of long sectioned pieces of content -- such as emojis grouped into category -- which was able to do most of the heavy lifting. The "correct" way to provide data to SectionList is via props, but given we have so many emojis the shallow compare of those props on every state update was taking too long, and was also redundant: the only way the rendered data could change was if the keyword changed! I wrapped the SectionList in a custom component that provided an optimized shouldComponentUpdate to reduce the amount of computation needed.
+
+// A wrapper component for SectionList that
+// enables us to optimize shouldComponentUpdate.
+// Since we're potentially showing many hundreds
+// of items, doing a shallow compare of that list
+// can take a while. Instead, we only re-render if
+// the keyword changes (since that is the only
+// thing that can change the result list.)
+class EmojiGrid extends React.Component {
+  defaultData = [
+    /* some list */
+  ];
+
+  shouldComponentUpdate(nextProps) {
+    return nextProps.keyword != this.props.keyword;
+  }
+
+  render() {
+    const sections =
+      this.props.keyword.length > 0 ? this.searchResults : this.defaultData;
+
+    return (
+      <SectionList
+        sections={sections}
+        // Other props...
+      />
+    );
+  }
+
+  get searchResults() {
+    return [
+      // some section list based on
+      // this.props.keyword
+    ];
+  }
+}
+
+
+To show emojis as a grid rather than one per row while still using SectionList, I calculated how many emojis could fit per row then pre-chunked the data.
+
+import chunk from 'lodash/chunk';
+
+ // Fixed width of emoji, given our font size.
+const EMOJI_SIZE = 36;
+
+ // Standard spacing
+const SPACING = 5;
+
+class EmojiGrid extends React.Component {
+
+  // This was actually provided as a prop from a
+  // parent component, but including here for
+  // brevity
+  get perRow() {
+    return Math.floor(
+      (Dimensions.get('window').width - SPACING * 2)
+      / EMOJI_SIZE
+    );
+  }
+
+  get searchResults() {
+    return [{
+      id: 'search',
+      title: 'Search Results'
+      data: chunk([
+        /* some list based on this.props.keyword */
+      ], this.perRow)
+    }]
+  }
+}
+
+Sorting
+
+We use loki for visual regression testing, and I was getting failures on our emoji component. Search result ordering was non-deterministic!
+
+// Original implementation from emoji-mart-native
+results.sort((a, b) => {
+  var aScore = scores[a.id],
+    bScore = scores[b.id];
+
+  return aScore - bScore;
+});
+
+
+This code contains a common issue when sorting based on relevance: two items with the same score will both return 0, with no way to distinguish between them, leading to non-determinism. A secondary sort key is required in this case (PR for emoji-mart-native here):
+
+results.sort((a, b) => {
+  var aScore = scores[a.id],
+    bScore = scores[b.id];
+
+  if (aScore === bScore) {
+    // localeCompare is the built-in way to
+    // compare strings in JS. We don't actually
+    // care about the ordering, as long as it
+    // stays the same for any two IDs.
+    return a.id.localeCompare(b.id);
+  } else {
+    return aScore - bScore;
+  }
+});
+
+Rendering
+
+Depending on the source of the emoji when rendering, it can sometimes include an invisible codepoint VARIATION-SELECTOR-16 which triggers a different rendering mode that changes the line height of the containing text. This was particularly noticeable in our saver review screen: the first row does not contain the codepoint, the second one does, and the second one is 2px taller.
+
+People have found a number of slightly unsatisfactory workarounds for this. In our case it was easy enough to increase the line height to account for the extra emoji height, even when no emojis were present. Tim Whitlock's unicode inspector was most helpful in debugging this issue.
+
+This was my first feature at Up, and also my first React Native feature. It was a lot of fun to build and I hope it's just as fun to use!
+
+Xavier Shay
+
+Engineer
+
+@xshay
+
+Tags: Emojis, Savers, Development, Innovation, Technology
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Up 1.4.3 Release Notes
+
+Emoji saver icons, change your mobile number, grouped transactions, and card controls.
+
+Up
+
+May 08, 2019
+
+The Tree of Up
+
+We're excited to introduce a new kind of product roadmap. We're calling it The Tree of Up – a technology tree-like view of our product plans for 2019.
+
+Anson Parker
+
+Mar 13, 2019
+Keep reading
+
+More from the makers of Up.

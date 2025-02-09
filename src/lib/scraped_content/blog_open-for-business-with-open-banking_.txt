@@ -1,0 +1,80 @@
+Up is Open for Business with Open Banking
+
+Updates
+
+What is Open Banking?
+
+Open Banking is an agreed way for banks to let their customers share data, safely, with third parties. It’s technically called the Consumer Data Right, or CDR, and is enforced by law by the Australian Competition and Consumer Commission (ACCC).
+
+The CDR will eventually target many industries, such as insurance and utilities, but banking is the first industry legislated to implement it.
+
+You can read more about it on the official website.
+
+Why would I use it?
+
+There’s a bunch of reasons why you might want to share your Up data with a third party. You might want to use budgeting software like You Need a Budget (YNAB), or Pocketbook. In the past, Australians could only use these by uploading a spreadsheet to these services, sharing bank passwords 😬 or letting them ‘screen scrape’ information from your account. None of these things felt OK to us (more on why later) so we’ve never allowed them.
+
+You could also use Open Banking to apply for a loan. Often a loan provider will want to access your bank account to check that your finances are healthy before they hand over big dollars. Open Banking gives Up a way to share your data, if you want us to, on time limited terms and with higher security than emailing Bob the Banker your logins.
+
+Is it safe?
+
+Yes: safer than all of the alternatives above. Open Banking lets you share your Up banking data with a third party without having to give them your login credentials (such as a username or password). This is very different to services that screen-scrape your data via internet banking.
+
+One of the key principles of how Open Banking works is that the customer has a very clear understanding of what is being shared, who it is being shared with and how long it is being shared for. We think it’s a great move.
+
+The ACCC manages who can and cannot participate in the scheme and applies very strict controls on participants. In particular, any company that wants to access your data has to go through an accreditation process and as part of that, they need to have controls in place to delete your data if requested to do so, or when it is no longer needed.
+
+Companies cannot access your data without your express consent, and you can withdraw that consent at any time.
+
+What’s the difference between Open Banking & Up's API?
+
+You may well have heard of our API, which lets you access your own data. Open Banking and Up’s API are both APIs. They’re both designed to give you control and access - but in different ways.
+
+The API currently uses a single personal access token, that only you can have. You can use your own data - heaps of it - to build stuff and play around. We’re particularly impressed with the guy who made a flashing green light that goes off when he gets paid. But you can’t share your API key with anyone else. It would give them too much access to your personal data.
+
+The Open Banking API is more constrained. It has to be, because it’s introducing more folks (third party businesses) to the party and each one needs to be checked and accredited. For that reason you cannot call the Open Banking API yourself; becoming an accredited Data Recipient, is a lengthy process with the ACCC. Open Banking is really aimed at business-to-business data sharing, and making it easier for you to move your financial products where they'll fit your circumstances best.
+
+The API will continue to live alongside Open Banking.
+
+What can I do with it now?
+
+It’s early days. Up is one of the first organisations in Australia to be certified by the ACCC for Open Banking. That means we’re up and available, but the third parties you want to connect might not quite be there yet.
+
+When other accredited businesses go looking, they’ll find us. So if there’s an app or service you’d really like to hook Up with your Up, ask them! The more people who ask the more likely they’ll be to do the work on their end to get connected.
+
+A number of third parties are in the process of connecting their services which means you should shortly be able to access your Up data on their services.
+
+Up
+
+Easy Money
+
+@up_banking
+
+Tags: Open banking
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Up 2.0.2 Release Notes
+
+Split your pay into 2Up & 2Up Activity, Card Controls & Trackers on watchOS
+
+Up
+
+Jun 15, 2021
+
+Building Up an Emergency Fund
+
+Let’s call it financial self-defence. Here’s how you can use Up to prep for that unexpected moment when life loads a bazooka with your name on it.
+
+Up
+
+Mar 31, 2021
+Keep reading
+
+More from the makers of Up.

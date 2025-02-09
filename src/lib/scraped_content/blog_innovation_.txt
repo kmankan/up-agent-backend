@@ -1,0 +1,97 @@
+Up Blog
+
+Keep up to date with in-depth content from the makers of Up.
+
+Innovation
+Back to Blog
+
+Hi—Fi: The Financially Sound System
+
+Hi—Fi: Your Financially Sound System is here, but what is it and how does it work? Hear from the mind behind the machine on why Hi—Fi is the future of money management.
+
+Anson Parker
+
+Nov 03, 2023
+
+The Ethical Engineer
+
+Meet a tech. engineer who’s matching the Up API, with data on ethical clothing. A match made in fashion heaven.
+
+Matthew Grey
+
+Nov 03, 2021
+
+Stopping Payment Abuse: How Up is Designing for Safety
+
+In July 2020, we got a message from a customer saying their ex-partner was sending abusive chat messages through Up. By August, we’d built new code to find payment abuse, and designed a new approach to stopping abuse on Up.
+
+Nektarea Cameron-Smith
+
+Feb 26, 2021
+
+The Evolutionary Design of Up
+
+A deep-dive on the design journey of the Up app. A collaboration between product, design, engineering and our growing base of Upsiders.
+
+Daniel Wearne
+
+Sep 22, 2020
+
+Announcing the Up API
+
+Let's Hack On Banking Together! Today we're thrilled to announce the beta release of the Up API.
+
+Anson Parker
+
+Jul 27, 2020
+
+TransferWise integrates with Up
+
+First of its kind collaboration in Asia-Pacific soon to offer Upsiders the best way to move money overseas.
+
+Up
+
+Oct 15, 2019
+
+Up at WWDC 2019
+
+WWDC 2019 is done and dusted. Our iOS wizard, Crafter spent a week in sunny California checking it out!
+
+Marcus Crafter
+
+Jun 24, 2019
+
+Up Apple Watch App
+
+A tour of our new Up App for Apple Watch
+
+Marcus Crafter
+
+Jun 06, 2019
+
+Where Do Emoji Come From?
+
+With our most recent release supporting a crop of exciting new emojis, we ask the question: where do emoji come from anyway?
+
+Xavier Shay
+
+May 22, 2019
+
+Building Saver Icons
+
+New in our most recent release is the ability to choose a custom emoji icon for your savers. Learn some of the technical challenges surmounted while building it.
+
+Xavier Shay
+
+May 13, 2019
+
+Top 10 highlights from 2018
+
+Happy New Year! While 2019 has just begun and there are so many awesome things planned for Up this year, I just thought it’d be cool to look back at a few highlights from 2018.
+
+Dom Pym
+
+Jan 16, 2019
+Keep reading
+
+More from the makers of Up.

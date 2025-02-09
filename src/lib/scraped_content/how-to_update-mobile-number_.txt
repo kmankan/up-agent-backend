@@ -1,0 +1,32 @@
+How to update your mobile number
+
+Changed mobile number or lost your phone? Don’t worry, you can update your mobile number using the Up app.
+
+Have access to your account?
+
+If you’ve just got a new mobile number and you’re still logged in, you can follow these steps to update your mobile number. Alternatively if you no longer have access to your account you’ll need to verify yourself to regain access to your account with a new number.
+
+Step One.
+Navigate to the Up tab.
+Then access your Up profile by tapping on the Profile section.
+Tap on your existing mobile number to start the update flow.
+Step Two.
+Enter your new mobile number.
+When prompted, enter the verification code we send by SMS to your new number.
+Step Three.
+Once complete you’ll be able to register your new mobile number as a PayID.
+From now on you’ll use your new mobile number to access your Up account.
+Regain Access
+
+In the event you no longer have access to your Up account and you’ve changed your mobile number, you’ll need to manually verify to regain access to your account. You’ll need to have a form of photo identification handy.
+
+Step One.
+Firstly, download the Up app or update it to make sure you have the latest version.
+Fire it up and press Agree & Continue.
+Step Two.
+If you do not have access to your old number, tap Existing Upsider with a new number?.
+Enter your old mobile number that is associated with your Up account.
+Step Three.
+Enter your new mobile number.
+Enter the verification code that we SMS to your new number.
+Once complete you’ll be prompted to complete a Manual Identity Verification.

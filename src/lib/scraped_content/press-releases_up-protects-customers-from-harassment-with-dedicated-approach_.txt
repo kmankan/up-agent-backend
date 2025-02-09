@@ -1,0 +1,42 @@
+Up protects customers from harassment with dedicated approach
+
+Mar 19, 2021
+
+In July 2020 Up received a message from a customer saying their ex-partner was sending abuse via the app. By August, Up had built new code - the first of its kind in Australia, specifically able to make a distinction between casual language and abusive behaviour - to protect all Upsiders.
+
+At peak, Up was seeing around 20 confirmed cases of payment abuse per month. Despite being the fastest growing digital bank in Australia, they’ve reduced this number by combining intelligent search for abuse, with new tools like Block Payments that all Upsiders can use to protect themselves.
+
+Abuse on banking apps is on the rise - particularly post break-up. Once someone has been blocked on every messaging app, one of the last ways to get to an ex is through messages attached to a small bank payment.
+
+Nektarea Cameron-Smith, Head of Customer Experience at Up said, “We got our first report of payment abuse in July, and wanted to act quickly to ensure we were creating a safe space for our customers to bank.”
+
+“When we were defining what we wanted our approach to be, we went broad. First, we looked at all transactions that contained profanities, but with a young customer demographic, there were too many false positives and we didn't want to police customers. It’s simply not our role to say what words are ok or not for them to use. And in the instances where abuse was successfully detected, the most common trait was that someone was sending out low value payments, and getting few or no transfers in return. When we reviewed the data across our entire customer base looking for those kinds of payments, we now had a much higher success rate for detecting payment abuse.
+
+We've now supported a broad spectrum of customers through complex abusive situations, including, but not limited to payment abuse. People breaking up on bad terms, and people experiencing domestic violence, and/or financial abuse. People who just want some distance and peace after a bad break up. Maybe even mates who have fallen out over money owed.
+
+We're all about creating a platform that makes money and transactions more conversational, but good conversations are two-way. So we’ve put a lot of effort into the question of how to stop payment abuse from happening, and more widely, how best to protect Upsiders.
+
+So here’s what we now do when we detect abuse:
+
+For the person receiving the abuse: we talk with them and try to offer the help they need in their particular situation. We offer support to stop the abuse in-app, and give them the option to remove any abuse received in the past from their activity feed. And of course, based on the customer’s individual experience, we refer them to appropriate support services like 1800 RESPECT, or Lifeline.
+
+For the person sending abuse: in the small number of cases where the abuser is, for example, threatening violence, we will ban them from Up and offer all the support we can to their victim - including working alongside police and other support services. More often, we send abusers a warning notification alerting them that inappropriate behaviour has been detected and that their account will be closed if they (1) don't respond and comply, or (2) send any additional abusive payments from the point the warning is received.
+
+They have a day to respond or their account is shut down in line with our T&Cs.
+
+We know what you’re asking. Why don't we close all abusers’ accounts immediately?
+
+The decision to not immediately close all of these accounts ASAP isn’t intuitive, but when we got deep into research and consultation with the organisations best equipped to advise, it ended up feeling right.
+
+When we're supporting Upsiders receiving abuse, they’re often worried and stressed about triggering their abuser. They may not want us to act, as long as we can help block the abuse. We're never going to turn a blind eye to abusive behaviour, but we also want to be part of a community where we're not making it someone else's problem.
+
+The act of closing someone’s account seemed not enough, and in some instances even amplifying. So our approach is to help protect the customers who are receiving abuse in a way that makes sense for them, warn and monitor the people who are sending the abuse to let them know it’s not ok, and help ensure it actually stops.
+
+We’ve updated our T&Cs and depending on each customers situation, Up now offers the following solutions to keep Upsiders safe:
+
+Payment muting: we can remove payment descriptions and the name of the payee from Upsider’s transaction history and statements (but we retain the data, in case the customer needs to access this in the future)
+Payment blocking: Upsiders can block other Upsiders from paying them directly from within the Up app
+Protected mode: Up allows people to find contacts, but Upsiders can choose whether or not they’re able to be found. It’s possible to tell Up that people need to have both your mobile number and Up PayID to find and pay you.
+New PayID: we can update Upsider PayID details so that Upsiders can’t be contacted by someone who knows the old ones.
+
+Next, we’re working on what we call, ‘safe account’. It doesn’t feel fair that someone who is already in a vulnerable position has to do more stressful admin to feel safe again. Losing all your transaction history and having to set up all of your direct debits again doesn’t feel right to us. So we're in the process of delivering a new feature to create a new BSB and Account number for Upsiders (basically a new account) and auto migrate all of their transaction history and direct debits.

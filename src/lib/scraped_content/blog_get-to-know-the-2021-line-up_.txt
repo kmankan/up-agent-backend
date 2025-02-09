@@ -1,0 +1,208 @@
+Get to know the 2021 Line Up
+
+How to Up, Building Up
+
+We take a look back at some of the bigger features we released last year with a fast-paced tour of the what and why. Holy ship, we really cranked out some software in 2021!
+
+Request Money
+
+RELEASED FEBRUARY
+
+What does it do?
+
+Allows you to request money from other Upsiders, sending them a message with a requested amount for them to approve.
+
+Why did we build it?
+
+Requesting money felt like an essential (but missing) piece of the payment puzzle. We thought being able to directly request money (and get notified about payments) rather than relying on the other person "getting around to it" would greatly reduce "Owed Money Tension" and make life more awesome for Upsiders.
+
+Who's it for?
+
+Anyone and everyone! Any time you spot a mate some cash you can easily create a request for the money you're owed. Up takes care of the rest, including reminders for those who might need an extra prod now and again.
+
+How's it going?
+
+So far Upsiders have successfully gathered over $4.5M using requests. Nearly 100,000 requests have been approved. Better still, half of all requests are repaid in less than 15 minutes! IOU... beauty!
+
+Where can I find out more?
+
+https://up.com.au/blog/introducing-payment-requests/
+
+Quick Release
+🔍 Quick Release: Search
+
+While your transactions are lovingly labelled and logo'ed, you sometimes need a faster way to find that needle in the haystack. Search lets you enter in some text or an amount and see all the matching transactions you've made on Up.
+
+Trackers
+
+RELEASED APRIL
+
+What does it do?
+
+Trackers let you keep a watchful eye on your spending across any of our 40 spending categories. You can set a monthly spend amount and get updates throughout the month on how you're tracking against that figure.
+
+Why did we build it?
+
+Spending and saving are a bit like the diet and exercise of money — they're both important factors that contribute to your financial health. We wanted to move beyond the more passive insights available in the app, into providing more proactive notifications on categories Upsiders want to manage. There are many approaches we could have taken to introducing budgeting tools, but it made sense to us to go with something simple and targeted as a starting point.
+
+Who's it for?
+
+Any Upsider that wants to keep a closer eye on their spending in certain areas. Trackers are not purely about reducing spend! It might be that you want to simply stay more closely updated on how much you're spending on a category like takeaway or clothes.
+
+How's it going?
+
+Many tens of thousands of Trackers have been created, with Groceries, Takeaway, and Restaurants & Cafes amongst the most watched categories. Every month we’re encouraged to see a growing majority of Upsiders spending within their tracked amount.
+
+Where to next?
+
+We've heard from Upsiders wanting to track spending over a different period than monthly as well as combine a number of categories into a single Tracker — both ideas we are interested in exploring in the future!
+
+Where can I find out more?
+
+https://up.com.au/features/budget-trackers/
+
+Quick Release
+📱 Quick Release: Widgets!
+
+Widgets are small rectangles of information that live on your phone’s home screens. They’re a great way to stay informed outside of the app. Up supports a variety of widgets from displaying info on your balances and recent transactions through to keeping you updated on Trackers and Insights.
+
+Two Up
+
+RELEASED MAY
+
+What does it do?
+
+2UP is our new take on joint accounts. Unlike the all-in couples accounts that came before it, 2Up is designed to let you collaborate on finances with your partner at whatever level makes sense for you. Your own stuff stays private and it’s super easy to set up and shut down.
+
+Why did we build it?
+
+Joint accounts had long been one our most requested features, but outside of that, we saw countless numbers of couples that were living together and sharing expenses without any real tools to help them.
+
+Who's it for?
+
+One of the great things about 2Up is its flexibility. People at all different life stages can find a way to incorporate 2Up that works for them. In fact we see the complete spectrum of couples all the way from sharing a couple of bills each month to going all-in with finances.
+
+How's it going?
+
+We’re excited to have reimagined the way couples can collaborate on their finances, including saving for combined goals. The majority of 2Ups are started by Upsiders that have never had a joint account before.
+
+Any future plans?
+
+In the near future we’re hoping to finish up getting a few last features complete (covers & forwards, pay splitting from 2Up) etc. But more generally every new feature we develop now gets consideration as to how it can work for 2 players.
+
+Where can I find out more?
+
+https://up.com.au/2up/
+
+Quick Release
+🪓 Quick Release: Exact $ Splits
+
+Pay splits are one of our best yet least-known features – a great tool that lets you split percentages of your pay into Savers. Earlier this year we added a hotly requested enhancement: you can now split exact $ amounts into your Savers when your pay comes in!
+
+Pay Day
+
+RELEASED JULY
+
+What does it do?
+
+Gives you a picture of your “spendable” balance — that is, the money in your account you can actually spend once bills and upcoming charges due before your next pay day are taken into account.
+
+Why did we build it?
+
+Pay day is a bit like a tube of toothpaste (bear with us) – at first you’re using it thick and fast (half of it goes down the drain and you don’t bat an eyelid) but near the end you’re squeezing out every last drop and often making a tiny amount stretch over a surprising number of days. Yeah, we wanted to help with that.
+
+Who's it for?
+
+Anyone who gets paid (or receives money) on Up at a regular interval – weekly, fortnightly, monthly, etc. The feature works best once you've added your bills and scheduled payments into Upcoming.
+
+How's it going?
+
+We’re thrilled at the response — 10’s of thousands of Upsiders now have their Pay Day set up and are enjoying the new visibility of a Spendable balance. It’s been interesting to better understand which pay cycles are the most frequent — fortnightly wins by a country mile.
+
+Any future plans?
+
+We plan to better support reserving money for future bills on different cycles to your pay. For example, if you have a fortnightly bill but get paid weekly, half of that bill should be reserved from each pay. We also have a ton of great feedback around excluding charges from Spendable and manually adding future charges that we want to look into.
+
+Where can I find out more?
+
+https://up.com.au/features/pay-day/
+
+Quick Release
+🍿 Quick Release: GIF support
+
+Up now lets you add animated GIFs to payments, requests and replies with other Upsiders. Just tap the GIF icon next to the send button on a payment or request and make your selection!
+
+Slices
+
+RELEASED NOVEMBER
+
+What does it do?
+
+Slices lets you split a purchase or bill with your mates on Up. Slice a bill evenly, by shares (great when you’re paying for a friend) or dial in exact dollar amounts.
+
+Why did we build it?
+
+We want to make money easier with mates so Up can be even better when your friends and family are on it too. Being able to send a copy of a transaction along with a request means payers can get a better understanding of where their money is going (if you split a meal with a friend, each share is automatically categorised).
+
+Who's it for?
+
+Groups of friends on Up. Whether you know two Upsiders or twenty you should be able to find a way to use Slices. We've heard stories of couples, workmates, family and everyone in between getting their Slice on.
+
+How's it going?
+
+Already we've seen over $2M in transactions sliced between 10’s of thousands of Upsiders. It shouldn’t come as a big surprise that three categories make up the bulk of Slices: Restaurants & Cafes, Takeaway and Groceries.
+
+Any future plans?
+
+Yep! But this feature is fresh out of the oven so we don't want to give too much away just yet.
+
+Where can I find out more? / How do I do it?
+
+https://up.com.au/features/slices/
+
+That's a wrap
+That’s a wrap!
+
+Those were some of the major features we released last year. It's not even the full list, but we'll leave the rest for you to discover. If some of those came as a surprise or you only recently joined Up, here's how to keep your finger on the pulse in 2022:
+
+Make sure you're subscribed to the monthly newsletter
+Follow us on the socials: Twitter and Instagram
+Check out our blog
+Keep an eye on the Tree of Up, our public roadmap
+
+Here's looking forward to more years ahead – we’re pumped to be taking the journey together!
+
+Up
+
+Easy Money
+
+@up_banking
+
+Tags: Slices, Pay Day, Trackers, Request Money, 2Up, Development
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+A Beautiful, Chaotic Machine: ADHD & Money Management
+
+Let’s map Up to better suit your own personal brain magic. Here’s a little inspiration from Upsider Ollie.
+
+Ollie
+
+Apr 29, 2022
+
+UpYear is here!
+
+Let’s Wrap Up Your 2021
+
+Up
+
+Dec 14, 2021
+Keep reading
+
+More from the makers of Up.

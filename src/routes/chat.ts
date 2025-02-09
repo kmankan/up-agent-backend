@@ -1,5 +1,6 @@
 import { Elysia, t } from "elysia";
 import { z } from "zod";
+import { generateAnswer } from '../lib/rag';
 
 // Zod schema for message validation
 const MessageSchema = z.object({
@@ -19,13 +20,13 @@ export const chatRouter = new Elysia({ prefix: '/chat' })
     }
 
     try {
-      // TODO: Implement AI processing here
-      // For now, return a mock response
+      const answer = await generateAnswer(result.data.message);
       return {
         status: 'success',
-        response: `mock response to: ${result.data.message}`
+        response: answer
       };
     } catch (error) {
+      console.error('Error processing message:', error);
       return {
         status: 'error',
         error: 'Failed to process message'

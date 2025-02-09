@@ -1,0 +1,78 @@
+Up Blog
+
+Keep up to date with in-depth content from the makers of Up.
+
+Technology
+Back to Blog
+
+The Ethical Engineer
+
+Meet a tech. engineer who’s matching the Up API, with data on ethical clothing. A match made in fashion heaven.
+
+Matthew Grey
+
+Nov 03, 2021
+
+Announcing the Up API
+
+Let's Hack On Banking Together! Today we're thrilled to announce the beta release of the Up API.
+
+Anson Parker
+
+Jul 27, 2020
+
+TransferWise integrates with Up
+
+First of its kind collaboration in Asia-Pacific soon to offer Upsiders the best way to move money overseas.
+
+Up
+
+Oct 15, 2019
+
+Up at WWDC 2019
+
+WWDC 2019 is done and dusted. Our iOS wizard, Crafter spent a week in sunny California checking it out!
+
+Marcus Crafter
+
+Jun 24, 2019
+
+Up Apple Watch App
+
+A tour of our new Up App for Apple Watch
+
+Marcus Crafter
+
+Jun 06, 2019
+
+Where Do Emoji Come From?
+
+With our most recent release supporting a crop of exciting new emojis, we ask the question: where do emoji come from anyway?
+
+Xavier Shay
+
+May 22, 2019
+
+Building Saver Icons
+
+New in our most recent release is the ability to choose a custom emoji icon for your savers. Learn some of the technical challenges surmounted while building it.
+
+Xavier Shay
+
+May 13, 2019
+
+Continuous delivery at Up
+
+Deploying change to production is the heartbeat of any modern tech company. Not so much for most banks, where sometimes it is only done a few times per year. At Up we do it several times per day!
+
+Chris Aitchison
+
+Dec 03, 2018
+
+Rebooting Transactions
+
+The humble banking transaction is perhaps the fundamental unit of your financial life. It represents everything from your daily spending and regular bills through to your income and interest payments. It is the key to understanding where your money actually goes, yet it’s one of the most neglected and outdated parts of today’s banking experience.
+
+Anson Parker
+
+Feb 07, 2018

@@ -1,0 +1,57 @@
+Up Blog
+
+Keep up to date with in-depth content from the makers of Up.
+
+Building Up
+
+Get it right from the source. Read write ups from the designers, developers and deliverers working directly on Up.
+
+Back to Blog
+
+Top 10 highlights from 2018
+
+Happy New Year! While 2019 has just begun and there are so many awesome things planned for Up this year, I just thought it’d be cool to look back at a few highlights from 2018.
+
+Dom Pym
+
+Jan 16, 2019
+
+Continuous delivery at Up
+
+Deploying change to production is the heartbeat of any modern tech company. Not so much for most banks, where sometimes it is only done a few times per year. At Up we do it several times per day!
+
+Chris Aitchison
+
+Dec 03, 2018
+
+Rebooting Banking
+
+Our journey began with a simple question: what could a banking platform look like if was built from scratch today, freed from legacy and designed from the outset to embrace the capabilities of current technology?
+
+Anson Parker
+
+Oct 31, 2018
+
+Up-cycling core banking
+
+Up is treading a different path to most other digital banks in that it’s being developed through a collaboration between a software company (us) and a so-called “traditional bank” (Bendigo Bank).
+
+Anson Parker
+
+Aug 15, 2018
+
+Lock it Up!
+
+Keeping your money safe is at the heart of everything we do at Up. But effective security doesn’t need to get in your way.
+
+Anson Parker
+
+Aug 09, 2018
+
+Rebooting Transactions
+
+The humble banking transaction is perhaps the fundamental unit of your financial life. It represents everything from your daily spending and regular bills through to your income and interest payments. It is the key to understanding where your money actually goes, yet it’s one of the most neglected and outdated parts of today’s banking experience.
+
+Anson Parker
+
+Feb 07, 2018

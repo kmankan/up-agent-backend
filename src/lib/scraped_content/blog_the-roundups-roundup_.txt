@@ -1,0 +1,66 @@
+The Round Ups Round-up
+
+How to Up, Updates
+
+Up just quietly passed a nice little milestone — 250,000 round ups have been... rounded up. We thought it was a good time to explore some of the data we've seen over the course of a quarter of a million purchases.
+
+For those that don't use this feature (and you really should) let's quickly describe how it works: in a nutshell, once you enable it, Up automatically rounds up any card or digital wallet purchase or charge to the nearest dollar and moves that rounded up change into your nominated saver. You get a nice clean activity feed of exact dollar charges and a bunch of small but regular deposits into your saver.
+
+A couple of examples: A charge of $4.60 would receive a 40 cent round up to make the total charge an even $5.00 while a charge of $2.50 would round up by 50 cents to $3.00.
+
+We see round-ups as the "gateway drug" to a more serious savings habit – a way to encourage people that have never saved before, or perhaps don't even think they can save to begin to accumulate a nice little savings balance. A few transactions a day will result in around 50 bucks saved each month – $600 over a whole year. Not bad for something you didn't even really notice was happening.
+
+We thought it would be interesting to dive a bit deeper into some of the data that's surfaced after a quarter million of these things. Fair warning: this does get pretty nerdy.
+
+If you assumed the cents amount on a charge was evenly distributed across all 100 possibilities you'd expect a round up to average out to around 50 cents. That would mean 250,000 round ups would result in $125,000 saved. That's not too far off the mark, but the total ended up being $110,000, $15k less than expected. That works out to the average round up being 44 cents, not 50.
+
+So the average cents on a purchase is therefore higher than 50 cents. 56 cents, as a matter of fact. Why? Well, our guess was that this has a lot to do with how things are priced: that old psychological trick of charging $2.95 rather than $3.00. Let's see what the data shows. Here's the distribution of the cents component of charges that were rounded up:
+
+Share of cents component of rounded up purchases
+
+You can see there's definitely a concentration of charges ending in 95 and 99 cents which would result in 5 cent and 1 cent round ups respectively. So there's the smoking gun for our low average. It's pretty cool (right?) to see how pricing favours the 10 cent and 5 cent price points. But that makes sense right? Single items tend to be priced at 5 or 10 cent intervals.
+
+It's surprising (to us anyway) just how many prices end in 50 cents. Perhaps it has something to do with being the half-way point between two dollar amounts, but we suspect takeaway coffee could be the big culprit here!
+
+It's also worth pointing out that Up currently doesn't round up prices if they're even dollar amounts, so any purchase of say $5 would not currently get rounded up. We did some digging on this too, and it shows that about 30% of all purchases are even dollar amounts. Here are the top 10 cents amounts of purchases (including $0.00)
+
+Top 10 cents amounts on purchases
+
+We're planning to provide more power to round ups this year. For one, we'll be giving you the option to round up those even dollar charges by a full dollar. We'll also let you boost your round ups so you can round up more each purchase. Finally, we're keen to find ways you can do other things with your round ups – send them to charity, or an account elsewhere like a managed fund, mortgage or even a credit card.
+
+Hope you enjoyed that little excursion, please do get in touch if you have any more thoughts on round ups – we'd love to hear them.
+
+Anson Parker
+
+Head of Product
+
+@anson
+
+Tags: Saving, Round Ups
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Who are our Upsiders?
+
+With Up flying past 30,000 customers within a few months of launch, we thought we'd introduce a few faces who are enjoying life on the Upside.
+
+Up
+
+Feb 13, 2019
+
+Afterpaying with Up
+
+Spending wisely requires being more connected to your past purchases than many of us are today. It also requires a better understanding of your future spending commitments. Armed with knowledge of the past and future you are able to make better informed — wiser — spending decisions.
+
+Anson Parker
+
+Feb 04, 2019
+Keep reading
+
+More from the makers of Up.

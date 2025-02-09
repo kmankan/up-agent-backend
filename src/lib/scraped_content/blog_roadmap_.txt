@@ -1,0 +1,976 @@
+Welcome to The Tree of Up
+
+The Tree is our feature roadmap — a way for us to share with you what we've built, what we're working on, and what we'll be doing in the future.
+
+It's a great way to understand how features are connected to each other and see which features are the necessary foundations for other functionality to be built on.
+
+Don't take the absence of any feature as evidence it won't one day appear — we welcome your ideas and input. Send them through Talk to Us in the app.
+
+Tap to continue.
+
+Up
+RELEASE NOTES
+v3.4.12 | App
+JAN 20, 2025
+Welcome to 2025!
+Ins:
++ Sending your pet pics through Talk To Us
++ Taking the Save Up $1000 challenge
+
+Outs:
++ The app being slow
++ Bugs (the digital kind)
+v3.4.11 | App
+DEC 9, 2024
++ December’s here, and we all know what that means: a breakdown of how much you’ve overplayed your favourite artist. But while your music habits might not evolve, your money story sure does. UpYear 2024 has landed! It’s time to explore how your finances moved throughout the year.
+v3.4.10 | App
+NOV 25, 2024
++ Something big is on the horizon. This week, The Upside will experience an extraordinary downpour—but not of rain. On Monday (25/11) at 9am AEDT, a surprise awaits you—our Upsiders—all 1 million of you. Make sure your app is up to date so you don’t miss out!
+
++ Create a new Saver and add it directly to your Pay Splitting setup, all within the Saver creation flow. Let Pay Splitting automatically allocate your pay to your chosen Savers the moment it lands.
+v3.4.9 | App
+NOV 11, 2024
++ We’ve crushed some bugs and fine-tuned the app for a smoother ride. Update now and feel the difference.
+v3.4.8 | App
+OCT 28, 2024
++ Spring cleaning is in full swing—we've combined all your Saver options into one convenient "Upgrades" menu. Enjoy a more streamlined Saver screen with a clear view of which Upgrades are active on each Saver.
+v3.4.7 | App
+OCT 14, 2024
++ Got a savings goal? Set the date, and we'll handle the maths. When you're creating a new Saver, just tell us your goal date and how often you want to save—we’ll calculate the rest and set up auto transfers for you, auto-magically.
+v3.4.6 | App
+SEP 30, 2024
++ Get more control on how interest is applied to your account. You can now choose whether or not you want to receive interest on the balance of your Up or 2Up Savers. Tap the interest rate banner in app for more.
+
++ Perfection is only one pull away. You can now get hands on with all your favourite Card Controls and security settings faster. Pull down on your Activity Feed in app and tap 'Show Card' to reveal your favourites, the whole gang is there.
+v3.4.5 | App
+SEP 16, 2024
+iOS
++ We've supercharged Auto Transfers. If one fails, we’ll now skip it and keep your future Auto Transfers on schedule. You’ll also see a prompt in your Activity feed to retry and get back on track.
+
++ Spring’s here, and so were the bugs—but we’ve squashed them all. Enjoy a smoother experience, bug-free.
+
+Android
++ Travelling overseas with Up just got easier. When Travel Mode is toggled on, your account overview widget will now display your balance in AUD and the local currency of the country you’re in.
+
++ We've supercharged Auto Transfers. If one fails, we’ll now skip it and keep your future Auto Transfers on schedule. You’ll also see a prompt in your Activity feed to retry and get back on track.
+
++Spring’s here, and so were the bugs—but we’ve squashed them all. Enjoy a smoother experience, bug-free.
+v3.4.4 | App
+SEP 2, 2024
+iOS
++ Travelling overseas with Up just got easier. When Travel Mode is toggled on, your account overview widget will now display your balance in AUD and the local currency of the country you’re in.
+
++ We've also added a new travel widget that lets you set a fixed foreign currency amount to an account or Saver of your choice. Get a quick snapshot of your funds in the local currency while you’re abroad.
+
+Android
++ A bit of pre-spring spring-cleaning behind the scenes.
+
++ New & improved widgets supporting Travel Mode are on their way to you very soon. Stay tuned.
+v3.4.3 | App
+AUG 19, 2024
++ I's: Dotted. T's: Crossed. Our codebase has never looked so grammatically correct.
+v3.4.2 | App
+AUG 5, 2024
++ You can now retry a failed Maybuy save directly from your Activity feed. If a save fails, you'll see a notification in your Activity feed, and you can attempt the save again by tapping on it.
+
++ A light cut and polish, and a bug or two squashed to optimise performance.
+v3.4.1 | App
+JUL 24, 2024
++ Quickly tightening some screws behind the scenes.
+v3.4.0 | App
+JUL 22, 2024
++ Heading overseas? Travel Mode makes it easy. See your balance in the local currency with your first tap abroad, and use our new currency converter to always know exactly what you're paying.
+
++ If you’ve added Notes & Attachments to your transactions, you can now access them from our Developer API.
+v3.3.16 | App
+JUL 8, 2024
++ Upgrade your Savings. You’ll now be prompted to lock, hide or move your round-ups to your new Saver right in the creation flow.
+
++ Spread your Maybuy Saves across up to 52 instalments — smooth like butter.
+v3.3.15 | App
+JUN 24, 2024
++ We've streamlined the flow for creating a new Saver to be easier and more enjoyable than ever.
+v3.3.14 | App
+JUN 11, 2024
++ Itching to complete a Maybuy? Now you can add money towards a Maybuy whenever you please. Hit your goals faster and Maybuy (or Maybuy not) sooner.
+v3.3.13 | App
+MAY 27, 2024
++ Put on the winter doona to keep the app warm while we get some things ready behind the scenes.
+v3.3.12 | App
+MAY 16, 2024
++ Cheeky cut and polish to make sure Talk to Us is firing at full capacity. As you were.
+v3.3.11 | App
+MAY 13, 2024
++ Tired of scanning QR codes? Fear not — you're now in total control. Create, review and revoke your developer API token right from under the "Data Sharing" menu in-app.
+
++ Some very organised Upsiders pointed out that a bug was preventing them from scheduling a payment directly from a Saver when the balance was at $0. We've since shown the bug the door; so schedule away.
+v3.3.10 | App
+MAY 1, 2024
++ Cut back on your transfers. You can now pay a mate back or send a payment directly from your Savers. Your Activity feed has never looked neater.
+
++ Choose from 3 new carefully curated Hi—Fi Sounds during your next Hi—Fi check-in and get in the zone to calmly contemplate your standing with money.
+
++ 2Up: Your Maybuy Wishlist is now a team effort — save items you’re both eyeing off and let your Player 2 in on the action before the transaction.
+v3.3.9 | App
+APR 18, 2024
+Just tidying Up. Nothing to see here.
+v3.3.8 | App
+APR 16, 2024
+iOS
+You know when you sit down to work, but first you need to clean up your desk before you can really get moving? Think of this update like that.
++ If you like big widgets and you cannot lie, you're in luck. You can now enjoy all of Up's widgets at their biggest scale yet in StandBy mode.
+
+Android
+You know when you sit down to work, but first you need to clean up your desk before you can really get moving? Think of this update like that.
+v3.3.7 | App
+APR 2, 2024
++ We've added in some touch points to keep you up to date with your Up Home application. You'll now be able to see more updates to the status of your application in-app, so you'll have more clarity around what to expect next.
+v3.3.6 | App
+MAR 18, 2024
++ We've rolled out a fresh new welcome mat for Up Home. Once your settlement is complete, we'll take you on a guided tour through your home loan. We'll also get you to dot some i's and cross some t's, just so we can be sure you've got a clear run at your loan from the jump.
+v3.3.5 | App
+MAR 5, 2024
++ Up Home: We’ve made it easier to see the impact of your offsets, adding a new home loan balance that shows what you owe minus any spending and saving offsets. Your home loan balance can now cycle between “Loan balance”, “Available for redraw” and “Offset loan balance”.
+v3.3.4 | App
+FEB 27, 2024
++ We’ve meticulously cleaned and polished both the exterior and interior of the app by hand. So shiny you can see your own reflection in the Activity feed.
+v3.3.3 | App
+FEB 19, 2024
++ You can now see more info about attempted charges right when they happen. It's easier to top up funds to try again or cancel your card if things feel suspicious.
++ Always losing your receipts? Up High members can now add notes and attachments to transactions. Snap a photo directly from the app, or attach a photo from your camera roll. Never go bin diving for a receipt again.
+v3.3.2 | App
+FEB 7, 2024
++ A light polish with added grunt. See our previous release notes for the real injection of app magic.
+v3.3.1 | App
+FEB 6, 2024
++ A Higher power approaches: Keep an eye out in-app for access to an elevated banking experience.
++ During your next Hi-Fi System Check-in, you'll get to choose from 3 new Hi—Fi Sounds to help you calmly contemplate your standing with money.
+v3.3.0 | App
+JAN 22, 2024
++ We've upgraded Spendable balance to now consider all future upcoming expenses, and we really do mean all of them. Spendable balance will now set aside and reserve cash each pay cycle for future bills, storing away a little bit extra to take care of those bigger bills you have waiting for you in a few months time. Switch between your Available and Spendable balance to see how much you can safely spend before your next pay.
++ Cheques may be on the way out, but that doesn't mean they don't deserve first-class treatment in the meantime. We've tidied up the way cheque deposits are shown in the app. Now, you'll be notified when your cheque clears, instead of when you deposit it, and the progress of your deposit is easier keep tabs on, from start to finish.
+v3.2.0 | App
+DEC 18, 2023
++ Up Home: We've made some visual tweaks and navigation improvements to your Up Home experience. The journey to home ownership on Up is getting brighter everyday, no matter what stage you're at.
++ PayTo: The digital alternative to Direct Debit and a new, secure way to pay is now available on Up. Pause, resume or cancel real-time Payment Agreements in-app from all eligible billers.
++ We've made a wise move and boosted your Wise International daily payment limit from $5k to $30k. A no-brainer.
+v3.1.1 | App
+NOV 27, 2023
++ The year's almost Up but it's still spring and we're still cleaning. We're decluttering those cords behind the sound system to plug some new things in.
+v3.1.0 | App
+NOV 13, 2023
++ Unread messages under your "Talk to Us" tab are now marked with an orange dot. In our world full of triangles, we've gone full circle.
++ We've exterminated a bug responsible for causing delays to your Insights info updating. Get real Insights in real time.
+v3.0.0 | App
+OCT 30, 2023
+iOS
++ We've built a simple, automated, in-app money management system designed to take the stress out of money so you can focus on living the good life. Put your money on auto and cruise between pay days with Hi—Fi: The Financially Sound System.
++ We've added a Live Activity countdown to iOS 16+ devices. Now when you unlock a locked Saver you'll see the time remaining in the Dynamic Island and/or lock screen. More visibility means more consideration.
+
+Android
++ We've built a simple, automated, in-app money management system designed to take the stress out of money so you can focus on living the good life. Put your money on auto and cruise between pay days with Hi—Fi: The Financially Sound System.
+v2.5.9 | App
+OCT 16, 2023
+iOS
++ We love a good spring clean. We swept away some bugs and thrifted some old code we had laying about.
++ 2Up Spendable is now on your wrist in both an Apple Watch complication and in-app. It's also coming through crystal clear on your Home Screen widget too.
++ When sending money from a 2Up Saver, your 2Up Spending is now the default "to" account. Here's to less faff and quicker transfers at the checkout.
+
+Android
++ We love a good spring clean. We swept away some bugs and thrifted some old code we had laying about.
++ When sending money from a 2Up Saver, your 2Up Spending is now the default "to" account. Here's to less faff and quicker transfers at the checkout.
+v2.5.8 | App
+OCT 2, 2023
++ 2Up-grades. The ability to set up a shared Payday for 2Up is here. You and your Player 2 can now switch between Available and Spendable Balance to see exactly how much you have to spend from 2Up before the next Payday. Tag team bills and spend smartly with 2Up Spendable Balance.
+v2.5.7 | App
+SEP 19, 2023
+iOS
++ Blocking your card from watchOS should be easy, but not one step kinda easy. To curb Upsiders blocking their cards by accident, we've added in an extra step to the card block flow from your Apple Watch. A little more friction with the right amount of ease.
+
+Android
++ Another day, another release. We've been hard at work polishing blemishes, exterminating critters & sprinkling in a healthy dose of Up magic.
+v2.5.6 | App
+SEP 4, 2023
++ In the spirit of achieving the simplest interest we're now including Maybuys and Save Up 1000 Challenges when you Combine Monthly Interest. A Saver of your choice is ready to handle receiving the entire load.
+
++ We've added some extra communications about specific scams when it counts. Expect to see related messaging in-app now and in the future.
+v2.5.5 | App
+AUG 23, 2023
++ We made a small blunder with your new Upcoming navigation. A lesson was learned and we've patched it right up.
+
+Now, this is called a Neuralyzer. It's a gift from some friends from out of town. This red eye here will isolate the electronic impulses in your brains and more specifically the ones for memory. You didn't see nothin'.
+v2.5.4 | App
+AUG 21, 2023
++ Time for navigation revitalisation. We've consolidated your Upcoming tab and given it a new home. You'll now find all of your upcoming bills and Spending Insights in the one place. Tap 'Upcoming' at the top of your Activity feed to know what bills to expect before your next Pay Day. Navigating and calibrating your Spending & Insights made easy.
+v2.5.3 | App
+AUG 7, 2023
++ Bug fixes and performance improvements
+v2.5.2 | App
+AUG 7, 2023
++ The app is filled with improvements galore. As full as a centipede's sock drawer.
+v2.5.1 | App
+JUL 18, 2023
++ To fend off frostbite we're keeping our fingers working. The result? A copious amount of code typed out at lightning speed. The app is now running red hot. Update to enjoy bug fixes and relax in the warm glow of not so visible app improvements.
+v2.5.0 | App
+JUL 4, 2023
++ If seeing your savings & total balance is too enticing, hide them with Hidden Savers. You can still access your Savers when you need, but it's a whole lot easier to avoid digging deep when they can't be seen.
+
++ You now have the ability to undo a Cover or Forward by tapping into the transaction from your Activity feed. Less fuss, more power.
+
++ You can now link a contact to Pay Day. The moment your pay lands in your account, your Spendable Balance and Upcoming updates to match where you're at.
+v2.4.31 | App
+JUN 19, 2023
++ Did you know there are 8,800 known species of ants in the world? Another fun fact about bugs is that fewer now live in your Up app. Keep cool and carry on.
+v2.4.30 | App
+JUN 14, 2023
++ Cashless is cool, and we make that easy. Crashless is also cool, and we've made that easy too. Your app is now more stable and able.
+v2.4.29 | App
+JUN 5, 2023
+iOS
++ Slices have come alive. Bask in live updates, right on your lock screen or Dynamic Island. Revel as your mates pay back each slice. See the action unfold as it happens, then rest easy when your riches are fully returned.
+
+Android
++ Even in progress we need to pause and reflect. Our beautiful code base has returned from a massage and, though you can't quite pick it, it feels revitalised. Your app is fresh, calm and ready.
+v2.4.28 | App
+MAY 24, 2023
++ With one clean move you can now combine the interest you earn across all of your Savers. It's neat, it's clear, it's next level organised. To polish things up, tap on any Saver > tap 'Round Ups' > 'Combine Monthly Interest'. Go on. Give it a whirl.
+v2.4.25 | App
+MAY 15, 2023
++ Time for twin-turbo. Stack on another power up for you and your Player 2. 2Up Plastic cards are available to order now. Your co-op story has always been digital but this physical spender comes to you with sustainability in mind. Forged from 82% recycled material, every 2Up Plastic Card sold goes towards cleansing the oceans of trash with the help of our friends at Seabin. If your mission calls for it, summon yourself a card via the banner in your 2Up tab.
+v2.4.24 | App
+MAY 8, 2023
++ Tufting rugs, sinking mugs and wiping bugs. It's just what we do.
+v2.4.23 | App
+MAY 5, 2023
++ There's nothing worse than repeating yourself because of a bad connection. We've made sure that doesn't happen when you're telling your home loan story. You can start, stop and resume your application with ease again.
+v2.4.21 | App
+MAY 2, 2023
++ If you’re ready to make a move and buy a home that’s all your own, then pack up your stuff and pick up a Billy bookcase. We’ve laid out the Up Home welcome mat for new-to-you home buyers as well as refinancers. Start your new life in the Up Home button under the Up tab.
+
++ Just shopping? If you’d like to get an idea of what you can afford, join us in The Home Zone. Same button, same place in the app. Everything becomes clearer. Get an indication of how much you could borrow so you can focus your property search and give your plants the forever home they’ve always wanted.
+v2.4.20 | App
+APR 27, 2023
++ When the checkout bell tolls, which card will answer the call? You can now smoothly slide through a carousel of all your cards to copy the details you desire. Get around the whole gang. Grab Zap, Up Plastic or 2Up card details all from your 'Card Details' menu now.
+
++ We welcome a new class of unsung heroes to join the codebase. These bug fixes and back-end improvements continue to bring stability to the app, if we're honest, we wouldn't be where we are today without them. Go on, take a bow.
+v2.4.18 | App
+APR 5, 2023
++ Recentre your mind as we have recentred our codebases. Enjoy not the app who removes 10,000 bugs once but enjoy the app who removes bugs & adds back end improvements 10,000 times...
+v2.4.17 | App
+MAR 21, 2023
++ All good payments must come to an end. It's time to defeat the repeat. Now when creating a Repeating Payment you can have it automatically stop after a set number of payments. Open up your options when creating a payment to fine tune your financial forecast.
+v2.4.16 | App
+MAR 10, 2023
++ Rounded up a bug that was limiting BPAY payments, you can now BPAY like you used to.
+v2.4.15 | App
+MAR 9, 2023
++ Gaze out to a pristine lock screen. You can now add Up widgets to your iPhone lock screen. Enhance your already unparalleled productivity by having your Balances, Trackers and Savers all added to your lock screen and available at a glance. Breathtaking. When the mood strikes add a circular, rectangle or top line widget to your lock screen and complete your iOS 16 dream.
+v2.4.13 | App
+FEB 21, 2023
++ One thing lead to another and we didn't end up with a hot date for Valentines Day, so we instead used the time to pour our love into an update that keeps the good parts of the app great. In between working through our "commitment issues" and "emotional availability", we lovingly adjusted some padding and cleansed a whole heap of bugs from the code. Overall we're feeling better about everything. Time heals all wounds.
+v2.4.12 | App
+FEB 5, 2023
++ We gave Dad a call and he brought all the good tools over. All that needed fixing has now been fixed. The front door doesn't sound like a sick possum anymore, the washing machine runs like a dream, and the Up app's been hit with the Dyson, washed, and fully waxed. Please enjoy your thoroughly niced-up new Up app.
+v2.4.11 | App
+JAN 16, 2023
++ Now is not the time to start losing friends. To reduce the toll of the endless scroll we've installed the latest in search bar technology. Pull down on your Payments screen to quickly search for the exact Payment thread you seek. Start typing to find your best mate, pay that really good tradie again, or relive all your favourite rent payment memories. Search and you shall find.
+v2.4.9 | App
+DEC 12, 2022
++ Ho ho ho, it's the last Up release before the ho-lidays. Packaged up in today's release is a special secret gift but you can't open it yet. Maybe just give it a little shake and see if it's a book. Don't think it is though. We'll tap you when it's time. Catch ya soon legends.
+v2.4.8 | App
+NOV 28, 2022
++ Open your app and your mind. Awaken a new sense of spending insight.
+We've overhauled Spending Insights to now offer you a financial reality in the timeline of your choosing. Monthly insights made room for insights by Pay Day, Year, Financial Year or a custom timeline.
+Compare Insight periods with a swipe & observe your spending categories from above your feed. Trackers, tags and CSV export now fall in line with your time bending abilities. Where will your new insights take you?
+v2.4.7 | App
+NOV 14, 2022
++ Suddenly your app is feeling more attractive - What's this feeling coming over you? What's that smell? Is it the app? Did it get a hair cut? Is it wearing a new shirt?
+Then, you spot it.
+It's undeniable. Irresistible.
+Up v2.X.X has had a series of small code upgrades not visible to customers, added for your in-app pleasure. It's going to be a hot summer.
+v2.4.6 | App
+OCT 27, 2022
++ For those about to save, we salute you. We've enthusiastically pushed some new pixels around to make life slightly sweeter for those taking the Save Up 1000 challenge. Please continue to increase your savings and happiness levels with this update.
+v2.4.5 | App
+OCT 25, 2022
++ Make it rain. With 2Up Reactions you can now create a shower of good feels or shame for your Player 2. Long press a transaction to show the one in your life who takes care of the shopping, or sorts out that flight, that you see them and love what they do. We wouldn't be true to our name if we made it rain down, so marvel as your selected emoji defies Newton's law and multiplies towards the heavens - big thanks to our anti-gravity division for that one.
+v2.4.3 | App
+OCT 12, 2022
++ Wish upon a star, wish upon a save. Maybuy's now custom cut and tailored perfectly to you. Add anything you like to your new Maybuy wishlist, then save for it when you're ready. Schedule a save day that works for your pay. Edit your Maybuys to keep them in sync with your needs and loves. So dream a little dream today.
+v2.4.2 | App
+SEP 28, 2022
++ We're not going to let you miss your shot to get closer to the top. Now if you lose the motivation in the moment & your weekly Save Up 1000 notification passes you by, we'll create a reminder in your activity feed. Answer the call, feel the burn, work up a healthy savings sweat.
++ Pay Splitting would occasionally not present you with the appropriate tools to make your split. We reinstalled some missing handles and you can now grab onto something to drag Pay Splitting sliders smoothly and reliably for textbook perfect split.
++ Impress your friends & take your seat at the head of the table. We've updated our Messages sticker pack with new stickers guaranteed to have the group chat begging for more.
+v2.4.1 | App
+SEP 14, 2022
++ Pay Splitting gets an upgrade for 2. From today peeling away parts of your pay is a shared experience. If you get paid into your Up account you can now automatically split your pay into your shared 2Up Savers. If getting paid into 2Up is for you, create Pay Splits to automatically send a big wad of financial love direct to your Player 2.
++ We've respectfully removed the boundaries for you and your Player 2. Now you can Cover and Forward purchases or received payments to any of your Savers. It's all on table. Cover from 2Up to your Spending. Forward from 2Up Spending to your own private Up Savers. It's all in your hands now.
++ Dynamic text size now flexes your Up app to your favoured visual settings. Spiffy.
+v2.4.0 | App
+AUGUST 29, 2022
++ Pull on an extra layer of security and save your savings from yourself. Locked Savers installs a 3-hour buffer between temptation and your hard-won savings. Tap the lock on a Saver to seal your savings in the vault. Locked up, your safe continues to receive deposits but busting it wide open will require expert unlocking. Never work alone; choose a mate to complete your crew and they can unlock you early if you're in a rush.
++ Reacts are the sixth love language. Open another line of communication and send an emoji when your Player 2 pays for something with 2Up. Long press a transaction to send a little love token when your Player 2 takes care of the bills or plans a holiday.
+v2.3.2 | App
+AUGUST 15, 2022
++ Get there faster. Long press on any transaction to reveal a tasty buffet of options. Slice it, Cover it, Create a Regular and more. We spoil you.
++ No ragrets guaranteed. Add a new Maybuy Widget to your phone’s home screen so you can count down the days till you can lock down the thing you love. Or not. If those acid wash jeans have lost their shine, stash that cash back in your Saver. Easy.
++ Updating or deleting a scheduled payment used to be about as easy as finding a mate with a dead phone at a festival. So we made some changes. Now you can edit or cancel a scheduled payment right from the Upcoming tab. Just tap on those three little dots and the power is yours.
+v2.3.1 | App
+AUGUST 1, 2022
+Are your eyes bigger than your budget? Introducing Maybuy: a way to buy the things you actually love, with money you actually have.
+When you find something you love online, hit the share button, add it to Up and close your browser tabs in confidence.
+Pick a savings schedule that suits your style. Check in on your saves anytime – you can easily change your mind. Get the best and walk away from the rest, this shopping spree is under your control. Save Now. Maybuy Later. More on Maybuy at up.com.au/maybuy
+v2.3.0 | App
+JULY 21, 2022
++ Hand in hand heading down a 2 way street, it's getting 2hot2handle. Covers and Forwards join an all star cast of 2Up features. Now you can Cover and Forward purchases between your Up and 2Up spending. Dinner for 2 paid for only by you? Long press a transaction to Cover the $$ with your Player 2. Sharing is caring.
+v2.2.20 | App
+JULY 7, 2022
++ Text in some widgets was displaying smaller than intended - an unfortunate sign of weakness in the wild. Some inflation of stroke weight and a fluffing of feathers means balances in Widgets display larger and are effective in deterring an opportunistic predator.
++ Purchase receipt screens weren't as optimized as they should be. So rather than leaving it be quicker to produce a physical receipt from your pocket, we enhanced some unseen code and we're happy to announce this has resulted in slightly less waiting time for you and delighted users everywhere. 5 star result.
+v2.2.18 | App
+JUNE 21, 2022
++ Some Upsider profile pictures were displaying in greyscale or limited colour palettes. Although considered 'edgy' on social networks in 2008, we've updated our colour code to show the full spectrum. Our (and your) true colours are now shining through.
++ Our favourite in app Perk-Up mug broke. Unlike small serrated ceramic, we managed to pick up the pieces of code and now if you score a free coffee through Perk-Up your mug will percolate and animate once more.
++ Our screen readers were a little too in depth, often reading things that simply weren't there. With some better direction and a few kind words, VoiceOver will only read things that are on the screen. Like a screen reader should.
+v2.2.17 | App
+MAY 23, 2022
++ Informed consent is where it’s at, and open relationships demand A+ communication. We’ve added some push notifications when you, or your player 2, change Open Banking settings on your accounts. Always practice safe banking.
++ Speaking of relationships, Afterpay and Zap cards now play better together. Your Upcoming feed will now update whenever you make a payment. Go forth with a shiny, fresh and up to date feed.
+v2.2.16 | App
+MAY 10, 2022
++ We weren’t saying it best. In fact, some would say we were saying nothing at all. Now when you’re alerted of an attempted charge, we’ll tell you if it was on your Up plastic, Zap or 2Up card. We’ll catch you, wherever you fall.
++ Utilising the latest advancements in cut, copy, paste technology, we're now able to scan your clipboard for copied BSB and account details as you make a payment. The details you need are sorted, separated and pre-filled, leaving you with nothing but saved time. We set ’em up so you can knock ’em down. Go get it champ!
++ Making the leap from hand to wrist, your Zap Card is now supported on watchOS. Staring out alongside Up and 2Up cards, you can now block and/or unblock your digital Zap card from your favourite wrist mounted digital device.
+v2.2.15 | App
+APRIL 26, 2022
++ Early winter cleaning anyone? We’ve swatted some bugs and improved our logic around notifications and savers. Speaking of cleaning, our latest 'I wish I’d known' content about homes, specifically moving day, is ready for your eyes. Find that and several other cosy morsels of home-related content now snuggly tucked into your Home Saver.
+v2.2.14 | App
+APRIL 12, 2022
++ What do you do when you reach the pinnacle of performance and improvements? You go push harder, and go higher. Just like a refreshing breeze from the summit, we’ve loaded the app with unseen but delightful enhancements. Feel these cool code changes lightly brush through your hair as you glide effortlessly through the app. Savour life’s little moments.
+v2.2.13 | App
+MAR 27, 2022
++ Don’t settle for less, give the best a mate can get. With added performance and prize improvements there’s never been a better time to Hook Up A Mate. The lines are clear and they’re ready for your call. 1 mate is all it takes. T&Cs at up.com.au/huam
++ Make your next step a short one. Unleashed from the confines of a sub menu, you can now Slice, Cover, or create a Regular transaction from the bottom of your receipt. Life is now wide and limitless.
++ After a deep cleanse and exfoliation, estimated Upfront costs in Home Deposit Savers are clearer for those buying a first home. Beautiful & Beneficial.
++ Significant slide and glide improvements means you can now re-order your Home Saver or Save Up 1000 challenge in a list of Savers. Create your own harmony and add 'Financial Feng Shui' to your resume.
+v2.2.12 | App
+MAR 16, 2022
++ A tale of two cards that doesn’t start with waiting for the postie. Now you can instantly create your own Zap Card - a new digital-only card that's wired directly to your Up account. Zap Card securely does your digital bidding, buying and bill paying online with a new set of card details. Pay in store by adding to Apple Pay and never misplace a physical card again. New Upsiders can go digital by default, but if you no longer have a place in your heart or your wallet for plastic, download a Zap Card to your app from the Cards menu today.
+v2.2.11 | App
+MAR 9, 2022
++ For some Upsiders it wasn't safe to swim. Instead of going off the deep end we've improved circulation, enhanced coding and maintained even particle levels so you can take a dip in your Saver Pool without a crash. Remember, play it cool by the pool this summer.
+v2.2.10 | App
+MAR 2, 2022
++ We're busy keeping things shiny and tidy just for you. We've tucked in some sheets and fixed that broken door that was bugging you. Digital air quality is high and our code chakras are aligned. Update for a clearer view but focus on being the best version of yourself.
+v2.2.9 | App
+FEB 14, 2022
++ Dream of having a grand on hand? Save $1000 in a year with the new Save Up 1000 Challenge. Strap into the hot seat and power your way through seven levels of weekly saves. Knock down a little each week to save a lot. Stored safely away in the Save Up vault, your cash awaits, committed to the completion of your challenge. Weekly reminders will keep you in shape so you're a winner. Every. Time. Have you got enough in the tank to go the distance? Outwit. Outplay. Outlast. Sprint to the Savers tab to join the challenge and find out what you're made of.
+v2.2.8 | App
+JAN 31, 2022
++ Rise to your challenge. Get more options when you're challenged with Mastercard 3D secure making purchases online. Feel flexible wearing two layers of online security. Now we'll tap you with an in app prompt, email or SMS to prove that it's you. Security for every occasion.
+v2.2.7 | App
+JAN 17, 2022
++ Take control of your long term goal. If you've got visions of owning a cool crib or your forever home, you can now create a Home Saver to get started saving up for your dream deposit.
+Work out what you have and what you need to succeed, in the hot housing market. Tell us the property price and we'll map out your personal savings timeline. Whether solo or with your Player 2, get your home savings moving from Struggle Town to Easy Street with Auto Transfers, Round Ups and a Home buyers guide.
++ Be the ultimate tag team and undisputed kings or queens of the ring. Now create custom transaction tags to track spending with your Player 2 in 2Up.
+v2.2.6 | App
+DEC 15, 2021
++ Your calculations are complete. View your 2021 UpYear in review now. Get a personalised yearly report of how your money moved this year on Up.
+Thanks to every Upsider for another stellar year. We hope your 2021 experience was out of this world.
+v2.2.5 | App
+DEC 14, 2021
++ Some self care for your special second source (of income).
+You can now mark some investing platforms as funding accounts. Unlock the ability to pay split another piece of your hustle puzzle.
++ Don't mind us, we're just hiding some super secret pressies in the shed. You can't have them right now but we promise your special day will be extra special. Only a few more sleeps.
+v2.2.4 | App
+NOV 29, 2021
+The Up office just got through the coldest November stretch in 167 years and came down with a few bugs to boot. After copious amounts of code deploys and vitamin C your favourite financial app is well rested and reset for warmer days ahead.
+v2.2.2 | App
+NOV 16, 2021
++ Up's got the same thrill but now with more fill. We've moved on from the stroke to a fuller, pampered and plumper 60 degree lifestyle. Today our logo gets a 5-star paint bucket treatment all the way from the app icon to the transfer drawers. Don't be obtuse, try a different angle. It's time to get reacquainted with the 3 equal sides you know and love in a whole new way.
++ A plan for when things don't go to plan. Now you can subscribe to in-app updates when a feature or functionality suffers an unexpected outage. Get greater visibility if something's not working plus a play-by-play direct from the control room as we gracefully recover. Let us deal with the lemons in life, we'll let you know when everything is smooth sailing once more.
+v2.2.1 | App
+NOV 11, 2021
++ We found out we weren't treating ourselves so well in a few places. We've poured ourselves a bath, lit the candles and relaxed.
+v2.2.0 | App
+NOV 3, 2021
++ Direct from the oven and served hot. Get your purchases perfectly sliced. Say sì to Slices. Now you can split the cost of any purchase or payment with your mates on Up. Take anything you've paid for and slice it up as payment requests to other Upsiders.
++ Slices can flex any way you need, slice by dollars, percent, or keep it fair with equal shares. This is a share plate where you won't get burned. You'll always know who's paid back cause your pizza progress chart fills as more money rolls in. Start slicing from any purchase notification or receipt from your activity feed.
++ We've made some more room for your Player 2. Now get all your shared spending and Savers data flowing through to any Open Banking supported application or service.
+v2.1.9 | App
+OCT 28, 2021
++ Up wasn't playing nicely with iPhone 6 so we all had a snack and a hug. Thanks for bearing with this disruption while we got everything back online and all sorted out.
+v2.1.8 | App
+OCT 25, 2021
++ Hello... is it search you're looking for? Now the power is yours to find the thing you need from your feed. Use Search to find payments, purchases and people without having to go for a scroll. Search smarter, start typing in the info or purchase amount you need and we'll do the digging. Pull down Quick Actions from your activity feed to start searching. May you find what you seek.
+v2.1.7 | App
+OCT 11, 2021
++ Set your Splits in stone. Now you can add exact $ amounts for the important stuff when Pay Splitting into your Savers, and let the rest of your pay peel off by a percentage. Stand back and admire your picture perfect budget.
+v2.1.6 | App
+SEP 27, 2021
++ We’ve injected some social stimulus to iOS notifications. Now Payments notifications will display GIFs in all their looping glory. Know that your carefully selected and probably hilarious GIF will land even in previews. We now leave the many creative possibilities up to you.
++ Co-op savers rejoice. 2Up Saver Pools now show your Player 2's profile picture. May the digital presence of their fine self swimming in savings soup help motivate you towards those shared financial goals.
++ Accessibility is better for those using VoiceOver. We’ve surfaced elements you need and hidden some of the noisier ones. As always, hit us up in Talk To Us with ideas on making Up better.
++ A bit of digital grease on our animation’s hinges means balances, chats and GIFs are moving super smooth and looking extra lovely.
+v2.1.4 | App
+SEP 14, 2021
++ We’ve added extra Pay Day bling for your budgeting pleasure. Now you can see your Spendable balance in widgets and watchOS complications.
++ We’ve also added bi-monthly pay cycles, so if you get paid on (say) the first and fifteenth —welcome to the Pay Day family. We’re huggers, be warned
+v2.1.3 | App
+SEP 6, 2021
++ A pesky bug has been removed from International Payments. Wise once again performs bug free as intended.
+v2.1.2 | App
+AUG 31, 2021
++ Just like when your relatives used to tuck a few bills into the annual birthday card, we've rolled out some seriously celebratory code that could make your special day just a little more special.
++ Now when you open up your digital Upperversary card and share with friends on socials we might $neak $ome $urprises your way. Love always from Uncle + Auntie Up xoxo.
+v2.1.1 | App
+AUG 16, 2021
++ Pay Day took a pit stop and is running like it's on rails. If your transfers or time zones were bumpy before, they should now be smooth and serene. Hit Talk To Us if your ride is less than the perfection we expect and demand.
++ If you're a real custom commander we've now added support for Trackers and Recent Transactions in the Shorcuts app. Use Shortcuts in iOS to create custom workflows; check in on your spending Trackers when opening an app, get your last 5 transactions when setting an alarm, or just talk it out with Siri. If you build it, it will run.+ Pay Day took a pit stop and is running like it's on rails. If your transfers or time zones were bumpy before, they should now be smooth and serene. Hit Talk To Us if your ride is less than the perfection we expect and demand.
+v2.1.0 | App
+AUG 2, 2021
++ A gift for you, and a place for two.
+You can now create 2Up Savers to share with your Player 2. Whether it's a home to call your own or those tickets for a band you've been waiting literally years to see; here's a place where you can set savings goals and stash cash together.
+Taking the same great flavour from their solo Saver cousins, 2Up Savers work how you'd expect. Tap the create Saver button and now we'll give you a choice between Saver styles.
+v2.0.5 | App
+JUL 26, 2021
++ Avoid the budget blow out blues, breeze from pay to pay. Get paid into Up and add your Pay Day to see what you can safely spend while leaving enough aside for bills. Switch your balance from 'Available' to 'Spendable' and see how much you've got just for you. Always know what Upcoming bills and transfers are due before you get paid. Put your hard earned cash on cruise control.
++ Every payment has its place. Scheduled and Repeating Payments can now be assigned a permanent spending category and will reflect in your monthly insights. Recurring rent payments have never felt so organised.
++ Don't stop when you hit the top. Now when creating a new Saver you'll get some serving suggestions of things to save for. Alternatively, keep being you and choose your own goals.
++ While it's still hard for two people to share one watch, you can now add your 2Up Shared Spending balance as a complication on watchOS.
+v2.0.4 | App
+JUL 12, 2021
++ Take the stress out of the 2Up top up. Now you can set up Automated Transfers in or out of your 2Up and personal spending. Pull down your 2Up quick actions to create a recurring transfer in either direction. Relax as you regularly move money in to spend as 2, or pay one out and just spend as you.
++ Burst out a big “Bula” and welcome Fijian Dollars to the currency crew for international payments. Now send FJD to friends and family living in the Soft Coral Capital of the World.
++ A brutish bug was pushing some peoples passcode keyboards up in one corner. We've fixed this outgoing and aggressive behaviour and passcodes are now free to be entered correctly.
+v2.0.3 | App
+JUN 28, 2021
+This release we're cleaning Up like Mum is coming over.
++ Screen readers will now have an easier time reading some explainers. Thanks to the Upsiders who pointed that one out.
++ Next time you Hook Up a Mate rest assured they're in the finest hands. The improvements are so good you won't even know they're there. The experience is now nicer than it was before.
+v2.0.2 | App
+JUN 15, 2021
++ Some for you and some for 2. You can now split a % of your pay directly into your 2Up spending account, with Pay Splitting. Set the rules and we'll automatically split your pay day cash between your Savers, and both your solo and 2Up spending accounts. Will you split off a small portion of pay, or set sail the fattest of stacks? The decision on that divide rests with you.
++ More wrist related improvements means you can now view your 2Up spending activity, check on shared Trackers, and tap into 2Up card controls all on watchOS.
+v2.0.1 | App
+MAY 31, 2021
++ 2Up is rolling like it's on rails and we're real ready for you right now. The early days are over. Access all areas and invite your Player 2 now to instantly join forces. You'll be ready to fight finances in record time with your new shared account.
++ There's room in this widget for two. Now add a 2Up account widget to your home screen to view your shared spending balance at all times, for better, for worse, for richer or for poorer.
++ Some meticulous menu methodising has resulted in account details once again being found under the Up tab. View, copy or share your details with undeniable confidence.
++ Face it, this is something you'll want to watch. You can now add your Trackers as complications to watchOS faces. Your budget never misses a beat.
+v2.0.0 | App
+MAY 17, 2021
++ The page has turned. A new chapter begins. Adventure awaits you and your most trusted companion. Welcome to 2Up: a new way to join forces, battle bills side by side, take aim at expenses, and weave a shared financial tale. Registration is open now.
++ Ready for the challenge? Invite your Player 2 in-app and register for 2Up early access. Once you're perfectly paired, your story awaits. We will let you know when your 2Up tale is ready to start.
++ We can't send you on a quest without a power-up! Quick Actions are your new quick draw. Pull down in your Activity feed to add money or show your card details.
+v1.19.2 | App
+MAY 10, 2021
++ This time around we bought bulk Windex, dug around under the sink for a pair of pink gloves, and gave Mr Clean some real work to do. We're making room for new features and new energy.
+v1.19.1 | App
+APR 27, 2021
++ In an effort to reduce drag on slow networks we've added the code equivalent of a new body kit and spoiler. The app will now have better performance in less than ideal network conditions. We too live our lives a quarter mile at a time.
+v1.19.0 | App
+APR 19, 2021
++ Slide the seat all the way back. Cruise into controlling your spending with Trackers. Now you can set a Tracker on any spending category to keep you from busting the budget. Set an upper spending limit, keep on top of it and know how long and how much $$ you've got to go.
++ You'll never walk alone. Get notifications throughout the month with personalised updates on how your Trackers are… tracking. Stress less, we won't put you on blast for a budget blow out.
++ Don't get floored by figures. Add a new Category Tracker Widget to your phone's home screen to track your spending outside the app and through the eyes of your best triangular tracking pal. Add a Zap tracker widget for every Tracker.
++ Know where to give a little and where to get a little. You can now check your average spend for all categories in your Monthly Insights. Always see how your current month's spending compares to your monthly average.
++ Keep your friends close, but your savings closer. Add any of your Savers as a complication for your Apple Watch. A watched pot always boils.
+v1.18.3 | App
+MAR 30, 2021
++ Sometimes gifs speak louder than words. Payment gifs let you send and request money with a little extra pizzazz. Up: now with 75% more meme wars.
++ We accessed our home improvement Saver and did a Bunnings run. Little fixes and nicer dimensions have the whole app looking a touch more snazzy.
+v1.18.2 | App
+MAR 15, 2021
++ Respond, resolve & relax. Cop some support with an extra serving of speed. You can now reply to Talk To Us chats directly from a notification without opening the app. No words? Just mark as read so you can stay on the go, but always in the know.
++ Our International Payment pals have had a name and brand makeover. We've updated our app to highlight their new style. No surprise from Wise, they're glowing.
++ Previously Weekly Spend Summaries were too big for your wrist to handle. We've used the good wrapping so all text is now readable on watchOS. Mondays aren't so bad now.
+v1.18.1 | App
+MAR 1, 2021
++ Once again, let's sparkle Up your home screen with some widget magic. Our new Insights iOS widget will show you where you're at with spending on Good Life, Personal, Home and Transport. Initialise the spending visualiser to experience your own data driven particle pyramid without leaving the comfort of your home (screen). Your spending's looking special.
++ We got out the long duster and a fresh can of Mortein. It was time to deep clean those bugs, and the corners of Up are now cobweb-free.
+v1.18.0 | App
+FEB 15, 2021
++ Got a mate that owes you money? It’s that one posting selfies from Byron Bay right now, isn’t it? When the sacred bonds of mateship aren’t quite cutting it, you can now request money from your mates on Up. No more hopes and prayers — put in a request and get paid the money you’re owed quickly.
++ A real quick tidy up around the cards screen has resulted in slightly more leg room for all visual elements involved. Relaxing no doubt.
+v1.17.4 | App
+FEB 10, 2021
++ We've cured some code and corrected a bit of unexpected behaviour when some devices were making a payment. The expected payments experience rages on for all.
+v1.17.3 | App
+FEB 1, 2021
++ We're turning up the heat on Hook Up a Mate. For the month of Feb, invite your friends and you could score up to $15 each. It’s the summer we’ll never forget. T&Cs @ up.com.au/huam
++ Keep that payments screen clean. You can now delete unwanted payment threads and contacts from your list. Find your delete key by tapping the options icon in a payment thread. But take care - once that history is gone, it’s gone forever.
++ We improved some open spaces and screen heights, and freshened the emojis up a bit. Next we’re going to choose a nice indoor plant.
+v1.17.2 | App
+DEC 7, 2020
++ Now you can long press on a Talk to Us thread to archive the chat. The threads might be gone, but we'll always have the memories. TTYL.
++ International transactions will once again get the Round Ups treatment. You might see a small lift in savings, a round balance & a release of tension in your shoulders, this is expected.
++ We politely asked some bugs to find alternative arrangements. Don’t worry, we gave them heaps of time and wrote them a reference.
++ Keep your app up to date to get an early present this year. We'll keep it under the tree for now. You can't open it yet but you can look at the box.
+v1.17.1 | App
+NOV 22, 2020
++ It’s your app and you make the decisions. If you’re getting unwanted payments from another Upsider, head to your payment thread and block them. (You can unblock them whenever you want.)
++ Sometimes things don’t go to plan. If your instant payment is failing because of a widespread technical issue you can now just schedule it for later. Once we’re up and running again we’ll get your money where it needs to go.
++ We’ll be your dispute detective. We’re now collecting more information up front so we ask you less questions later. Start a dispute directly from the trouble transaction: we’ll keep you updated from there.
+v1.17.0 | App
+NOV 5, 2020
++ People powered Payments. Our reworked payment experience makes it faster and easier to pay your existing contacts. Use the new Search and you shall quickly find the contacts you seek. Tap 'Pay Someone' to get going.
++ Find your mates on the Upside. You can now import your phone contacts and easily find and pay your mates on Up. For those yet to see the light you can attempt to pay them via mobile PayID or quickly shoot them an invite to join the party.
++ Speaking of which, Hook Up a Mate now shows you a list of which of your mates are yet to sign Up. Call on your circle of contacts to invite with just a tap and quickly spread the word. You've always been the savvy one in the group.
+v1.16.0 | App
+OCT 26, 2020
++ Home sweet home screen. Now you can get more at a glance with Up iOS14 Widgets. Sprinkle a small section of your home screen layout with a window into your financial life. Check your balance and last activity, place a specific Saver front and centre to track your progress or lay down a stack to see an overview of all your Savers. Complete with deep links back to your important screens, happiness is just a widget away. Welcome home.
++ Here’s a new paver in our payments path. Decide in your Payment Settings if other Upsiders in your phone contacts can see that you’re using Up. Your future network will be as big as you make it.
++ Some regulars charges were becoming a bit too regular. Now when you confirm a new regular charge we’ll only add it once. They may only live once, but done right, once is enough.
+v1.15.4 | App
+OCT 12, 2020
++ Hit the spending speedway and deck out your digital wallet faster. Add your card to Apple Pay directly from the wallet app with the help of some iOS14 grease. No need to wait for your physical card.
++ Do it for you. If you’ve been blessed with a new number and phone, there’s now a shorter path to get back into your account - just add your passcode and recovery code. If you don’t have them, no stress. Look over your shoulder, we’ll be there.
++ We’ve simplified notification preferences. Choose your own information adventure in the app settings.
++ Bugs removed and great things made better. Looking good, feeling good.
+v1.15.3 | App
+SEP 28, 2020
++ Slap another lock on the door and add another agent to your security detail. Now when a new device is registered with your account, the rest of your devices will get an alert. If this was you, party on. Wasn't you? Push the button. We'll stop payments leaving, and lock down access on all your registered devices.
++ Mind your step, baby got gap. A thorough reshuffle of the Up tab has resulted in a more satisfying set of settings and absolutely no touching between screen swipes. No exceptions - this gap has intentionally been left blank.
++ We've dusted off the app welcome mat. Now you'll be greeted with an ever so slightly updated logo on iOS & watchOS. Come on in, continuity is key.
++ In the spirit of supporting the creation of punctuation we've put an end to some key-based keyboard bugs stopping special characters in sign up.
++ Many more of your favourite things have been further enhanced & improved, making them more likely to remain your favourite things. We live to give.
+v1.15.2 | App
+SEP 2, 2020
++ Zoom in. Increase transaction transparency. You can now see how your card was used for any given purchase. Did you tap, swipe, punch in a pin or buy online? Get a complete picture of how your purchase entered this world.
++ If an essence of reference is your preference then please. Take a seat. When sending cash via Osko you can now tap on options to add a reference ID to your payment. 35 characters are all yours to reference a bill, or say I love you.
++ We're getting in early with spring cleaning; fixed some screen strangeness for notched iPhones, improved layout on smaller devices, and winter bugs have been gently re-homed.
+v1.15.1 | App
+AUG 24, 2020
++ Breathe deep and slowly recline. We've made some upgrades to our Wise international payments lounge, including sign up fixes and special character input. Continue paying overseas, now with 25% more ease.
++ If you weren't feeling elated before then you will be now. We've updated our sticker pack for the Messages app. Emote, react and slap on a sticker when a friend sends you a zinger. Choose with care from eight (!) new digital stickers.
++ Don't die wondering. We've added the exact time and date of generation to your monthly statements - now you're always in the know.
+v1.15 | App
+AUG 9, 2020
++ Make breaking down borders a breeze. International payments powered by Wise have arrived. Get a fast, easy and cheap way to move your money overseas. Strap in for 48 different currencies, no surprise fees, fast set up, and a whole lot of easy. Relax and move freely around the cabin, paying friends and family overseas has officially reached cruising altitude.
++ Monthly Insights will now tell you if you're on track to be the hero of your savings story with total change in savers, total savings in or out, total payments and total purchases. You're a professor of precision with total clarity.
+v1.14.2 | App
+AUG 4, 2020
++ Shoot quick and from the hip, you're the real sheriff in town. Now you can initiate a Cover for your purchases and a Forward for your deposits right from your notifications. Long press on a notification to get started.
++ Stockpile for your lifestyle. Pay splitting is getting a smaller percentile. With Pay splitting enabled you can now instantly carve up your payday cash to the nearest 1% and choose your own savings adventure. We'll also be telling you where that money came from, labelling the source of every split in your saver.
++ Calling all daredevil devs and exploratory engineers. Our API is officially open for business. It's your data, so have at it (securely) and go build that confetti cannon that fires on payday. Head to developer.up.com.au to get started.
++ It's dry season and the pools are shrinking. We've brought down the size of Saver pools so you can see a little more transaction action. You'll see some better pool performance but other than that - same great recipe; same great flavour.
+v1.14.1 | App
+JUL 20, 2020
++ We've switched up the save. When you click 'transfer money' in a Saver, the default option will now be to transfer money into a Saver, not out. Savin'. It's what we do when we can't go anywhere or do anything anyway.
++ Sometimes merchants put a hold on your money. Now we'll be notifying you if they change the hold amount. If they touch your money, you'll know about it.
++ Bugs-b-gone. Our locked-down Melbourne devs needed some caaaalm so they did some approved exercise. Swatting bugs and working on some renos. Inside. On computers. Stay safe fam.
+v1.14.0 | App
+JUN 29, 2020
++ The applause is deafening. Here's a little extra support from the sidelines. Now you'll get a notification when you've hit 25%, 50% and 75% of your target Saver goal. Just a gentle reminder that you're on your way to Savings greatness. Hit 100% of your goal to really get the party started.
++ Dive in, the water's just right. Saver Pools are a new way to visually track and play with your hard saved cash. Numbers and graphs can start to look all the same. Pump some money into any of your savers and watch it turn into a buzzing soup. Jump into any of your Savers to take a dip in your digital pool of funds.
++ We've upped the pressure and are now pumping more info into our widget. See your Spending balance and last transaction, then expand to see balances across your Savers. Another tool in the kit to keep you on top.
+v1.13.9 | App
+JUN 15, 2020
++ Go ahead, take your time, take as long as you need.
+Now Auto Transfers from Savers will hit the pause button when there's not enough money to make the move.
+Resume your regular Automated Transfers right away with a tap or take a little longer and resume at a later date. We'll keep your settings warm until you come back.
++ Let's get that volume a little bit louder now. You can now spread the word of Up further and faster. Use your $Upname to create a custom Hook up a Mate URL to share with your mates online or off. Jump into the app to activate and start extending your Hook up a Mate reach. All the regular invite bonus' still apply, be sure to check out up.com.au/huam for the full T&Cs.
+v1.13.6 | App
+MAY 28, 2020
++ Become the revert expert. Introducing our first ever feature with Ctrl+Z. You can now undo a transfer to or from your Saver with a quick tap. We don't make mistakes, just happy little accidents.
++ We'll no longer exempt the attempt. Cop an injection of new activity into your feed. You'll now receive a notification & an activity item for Attempted charges. If a merchant has attempted to charge your card and was not successful, you'll be the first to know. Rejoice, you have remained in the loop.
+v1.13.5 | App
+MAY 4, 2020
++ The fast just got faster. Now you can pay an Upsider using only their $Upname, nothing else. Moving these $$ on our own tracks means we can get some serious speed. As usual shoot an Upsider payment right back instantly. Check out the new 'Pay an Upsider' payment option. The real mccoy, a true Up2Up experience
++ You used to say it best when you said nothing at all. Say goodbye to the sound of silence and prepare to have the last word. You can now reply to a received Upsider payment with an Emoji or a message. Cheers for getting lunch Dan, ur a champ.
+v1.13.4 | App
+APR 21, 2020
++ Good deeds aren't done dirt cheap. This time we put up more for the hook up. Hook up a Mate invitees can now earn an additional $5 reward by making 5 purchases in their first 30 days. Get up to a cool $10 for you and the mates you invite. It pays to be a good mate. Full T&Cs @ up.com.au/huam
++ Sometimes we were repeating ourselves when it came to TouchID prompts. 2 seemed a bit excessive. We've calmed our farm and we'll only ask once from now on.
++ Our transfer between savers draw needed a little bit more room to flex. Animations in & out are now 113% smoother and less likely to glitch. More move means more groove.
+v1.13.2 | App
+MAR 29, 2020
++ Less steps means less stress. It's recommended you strap in because this new money mover is built for speed. Barriers are broken - You can now transfer money between Savers. Tap on any of your Savers to get your hands on the new 'Transfer money' button. Select your 2 chosen Savers and make your move. Well played.
++ We're picking up what you're putting down. For some new subscriptions we'll now ask if you've just signed up for a recurring charge before you've even made your first full payment. We'll go ahead and pop those upcoming charges in your Upcoming tab where they belong.
+v1.13.1 | App
+MAR 9, 2020
+Here's one to remember. App release notes compilation volume 9154 is out now for your visual pleasure. Featuring all your favourite release notes, such as; "Bug fixes", "Performance enhancements", and no good compilation is complete without the all time classic, "Feature Improvements".
+Get yourself up to date today and instantly elevate your emotional status from 'mildly comfortable' to 'Pure bliss'.
+Don't sleep on this one. The view is clear and the water is bug free. Giddyup.
+v1.13.0 | App
+MAR 2, 2020
+Here's two flexible money moves to add to your repertoire that will keep your accounts looking sharp. Introducing Covers and Forwards - the verbs your money has been missing until today.
++ Don't look back. Forwards will now allow you to instantly move any deposit or received payment to where it belongs. Move deposits along to any of your Savers with just a long press and a tap. The easiest heavy lifting you'll ever do.
++ Summon your Savings. Covers will now allow you to cover a purchase using funds from any of your Savers. Long press on your recent takeaway transaction to cover it from your 'Gym Membership' Saver and instantly your balance is topped up to its former glory. Money now moves with you.
++ Transfers for WatchOS are here. Your wrist is now infinitely stronger. Move money to or from a Saver without breaking a sweat. Use the Digital Crown to dial it just the way you like it.
+v1.12.0 | App
+FEB 10, 2020
++ You shall NOT remain nameless. Lay claim to your Upname! You can now create your very own Upname, a 15 character unique handle only you can wield. This title has a second meaning, you'll get a brand new @up.me PayID once your Upname has been claimed. Define who you are but choose wisely. Once a name is gone, it's gone!
++ Your Upcoming payments will be more alert but not alarmed. From now on you'll get a notification 1 day before a payment is due, not 2. That's 24 more hours of you-time, you've earned it.
++ We fixed a bug where your face was sending you into an infinite loop - not ideal. Now if FaceID fails to register you'll be prompted to enter your passcode instead. No more waiting in the infinite abyss for nothing.
+v1.11.1 | App
+FEB 3, 2020
++ Foreign currency and conversion rate will now display on international transaction receipts. It’s the travel gift you always wanted. Almost as good as that suede travel neck pillow from Nan.
++ Love smooth high frame rate animations? Of course you do. Well, we’ve peppered them through out your activity feed. Be amazed as transactions enter your feed with the force of a typhoon and the grace of a gazelle. You only live once.
++ Be not afraid of going slowly; be afraid of only standing still. When making a payment to a BSB and Acc number you can now choose to send it lightning fast via Osko or take it down a gear with a slower traditional Bank transfer. Play it your way.
+v1.11.0 | App
+DEC 16, 2019
+We’ve managed to sneak in one more gift before this decade is done for. Thank you to all you amazing Upsiders for a ripping 2019.
++ We’d like to welcome 16 very special digits to this digital party. Your favourite numbers have arrived! You can now view, copy and paste your Up debit card numbers right from inside the app. Don’t reach for your wallet, reach for the stars.
+v1.10.2 | App
+DEC 13, 2019
++ Tis the good season of gift giving, and you know what? This season is looking brighter for the inviter. We’ve made some changes to Hook Up a Mate that will sweeten the deal. Give your mates the gift of Up this Christmas and savour the new reward in app.
+Fixed:
+- We plugged a tear in the very fabric of time itself. New Upsiders won’t have any problem with the birthday date picker skipping forward a day and changing the outcome of their sign up. The rules of time travel aren’t meant to be broken.
+v1.10.1 | App
+DEC 3, 2019
+Welcome to bug huntin’ season. It's a big season of bugs and gosh darn have we bagged our selves some winners. Things are calmer in the app, order is being restored and your journey continues on, bug free. Party on.
+v1.10.0 | App
+NOV 21, 2019
++ The bitter taste has never been better. A testament to the perfect pour. An aroma that fills the heart has found its way into the hotter-than-hell version 1.10.0.
+
+Gather round the table. It's just about time to perk up.
++ Oh, and we killed a bunch of bugs that were causing trouble. The App now works better and we are less troubled. Win-Win!
+v1.9.3 | App
+NOV 7, 2019
+Time for a little money magic. Automate your way to a better day with Auto transfers.
++ Shift your Savers into gear & automatically move money from your spend account to any one of your savers. Just let us know the frequency and the amount, we'll take care of all the heavy lifting.
++ Put that thing down; flip it and reverse it. Turn Auto Transfers on its head and move money from your Savers to your spend account, you guessed it…Automatically. Set yourself an allowance so you don’t spend tomorrows money, today.
+v1.9.2 | App
+OCT 29, 2019
++ CSV is now EZY. Export your monthly transactions in your all-time favourite spreadable sheet format. Cells, columns and all. Find it hanging out in the more options menu of your Monthly Summary. Data is knowledge and knowledge is power.
++ We've cranked the voltage and extended the range of income identification. You'll now be able to identify Pension and Family benefits payments as income so you can unlock Pay Day features like Pay splitting.
+v1.9.0 | App
+OCT 16, 2019
+It's all the right ingredients to make your pay day a great day. Get on the good foot from the start.
+You can now slice and dice incoming payments from your funding account or your employer with Pay Splitting:
++ Set your split for the ultimate serving suggestion. Choose what % of $ will automatically split to each of your Savers. Let those funding payments and pay day earnings walk right on in. We'll tell 'em where to go.
++ A split today is a split for the future. We'll remember your Split Preferences so we can get you to your savings goals a bit faster. Get a breakdown of your payment split in your activity feed. A real set and forget.
+v1.8.1 | App
+SEP 24, 2019
+You'll have to speak up, we're annihilating some bugs here:
++ We've fixed a bug where you could accidentally dismiss a chat when scrolling back. We swear we weren't trying to hang up on you.
++ We were leaving some of you hanging when using your fingerprint. We've made some tweaks to biometric step ups & this will be the first step to setting the record straight.
++ Salary ID had been improved & we'll now display some extra info with each salary payment.
+v1.8.0 | App
+SEP 11, 2019
++ Live in the moment, or live it later, up to you. Scheduled Payments have arrived. Specify a specific date and time for your outgoing payment to be sent. Your future self is proud of you for thinking ahead, well done.
++ Feel like history is repeating? You can now repeat payments every day, week, fortnight or month. That's working smart, not hard.
++ Let's make Pay day a great(er) day. You can now identify your salary and get a better view of those delicious incoming pays + correct company names and logos. Money in is a win.
++ Our older icons have moved onto retirement. We thank them for 10 months of loyal service, what a ride. We've brought in some new & fresh icons to every one of our categories. Here's to moving with the times.
+v1.7.0 | App
+SEP 5, 2019
++ There are no mistakes, just happy accidents. We're really going to explore the colour palette on this one. We've given the monthly insights screen a fresh coat of paint and a tidy up. New Colours & icons mean you'll quickly see that 84% of your purchases last month fell under 'Good Life'. You do you, live your best life.
++ Your trip back through time has never been more comfortable. Sit back, scroll less and live more. We've bundled together your previous transactions into collapsable months. Relive your fondest purchases from your activity feed quicker than ever before. Nostalgia is a powerful thing.
++ Too loud? We've added a stack of new notification preferences in the Notifications menu so you can opt in and out of different communications. Dial it just the way you like it.
++ It's time to break free. We've added the ability to download each month's transaction history and import with your favourite supported program.
+v1.6.5 | App
+AUG 22, 2019
++ Praise be unto the holy lords of bill payments. Today is the day to rejoice! For today BPAY payments are now available on Up. Send your bills to the hallowed land with swift justice. Equipped with your BPAY Biller Code and Customer Reference number, you are now a bill paying powerhouse. Head to the Payments tab to start your BPAY journey.
++ It's an unspoken bond. A feeling you can't un-feel. Up to Up payments are delivering a new kind of connection. When paying other Upsiders' PayID you'll now see each other's profile photos and preferred names. There are no strangers here. Up to Up payments will auto identify contacts, and to top it off, you can now immediately shoot back a reply payment. Life is a conversation, so let's rap.
+v1.6.1 | App
+JUL 31, 2019
++ Supercharge your savings with Boosted Round Ups. In addition to your regular round up you can choose to dial it up a notch & add a little extra to your purchase. From your saver tap Round Ups and slide that slider for an extra $1 - $10 to be slammed into a saver whenever you use your card. Let the good times roll.
++ Previously even dollar purchases wouldn't get a round up. No more. You can now toggle your even dollar purchases to round up a whole $1. Just more opportunity to easily stash a bit of cash.
+v1.5.0 | App
+JUN 26, 2019
++ There’s no excuses anymore, hit the ground running. Google Pay instant provisioning is here! Don’t get caught up waiting for your card to arrive, start spending within minutes of signing up. Instantly add your card from the comfort of the Up app or just set up during sign up. Rejoice, the prophecy is fulfilled.
++ It’s been called the biggest advancement since Cut, Copy, Paste. You can now Add, Edit and Delete Upcoming payments! Not all bills are monthly, we get that. Upcoming payments will now support Weekly, Fortnightly, Four-weekly, Monthly, Quarterly and Yearly - The whole gang is here.
++ It’s time to dig up that photo of you wearing a fedora in Mexico from 2009..You know the one. Up Profile Photos are now here. Add your best snap or upload a selfie directly from the profile menu. Felt cute might delete later? That’s cool, no one will see it just yet but best get ready for when they do.
++ We’ve made some accessibility improvements and those of you who use VoiceOver and TalkBack will now have a much better time navigating Savers and using the Talk to Us section.
+v1.4.5 | App
+JUN 6, 2019
++ It's time to get granular. You can now add custom tags to your purchases and get a new layer of spending insights. Work expenses? Indoor plants? Cheeseburgers? Whatever is in your bag, just add a tag. Track your ongoing spending with 'tag insights' in your monthly summaries. The power is in your hands.
++ Keep yourself from being cardless. The next order is on you. You can now tee up your own replacement card if yours should become lost, stolen or damaged. Order your replacement card from, you guessed it, the 'Card' menu of the Up tab.
++ Contact icons are spreading their wings. You'll now notice new contact icons when sending or receiving money from your mates. A welcome addition to your activity feed.
+v1.4.4 | App
+MAY 22, 2019
++ Statements will now make a statement in more ways than one. Sent through the ultimate design machine, your Up statements now look and feel better than before. Merchant logos, Monthly overview, more transactions - A real treat handed down from the document gods.
++ We’re bringing the buzz. We’ve tweaked the co-ordinates and set loading states on a new path.
+While waiting for Up to load you’ll notice our new triangle animation. A true journey through time and space. Tell your friends.
++ Unicode Version 11 Emojis have joined the gang and are now available as Saver icons. From ‘Leg’ to ‘Llama’, all your new favourites are here! You can also long press on an emoji to summon different Skin tones. We are now eagerly awaiting version 12.
+v1.4.3 | App
+MAY 9, 2019
++ Be braver with your Saver. You can now set Emojis as your Saver Icons. Nothing like a bit of visual motivation to get you moving towards your saving goals. New bike? Floppy disks? Pet Camel? Whatever you’re saving for there is probably an emoji for it. We’ve also updated the flow so you can pick your Emoji when you create a saver. ¯_(ツ)_/¯
++ New number? No Worries! From now on you won’t need to message us to update your digits. You can now update your mobile number in the profile section of the Up tab. Much easier.
++ Hitting the coffee shop back to back, in the space of a few hours? We feel you. Your activity feed will now give you the long and short of it, and similar transactions will be grouped up into a neat little package. Quickly see your grouped spend or roll down to see your itemised list. It’s the little things.
++ Take control and define how your Up card is used. Don’t want ATM Cash withdrawals? Disable it. Contactless payments? Turn them off. In-store or online purchases in Australia or overseas? Kill ’em. Configure card is now in the card menu of the Up tab. You’re the shot caller. Become who you were born to be.
+Server update
+APR 10, 2019
+Samsung Pay is now supported on Up! MST (Magnetic Secure Transmission) support will be available in June/July.
+v1.4.1 | App
+APR 1, 2019
++ Why don't you tell us a little about yourself? Your own personal profile section is now here! A happy place where you can set your preferred name and change your email. We've also added timezone support for our pals out West.
++ Phase one of our 'Upcoming' reboot has commenced. You'll notice a new and improved layout so it's easier than ever to track when your Upcoming payments are coming up. For all you data heads out there you can now drill down into a merchant from your Upcoming list to see payments past. This is just a taste of what's to come. Be alert, but not alarmed.
++ You can now access a proof of balance statement to keep all of those governing credit bodies satisfied, or just prove to your mates that you are indeed 'good for it'.
++ Love Siri on the go? Who doesn't! We know we do. You can now ask Siri for your balance directly from your Apple Watch. You'll feel like a boss checking your balance and transferring to Savers right from your wrist.
+v1.4.0 | App
+MAR 14, 2019
++ Let's slip into something more... Wearable. We are very proud to announce Super powered banking, in a super small format. Introducing Up on watchOS!
+View your Balance, Savers and Activity feed right there on your wrist. Take security into your own hands and block, or unblock your Up card in an instant... should it mysteriously disappear. For you seasoned watch wearers out there: The Up watchOS app works with handoff and we've thrown in a complication as well.
+
++ Throw your spare change where it matters - Pull to Save is here. Give your activity screen a mighty pull down to send your spare cents flying to the high heavens and straight into your round-up saver. Warning, this is dangerously addictive.
+v1.2.1 | App
+FEB 15, 2019
++ Don’t theorise, just categorise. Outbound payments can now be assigned a spending category. That $40 you chipped in for Julie’s going away present last week can now be safely filed under ‘Gifts & Charity’. 10 points to you, you generous human.
++ All you category enthusiasts out there will be delighted to know that we’ve added some new spending categories. We would like to welcome ‘Hobbies’ and ‘Investments’ to the team. Glad to have you on board.
+v1.2.0 | App
+FEB 5, 2019
+A smarter way to Afterpay is here! You can now link your Afterpay account with Up.
++ Transactions will appear with correct merchant information. You didn’t buy that shirt from Afterpay, you bought it from that super trendy shop. We know that.
++ Smart receipts show exactly what you bought and appear directly in the transaction.
++ Stay on top of your Afterpays by budgeting for each instalment. Up will automatically detect your upcoming instalments and add them to the Upcoming screen. Suddenly 7 Afterpays at once is not so overwhelming.
+
+We also did all the regular bug fixes and improvements.
+v1.1.1 | App
+JAN 23, 2019
+'Spellchecker 2000' wasn't turned up to maximum voltage. A couple of typos slipped through the cracks. We tracked them down and corrected these little hiccups. Carry on.
+v1.1.0 | App
+JAN 21, 2019
+Dusted out a few cobwebs and gave the flux capacitor a bit of a tune up. Now when this baby reaches 88 miles per hour, you are going to see some minor performance improvements.
+v1.0.12 | App
+JAN 15, 2019
+What's new?
++ Don’t let the foreign Tax man get you down! Customers who are US citizens or have foreign tax obligations can now get on Up.
++ Your mates who are with other banks can now get a text message letting them know you’ve sent money to their PayID from Up. g2g c u soon.
+
+And bug fixes?
++ NSW driver license has now been extended to 10 characters. That's exactly 1 character better than before and is now the same amount as a NSW drivers license number.
+v1.0.11 | App
+JAN 9, 2019
+New Year. New You.
+New Bank. New Hints.
+
+Up bank accounts usually work better when they have money in them.
+We’ve added a new hint to remind you and show you how fund your account.
+Highlight of the year….so far.
+v1.0.10 | App
+DEC 20, 2018
+Twas the week before Christmas and it was time to release.
+Time to squash bugs, make changes and keep our wheels lined with grease.
+
+Payments have run for days without care,
+Yet still, We’ve inserted improvements,
+Improvements that once were not there.
+
+With more love and care we keep the app humming
+A new name is here!
+We’ve changed ‘Regulars’ to ‘Upcoming’.
+v1.0.7 | App
+DEC 14, 2018
+It's like your birthday.. but better. Payments are finally here!
+Now you can pay OUT of your Up account, and pay your way IN to people’s hearts.
++ The payments screen is now unlocked and will be the happy home for all your payments needs
++ Pay people instantly with support for Osko and PayID
++ Payments in/out are easy to read with conversational style threads, just think of it like a messaging app..but with money
++ Organise, archive and import mobile contacts so you are absolutely certain it was the right Brian that paid you back for drinks the other night
++ Make your money mean something and send every payment with a message and some carefully selected emojis : eggplant :
+v1.0.6 | App
+DEC 1, 2018
+Improvement starts from within.
+Fixed up a couple of bits.
+The circle of life goes on.
+v1.0.5 | App
+NOV 22, 2018
++ Ready or notch, here it comes! We've added support for the iPhone XR — and you know what, things have never looked better.
++ We fixed some issues with notifications that included users not getting notifications at all. Notifications have been restored to their former glory.
++ It’s the update you’ve all been waiting for. We’ve updated our sticker app! Slap yourself silly with 5 new designs. Fun for the whole family.
++ We’ve tightened the screws, we’ve oiled the joints — our app is all buttered up and smooth as. Breathe easier as you navigate your way through our improved ... er navigation.
+v1.0.4 | App
+NOV 15, 2018
++ Sometimes you just want to know where it all went wrong. Our old error messages weren't very helpful. Knocked up a couple of new error messages so we all feel better when things don't go as planned.
++ We've shed those winter pounds and the app is now 30% smaller.
+v1.0.2 | App
+NOV 7, 2018
++ Let’s chat.. about some chat updates. We’re talkin’ about a new layout… We’re talkin’ about chat archiving… Did we mention your can upload images now? Send us your screenshots when you find a bug. We also welcome pictures of cats.
++ For all you newbies out there we’ve added Apple Pay provisioning to the sign up flow. Live the dream and add your Up card to your Apple Wallet before the plastic arrives! Full bank account and Apple Pay in under 3 minutes. If your a long time upsider and haven’t added your card to your wallet. We’ve added a shiny new button in Card under the Up tab. Leave your card at home. We got you boo.
++ Can’t get post to your address? Don’t have a mailbox? Don’t stress. You can now add a PO BOX during sign up. We will tell your Up card to wait there for you.
++ See your ‘hot’ and ‘not-so-hot’ spots for each month. Monthly summaries now has Location Insights. Easily see that your’e spending too much money in that super trendy suburb and maybe stay home for a bit.. have some you time.. You’ve earned it.
+v1.0.1 | App
+OCT 18, 2018
++ It's not 1983, no-one remembers people's phone numbers (except maybe your grandma's). Invite a Friend now allows you to pick a contact from your phone's contact list. Radicool!
+v1.0.0 | App
+OCT 1, 2018
++ "With a Little Help From My Friends" by The Beatles was released in 1967 on celebration of 10th International Friendship Day. In 2018 Up released 'Invite a Friend' - You can now select 3 (three) of your closest friends to get early access to Up. There will be no refunds, no re-dos and no extra invites. Choose wisely. Your circle of friends depends on it. Find it under the 'Up' tab in your app.
++ We were 'saving' this one for another release but you guys have been so great we thought we would share early. Say goodbye to Targets..Don't say goodbye to the money in them..thats not leaving...We have re-named Targets to 'Savers' *crowd wildly cheers in celebration*. Great things come to great people.
++ We've never been one to keep secrets.. So we got rid of them! Your secret is now called your 'Passcode'. Really breaking new ground on this one.
+v0.4.0 | App
+SEP 24, 2018
++ Our bosses told us we should 'broaden our horizons'... We weren't sure what they meant by that so we went ahead and fixed up the horizons in app. As you swipe between screens you'll notice everything is perfectly aligned and centred. Try it out! You'll be guaranteed to get a better sleep.
++ Late one afternoon we received an email saying our support team physically can't work 24 hours a day. We noticed we didn't display the support centre open hours in the Support tab. Our team now leave at 5pm AEST and get back to support messages when they get back in at 9am. Don't forget, if your card is lost or stolen, your phone has this great feature that enables you to make voice calls. Turns out we have the same features in our phones. You can do the math...
+v0.3.2 | App
+SEP 17, 2018
++ Adding to Apple Pay became even easier today with a bit of tinkering under the hood. We made those little square messages at the top of your feed astoundingly better. A great day for all
++ We challenged our resident chief of graphs to give a once over on our Merchant Insights. His love of bar graphs shines through in this update, now you will see monthly spend graphs of every merchant.
++ We've pulled out the old highlighter to make it easier to see some payments that haven't been identified. This is where you come in - help the Up community identify merchants and help yourself to see exactly where your money is going.
++ We're still in the process of unpacking, but managed to clear a space to make way for payments. You'll notice a new tab and screen, and the ability to make payments will be coming soon. Finally you'll be able to pay back all those people you owe. Loan sharks won't be coming after this little fish.
+v0.3.1 | App
+AUG 24, 2018
++ Like a questionable games night partner, we found our hints haven't quite been on point. We fixed our messaging and no longer tell you to add your Up card to your Apple Watch when you don't have one. If you have one, great! Very nice watch. Lucky you.
++ In a whirlwind of class and fineness we've added some new styles when registering a new device. It doesn't stop there, this new look has made its way into a few other nooks and crannies in the app. We hope you enjoy your stay.
+v0.3.0 | App
+AUG 20, 2018
+Thanks to everyone for the support of the Up beta! We hear you loud and clear and your feedback is much appreciated
++ Avoid the panic attack and uncontrollable crying when you loose your card. You can now instantly lock your card to stop any unwanted transactions. You can also unlock your card when you find it between the couch cushions.
++ Monthly insights are getting hot. Real hot. You can now drill down and really see how much you're spending on booze instead of groceries. That's helpful information, right?
++ PayID was made for you and me. Sit back, relax and forget your BSB (and account number). PayID is now active for all inbound payments.
++ Our plastic cards are starting to find their way in the world. We also made it a bit easier to follow your cards journey to you!
++ Cover your tracks! We've added device de-registration so you can keep your data secure. Dont worry though, we've made it easy to get back in. Our door is always open.
+v0.2.4 | App
+AUG 16, 2018
+They say a small change is as good as a holiday.
++ Minor fixes and improvements.
+v0.2.3 | App
+AUG 9, 2018
+It’s not the size of your update, it’s what you do with it. Got a small fix in to help users who have require login on. All is well with the world.
+v0.2.2 | App
+AUG 26, 2018
+Welcome to our newest batch of beta users! We are still polishing parts of the App so your support and feedback is needed now more than ever!
++ We didn't want to lose face so now use yours to unlock the app (don't get touchy - you can use your fingerprint if your phone does that too)
++ Someone kicked out the microphone lead and a few of the new people haven't been able to hear us. Our techs have plugged us back in and Notifications are working for all again. Hoorah!
++ So turns out 'Times New Roman' is not as popular as it used to be. Our expert font team has hand picked a geometric sans serif with unmistakable character yet universal appeal.
+v0.2.1 | App
+JUL 9, 2018
+You wanted the best... Well, we are still working on it.
++ As a welcome to our newest batch of beta users we gave the UI a bit of a tidy up.
++ And for the users that are already here, we called the exterminator to vanquish some bugs.
++ To those still waiting in line, we are coming around with snacks and fizzy drinks while you wait. Hang tight. We will get you through.
+DELIVERY PLAN
+IN PROGRESS
+UP HIGH
+A subscription tier offering benefits and features. Now in Early Access.
+ESSENTIALS SAVER
+A dedicated, interest-earning Saver designed for bills.
+AUTOMATIC COVERS
+Set up rules to have Savers automatically cover purchases. Previewing now on Up High Early Access.
+QR CODES
+Easily share your payment details or request money using QR Codes.
+STARTING SOON
+SHARED ACCOUNTS
+Ability to create an account shared by two or more people.
+UP HIGH
+EXPLORING CREDIT
+ACCOUNTS &TRANSACTIONS
+ADVISETRAVEL DATES
+PAY CYCLEVIEW
+LOCATIONENABLED ID
+QR CODESUPPORT
+ADD VIRTUALCARDS
+ATTACHVIDEO
+IDENTIFYPAY/SALARY
+REAL-TIMEWEBHOOKS
+UP API(PERSONAL)
+3RD PARTYAPPS/OAUTH
+ANDROID
+IPHONE
+ADD NOTES &ATTACHMENTS
+LINKED ACCOUNTROUND-UPS
+RECURRINGPAYMENTS
+SCHEDULEDPAYMENTS
+CONTACTSON UP
+TAG TRANSACTIONS
+CROWD-SOURCEDIDENTIFICATION
+COMPAREPERIODS
+AUTO TRANSFER % OF PAY/SALARY
+AUTOMATEDTRANSFERS
+MAYBUY
+2UPSAVERS
+HIGH-INTERESTSAVER
+PAY FROMSAVER
+INSTANTPROVISIONING
+REPORT CARDLOST/STOLEN
+ADVANCEDCONTROLS
+CARDS
+BLOCK CARD
+FITBIT PAY
+GARMIN PAY
+INSTANTPROVISIONING
+ACCESS & DATA
+ACCOUNTS
+APPLE PAY
+INSTANTPROVISIONING
+BLOCKEDCHARGES
+GOOGLE PAY
+PAY ANYONE (DE)
+SINGLE USER
+TRANSACTIONAL
+SAVINGS
+MULTI-USER
+ESSENTIALSSAVER
+2UPJOINT ACCOUNTS
+SHAREDACCOUNTS
+ROUND-UPS
+ROUND-UPOPTIONS
+DEPOSIT/WITHDRAWAL
+TRANSFERBETWEEN
+PAYMENTS
+OSKO PAYMENTS
+PAY PHONECONTACTS
+REGISTERPAYIDS
+GENERATEDPAYID
+LINKEDACCOUNTS
+UP-TO-UPPAYMENTS
+PAYMENTREPLIES
+BPAY
+ACTIVITY & INSIGHTS
+UPCOMING
+TALK TO US
+PROFILE
+MERCHANT ID
+TXN CATEGORISER
+EDIT/DELETE
+MANUALADD
+ATTACHTRANSACTION
+REGULARS
+CREATE CONVERSATION
+ATTACHSCREENSHOT
+DISPUTE/REPORTTRANSACTION
+SURVEYS
+UPCOMINGPAYMENTS
+SET TIMEZONE
+UPDATE EMAILADDRESS
+UPDATE POSTALADDRESS
+MONTHLY INSIGHTS
+LOCATION INSIGHTS
+TRACKERS
+MOBILE
+WEB &TABLET
+API
+FILE EXPORTS
+SEARCHACTIVITY
+TRAVELMODE
+SMARTRECEIPTS
+AFTERPAY
+AFTERPAY
+SPLIT BILLS
+IN-APP CARDDETAILS
+WATCH
+UPDATEPROFILE PIC
+CLOSEACCOUNT
+HOME SAVER
+HIDESAVERS
+ANNOUNCEMENTS
+SCHEDULEDTRANSFERS
+SAMSUNG PAY
+UPDATE PHONENUMBER
+REGISTERUPNAME
+FORWARDDEPOSIT
+COVERPURCHASE
+AUTOMATICCOVERS
+INTERESTFORWARDING
+PAYIDSFOR SAVERS
+HOME LOANS
+REQUESTMONEY
+ATTEMPTEDCHARGES
+PLANNED
+UP HIGH
+PRUNED
+IN PROGRESS
+DONE
+PAYMENTS& PAYEES
+INTL.PAYMENTS
+IN-APPSECURECODE
+CUSTOMPERIODS
+LOCKSAVERS
+PRE-APPROVALS
+HI—FI
+PAYTO
+LINKED ACCOUNTSPLITS
+SPENDABLE BALANCE

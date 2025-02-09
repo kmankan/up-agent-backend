@@ -1,0 +1,56 @@
+Up 1.17.0 Release notes
+
+Updates
+
+Contacts on Up
+
+Get hands on with people powered Payments. We’ve reworked our payment experience making it faster and easier to pay your existing contacts.
+
+After allowing access you’ll be able to search your phone contact list to easily find and pay your mates on the Upside. Find your contact and if they’ve not yet an Upsider you can attempt to pay their mobile PayID or, while you’re there, send them an invite to Up with just a tap. It’d be rude not to really. Use Search and you shall find payment contacts you’ve sent cash to in the past for speedy
+
+The payments flow is now silky smooth baking your contacts right in. Osko, Bank detail and Upsider payments are all rolled Up into one. Tap 'Pay Someone' to get going.
+
+Go Incognito
+
+If you travel in many circles and you want to stay on the down low. You can opt out of other Upsiders with you in their mobile contacts to see your profile photo and Upname. To appear without Upsider treatment turn off "Allow contacts to see I'm on Up" from your Payment Settings menu in the app. It’ll be our secret.
+
+Grow Up
+
+If you import your phone contacts Hook Up a Mate can now show you a list of which of your mates are yet to sign Up. Tap into your circle of contacts to invite with just a tap and quickly spread the word. No doubles or do-overs, you’ll know right away if someone in your contacts has been invited before.
+
+Utilize the power of your people. Look at you go, you’ve always been the savvy one in the group.
+
+Up
+
+Easy Money
+
+@up_banking
+
+Tags: Release Notes, Up 1.17.0
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Up turns 2! But we're turning up for you.
+
+Less stress. Good times. And more to come.
+
+Up
+
+Oct 30, 2020
+
+Up 1.16.0 Release notes
+
+Up Widgets, Eftpos for Apple Pay, Allow Contact Settings.
+
+Up
+
+Oct 26, 2020
+Keep reading
+
+More from the makers of Up.

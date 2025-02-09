@@ -1,0 +1,1951 @@
+Section I: Pay Anyone Service
+
+Current and historical versions of the Section I: Pay Anyone Service section of the Up Personal Accounts Terms & Conditions.
+
+Publication date:
+
+Thursday, 9 November 2023
+Monday, 29 May 2023
+Monday, 21 November 2022
+Saturday, 31 July 2021
+Monday, 10 August 2020
+Thursday, 12 September 2019
+Tuesday, 20 August 2019
+Friday, 31 May 2019
+Published Thursday, 9 November 2023
+
+This section applies if you use the Pay Anyone Service. The Key Features Table indicates the accounts for which this is available.
+
+58. About the Pay Anyone Service
+
+The Pay Anyone Service is an online service that allows you to transfer funds directly to accounts at financial institutions within Australia. The transfer may be a once only transfer (either immediate or future date) or you can arrange regular reoccurring transfers.
+
+59. Using the Pay Anyone Service
+
+59.1. When you tell us to make a Pay Anyone transfer, you must provide us with the following information:
+
+the account from which you want us to debit the Pay Anyone transfer;
+the correct account number of the person or business to whom you wish to transfer funds;
+the correct BSB of the financial institution at which the account to whom you wish to transfer funds is held or a PayID created and linked to the account;
+a reference;
+the amount of the Pay Anyone transfer; and
+when you want the transfer made.
+
+59.2. You acknowledge and accept that we are not obliged to effect a Pay Anyone transfer if you do not give us all of the above information or give us inaccurate information.
+
+59.3. You authorise us to debit the nominated account you specify with the amount of that Pay Anyone transfer(s) you instruct us to make.
+
+Warning: Some banks do not cross check the account number with the account name, which may lead to your payment being placed into the wrong account, if you enter an incorrect BSB or account number. You must ensure that the BSB and account number you give us are correct. We will not be liable for any loss as a result of you entering the wrong BSB or account number.
+
+59.4. Pay Anyone transfers may be processed as a Direct Entry Payment or, once the NPP has been launched, as an Osko Payment.
+
+59.5. We may decide whether to process Pay Anyone transfers you request from your accounts as Direct Entry Payments or Osko Payments in our absolute discretion and you must not assume that Osko Payments will always be available or offered to you.
+
+60. Payments
+
+60.1. We may impose restrictions on the accounts from which a Pay Anyone transfer may be made or impose limits on the amount of Pay Anyone transfers. Limits will be advised in-app.
+
+60.2. We may decide not to make any payment if there are insufficient funds available for withdrawal in the specified nominated account to be debited on the due payment date.
+
+60.3. We may decide not to process a future-dated Pay Anyone transfer if you have instructed us to make the transfer using a PayID and, at the relevant transfer time, we become aware that the details registered for that PayID in the NPP Addressing Service have substantially changed since you instructed us or, in the case of recurring payments, since the previous transfer.
+
+60.4. A delay may occur in the processing of a Pay Anyone transfer where:
+
+there is a public or bank holiday on the day you instruct us to make a Pay Anyone transfer; or
+you instruct us to make a Pay Anyone transfer on a day which is not a business day or after our payment cut-off time on a business day (for payment cut-off times see clause 64).
+
+60.5. Regardless of when an immediate Pay Anyone transfer is made, the account from which you want us to debit the Pay Anyone transfer will be debited immediately unless we enforce a delay (such as described in 60.8), in which case the amount will not be debited until that delay has elapsed.
+
+60.6. Pay Anyone transfers are irrevocable and once you have told us to make a Pay Anyone transfer it cannot be stopped or cancelled. You must therefore take care to ensure all information you give us in relation to a Pay Anyone transfer request is correct and complete.
+
+60.7. Where we process a Pay Anyone transfer as an Osko Payment, the transfer will generally be processed, cleared and settled on a 24/7 near real-time basis.
+
+60.8. We may delay processing a Pay Anyone transfer (including an Osko Payment) for up to 24 hours when you are transferring to a payee account you have not made a Pay Anyone transfer to previously or where the amount of the Pay Anyone transfer is greater than the amount of Pay Anyone transfers you have made to the account previously. We may also delay processing a Pay Anyone transfer as described in clause 9.3.
+
+60.9. In relation to transactions to or from the account, you authorise Up to disclose and collect information (including personal information) to and from other financial institutions, to the extent Up considers this reasonably necessary.
+
+61. If a transfer amount is incorrect
+
+61.1. You must ensure that the information you give us in relation to each Pay Anyone transfer is correct. If you discover that we have been instructed to make a transfer for an incorrect amount:
+
+if the amount transferred is greater than the required amount, contact the person or business to whom the funds were transferred to obtain a refund for the excess;
+if the amount transferred is less than the required amount, you can simply make a further Pay Anyone transfer for the difference.
+62. Suspension of the Pay Anyone Service
+
+62.1. We may suspend your right to use the Pay Anyone service at any time if you are suspected of acting in a fraudulent or improper manner or we believe doing so is reasonably necessary in order for us to ensure the security or integrity of the Up app, the Pay Anyone service or your account.
+
+63. Limit reductions
+
+63.1. We may reduce your Pay Anyone daily limit if you do not use any or part of your limit over a period of time. We will notify you in writing at least 20 days before taking such action, where we are required to do so under the ePayments Code.
+
+64. Cut-off times
+
+64.1. If you instruct us to transfer funds before the time specified below, the transfer will be processed overnight on that business day. Subject to the financial institution to whom the funds are being transferred, the payment will in most cases settle on the next business day.
+
+Cut-off times:
+
+Monday -- Friday: 7.00pm (AEST/AEDT)
+
+Saturday, Sunday and Public Holidays: processed next business day.
+
+64.2. Pay Anyone transfers may take longer to be credited if you tell us to make a Pay Anyone transfer on a Saturday, Sunday or public holiday or if the recipient's financial institution does not process the payment as soon as they receive it.
+
+65. Liability for mistaken payments, unauthorised transactions and fraud
+
+65.1. You must notify us immediately:
+
+if you become aware that you may have made a mistake (except in relation to the Pay Anyone transfer amount - see clause 61 above or paying funds to an Unintended Recipient -- see clause 66.1), when instructing us to make a Pay Anyone transfer;
+if you did not authorise the Pay Anyone transfer from your account;
+if you believe a Pay Anyone transfer was not processed in accordance with your instructions (including delays);
+if you think you have been fraudulently induced to make a Pay Anyone transfer.
+
+65.2. We will attempt to rectify any such matters in relation to your Pay Anyone transfer in the way described in this clause. If a Pay Anyone transfer is made on your account without your knowledge or consent, liability for that unauthorised Pay Anyone transfer will be determined in accordance with clause 44. Otherwise, except as set out in this clause 64 we will not be liable for any loss or damage you suffer as a result of using the Pay Anyone Service.
+
+65.3. We are not liable for any consequential loss or damage you suffer as a result of using the Pay Anyone Service other than any loss or damage which is due to our negligence or breach of any condition or warranty implied by law which cannot be excluded, restricted or modified at all or only to a limited extent.
+
+66. Mistaken Internet Payments
+
+66.1. In this clause, the following words have these specific meanings:
+
+"Mistaken Internet Payment" means a 'Mistaken Internet Payment' under the ePayments Code or a 'Mistaken Payment' under the NPP Regulations.
+
+Note: This relates to payments you make to an Unintended Recipient using the Pay Anyone Service where you enter an incorrect BSB or account number. It does not include Misdirected Payment under the NPP Regulations or payments made using BPAY.
+
+"Other ADI" means the authorised deposit-taking institution (as defined in the Banking Act 1959 Cth) of the Unintended Recipient.
+
+"Unintended Recipient" means the recipient of funds as a result of a Mistaken Internet Payment.
+
+66.2. This clause applies where you have made a Mistaken Internet Payment covered by the ePayments Code and the Other ADI subscribes to the ePayment Code or which was processed through NPP.
+
+66.3. If you have made a Mistaken Internet Payment, you must notify us as soon as possible. We will investigate the matter and inform you (in writing) of the outcome within 30 business days from the date you notified us.
+
+66.4. Without the consent of the Unintended Recipient, it may be possible to retrieve the funds from your Mistaken Internet Payment if:
+
+you reported the Mistaken Internet Payment to us within 7 months;
+we decide that a Mistaken Internet Payment has occurred;
+the Other ADI decides that a Mistaken Internet Payment has occurred; and
+the Unintended Recipient has sufficient credit available in their account to retrieve the funds.
+
+Note: If you report the Mistaken Internet Payment after 10 days but before 7 months, the Unintended Recipient will be given an opportunity to establish that they are entitled to the funds.
+
+66.5. With the consent of the Unintended Recipient, it may be possible to retrieve the funds from your Mistaken Internet Payment if:
+
+both we and the Other ADI decide that a Mistaken Internet Payment has occurred but the Unintended Recipient does not have sufficient credit in their account;
+both we and the Other ADI decide that a Mistaken Internet Payment has occurred, but you reported the Mistaken Internet Payment after seven months; or
+the Other ADI decides (in their discretion) to seek the Unintended Recipient's consent to return the funds even if the Other ADI is not satisfied that a Mistaken Internet Payment has occurred.
+
+66.6. If the Other ADI withdraws funds from the Unintended Recipient's account, they will return the funds to us. We will then return the funds to you as soon as possible.
+
+66.7. You will be responsible for any of your losses following a Mistaken Internet Payment if:
+
+both we and the Other ADI decide that no Mistaken Internet Payment has occurred; or
+in certain circumstances, the Unintended Recipient is able to establish that they are entitled to the funds; or
+the consent as described in clause 66.5 is not obtained from the Unintended Recipient.
+
+66.8. You can complain to us about the way your report of a Mistaken Internet Payment is dealt with by contacting us on telephone 1300 002 258 from 9:00am -- 5.00pm (AEST/AEDT) Monday to Friday.
+
+66.9 If you are not satisfied with the outcome under clause 66.8, you may contact our external dispute resolution scheme. External dispute resolution is a free service established to provide you with an independent mechanism to resolve specific complaints. Our external dispute resolution provider is the Australian Financial Complaints Authority (AFCA). You can contact the AFCA at:
+
+Australian Financial Complaints Authority
+
+GPO Box 3
+
+Melbourne VIC 3001
+
+Phone: 1800 931 678
+
+Website: www.afca.org.au
+
+Email: info@afca.org.au
+
+66.9. We are not liable for any consequential loss or damage you suffer as a result of using the Pay Anyone facility other than any loss or damage which is due to our negligence or breach of any condition or warranty implied by law which cannot be excluded, restricted or modified at all or only to a limited extent.
+
+66.10. Where you are the recipient of a Mistaken Internet Payment, you authorise us to withdraw the funds relating to that Mistaken Internet Payment from your account if we are required under the ePayments Code to recover those funds from you and return them to the payer's authorised deposit taking institution.
+
+67. Incorrect Account Number
+
+67.1. When we process your Pay Anyone transfer, we process the Pay Anyone transfer based on the BSB and account number you provide.
+
+WARNING: We do not cross check the account number with the account name or reference you provide us.
+
+67.2. If your Pay Anyone transfer is to another financial institution, your Pay Anyone transfer may also be processed on the BSB and account number provided as not all financial institutions cross check account numbers and names.
+
+Example 1: You want to send a Pay Anyone transfer to Mr Citizen's account, being BSB 001 012 Account Number 123456 however you type in BSB 001 012 Account Number 123465, the payment will be made into account number 123465 instead of Mr Citizen's account.
+
+Example 2: You want to send a Pay Anyone transfer to Mr Citizen's account, being BSB 001 012 Account Number 123456 however you type in BSB 001 021 Account Number 123456, the payment will be made into account number 123456 at BSB 001 021 instead of BSB 001 012.
+
+67.3. It is vital that you include the correct account number and BSB.
+
+68. PayIDs
+
+68.1. In our discretion, we may allow you to create a PayID for your account so that NPP Payments can be made to your account using the PayID instead of the BSB and account number.
+
+68.2. Creating a PayID using your personal details (eg. mobile phone number or email address) is optional. We will not create a PayID for your account using your personal details without your consent.
+
+68.3. We will issue you with an Up generated PayID as part of holding an account with Up, and may disclose it to other Up customers.
+
+Creating a PayID
+
+68.4. You may register and unregister a PayID for your account in the Up application.
+
+68.5. You may only create a PayID for your account if:
+
+we are able to verify your identity in a manner that is satisfactory to us;
+you own or are authorised to use the PayID;
+the PayID is not likely to be misleading as to who the accountholder for the account is; and
+creating the PayID will not infringe on the intellectual property rights of any person.
+
+68.6. We may refuse to allow you to create a PayID for any reason, including where we have not been able to satisfactorily verify your identity or we are not satisfied that you own or are authorised to use the PayID you are trying to create or we are not satisfied that creating the PayID will not infringe the intellectual property rights of any person.
+
+68.7. By creating a PayID for your account:
+
+you assure us that you own or are authorised to use the PayID;
+you agree to immediately notify us if any of the information you provide to us when creating the PayID changes or becomes incorrect or misleading;
+you acknowledge that the PayID and information relating to you and the account the PayID is linked to (including the account name, BSB and account number) will be registered in the NPP Addressing Service operated by NPP Australia Limited (not us); and
+you consent to:
+us disclosing your personal information and the other information you provide to us to NPP Australia Limited as necessary to create the PayID in the NPP Addressing Service;
+third parties, such as NPP Australia Limited and other financial institutions that connect to or use the NPP, collecting, storing, using and disclosing that information (including your name and account details) in accordance with the NPP Regulations and NPP Procedures and as necessary for purposes related to NPP Payments to you or your account. Without limiting the last sentence, you acknowledge that the account name associated with your account, or a summary of it, may be disclosed to any person that initiates a NPP Payment using the PayID and.
+third parties such as NPP Australia Limited and other financial institutions that connect to or use the NPP, accessing your PayID information for the purposes of creating and sending PayTo Payment Agreement creation requests to us to seek your authorisation and for the purposes of sending PayTo Payment requests, in connection with an authorised Payment Agreement, to us for processing from your Account.
+
+68.8. The types of PayIDs we allow you to create and link to your account may differ depending on your circumstances and the type of account you have.
+
+68.9. More than one PayID can be created and linked to an account provided that each PayID is unique.
+
+68.10. When creating a PayID we will automatically provision a PayID name that is substantially representative of the account.
+
+Transferring a PayID from or to another account
+
+68.11. With the exception of PayIDs generated by Up (eg. @up.me addresses) you can transfer a PayID created and linked to one account with us or another financial institution to another account with us or another financial institution. However, you cannot transfer a PayID while it is locked (see 68.17 below).
+
+68.12. If you want to transfer a PayID you have created for one account with us to another account with us or another financial institution, you can do so by contacting us and requesting that we transfer the PayID. We will action your request within one business day unless we agree another time period with you. A transfer of your PayID to another institution is completed by that institution.
+
+68.13. If you want to transfer a PayID that has been created and linked to an account at another institution to an account with us, you must first contact the other financial institution to tell them you want to transfer the PayID and then create the PayID with us.
+
+Updating, locking and closing a PayID
+
+68.14. With the exception of PayIDs generated by Up (eg. @up.me addresses) you can request that we update or close a PayID that has been created and linked to your account at any time by contacting us. Generated PayIDs cannot be cancelled or transferred.
+
+68.15. You must promptly notify us if, at any time, you cease to own or be authorised to use a PayID created and linked to your account or if any of the information you give us when the PayID is created changes, and request that we update or close the PayID.
+
+68.16. We will action a request from you to update or close a PayID within one business day unless we agree another time period with you.
+
+68.17. We may, if we have reasonable grounds for doing so, lock or close a PayID created and linked to your account at any time without prior notice to you. Without limitation, this includes where we suspect you created the PayID or are using the PayID in connection with fraudulent or illegal activity.
+
+68.18. If your PayID is locked, you can request that it be unlocked by contacting us. If a PayID is closed it must be re-created before it can be used again.
+
+PayID disputes
+
+68.19. If a PayID cannot be created for your account because it has already been created and linked to another account by someone else we can lodge a dispute. However, there is no guarantee that the dispute will be resolved in your favour or result in you being able to create the PayID for your account. We will promptly notify you of the outcome of the dispute.
+
+Liability for PayIDs
+
+68.20. To the maximum extent permitted by law, we are not liable to you for any loss or damage you suffer as a result of:
+
+a PayID being created and linked to your account or you using or attempting to use a PayID that has been created and linked to your account;
+us refusing to create a PayID or any delay in a PayID being created and linked to your account;
+us locking or closing a PayID that has been created and linked to your account; or
+any failure or malfunction of the NPP (including the NPP Address Service) or any of our systems or procedures that use or connect with the NPP.
+
+We do not exclude any liability to you for loss or damage to you arising directly from the fraud, negligence or wilful misconduct of us, our employees or agents or a receiver appointed by us.
+
+Sending to Up PayIDs
+
+68.21. When receiving a payment from another Up customer, we will reveal their Up-generated PayID to you. This will allow you to make a payment back to that PayID. This feature is only available between Up customers and does not apply to accounts from other institutions. Payments sent using this PayID are covered by the same terms as any other PayID payment.
+
+Published Monday, 29 May 2023
+
+This section applies if you use the Pay Anyone Service. The Key Features Table indicates the accounts for which this is available.
+
+57. About the Pay Anyone Service
+
+The Pay Anyone Service is an online service that allows you to transfer funds directly to accounts at financial institutions within Australia. The transfer may be a once only transfer (either immediate or future date) or you can arrange regular reoccurring transfers.
+
+58. Using the Pay Anyone Service
+
+58.1. When you tell us to make a Pay Anyone transfer, you must provide us with the following information:
+
+the account from which you want us to debit the Pay Anyone transfer;
+the correct account number of the person or business to whom you wish to transfer funds;
+the correct BSB of the financial institution at which the account to whom you wish to transfer funds is held or a PayID created and linked to the account;
+a reference;
+the amount of the Pay Anyone transfer; and
+when you want the transfer made.
+
+58.2. You acknowledge and accept that we are not obliged to effect a Pay Anyone transfer if you do not give us all of the above information or give us inaccurate information.
+
+58.3. You authorise us to debit the nominated account you specify with the amount of that Pay Anyone transfer(s) you instruct us to make.
+
+Warning: Some banks do not cross check the account number with the account name, which may lead to your payment being placed into the wrong account, if you enter an incorrect BSB or account number. You must ensure that the BSB and account number you give us are correct. We will not be liable for any loss as a result of you entering the wrong BSB or account number.
+
+58.4. Pay Anyone transfers may be processed as a Direct Entry Payment or, once the NPP has been launched, as an Osko Payment.
+
+58.5. We may decide whether to process Pay Anyone transfers you request from your accounts as Direct Entry Payments or Osko Payments in our absolute discretion and you must not assume that Osko Payments will always be available or offered to you.
+
+59. Payments
+
+59.1. We may impose restrictions on the accounts from which a Pay Anyone transfer may be made or impose limits on the amount of Pay Anyone transfers. Limits will be advised in-app.
+
+59.2. We may decide not to make any payment if there are insufficient funds available for withdrawal in the specified nominated account to be debited on the due payment date.
+
+59.3. We may decide not to process a future-dated Pay Anyone transfer if you have instructed us to make the transfer using a PayID and, at the relevant transfer time, we become aware that the details registered for that PayID in the NPP Addressing Service have substantially changed since you instructed us or, in the case of recurring payments, since the previous transfer.
+
+59.4. A delay may occur in the processing of a Pay Anyone transfer where:
+
+there is a public or bank holiday on the day you instruct us to make a Pay Anyone transfer; or
+you instruct us to make a Pay Anyone transfer on a day which is not a business day or after our payment cut-off time on a business day (for payment cut-off times see clause 63).
+
+59.5. Regardless of when an immediate Pay Anyone transfer is made, the account from which you want us to debit the Pay Anyone transfer will be debited immediately unless we enforce a delay (such as described in 59.8), in which case the amount will not be debited until that delay has elapsed.
+
+59.6. Pay Anyone transfers are irrevocable and once you have told us to make a Pay Anyone transfer it cannot be stopped or cancelled. You must therefore take care to ensure all information you give us in relation to a Pay Anyone transfer request is correct and complete.
+
+59.7. Where we process a Pay Anyone transfer as an Osko Payment, the transfer will generally be processed, cleared and settled on a 24/7 near real-time basis.
+
+59.8. We may delay processing a Pay Anyone transfer (including an Osko Payment) for up to 24 hours when you are transferring to a payee account you have not made a Pay Anyone transfer to previously or where the amount of the Pay Anyone transfer is greater than the amount of Pay Anyone transfers you have made to the account previously. We may also delay processing a Pay Anyone transfer as described in clause 9.3.
+
+59.9. In relation to transactions to or from the account, you authorise Up to disclose and collect information (including personal information) to and from other financial institutions, to the extent Up considers this reasonably necessary.
+
+60. If a transfer amount is incorrect
+
+60.1. You must ensure that the information you give us in relation to each Pay Anyone transfer is correct. If you discover that we have been instructed to make a transfer for an incorrect amount:
+
+if the amount transferred is greater than the required amount, contact the person or business to whom the funds were transferred to obtain a refund for the excess;
+if the amount transferred is less than the required amount, you can simply make a further Pay Anyone transfer for the difference.
+61. Suspension of the Pay Anyone Service
+
+61.1. We may suspend your right to use the Pay Anyone service at any time if you are suspected of acting in a fraudulent or improper manner or we believe doing so is reasonably necessary in order for us to ensure the security or integrity of the Up app, the Pay Anyone service or your account.
+
+62. Limit reductions
+
+62.1. We may reduce your Pay Anyone daily limit if you do not use any or part of your limit over a period of time. We will notify you in writing at least 20 days before taking such action, where we are required to do so under the ePayments Code.
+
+63. Cut-off times
+
+63.1. If you instruct us to transfer funds before the time specified below, the transfer will be processed overnight on that business day. Subject to the financial institution to whom the funds are being transferred, the payment will in most cases settle on the next business day.
+
+Cut-off times:
+
+Monday -- Friday: 7.00pm (AEST/AEDT)
+
+Saturday, Sunday and Public Holidays: processed next business day.
+
+63.2. Pay Anyone transfers may take longer to be credited if you tell us to make a Pay Anyone transfer on a Saturday, Sunday or public holiday or if the recipient's financial institution does not process the payment as soon as they receive it.
+
+64. Liability for mistaken payments, unauthorised transactions and fraud
+
+64.1. You must notify us immediately:
+
+if you become aware that you may have made a mistake (except in relation to the Pay Anyone transfer amount - see clause 60 above or paying funds to an Unintended Recipient -- see clause 65.1), when instructing us to make a Pay Anyone transfer;
+if you did not authorise the Pay Anyone transfer from your account;
+if you believe a Pay Anyone transfer was not processed in accordance with your instructions (including delays);
+if you think you have been fraudulently induced to make a Pay Anyone transfer.
+
+64.2. We will attempt to rectify any such matters in relation to your Pay Anyone transfer in the way described in this clause. If a Pay Anyone transfer is made on your account without your knowledge or consent, liability for that unauthorised Pay Anyone transfer will be determined in accordance with clause 44. Otherwise, except as set out in this clause 64 we will not be liable for any loss or damage you suffer as a result of using the Pay Anyone Service.
+
+64.3. You indemnify us against any loss or damage we may suffer due to any claims, suits, demands or action of any kind brought against us arising directly or indirectly because you:
+
+did not observe any of your obligations under the terms and conditions in this section; or
+acted negligently or fraudulently in connection with the other terms and conditions.
+
+64.4. We are not liable for any consequential loss or damage you suffer as a result of using the Pay Anyone Service other than any loss or damage which is due to our negligence or breach of any condition or warranty implied by law which cannot be excluded, restricted or modified at all or only to a limited extent.
+
+65. Mistaken Internet Payments
+
+65.1. In this clause, the following words have these specific meanings:
+
+"Mistaken Internet Payment" means a 'Mistaken Internet Payment' under the ePayments Code or a 'Mistaken Payment' under the NPP Regulations.
+
+Note: This relates to payments you make to an Unintended Recipient using the Pay Anyone Service where you enter an incorrect BSB or account number. It does not include Misdirected Payment under the NPP Regulations or payments made using BPAY.
+
+"Other ADI" means the authorised deposit-taking institution (as defined in the Banking Act 1959 Cth) of the Unintended Recipient.
+
+"Unintended Recipient" means the recipient of funds as a result of a Mistaken Internet Payment.
+
+65.2. This clause applies where you have made a Mistaken Internet Payment covered by the ePayments Code and the Other ADI subscribes to the ePayment Code or which was processed through NPP.
+
+65.3. If you have made a Mistaken Internet Payment, you must notify us as soon as possible. We will investigate the matter and inform you (in writing) of the outcome within 30 business days from the date you notified us.
+
+65.4. Without the consent of the Unintended Recipient, it may be possible to retrieve the funds from your Mistaken Internet Payment if:
+
+you reported the Mistaken Internet Payment to us within 7 months;
+we decide that a Mistaken Internet Payment has occurred;
+the Other ADI decides that a Mistaken Internet Payment has occurred; and
+the Unintended Recipient has sufficient credit available in their account to retrieve the funds.
+
+Note: If you report the Mistaken Internet Payment after 10 days but before 7 months, the Unintended Recipient will be given an opportunity to establish that they are entitled to the funds.
+
+65.5. With the consent of the Unintended Recipient, it may be possible to retrieve the funds from your Mistaken Internet Payment if:
+
+both we and the Other ADI decide that a Mistaken Internet Payment has occurred but the Unintended Recipient does not have sufficient credit in their account;
+both we and the Other ADI decide that a Mistaken Internet Payment has occurred, but you reported the Mistaken Internet Payment after seven months; or
+the Other ADI decides (in their discretion) to seek the Unintended Recipient's consent to return the funds even if the Other ADI is not satisfied that a Mistaken Internet Payment has occurred.
+
+65.6. If the Other ADI withdraws funds from the Unintended Recipient's account, they will return the funds to us. We will then return the funds to you as soon as possible.
+
+65.7. You will be responsible for any of your losses following a Mistaken Internet Payment if:
+
+both we and the Other ADI decide that no Mistaken Internet Payment has occurred; or
+in certain circumstances, the Unintended Recipient is able to establish that they are entitled to the funds; or
+the consent as described in clause 65.5 is not obtained from the Unintended Recipient.
+
+65.8. You can complain to us about the way your report of a Mistaken Internet Payment is dealt with by contacting us on telephone 1300 002 258 from 9:00am -- 5.00pm (AEST/AEDT) Monday to Friday.
+
+65.9 If you are not satisfied with the outcome under clause 65.8, you may contact our external dispute resolution scheme. External dispute resolution is a free service established to provide you with an independent mechanism to resolve specific complaints. Our external dispute resolution provider is the Australian Financial Complaints Authority (AFCA). You can contact the AFCA at:
+
+Australian Financial Complaints Authority
+
+GPO Box 3
+
+Melbourne VIC 3001
+
+Phone: 1800 931 678
+
+Website: www.afca.org.au
+
+Email: info@afca.org.au
+
+65.9. We are not liable for any consequential loss or damage you suffer as a result of using the Pay Anyone facility other than any loss or damage which is due to our negligence or breach of any condition or warranty implied by law which cannot be excluded, restricted or modified at all or only to a limited extent.
+
+65.10. Where you are the recipient of a Mistaken Internet Payment, you authorise us to withdraw the funds relating to that Mistaken Internet Payment from your account if we are required under the ePayment Code to recover those funds from you and return them to the payer's authorised deposit taking institution.
+
+66. Incorrect Account Number
+
+66.1. When we process your Pay Anyone transfer, we process the Pay Anyone transfer based on the BSB and account number you provide.
+
+WARNING: We do not cross check the account number with the account name or reference you provide us.
+
+66.2. If your Pay Anyone transfer is to another financial institution, your Pay Anyone transfer may also be processed on the BSB and account number provided as not all financial institutions cross check account numbers and names.
+
+Example 1: You want to send a Pay Anyone transfer to Mr Citizen's account, being BSB 001 012 Account Number 123456 however you type in BSB 001 012 Account Number 123465, the payment will be made into account number 123465 instead of Mr Citizen's account.
+
+Example 2: You want to send a Pay Anyone transfer to Mr Citizen's account, being BSB 001 012 Account Number 123456 however you type in BSB 001 021 Account Number 123456, the payment will be made into account number 123456 at BSB 001 021 instead of BSB 001 012.
+
+66.3. It is vital that you include the correct account number and BSB.
+
+67. PayIDs
+
+67.1. In our discretion, we may allow you to create a PayID for your account so that NPP Payments can be made to your account using the PayID instead of the BSB and account number.
+
+67.2. Creating a PayID using your personal details (eg. mobile phone number or email address) is optional. We will not create a PayID for your account using your personal details without your consent.
+
+67.3. We will issue you with an Up generated PayID as part of holding an account with Up, and may disclose it to other Up customers.
+
+Creating a PayID
+
+67.4. You may register and unregister a PayID for your account in the Up application.
+
+67.5. You may only create a PayID for your account if:
+
+we are able to verify your identity in a manner that is satisfactory to us;
+you own or are authorised to use the PayID;
+the PayID is not likely to be misleading as to who the accountholder for the account is; and
+creating the PayID will not infringe on the intellectual property rights of any person.
+
+67.6. We may refuse to allow you to create a PayID for any reason, including where we have not been able to satisfactorily verify your identity or we are not satisfied that you own or are authorised to use the PayID you are trying to create or we are not satisfied that creating the PayID will not infringe the intellectual property rights of any person.
+
+67.7. By creating a PayID for your account:
+
+you assure us that you own or are authorised to use the PayID;
+you agree to immediately notify us if any of the information you provide to us when creating the PayID changes or becomes incorrect or misleading;
+you acknowledge that the PayID and information relating to you and the account the PayID is linked to (including the account name, BSB and account number) will be registered in the NPP Addressing Service operated by NPP Australia Limited (not us); and
+you consent to:
+us disclosing your personal information and the other information you provide to us to NPP Australia Limited as necessary to create the PayID in the NPP Addressing Service; and
+third parties, such as NPP Australia Limited and other financial institutions that connect to or use the NPP, collecting, storing, using and disclosing that information (including your name and account details) in accordance with the NPP Regulations and NPP Procedures and as necessary for purposes related to NPP Payments to you or your account. Without limiting the last sentence, you acknowledge that the account name associated with your account, or a summary of it, may be disclosed to any person that initiates a NPP Payment using the PayID.
+
+67.8. The types of PayIDs we allow you to create and link to your account may differ depending on your circumstances and the type of account you have.
+
+67.9. More than one PayID can be created and linked to an account provided that each PayID is unique.
+
+67.10. When creating a PayID we will automatically provision a PayID name that is substantially representative of the account.
+
+Transferring a PayID from or to another account
+
+67.11. With the exception of PayIDs generated by Up (eg. @up.me addresses) you can transfer a PayID created and linked to one account with us or another financial institution to another account with us or another financial institution. However, you cannot transfer a PayID while it is locked (see 67.16 below).
+
+67.12. If you want to transfer a PayID you have created for one account with us to another account with us or another financial institution, you can do so by contacting us and requesting that we transfer the PayID. We will action your request within one business day unless we agree another time period with you. A transfer of your PayID to another institution is completed by that institution.
+
+67.13. If you want to transfer a PayID that has been created and linked to an account at another institution to an account with us, you must first contact the other financial institution to tell them you want to transfer the PayID and then create the PayID with us.
+
+Updating, locking and closing a PayID
+
+67.14. With the exception of PayIDs generated by Up (eg. @up.me addresses) you can request that we update or close a PayID that has been created and linked to your account at any time by contacting us. Generated PayIDs cannot be cancelled or transferred.
+
+67.15. You must promptly notify us if, at any time, you cease to own or be authorised to use a PayID created and linked to your account or if any of the information you give us when the PayID is created changes, and request that we update or close the PayID.
+
+67.16. We will action a request from you to update or close a PayID within one business day unless we agree another time period with you.
+
+67.17. We may, if we have reasonable grounds for doing so, lock or close a PayID created and linked to your account at any time without prior notice to you. Without limitation, this includes where we suspect you created the PayID or are using the PayID in connection with fraudulent or illegal activity.
+
+67.18. If your PayID is locked, you can request that it be unlocked by contacting us. If a PayID is closed it must be re-created before it can be used again.
+
+PayID disputes
+
+67.19. If a PayID cannot be created for your account because it has already been created and linked to another account by someone else we can lodge a dispute. However, there is no guarantee that the dispute will be resolved in your favour or result in you being able to create the PayID for your account. We will promptly notify you of the outcome of the dispute.
+
+Liability for PayIDs
+
+67.20. We are not liable to you for any loss or damage you suffer as a result of:
+
+a PayID being created and linked to your account or you using or attempting to use a PayID that has been created and linked to your account;
+us refusing to create a PayID or any delay in a PayID being created and linked to your account;
+us locking or closing a PayID that has been created and linked to your account; or
+any failure or malfunction of the NPP (including the NPP Address Service) or any of our systems or procedures that use or connect with the NPP.
+
+67.21. You indemnify us against, and will be liable to us for, any direct or indirect loss, damage, charge, expense, fee or claim we may suffer or incur in respect of any PayID that is created and linked to your account or your use or attempted use of such a PayID. We may debit any such loss, damage or cost to any account you hold with us.
+
+Sending to Up PayIDs
+
+67.22. When receiving a payment from another Up customer, we will reveal their Up-generated PayID to you. This will allow you to make a payment back to that PayID. This feature is only available between Up customers and does not apply to accounts from other institutions. Payments sent using this PayID are covered by the same terms as any other PayID payment.
+
+Published Monday, 21 November 2022
+
+This section applies if you use the Pay Anyone Service. The Key Features Table indicates the accounts for which this is available.
+
+57. About the Pay Anyone Service
+
+The Pay Anyone Service is an online service that allows you to transfer funds directly to accounts at financial institutions within Australia. The transfer may be a once only transfer (either immediate or future date) or you can arrange regular reoccurring transfers.
+
+58. Using the Pay Anyone Service
+
+58.1. When you tell us to make a Pay Anyone transfer, you must provide us with the following information:
+
+the account from which you want us to debit the Pay Anyone transfer;
+the correct account number of the person or business to whom you wish to transfer funds;
+the correct BSB of the financial institution at which the account to whom you wish to transfer funds is held or a PayID created and linked to the account;
+a reference;
+the amount of the Pay Anyone transfer; and
+when you want the transfer made.
+
+58.2. You acknowledge and accept that we are not obliged to effect a Pay Anyone transfer if you do not give us all of the above information or give us inaccurate information.
+
+58.3. You authorise us to debit the nominated account you specify with the amount of that Pay Anyone transfer(s) you instruct us to make.
+
+Warning: Some banks do not cross check the account number with the account name, which may lead to your payment being placed into the wrong account, if you enter an incorrect BSB or account number. You must ensure that the BSB and account number you give us are correct. We will not be liable for any loss as a result of you entering the wrong BSB or account number.
+
+58.4. Pay Anyone transfers may be processed as a Direct Entry Payment or, once the NPP has been launched, as an Osko Payment.
+
+58.5. We may decide whether to process Pay Anyone transfers you request from your accounts as Direct Entry Payments or Osko Payments in our absolute discretion and you must not assume that Osko Payments will always be available or offered to you.
+
+59. Payments
+
+59.1. We may impose restrictions on the accounts from which a Pay Anyone transfer may be made or impose limits on the amount of Pay Anyone transfers. The default Pay Anyone daily limit is $30,000.
+
+59.2. We may decide not to make any payment if there are insufficient funds available for withdrawal in the specified nominated account to be debited on the due payment date.
+
+59.3. We may decide not to process a future-dated Pay Anyone transfer if you have instructed us to make the transfer using a PayID and, at the relevant transfer time, we become aware that the details registered for that PayID in the NPP Addressing Service have substantially changed since you instructed us or, in the case of recurring payments, since the previous transfer.
+
+59.4. A delay may occur in the processing of a Pay Anyone transfer where:
+
+there is a public or bank holiday on the day you instruct us to make a Pay Anyone transfer; or
+you instruct us to make a Pay Anyone transfer on a day which is not a business day or after our payment cut-off time on a business day (for payment cut-off times see clause 63).
+
+59.5. Regardless of when an immediate Pay Anyone transfer is made, the account from which you want us to debit the Pay Anyone transfer will be debited immediately unless we enforce a delay (such as described in 59.8), in which case the amount will not be debited until that delay has elapsed.
+
+59.6. Pay Anyone transfers are irrevocable and once you have told us to make a Pay Anyone transfer it cannot be stopped or cancelled. You must therefore take care to ensure all information you give us in relation to a Pay Anyone transfer request is correct and complete.
+
+59.7. Where we process a Pay Anyone transfer as an Osko Payment, the transfer will generally be processed, cleared and settled on a 24/7 near real-time basis.
+
+59.8. We may delay processing a Pay Anyone transfer (including an Osko Payment) for up to 24 hours when you are transferring to a payee account you have not made a Pay Anyone transfer to previously or where the amount of the Pay Anyone transfer is greater than the amount of Pay Anyone transfers you have made to the account previously. We may also delay processing a Pay Anyone transfer as described in clause 9.3.
+
+59.9. In relation to transactions to or from the account, you authorise Up to disclose and collect information (including personal information) to and from other financial institutions, to the extent Up considers this reasonably necessary.
+
+60. If a transfer amount is incorrect
+
+60.1. You must ensure that the information you give us in relation to each Pay Anyone transfer is correct. If you discover that we have been instructed to make a transfer for an incorrect amount:
+
+if the amount transferred is greater than the required amount, contact the person or business to whom the funds were transferred to obtain a refund for the excess;
+if the amount transferred is less than the required amount, you can simply make a further Pay Anyone transfer for the difference.
+61. Suspension of the Pay Anyone Service
+
+61.1. We may suspend your right to use the Pay Anyone service at any time if you are suspected of acting in a fraudulent or improper manner or we believe doing so is reasonably necessary in order for us to ensure the security or integrity of the Up app, the Pay Anyone service or your account.
+
+62. Limit reductions
+
+62.1. We may reduce your Pay Anyone daily limit if you do not use any or part of your limit over a period of time. We will notify you in writing at least 20 days before taking such action, where we are required to do so under the ePayments Code.
+
+63. Cut-off times
+
+63.1. If you instruct us to transfer funds before the time specified below, the transfer will be processed overnight on that business day. Subject to the financial institution to whom the funds are being transferred, the payment will in most cases settle on the next business day.
+
+Cut-off times:
+
+Monday -- Friday: 7.00pm (AEST/AEDT)
+
+Saturday, Sunday and Public Holidays: processed next business day.
+
+63.2. Pay Anyone transfers may take longer to be credited if you tell us to make a Pay Anyone transfer on a Saturday, Sunday or public holiday or if the recipient's financial institution does not process the payment as soon as they receive it.
+
+64. Liability for mistaken payments, unauthorised transactions and fraud
+
+64.1. You must notify us immediately:
+
+if you become aware that you may have made a mistake (except in relation to the Pay Anyone transfer amount - see clause 60 above or paying funds to an Unintended Recipient -- see clause 65.1), when instructing us to make a Pay Anyone transfer;
+if you did not authorise the Pay Anyone transfer from your account;
+if you believe a Pay Anyone transfer was not processed in accordance with your instructions (including delays);
+if you think you have been fraudulently induced to make a Pay Anyone transfer.
+
+64.2. We will attempt to rectify any such matters in relation to your Pay Anyone transfer in the way described in this clause. If a Pay Anyone transfer is made on your account without your knowledge or consent, liability for that unauthorised Pay Anyone transfer will be determined in accordance with clause 44. Otherwise, except as set out in this clause 64 we will not be liable for any loss or damage you suffer as a result of using the Pay Anyone Service.
+
+64.3. You indemnify us against any loss or damage we may suffer due to any claims, suits, demands or action of any kind brought against us arising directly or indirectly because you:
+
+did not observe any of your obligations under the terms and conditions in this section; or
+acted negligently or fraudulently in connection with the other terms and conditions.
+
+64.4. We are not liable for any consequential loss or damage you suffer as a result of using the Pay Anyone Service other than any loss or damage which is due to our negligence or breach of any condition or warranty implied by law which cannot be excluded, restricted or modified at all or only to a limited extent.
+
+65. Mistaken Internet Payments
+
+65.1. In this clause, the following words have these specific meanings:
+
+"Mistaken Internet Payment" means a 'Mistaken Internet Payment' under the ePayments Code or a 'Mistaken Payment' under the NPP Regulations.
+
+Note: This relates to payments you make to an Unintended Recipient using the Pay Anyone Service where you enter an incorrect BSB or account number. It does not include Misdirected Payment under the NPP Regulations or payments made using BPAY.
+
+"Other ADI" means the authorised deposit-taking institution (as defined in the Banking Act 1959 Cth) of the Unintended Recipient.
+
+"Unintended Recipient" means the recipient of funds as a result of a Mistaken Internet Payment.
+
+65.2. This clause applies where you have made a Mistaken Internet Payment covered by the ePayments Code and the Other ADI subscribes to the ePayment Code or which was processed through NPP.
+
+65.3. If you have made a Mistaken Internet Payment, you must notify us as soon as possible. We will investigate the matter and inform you (in writing) of the outcome within 30 business days from the date you notified us.
+
+65.4. Without the consent of the Unintended Recipient, it may be possible to retrieve the funds from your Mistaken Internet Payment if:
+
+you reported the Mistaken Internet Payment to us within 7 months;
+we decide that a Mistaken Internet Payment has occurred;
+the Other ADI decides that a Mistaken Internet Payment has occurred; and
+the Unintended Recipient has sufficient credit available in their account to retrieve the funds.
+
+Note: If you report the Mistaken Internet Payment after 10 days but before 7 months, the Unintended Recipient will be given an opportunity to establish that they are entitled to the funds.
+
+65.5. With the consent of the Unintended Recipient, it may be possible to retrieve the funds from your Mistaken Internet Payment if:
+
+both we and the Other ADI decide that a Mistaken Internet Payment has occurred but the Unintended Recipient does not have sufficient credit in their account;
+both we and the Other ADI decide that a Mistaken Internet Payment has occurred, but you reported the Mistaken Internet Payment after seven months; or
+the Other ADI decides (in their discretion) to seek the Unintended Recipient's consent to return the funds even if the Other ADI is not satisfied that a Mistaken Internet Payment has occurred.
+
+65.6. If the Other ADI withdraws funds from the Unintended Recipient's account, they will return the funds to us. We will then return the funds to you as soon as possible.
+
+65.7. You will be responsible for any of your losses following a Mistaken Internet Payment if:
+
+both we and the Other ADI decide that no Mistaken Internet Payment has occurred; or
+in certain circumstances, the Unintended Recipient is able to establish that they are entitled to the funds; or
+the consent as described in clause 65.5 is not obtained from the Unintended Recipient.
+
+65.8. You can complain to us about the way your report of a Mistaken Internet Payment is dealt with by contacting us on telephone 1300 002 258 from 9:00am -- 5.00pm (AEST/AEDT) Monday to Friday.
+
+65.9 If you are not satisfied with the outcome under clause 65.8, you may contact our external dispute resolution scheme. External dispute resolution is a free service established to provide you with an independent mechanism to resolve specific complaints. Our external dispute resolution provider is the Australian Financial Complaints Authority (AFCA). You can contact the AFCA at:
+
+Australian Financial Complaints Authority
+
+GPO Box 3
+
+Melbourne VIC 3001
+
+Phone: 1800 931 678
+
+Website: www.afca.org.au
+
+Email: info@afca.org.au
+
+65.9. We are not liable for any consequential loss or damage you suffer as a result of using the Pay Anyone facility other than any loss or damage which is due to our negligence or breach of any condition or warranty implied by law which cannot be excluded, restricted or modified at all or only to a limited extent.
+
+65.10. Where you are the recipient of a Mistaken Internet Payment, you authorise us to withdraw the funds relating to that Mistaken Internet Payment from your account if we are required under the ePayment Code to recover those funds from you and return them to the payer's authorised deposit taking institution.
+
+66. Incorrect Account Number
+
+66.1. When we process your Pay Anyone transfer, we process the Pay Anyone transfer based on the BSB and account number you provide.
+
+WARNING: We do not cross check the account number with the account name or reference you provide us.
+
+66.2. If your Pay Anyone transfer is to another financial institution, your Pay Anyone transfer may also be processed on the BSB and account number provided as not all financial institutions cross check account numbers and names.
+
+Example 1: You want to send a Pay Anyone transfer to Mr Citizen's account, being BSB 001 012 Account Number 123456 however you type in BSB 001 012 Account Number 123465, the payment will be made into account number 123465 instead of Mr Citizen's account.
+
+Example 2: You want to send a Pay Anyone transfer to Mr Citizen's account, being BSB 001 012 Account Number 123456 however you type in BSB 001 021 Account Number 123456, the payment will be made into account number 123456 at BSB 001 021 instead of BSB 001 012.
+
+66.3. It is vital that you include the correct account number and BSB.
+
+67. PayIDs
+
+67.1. In our discretion, we may allow you to create a PayID for your account so that NPP Payments can be made to your account using the PayID instead of the BSB and account number.
+
+67.2. Creating a PayID using your personal details (eg. mobile phone number or email address) is optional. We will not create a PayID for your account using your personal details without your consent.
+
+67.3. We will issue you with an Up generated PayID as part of holding an account with Up, and may disclose it to other Up customers.
+
+Creating a PayID
+
+67.4. You may register and unregister a PayID for your account in the Up application.
+
+67.5. You may only create a PayID for your account if:
+
+we are able to verify your identity in a manner that is satisfactory to us;
+you own or are authorised to use the PayID;
+the PayID is not likely to be misleading as to who the accountholder for the account is; and
+creating the PayID will not infringe on the intellectual property rights of any person.
+
+67.6. We may refuse to allow you to create a PayID for any reason, including where we have not been able to satisfactorily verify your identity or we are not satisfied that you own or are authorised to use the PayID you are trying to create or we are not satisfied that creating the PayID will not infringe the intellectual property rights of any person.
+
+67.7. By creating a PayID for your account:
+
+you assure us that you own or are authorised to use the PayID;
+you agree to immediately notify us if any of the information you provide to us when creating the PayID changes or becomes incorrect or misleading;
+you acknowledge that the PayID and information relating to you and the account the PayID is linked to (including the account name, BSB and account number) will be registered in the NPP Addressing Service operated by NPP Australia Limited (not us); and
+you consent to:
+us disclosing your personal information and the other information you provide to us to NPP Australia Limited as necessary to create the PayID in the NPP Addressing Service; and
+third parties, such as NPP Australia Limited and other financial institutions that connect to or use the NPP, collecting, storing, using and disclosing that information (including your name and account details) in accordance with the NPP Regulations and NPP Procedures and as necessary for purposes related to NPP Payments to you or your account. Without limiting the last sentence, you acknowledge that the account name associated with your account, or a summary of it, may be disclosed to any person that initiates a NPP Payment using the PayID.
+
+67.8. The types of PayIDs we allow you to create and link to your account may differ depending on your circumstances and the type of account you have.
+
+67.9. More than one PayID can be created and linked to an account provided that each PayID is unique.
+
+67.10. When creating a PayID we will automatically provision a PayID name that is substantially representative of the account.
+
+Transferring a PayID from or to another account
+
+67.11. With the exception of PayIDs generated by Up (eg. @up.me addresses) you can transfer a PayID created and linked to one account with us or another financial institution to another account with us or another financial institution. However, you cannot transfer a PayID while it is locked (see 67.16 below).
+
+67.12. If you want to transfer a PayID you have created for one account with us to another account with us or another financial institution, you can do so by contacting us and requesting that we transfer the PayID. We will action your request within one business day unless we agree another time period with you. A transfer of your PayID to another institution is completed by that institution.
+
+67.13. If you want to transfer a PayID that has been created and linked to an account at another institution to an account with us, you must first contact the other financial institution to tell them you want to transfer the PayID and then create the PayID with us.
+
+Updating, locking and closing a PayID
+
+67.14. With the exception of PayIDs generated by Up (eg. @up.me addresses) you can request that we update or close a PayID that has been created and linked to your account at any time by contacting us. Generated PayIDs cannot be cancelled or transferred.
+
+67.15. You must promptly notify us if, at any time, you cease to own or be authorised to use a PayID created and linked to your account or if any of the information you give us when the PayID is created changes, and request that we update or close the PayID.
+
+67.16. We will action a request from you to update or close a PayID within one business day unless we agree another time period with you.
+
+67.17. We may, if we have reasonable grounds for doing so, lock or close a PayID created and linked to your account at any time without prior notice to you. Without limitation, this includes where we suspect you created the PayID or are using the PayID in connection with fraudulent or illegal activity.
+
+67.18. If your PayID is locked, you can request that it be unlocked by contacting us. If a PayID is closed it must be re-created before it can be used again.
+
+PayID disputes
+
+67.19. If a PayID cannot be created for your account because it has already been created and linked to another account by someone else we can lodge a dispute. However, there is no guarantee that the dispute will be resolved in your favour or result in you being able to create the PayID for your account. We will promptly notify you of the outcome of the dispute.
+
+Liability for PayIDs
+
+67.20. We are not liable to you for any loss or damage you suffer as a result of:
+
+a PayID being created and linked to your account or you using or attempting to use a PayID that has been created and linked to your account;
+us refusing to create a PayID or any delay in a PayID being created and linked to your account;
+us locking or closing a PayID that has been created and linked to your account; or
+any failure or malfunction of the NPP (including the NPP Address Service) or any of our systems or procedures that use or connect with the NPP.
+
+67.21. You indemnify us against, and will be liable to us for, any direct or indirect loss, damage, charge, expense, fee or claim we may suffer or incur in respect of any PayID that is created and linked to your account or your use or attempted use of such a PayID. We may debit any such loss, damage or cost to any account you hold with us.
+
+Sending to Up PayIDs
+
+67.22. When receiving a payment from another Up customer, we will reveal their Up-generated PayID to you. This will allow you to make a payment back to that PayID. This feature is only available between Up customers and does not apply to accounts from other institutions. Payments sent using this PayID are covered by the same terms as any other PayID payment.
+
+Published Saturday, 31 July 2021
+
+This section applies if you use the Pay Anyone Service. The Key Features Table indicates the accounts for which this is available.
+
+57. About the Pay Anyone Service
+
+The Pay Anyone Service is an online service that allows you to transfer funds directly to accounts at financial institutions within Australia. The transfer may be a once only transfer (either immediate or future date) or you can arrange regular reoccurring transfers.
+
+58. Using the Pay Anyone Service
+
+58.1. When you tell us to make a Pay Anyone transfer, you must provide us with the following information:
+
+the account from which you want us to debit the Pay Anyone transfer;
+the correct account number of the person or business to whom you wish to transfer funds;
+the correct BSB of the financial institution at which the account to whom you wish to transfer funds is held or a PayID created and linked to the account;
+a reference;
+the amount of the Pay Anyone transfer; and
+when you want the transfer made.
+
+58.2. You acknowledge and accept that we are not obliged to effect a Pay Anyone transfer if you do not give us all of the above information or give us inaccurate information.
+
+58.3. You authorise us to debit the nominated account you specify with the amount of that Pay Anyone transfer(s) you instruct us to make.
+
+Warning: Some banks do not cross check the account number with the account name, which may lead to your payment being placed into the wrong account, if you enter an incorrect BSB or account number. You must ensure that the BSB and account number you give us are correct. We will not be liable for any loss as a result of you entering the wrong BSB or account number.
+
+58.4. Pay Anyone transfers may be processed as a Direct Entry Payment or, once the NPP has been launched, as an Osko Payment.
+
+58.5. We may decide whether to process Pay Anyone transfers you request from your accounts as Direct Entry Payments or Osko Payments in our absolute discretion and you must not assume that Osko Payments will always be available or offered to you.
+
+59. Payments
+
+59.1. We may impose restrictions on the accounts from which a Pay Anyone transfer may be made or impose limits on the amount of Pay Anyone transfers. The default Pay Anyone daily limit is $30,000.
+
+59.2. We may decide not to make any payment if there are insufficient funds available for withdrawal in the specified nominated account to be debited on the due payment date.
+
+59.3. We may decide not to process a future-dated Pay Anyone transfer if you have instructed us to make the transfer using a PayID and, at the relevant transfer time, we become aware that the details registered for that PayID in the NPP Addressing Service have substantially changed since you instructed us or, in the case of recurring payments, since the previous transfer.
+
+59.4. A delay may occur in the processing of a Pay Anyone transfer where:
+
+there is a public or bank holiday on the day you instruct us to make a Pay Anyone transfer; or
+you instruct us to make a Pay Anyone transfer on a day which is not a business day or after our payment cut-off time on a business day (for payment cut-off times see clause 63).
+
+59.5. Regardless of when an immediate Pay Anyone transfer is made, the account from which you want us to debit the Pay Anyone transfer will be debited immediately unless we enforce a delay (such as described in 59.8), in which case the amount will not be debited until that delay has elapsed.
+
+59.6. Pay Anyone transfers are irrevocable and once you have told us to make a Pay Anyone transfer it cannot be stopped or cancelled. You must therefore take care to ensure all information you give us in relation to a Pay Anyone transfer request is correct and complete.
+
+59.7. Where we process a Pay Anyone transfer as an Osko Payment, the transfer will generally be processed, cleared and settled on a 24/7 near real-time basis.
+
+59.8. We may delay processing a Pay Anyone transfer (including an Osko Payment) for up to 24 hours when you are transferring to a payee account you have not made a Pay Anyone transfer to previously or where the amount of the Pay Anyone transfer is greater than the amount of Pay Anyone transfers you have made to the account previously. We may also delay processing a Pay Anyone transfer as described in clause 9.3.
+
+59.9. In relation to transactions to or from the account, you authorise Up to disclose and collect information (including personal information) to and from other financial institutions, to the extent Up considers this reasonably necessary.
+
+60. If a transfer amount is incorrect
+
+60.1. You must ensure that the information you give us in relation to each Pay Anyone transfer is correct. If you discover that we have been instructed to make a transfer for an incorrect amount:
+
+if the amount transferred is greater than the required amount, contact the person or business to whom the funds were transferred to obtain a refund for the excess;
+if the amount transferred is less than the required amount, you can simply make a further Pay Anyone transfer for the difference.
+61. Suspension of the Pay Anyone Service
+
+61.1. We may suspend your right to use the Pay Anyone service at any time if you are suspected of acting in a fraudulent or improper manner or we believe doing so is reasonably necessary in order for us to ensure the security or integrity of the Up app, the Pay Anyone service or your account.
+
+62. Limit reductions
+
+62.1. We may reduce your Pay Anyone daily limit if you do not use any or part of your limit over a period of time. We will notify you in writing at least 20 days before taking such action, where we are required to do so under the ePayments Code.
+
+63. Cut-off times
+
+63.1. If you instruct us to transfer funds before the time specified below, the transfer will be processed overnight on that business day. Subject to the financial institution to whom the funds are being transferred, the payment will in most cases settle on the next business day.
+
+Cut-off times:
+
+Monday -- Friday: 7.00pm (AEST/AEDT)
+
+Saturday, Sunday and Public Holidays: processed next business day.
+
+63.2. Pay Anyone transfers may take longer to be credited if you tell us to make a Pay Anyone transfer on a Saturday, Sunday or public holiday or if the recipient's financial institution does not process the payment as soon as they receive it.
+
+64. Liability for mistaken payments, unauthorised transactions and fraud
+
+64.1. You must notify us immediately:
+
+if you become aware that you may have made a mistake (except in relation to the Pay Anyone transfer amount - see clause 60 above or paying funds to an Unintended Recipient -- see clause 65.1), when instructing us to make a Pay Anyone transfer;
+if you did not authorise the Pay Anyone transfer from your account;
+if you believe a Pay Anyone transfer was not processed in accordance with your instructions (including delays);
+if you think you have been fraudulently induced to make a Pay Anyone transfer.
+
+64.2. We will attempt to rectify any such matters in relation to your Pay Anyone transfer in the way described in this clause. If a Pay Anyone transfer is made on your account without your knowledge or consent, liability for that unauthorised Pay Anyone transfer will be determined in accordance with clause 44. Otherwise, except as set out in this clause 64 we will not be liable for any loss or damage you suffer as a result of using the Pay Anyone Service.
+
+64.3. You indemnify us against any loss or damage we may suffer due to any claims, suits, demands or action of any kind brought against us arising directly or indirectly because you:
+
+did not observe any of your obligations under the terms and conditions in this section; or
+acted negligently or fraudulently in connection with the other terms and conditions.
+
+64.4. We are not liable for any consequential loss or damage you suffer as a result of using the Pay Anyone Service other than any loss or damage which is due to our negligence or breach of any condition or warranty implied by law which cannot be excluded, restricted or modified at all or only to a limited extent.
+
+65. Mistaken Internet Payments
+
+65.1. In this clause, the following words have these specific meanings:
+
+"Mistaken Internet Payment" means a 'Mistaken Internet Payment' under the ePayments Code or a 'Mistaken Payment' under the NPP Regulations.
+
+Note: This relates to payments you make to an Unintended Recipient using the Pay Anyone Service where you enter an incorrect BSB or account number. It does not include Misdirected Payment under the NPP Regulations or payments made using BPAY.
+
+"Other ADI" means the authorised deposit-taking institution (as defined in the Banking Act 1959 Cth) of the Unintended Recipient.
+
+"Unintended Recipient" means the recipient of funds as a result of a Mistaken Internet Payment.
+
+65.2. This clause applies where you have made a Mistaken Internet Payment covered by the ePayments Code and the Other ADI subscribes to the ePayment Code or which was processed through NPP.
+
+65.3. If you have made a Mistaken Internet Payment, you must notify us as soon as possible. We will investigate the matter and inform you (in writing) of the outcome within 30 business days from the date you notified us.
+
+65.4. Without the consent of the Unintended Recipient, it may be possible to retrieve the funds from your Mistaken Internet Payment if:
+
+you reported the Mistaken Internet Payment to us within 7 months;
+we decide that a Mistaken Internet Payment has occurred;
+the Other ADI decides that a Mistaken Internet Payment has occurred; and
+the Unintended Recipient has sufficient credit available in their account to retrieve the funds.
+
+Note: If you report the Mistaken Internet Payment after 10 days but before 7 months, the Unintended Recipient will be given an opportunity to establish that they are entitled to the funds.
+
+65.5. With the consent of the Unintended Recipient, it may be possible to retrieve the funds from your Mistaken Internet Payment if:
+
+both we and the Other ADI decide that a Mistaken Internet Payment has occurred but the Unintended Recipient does not have sufficient credit in their account;
+both we and the Other ADI decide that a Mistaken Internet Payment has occurred, but you reported the Mistaken Internet Payment after seven months; or
+the Other ADI decides (in their discretion) to seek the Unintended Recipient's consent to return the funds even if the Other ADI is not satisfied that a Mistaken Internet Payment has occurred.
+
+65.6. If the Other ADI withdraws funds from the Unintended Recipient's account, they will return the funds to us. We will then return the funds to you as soon as possible.
+
+65.7. You will be responsible for any of your losses following a Mistaken Internet Payment if:
+
+both we and the Other ADI decide that no Mistaken Internet Payment has occurred; or
+in certain circumstances, the Unintended Recipient is able to establish that they are entitled to the funds; or
+the consent as described in clause 65.5 is not obtained from the Unintended Recipient.
+
+65.8. You can complain to us about the way your report of a Mistaken Internet Payment is dealt with by contacting us on telephone 1300 002 258 from 8:30am -- 5.00pm (AEST/AEDT) Monday to Friday.
+
+65.9 If you are not satisfied with the outcome under clause 65.8, you may contact our external dispute resolution scheme. External dispute resolution is a free service established to provide you with an independent mechanism to resolve specific complaints. Our external dispute resolution provider is the Australian Financial Complaints Authority (AFCA). You can contact the AFCA at:
+
+Australian Financial Complaints Authority
+
+GPO Box 3
+
+Melbourne VIC 3001
+
+Phone: 1800 931 678
+
+Website: www.afca.org.au
+
+Email: info@afca.org.au
+
+65.9. We are not liable for any consequential loss or damage you suffer as a result of using the Pay Anyone facility other than any loss or damage which is due to our negligence or breach of any condition or warranty implied by law which cannot be excluded, restricted or modified at all or only to a limited extent.
+
+65.10. Where you are the recipient of a Mistaken Internet Payment, you authorise us to withdraw the funds relating to that Mistaken Internet Payment from your account if we are required under the ePayment Code to recover those funds from you and return them to the payer's authorised deposit taking institution.
+
+66. Incorrect Account Number
+
+66.1. When we process your Pay Anyone transfer, we process the Pay Anyone transfer based on the BSB and account number you provide.
+
+WARNING: We do not cross check the account number with the account name or reference you provide us.
+
+66.2. If your Pay Anyone transfer is to another financial institution, your Pay Anyone transfer may also be processed on the BSB and account number provided as not all financial institutions cross check account numbers and names.
+
+Example 1: You want to send a Pay Anyone transfer to Mr Citizen's account, being BSB 001 012 Account Number 123456 however you type in BSB 001 012 Account Number 123465, the payment will be made into account number 123465 instead of Mr Citizen's account.
+
+Example 2: You want to send a Pay Anyone transfer to Mr Citizen's account, being BSB 001 012 Account Number 123456 however you type in BSB 001 021 Account Number 123456, the payment will be made into account number 123456 at BSB 001 021 instead of BSB 001 012.
+
+66.3. It is vital that you include the correct account number and BSB.
+
+67. PayIDs
+
+67.1. In our discretion, we may allow you to create a PayID for your account so that NPP Payments can be made to your account using the PayID instead of the BSB and account number.
+
+67.2. Creating a PayID using your personal details (eg. mobile phone number or email address) is optional. We will not create a PayID for your account using your personal details without your consent.
+
+67.3. We will issue you with an Up generated PayID as part of holding an account with Up, and may disclose it to other Up customers.
+
+Creating a PayID
+
+67.4. You may register and unregister a PayID for your account in the Up application.
+
+67.5. You may only create a PayID for your account if:
+
+we are able to verify your identity in a manner that is satisfactory to us;
+you own or are authorised to use the PayID;
+the PayID is not likely to be misleading as to who the accountholder for the account is; and
+creating the PayID will not infringe on the intellectual property rights of any person.
+
+67.6. We may refuse to allow you to create a PayID for any reason, including where we have not been able to satisfactorily verify your identity or we are not satisfied that you own or are authorised to use the PayID you are trying to create or we are not satisfied that creating the PayID will not infringe the intellectual property rights of any person.
+
+67.7. By creating a PayID for your account:
+
+you assure us that you own or are authorised to use the PayID;
+you agree to immediately notify us if any of the information you provide to us when creating the PayID changes or becomes incorrect or misleading;
+you acknowledge that the PayID and information relating to you and the account the PayID is linked to (including the account name, BSB and account number) will be registered in the NPP Addressing Service operated by NPP Australia Limited (not us); and
+you consent to:
+us disclosing your personal information and the other information you provide to us to NPP Australia Limited as necessary to create the PayID in the NPP Addressing Service; and
+third parties, such as NPP Australia Limited and other financial institutions that connect to or use the NPP, collecting, storing, using and disclosing that information (including your name and account details) in accordance with the NPP Regulations and NPP Procedures and as necessary for purposes related to NPP Payments to you or your account. Without limiting the last sentence, you acknowledge that the account name associated with your account, or a summary of it, may be disclosed to any person that initiates a NPP Payment using the PayID.
+
+67.8. The types of PayIDs we allow you to create and link to your account may differ depending on your circumstances and the type of account you have.
+
+67.9. More than one PayID can be created and linked to an account provided that each PayID is unique.
+
+67.10. When creating a PayID we will automatically provision a PayID name that is substantially representative of the account.
+
+Transferring a PayID from or to another account
+
+67.11. With the exception of PayIDs generated by Up (eg. @up.me addresses) you can transfer a PayID created and linked to one account with us or another financial institution to another account with us or another financial institution. However, you cannot transfer a PayID while it is locked (see 67.16 below).
+
+67.12. If you want to transfer a PayID you have created for one account with us to another account with us or another financial institution, you can do so by contacting us and requesting that we transfer the PayID. We will action your request within one business day unless we agree another time period with you. A transfer of your PayID to another institution is completed by that institution.
+
+67.13. If you want to transfer a PayID that has been created and linked to an account at another institution to an account with us, you must first contact the other financial institution to tell them you want to transfer the PayID and then create the PayID with us.
+
+Updating, locking and closing a PayID
+
+67.14. With the exception of PayIDs generated by Up (eg. @up.me addresses) you can request that we update or close a PayID that has been created and linked to your account at any time by contacting us. Generated PayIDs cannot be cancelled or transferred.
+
+67.15. You must promptly notify us if, at any time, you cease to own or be authorised to use a PayID created and linked to your account or if any of the information you give us when the PayID is created changes, and request that we update or close the PayID.
+
+67.16. We will action a request from you to update or close a PayID within one business day unless we agree another time period with you.
+
+67.17. We may, if we have reasonable grounds for doing so, lock or close a PayID created and linked to your account at any time without prior notice to you. Without limitation, this includes where we suspect you created the PayID or are using the PayID in connection with fraudulent or illegal activity.
+
+67.18. If your PayID is locked, you can request that it be unlocked by contacting us. If a PayID is closed it must be re-created before it can be used again.
+
+PayID disputes
+
+67.19. If a PayID cannot be created for your account because it has already been created and linked to another account by someone else we can lodge a dispute. However, there is no guarantee that the dispute will be resolved in your favour or result in you being able to create the PayID for your account. We will promptly notify you of the outcome of the dispute.
+
+Liability for PayIDs
+
+67.20. We are not liable to you for any loss or damage you suffer as a result of:
+
+a PayID being created and linked to your account or you using or attempting to use a PayID that has been created and linked to your account;
+us refusing to create a PayID or any delay in a PayID being created and linked to your account;
+us locking or closing a PayID that has been created and linked to your account; or
+any failure or malfunction of the NPP (including the NPP Address Service) or any of our systems or procedures that use or connect with the NPP.
+
+67.21. You indemnify us against, and will be liable to us for, any direct or indirect loss, damage, charge, expense, fee or claim we may suffer or incur in respect of any PayID that is created and linked to your account or your use or attempted use of such a PayID. We may debit any such loss, damage or cost to any account you hold with us.
+
+Sending to Up PayIDs
+
+67.22. When receiving a payment from another Up customer, we will reveal their Up-generated PayID to you. This will allow you to make a payment back to that PayID. This feature is only available between Up customers and does not apply to accounts from other institutions. Payments sent using this PayID are covered by the same terms as any other PayID payment.
+
+Published Monday, 10 August 2020
+
+This section applies if you use the Pay Anyone Service. The Key Features Table indicates the accounts for which this is available.
+
+57. About the Pay Anyone Service
+
+The Pay Anyone Service is an online service that allows you to transfer funds directly to accounts at financial institutions within Australia. The transfer may be a once only transfer (either immediate or future date) or you can arrange regular reoccurring transfers.
+
+58. Using the Pay Anyone Service
+
+58.1. When you tell us to make a Pay Anyone transfer, you must provide us with the following information:
+
+the account from which you want us to debit the Pay Anyone transfer;
+the correct account number of the person or business to whom you wish to transfer funds;
+the correct BSB of the financial institution at which the account to whom you wish to transfer funds is held or a PayID created and linked to the account;
+a reference;
+the amount of the Pay Anyone transfer; and
+when you want the transfer made.
+
+58.2. You acknowledge and accept that we are not obliged to effect a Pay Anyone transfer if you do not give us all of the above information or give us inaccurate information.
+
+58.3. You authorise us to debit the nominated account you specify with the amount of that Pay Anyone transfer(s) you instruct us to make.
+
+Warning: Some banks do not cross check the account number with the account name, which may lead to your payment being placed into the wrong account, if you enter an incorrect BSB or account number. You must ensure that the BSB and account number you give us are correct. We will not be liable for any loss as a result of you entering the wrong BSB or account number.
+
+58.4. Pay Anyone transfers may be processed as a Direct Entry Payment or, once the NPP has been launched, as an Osko Payment.
+
+58.5. We may decide whether to process Pay Anyone transfers you request from your accounts as Direct Entry Payments or Osko Payments in our absolute discretion and you must not assume that Osko Payments will always be available or offered to you.
+
+59. Payments
+
+59.1. We may impose restrictions on the accounts from which a Pay Anyone transfer may be made or impose limits on the amount of Pay Anyone transfers. The default Pay Anyone daily limit is $30,000.
+
+59.2. We may decide not to make any payment if there are insufficient funds available for withdrawal in the specified nominated account to be debited on the due payment date.
+
+59.3. We may decide not to process a future-dated Pay Anyone transfer if you have instructed us to make the transfer using a PayID and, at the relevant transfer time, we become aware that the details registered for that PayID in the NPP Addressing Service have substantially changed since you instructed us or, in the case of recurring payments, since the previous transfer.
+
+59.4. A delay may occur in the processing of a Pay Anyone transfer where:
+
+there is a public or bank holiday on the day you instruct us to make a Pay Anyone transfer; or
+you instruct us to make a Pay Anyone transfer on a day which is not a business day or after our payment cut-off time on a business day (for payment cut-off times see clause 63).
+
+59.5. Regardless of when an immediate Pay Anyone transfer is made, the account from which you want us to debit the Pay Anyone transfer will be debited immediately unless we enforce a delay (such as described in 59.8), in which case the amount will not be debited until that delay has elapsed.
+
+59.6. Pay Anyone transfers are irrevocable and once you have told us to make a Pay Anyone transfer it cannot be stopped or cancelled. You must therefore take care to ensure all information you give us in relation to a Pay Anyone transfer request is correct and complete.
+
+59.7. Where we process a Pay Anyone transfer as an Osko Payment, the transfer will generally be processed, cleared and settled on a 24/7 near real-time basis.
+
+59.8. We may delay processing a Pay Anyone transfer (including an Osko Payment) for up to 24 hours when you are transferring to a payee account you have not made a Pay Anyone transfer to previously or where the amount of the Pay Anyone transfer is greater than the amount of Pay Anyone transfers you have made to the account previously. We may also delay processing a Pay Anyone transfer as described in clause 9.3.
+
+59.9. In relation to transactions to or from the account, you authorise Up to disclose and collect information (including personal information) to and from other financial institutions, to the extent Up considers this reasonably necessary.
+
+60. If a transfer amount is incorrect
+
+60.1. You must ensure that the information you give us in relation to each Pay Anyone transfer is correct. If you discover that we have been instructed to make a transfer for an incorrect amount:
+
+if the amount transferred is greater than the required amount, contact the person or business to whom the funds were transferred to obtain a refund for the excess;
+if the amount transferred is less than the required amount, you can simply make a further Pay Anyone transfer for the difference.
+61. Suspension of the Pay Anyone Service
+
+61.1. We may suspend your right to use the Pay Anyone service at any time if you are suspected of acting in a fraudulent or improper manner or we believe doing so is reasonably necessary in order for us to ensure the security or integrity of the Up app, the Pay Anyone service or your account.
+
+62. Limit reductions
+
+62.1. We may reduce your Pay Anyone daily limit if you do not use any or part of your limit over a period of time. We will notify you in writing at least 20 days before taking such action, where we are required to do so under the ePayments Code.
+
+63. Cut-off times
+
+63.1. If you instruct us to transfer funds before the time specified below, the transfer will be processed overnight on that business day. Subject to the financial institution to whom the funds are being transferred, the payment will in most cases settle on the next business day.
+
+Cut-off times:
+
+Monday -- Friday: 7.00pm (AEST/AEDT)
+
+Saturday, Sunday and Public Holidays: processed next business day.
+
+63.2. Pay Anyone transfers may take longer to be credited if you tell us to make a Pay Anyone transfer on a Saturday, Sunday or public holiday or if the recipient's financial institution does not process the payment as soon as they receive it.
+
+64. Liability for mistaken payments, unauthorised transactions and fraud
+
+64.1. You must notify us immediately:
+
+if you become aware that you may have made a mistake (except in relation to the Pay Anyone transfer amount - see clause 60 above or paying funds to an Unintended Recipient -- see clause 65.1), when instructing us to make a Pay Anyone transfer;
+if you did not authorise the Pay Anyone transfer from your account;
+if you believe a Pay Anyone transfer was not processed in accordance with your instructions (including delays);
+if you think you have been fraudulently induced to make a Pay Anyone transfer.
+
+64.2. We will attempt to rectify any such matters in relation to your Pay Anyone transfer in the way described in this clause. If a Pay Anyone transfer is made on your account without your knowledge or consent, liability for that unauthorised Pay Anyone transfer will be determined in accordance with clause 44. Otherwise, except as set out in this clause 64 we will not be liable for any loss or damage you suffer as a result of using the Pay Anyone Service.
+
+64.3. You indemnify us against any loss or damage we may suffer due to any claims, suits, demands or action of any kind brought against us arising directly or indirectly because you:
+
+did not observe any of your obligations under the terms and conditions in this section; or
+acted negligently or fraudulently in connection with the other terms and conditions.
+
+64.4. We are not liable for any consequential loss or damage you suffer as a result of using the Pay Anyone Service other than any loss or damage which is due to our negligence or breach of any condition or warranty implied by law which cannot be excluded, restricted or modified at all or only to a limited extent.
+
+65. Mistaken Internet Payments
+
+65.1. In this clause, the following words have these specific meanings:
+
+"Mistaken Internet Payment" means a 'Mistaken Internet Payment' under the ePayments Code or a 'Mistaken Payment' under the NPP Regulations.
+
+Note: This relates to payments you make to an Unintended Recipient using the Pay Anyone Service where you enter an incorrect BSB or account number. It does not include Misdirected Payment under the NPP Regulations or payments made using BPAY.
+
+"Other ADI" means the authorised deposit-taking institution (as defined in the Banking Act 1959 Cth) of the Unintended Recipient.
+
+"Unintended Recipient" means the recipient of funds as a result of a Mistaken Internet Payment.
+
+65.2. This clause applies where you have made a Mistaken Internet Payment covered by the ePayments Code and the Other ADI subscribes to the ePayment Code or which was processed through NPP.
+
+65.3. If you have made a Mistaken Internet Payment, you must notify us as soon as possible. We will investigate the matter and inform you (in writing) of the outcome within 30 business days from the date you notified us.
+
+65.4. Without the consent of the Unintended Recipient, it may be possible to retrieve the funds from your Mistaken Internet Payment if:
+
+you reported the Mistaken Internet Payment to us within 7 months;
+we decide that a Mistaken Internet Payment has occurred;
+the Other ADI decides that a Mistaken Internet Payment has occurred; and
+the Unintended Recipient has sufficient credit available in their account to retrieve the funds.
+
+Note: If you report the Mistaken Internet Payment after 10 days but before 7 months, the Unintended Recipient will be given an opportunity to establish that they are entitled to the funds.
+
+65.5. With the consent of the Unintended Recipient, it may be possible to retrieve the funds from your Mistaken Internet Payment if:
+
+both we and the Other ADI decide that a Mistaken Internet Payment has occurred but the Unintended Recipient does not have sufficient credit in their account;
+both we and the Other ADI decide that a Mistaken Internet Payment has occurred, but you reported the Mistaken Internet Payment after seven months; or
+the Other ADI decides (in their discretion) to seek the Unintended Recipient's consent to return the funds even if the Other ADI is not satisfied that a Mistaken Internet Payment has occurred.
+
+65.6. If the Other ADI withdraws funds from the Unintended Recipient's account, they will return the funds to us. We will then return the funds to you as soon as possible.
+
+65.7. You will be responsible for any of your losses following a Mistaken Internet Payment if:
+
+both we and the Other ADI decide that no Mistaken Internet Payment has occurred; or
+in certain circumstances, the Unintended Recipient is able to establish that they are entitled to the funds; or
+the consent as described in clause 65.5 is not obtained from the Unintended Recipient.
+
+65.8. You can complain to us about the way your report of a Mistaken Internet Payment is dealt with by contacting us at the Customer Advocate Office on telephone 1300 002 258 from 8:30am -- 5.00pm (AEST/AEDT) Monday to Friday.
+
+65.9. If you are not satisfied with the outcome under clause 65.8, you may contact our external dispute resolution scheme. External dispute resolution is a free service established to provide you with an independent mechanism to resolve specific complaints. Our external dispute resolution provider is the Australian Financial Complaints Authority (AFCA). You can contact the AFCA at:
+
+Australian Financial Complaints Authority
+
+GPO Box 3
+
+Melbourne VIC 3001
+
+Phone: 1800 931 678
+
+Website: www.afca.org.au
+
+Email: info@afca.org.au
+
+65.10. We are not liable for any consequential loss or damage you suffer as a result of using the Pay Anyone facility other than any loss or damage which is due to our negligence or breach of any condition or warranty implied by law which cannot be excluded, restricted or modified at all or only to a limited extent.
+
+65.11. Where you are the recipient of a Mistaken Internet Payment, you authorise us to withdraw the funds relating to that Mistaken Internet Payment from your account if we are required under the ePayment Code to recover those funds from you and return them to the payer's authorised deposit taking institution.
+
+66. Incorrect Account Number
+
+66.1. When we process your Pay Anyone transfer, we process the Pay Anyone transfer based on the BSB and account number you provide.
+
+WARNING: We do not cross check the account number with the account name or reference you provide us.
+
+66.2. If your Pay Anyone transfer is to another financial institution, your Pay Anyone transfer may also be processed on the BSB and account number provided as not all financial institutions cross check account numbers and names.
+
+Example 1: You want to send a Pay Anyone transfer to Mr Citizen's account, being BSB 001 012 Account Number 123456 however you type in BSB 001 012 Account Number 123465, the payment will be made into account number 123465 instead of Mr Citizen's account.
+
+Example 2: You want to send a Pay Anyone transfer to Mr Citizen's account, being BSB 001 012 Account Number 123456 however you type in BSB 001 021 Account Number 123456, the payment will be made into account number 123456 at BSB 001 021 instead of BSB 001 012.
+
+66.3. It is vital that you include the correct account number and BSB.
+
+67. PayIDs
+
+67.1. In our discretion, we may allow you to create a PayID for your account so that NPP Payments can be made to your account using the PayID instead of the BSB and account number.
+
+67.2. Creating a PayID using your personal details (eg. mobile phone number or email address) is optional. We will not create a PayID for your account using your personal details without your consent.
+
+67.3. We will issue you with an Up generated PayID as part of holding an account with Up, and may disclose it to other Up customers.
+
+Creating a PayID
+
+67.4. You may register and unregister a PayID for your account in the Up application.
+
+67.5. You may only create a PayID for your account if:
+
+we are able to verify your identity in a manner that is satisfactory to us;
+you own or are authorised to use the PayID;
+the PayID is not likely to be misleading as to who the accountholder for the account is; and
+creating the PayID will not infringe on the intellectual property rights of any person.
+
+67.6. We may refuse to allow you to create a PayID for any reason, including where we have not been able to satisfactorily verify your identity or we are not satisfied that you own or are authorised to use the PayID you are trying to create or we are not satisfied that creating the PayID will not infringe the intellectual property rights of any person.
+
+67.7. By creating a PayID for your account:
+
+you assure us that you own or are authorised to use the PayID;
+you agree to immediately notify us if any of the information you provide to us when creating the PayID changes or becomes incorrect or misleading;
+you acknowledge that the PayID and information relating to you and the account the PayID is linked to (including the account name, BSB and account number) will be registered in the NPP Addressing Service operated by NPP Australia Limited (not us); and
+you consent to:
+us disclosing your personal information and the other information you provide to us to NPP Australia Limited as necessary to create the PayID in the NPP Addressing Service; and
+third parties, such as NPP Australia Limited and other financial institutions that connect to or use the NPP, collecting, storing, using and disclosing that information (including your name and account details) in accordance with the NPP Regulations and NPP Procedures and as necessary for purposes related to NPP Payments to you or your account. Without limiting the last sentence, you acknowledge that the account name associated with your account, or a summary of it, may be disclosed to any person that initiates a NPP Payment using the PayID.
+
+67.8. The types of PayIDs we allow you to create and link to your account may differ depending on your circumstances and the type of account you have.
+
+67.9. More than one PayID can be created and linked to an account provided that each PayID is unique.
+
+67.10. When creating a PayID we will automatically provision a PayID name that is substantially representative of the account.
+
+Transferring a PayID from or to another account
+
+67.11. With the exception of PayIDs generated by Up (eg. @up.me addresses) you can transfer a PayID created and linked to one account with us or another financial institution to another account with us or another financial institution. However, you cannot transfer a PayID while it is locked (see 67.16 below).
+
+67.12. If you want to transfer a PayID you have created for one account with us to another account with us or another financial institution, you can do so by contacting us and requesting that we transfer the PayID. We will action your request within one business day unless we agree another time period with you. A transfer of your PayID to another institution is completed by that institution.
+
+67.13. If you want to transfer a PayID that has been created and linked to an account at another institution to an account with us, you must first contact the other financial institution to tell them you want to transfer the PayID and then create the PayID with us.
+
+Updating, locking and closing a PayID
+
+67.14. With the exception of PayIDs generated by Up (eg. @up.me addresses) you can request that we update or close a PayID that has been created and linked to your account at any time by contacting us. Generated PayIDs cannot be cancelled or transferred.
+
+67.15. You must promptly notify us if, at any time, you cease to own or be authorised to use a PayID created and linked to your account or if any of the information you give us when the PayID is created changes, and request that we update or close the PayID.
+
+67.16. We will action a request from you to update or close a PayID within one business day unless we agree another time period with you.
+
+67.17. We may, if we have reasonable grounds for doing so, lock or close a PayID created and linked to your account at any time without prior notice to you. Without limitation, this includes where we suspect you created the PayID or are using the PayID in connection with fraudulent or illegal activity.
+
+67.18. If your PayID is locked, you can request that it be unlocked by contacting us. If a PayID is closed it must be re-created before it can be used again.
+
+PayID disputes
+
+67.19. If a PayID cannot be created for your account because it has already been created and linked to another account by someone else we can lodge a dispute. However, there is no guarantee that the dispute will be resolved in your favour or result in you being able to create the PayID for your account. We will promptly notify you of the outcome of the dispute.
+
+Liability for PayIDs
+
+67.20. We are not liable to you for any loss or damage you suffer as a result of:
+
+a PayID being created and linked to your account or you using or attempting to use a PayID that has been created and linked to your account;
+us refusing to create a PayID or any delay in a PayID being created and linked to your account;
+us locking or closing a PayID that has been created and linked to your account; or
+any failure or malfunction of the NPP (including the NPP Address Service) or any of our systems or procedures that use or connect with the NPP.
+
+67.21. You indemnify us against, and will be liable to us for, any direct or indirect loss, damage, charge, expense, fee or claim we may suffer or incur in respect of any PayID that is created and linked to your account or your use or attempted use of such a PayID. We may debit any such loss, damage or cost to any account you hold with us.
+
+Sending to Up PayIDs
+
+67.22. When receiving a payment from another Up customer, we will reveal their Up-generated PayID to you. This will allow you to make a payment back to that PayID. This feature is only available between Up customers and does not apply to accounts from other institutions. Payments sent using this PayID are covered by the same terms as any other PayID payment.
+
+Published Thursday, 12 September 2019
+
+This section applies if you use the Pay Anyone Service. The Key Features Table indicates the accounts for which this is available.
+
+57. About the Pay Anyone Service
+
+The Pay Anyone Service is an online service that allows you to transfer funds directly to accounts at financial institutions within Australia. The transfer may be a once only transfer (either immediate or future date) or you can arrange regular reoccurring transfers.
+
+58. Using the Pay Anyone Service
+
+58.1. When you tell us to make a Pay Anyone transfer, you must provide us with the following information:
+
+the account from which you want us to debit the Pay Anyone transfer;
+the correct account number of the person or business to whom you wish to transfer funds;
+the correct BSB of the financial institution at which the account to whom you wish to transfer funds is held or a PayID created and linked to the account;
+a reference;
+the amount of the Pay Anyone transfer; and
+when you want the transfer made.
+
+58.2. You acknowledge and accept that we are not obliged to effect a Pay Anyone transfer if you do not give us all of the above information or give us inaccurate information.
+
+58.3. You authorise us to debit the nominated account you specify with the amount of that Pay Anyone transfer(s) you instruct us to make.
+
+Warning: Some banks do not cross check the account number with the account name, which may lead to your payment being placed into the wrong account, if you enter an incorrect BSB or account number. You must ensure that the BSB and account number you give us are correct. We will not be liable for any loss as a result of you entering the wrong BSB or account number.
+
+58.4. Pay Anyone transfers may be processed as a Direct Entry Payment or, once the NPP has been launched, as an Osko Payment.
+
+58.5. We may decide whether to process Pay Anyone transfers you request from your accounts as Direct Entry Payments or Osko Payments in our absolute discretion and you must not assume that Osko Payments will always be available or offered to you.
+
+59. Payments
+
+59.1. We may impose restrictions on the accounts from which a Pay Anyone transfer may be made or impose limits on the amount of Pay Anyone transfers. The default Pay Anyone daily limit is $30,000.
+
+59.2. We may decide not to make any payment if there are insufficient funds available for withdrawal in the specified nominated account to be debited on the due payment date.
+
+59.3. We may decide not to process a future-dated Pay Anyone transfer if you have instructed us to make the transfer using a PayID and, at the relevant transfer time, we become aware that the details registered for that PayID in the NPP Addressing Service have substantially changed since you instructed us or, in the case of recurring payments, since the previous transfer.
+
+59.4. A delay may occur in the processing of a Pay Anyone transfer where:
+
+there is a public or bank holiday on the day you instruct us to make a Pay Anyone transfer; or
+you instruct us to make a Pay Anyone transfer on a day which is not a business day or after our payment cut-off time on a business day (for payment cut-off times see clause 63).
+
+59.5. Regardless of when an immediate Pay Anyone transfer is made, the account from which you want us to debit the Pay Anyone transfer will be debited immediately.
+
+59.6. Pay Anyone transfers are irrevocable and once you have told us to make a Pay Anyone transfer it cannot be stopped or cancelled. You must therefore take care to ensure all information you give us in relation to a Pay Anyone transfer request is correct and complete.
+
+59.7. Where we process a Pay Anyone transfer as an Osko Payment, the transfer will generally be processed, cleared and settled on a 24/7 near real-time basis.
+
+59.8. We may delay processing a Pay Anyone transfer (including an Osko Payment) for up to 24 hours when you are transferring to a payee account you have not made a Pay Anyone transfer to previously or where the amount of the Pay Anyone transfer is greater than the amount of Pay Anyone transfers you have made to the account previously. We may also delay processing a Pay Anyone transfer as described in clause 9.3.
+
+60. If a transfer amount is incorrect
+
+60.1. You must ensure that the information you give us in relation to each Pay Anyone transfer is correct. If you discover that we have been instructed to make a transfer for an incorrect amount:
+
+if the amount transferred is greater than the required amount, contact the person or business to whom the funds were transferred to obtain a refund for the excess;
+if the amount transferred is less than the required amount, you can simply make a further Pay Anyone transfer for the difference.
+61. Suspension of the Pay Anyone Service
+
+61.1. We may suspend your right to use the Pay Anyone service at any time if you are suspected of acting in a fraudulent or improper manner or we believe doing so is reasonably necessary in order for us to ensure the security or integrity of the Up app, the Pay Anyone service or your account.
+
+62. Limit reductions
+
+62.1. We may reduce your Pay Anyone daily limit if you do not use any or part of your limit over a period of time. We will notify you in writing at least 20 days before taking such action, where we are required to do so under the ePayments Code.
+
+63. Cut-off times
+
+63.1. If you instruct us to transfer funds before the time specified below, the transfer will be processed overnight on that business day. Subject to the financial institution to whom the funds are being transferred, the payment will in most cases settle on the next business day.
+
+Cut-off times:
+
+Monday -- Friday: 7.00pm (AEST/AEDT)
+
+Saturday, Sunday and Public Holidays: processed next business day.
+
+63.2. Pay Anyone transfers may take longer to be credited if you tell us to make a Pay Anyone transfer on a Saturday, Sunday or public holiday or if the recipient's financial institution does not process the payment as soon as they receive it.
+
+64. Liability for mistaken payments, unauthorised transactions and fraud
+
+64.1. You must notify us immediately:
+
+if you become aware that you may have made a mistake (except in relation to the Pay Anyone transfer amount - see clause 60 above or paying funds to an Unintended Recipient -- see clause 65.1), when instructing us to make a Pay Anyone transfer;
+if you did not authorise the Pay Anyone transfer from your account;
+if you believe a Pay Anyone transfer was not processed in accordance with your instructions (including delays);
+if you think you have been fraudulently induced to make a Pay Anyone transfer.
+
+64.2. We will attempt to rectify any such matters in relation to your Pay Anyone transfer in the way described in this clause. If a Pay Anyone transfer is made on your account without your knowledge or consent, liability for that unauthorised Pay Anyone transfer will be determined in accordance with clause 44. Otherwise, except as set out in this clause 64 we will not be liable for any loss or damage you suffer as a result of using the Pay Anyone Service.
+
+64.3. You indemnify us against any loss or damage we may suffer due to any claims, suits, demands or action of any kind brought against us arising directly or indirectly because you:
+
+did not observe any of your obligations under the terms and conditions in this section; or
+acted negligently or fraudulently in connection with the other terms and conditions.
+
+64.4. We are not liable for any consequential loss or damage you suffer as a result of using the Pay Anyone Service other than any loss or damage which is due to our negligence or breach of any condition or warranty implied by law which cannot be excluded, restricted or modified at all or only to a limited extent.
+
+65. Mistaken Internet Payments
+
+65.1. In this clause, the following words have these specific meanings:
+
+"Mistaken Internet Payment" means a 'Mistaken Internet Payment' under the ePayments Code or a 'Mistaken Payment' under the NPP Regulations.
+
+Note: This relates to payments you make to an Unintended Recipient using the Pay Anyone Service where you enter an incorrect BSB or account number. It does not include Misdirected Payment under the NPP Regulations or payments made using BPAY.
+
+"Other ADI" means the authorised deposit-taking institution (as defined in the Banking Act 1959 Cth) of the Unintended Recipient.
+
+"Unintended Recipient" means the recipient of funds as a result of a Mistaken Internet Payment.
+
+65.2. This clause applies where you have made a Mistaken Internet Payment covered by the ePayments Code and the Other ADI subscribes to the ePayment Code or which was processed through NPP.
+
+65.3. If you have made a Mistaken Internet Payment, you must notify us as soon as possible. We will investigate the matter and inform you (in writing) of the outcome within 30 business days from the date you notified us.
+
+65.4. Without the consent of the Unintended Recipient, it may be possible to retrieve the funds from your Mistaken Internet Payment if:
+
+you reported the Mistaken Internet Payment to us within 7 months;
+we decide that a Mistaken Internet Payment has occurred;
+the Other ADI decides that a Mistaken Internet Payment has occurred; and
+the Unintended Recipient has sufficient credit available in their account to retrieve the funds.
+
+Note: If you report the Mistaken Internet Payment after 10 days but before 7 months, the Unintended Recipient will be given an opportunity to establish that they are entitled to the funds.
+
+65.5. With the consent of the Unintended Recipient, it may be possible to retrieve the funds from your Mistaken Internet Payment if:
+
+both we and the Other ADI decide that a Mistaken Internet Payment has occurred but the Unintended Recipient does not have sufficient credit in their account;
+both we and the Other ADI decide that a Mistaken Internet Payment has occurred, but you reported the Mistaken Internet Payment after seven months; or
+the Other ADI decides (in their discretion) to seek the Unintended Recipient's consent to return the funds even if the Other ADI is not satisfied that a Mistaken Internet Payment has occurred.
+
+65.6. If the Other ADI withdraws funds from the Unintended Recipient's account, they will return the funds to us. We will then return the funds to you as soon as possible.
+
+65.7. You will be responsible for any of your losses following a Mistaken Internet Payment if:
+
+both we and the Other ADI decide that no Mistaken Internet Payment has occurred; or
+in certain circumstances, the Unintended Recipient is able to establish that they are entitled to the funds; or
+the consent as described in clause 65.5 is not obtained from the Unintended Recipient.
+
+65.8. You can complain to us about the way your report of a Mistaken Internet Payment is dealt with by contacting us at the Customer Advocate Office on telephone 1300 002 258 from 8:30am -- 5.00pm (AEST/AEDT) Monday to Friday.
+
+65.9. If you are not satisfied with the outcome under clause 65.8, you may contact our external dispute resolution scheme. External dispute resolution is a free service established to provide you with an independent mechanism to resolve specific complaints. Our external dispute resolution provider is the Australian Financial Complaints Authority (AFCA). You can contact the AFCA at:
+
+Australian Financial Complaints Authority
+
+GPO Box 3
+
+Melbourne VIC 3001
+
+Phone: 1800 931 678
+
+Website: www.afca.org.au
+
+Email: info@afca.org.au
+
+65.10. We are not liable for any consequential loss or damage you suffer as a result of using the Pay Anyone facility other than any loss or damage which is due to our negligence or breach of any condition or warranty implied by law which cannot be excluded, restricted or modified at all or only to a limited extent.
+
+65.11. Where you are the recipient of a Mistaken Internet Payment, you authorise us to withdraw the funds relating to that Mistaken Internet Payment from your account if we are required under the ePayment Code to recover those funds from you and return them to the payer's authorised deposit taking institution.
+
+66. Incorrect Account Number
+
+66.1. When we process your Pay Anyone transfer, we process the Pay Anyone transfer based on the BSB and account number you provide.
+
+WARNING: We do not cross check the account number with the account name or reference you provide us.
+
+66.2. If your Pay Anyone transfer is to another financial institution, your Pay Anyone transfer may also be processed on the BSB and account number provided as not all financial institutions cross check account numbers and names.
+
+Example 1: You want to send a Pay Anyone transfer to Mr Citizen's account, being BSB 001 012 Account Number 123456 however you type in BSB 001 012 Account Number 123465, the payment will be made into account number 123465 instead of Mr Citizen's account.
+
+Example 2: You want to send a Pay Anyone transfer to Mr Citizen's account, being BSB 001 012 Account Number 123456 however you type in BSB 001 021 Account Number 123456, the payment will be made into account number 123456 at BSB 001 021 instead of BSB 001 012.
+
+66.3. It is vital that you include the correct account number and BSB.
+
+67. PayIDs
+
+67.1. In our discretion, we may allow you to create a PayID for your account so that NPP Payments can be made to your account using the PayID instead of the BSB and account number.
+
+67.2. Creating a PayID using your personal details (eg. mobile phone number or email address) is optional. We will not create a PayID for your account using your personal details without your consent.
+
+67.3. We will issue you with an Up generated PayID as part of holding an account with Up, and may disclose it to other Up customers.
+
+Creating a PayID
+
+67.4. You may register and unregister a PayID for your account in the Up application.
+
+67.5. You may only create a PayID for your account if:
+
+we are able to verify your identity in a manner that is satisfactory to us;
+you own or are authorised to use the PayID;
+the PayID is not likely to be misleading as to who the accountholder for the account is; and
+creating the PayID will not infringe on the intellectual property rights of any person.
+
+67.6. We may refuse to allow you to create a PayID for any reason, including where we have not been able to satisfactorily verify your identity or we are not satisfied that you own or are authorised to use the PayID you are trying to create or we are not satisfied that creating the PayID will not infringe the intellectual property rights of any person.
+
+67.7. By creating a PayID for your account:
+
+you assure us that you own or are authorised to use the PayID;
+you agree to immediately notify us if any of the information you provide to us when creating the PayID changes or becomes incorrect or misleading;
+you acknowledge that the PayID and information relating to you and the account the PayID is linked to (including the account name, BSB and account number) will be registered in the NPP Addressing Service operated by NPP Australia Limited (not us); and
+you consent to:
+us disclosing your personal information and the other information you provide to us to NPP Australia Limited as necessary to create the PayID in the NPP Addressing Service; and
+third parties, such as NPP Australia Limited and other financial institutions that connect to or use the NPP, collecting, storing, using and disclosing that information (including your name and account details) in accordance with the NPP Regulations and NPP Procedures and as necessary for purposes related to NPP Payments to you or your account. Without limiting the last sentence, you acknowledge that the account name associated with your account, or a summary of it, may be disclosed to any person that initiates a NPP Payment using the PayID.
+
+67.8. The types of PayIDs we allow you to create and link to your account may differ depending on your circumstances and the type of account you have.
+
+67.9. More than one PayID can be created and linked to an account provided that each PayID is unique.
+
+67.10. When creating a PayID we will automatically provision a PayID name that is substantially representative of the account.
+
+Transferring a PayID from or to another account
+
+67.11. With the exception of PayIDs generated by Up (eg. @up.me addresses) you can transfer a PayID created and linked to one account with us or another financial institution to another account with us or another financial institution. However, you cannot transfer a PayID while it is locked (see 67.16 below).
+
+67.12. If you want to transfer a PayID you have created for one account with us to another account with us or another financial institution, you can do so by contacting us and requesting that we transfer the PayID. We will action your request within one business day unless we agree another time period with you. A transfer of your PayID to another institution is completed by that institution.
+
+67.13. If you want to transfer a PayID that has been created and linked to an account at another institution to an account with us, you must first contact the other financial institution to tell them you want to transfer the PayID and then create the PayID with us.
+
+Updating, locking and closing a PayID
+
+67.14. With the exception of PayIDs generated by Up (eg. @up.me addresses) you can request that we update or close a PayID that has been created and linked to your account at any time by contacting us. Generated PayIDs cannot be cancelled or transferred.
+
+67.15. You must promptly notify us if, at any time, you cease to own or be authorised to use a PayID created and linked to your account or if any of the information you give us when the PayID is created changes, and request that we update or close the PayID.
+
+67.16. We will action a request from you to update or close a PayID within one business day unless we agree another time period with you.
+
+67.17. We may, if we have reasonable grounds for doing so, lock or close a PayID created and linked to your account at any time without prior notice to you. Without limitation, this includes where we suspect you created the PayID or are using the PayID in connection with fraudulent or illegal activity.
+
+67.18. If your PayID is locked, you can request that it be unlocked by contacting us. If a PayID is closed it must be re-created before it can be used again.
+
+PayID disputes
+
+67.19. If a PayID cannot be created for your account because it has already been created and linked to another account by someone else we can lodge a dispute. However, there is no guarantee that the dispute will be resolved in your favour or result in you being able to create the PayID for your account. We will promptly notify you of the outcome of the dispute.
+
+Liability for PayIDs
+
+67.20. We are not liable to you for any loss or damage you suffer as a result of:
+
+a PayID being created and linked to your account or you using or attempting to use a PayID that has been created and linked to your account;
+us refusing to create a PayID or any delay in a PayID being created and linked to your account;
+us locking or closing a PayID that has been created and linked to your account; or
+any failure or malfunction of the NPP (including the NPP Address Service) or any of our systems or procedures that use or connect with the NPP.
+
+67.21. You indemnify us against, and will be liable to us for, any direct or indirect loss, damage, charge, expense, fee or claim we may suffer or incur in respect of any PayID that is created and linked to your account or your use or attempted use of such a PayID. We may debit any such loss, damage or cost to any account you hold with us.
+
+Sending to Up PayIDs
+
+67.22. When receiving a payment from another Up customer, we will reveal their Up-generated PayID to you. This will allow you to make a payment back to that PayID. This feature is only available between Up customers and does not apply to accounts from other institutions. Payments sent using this PayID are covered by the same terms as any other PayID payment.
+
+Published Tuesday, 20 August 2019
+
+This section applies if you use the Pay Anyone Service. The Key Features Table indicates the accounts for which this is available.
+
+57. About the Pay Anyone Service
+
+The Pay Anyone Service is an online service that allows you to transfer funds directly to accounts at financial institutions within Australia. The transfer may be a once only transfer (either immediate or future date) or you can arrange regular reoccurring transfers.
+
+58. Using the Pay Anyone Service
+
+58.1. When you tell us to make a Pay Anyone transfer, you must provide us with the following information:
+
+the account from which you want us to debit the Pay Anyone transfer;
+the correct account number of the person or business to whom you wish to transfer funds;
+the correct BSB of the financial institution at which the account to whom you wish to transfer funds is held or a PayID created and linked to the account;
+a reference;
+the amount of the Pay Anyone transfer; and
+when you want the transfer made.
+
+58.2. You acknowledge and accept that we are not obliged to effect a Pay Anyone transfer if you do not give us all of the above information or give us inaccurate information.
+
+58.3. You authorise us to debit the nominated account you specify with the amount of that Pay Anyone transfer(s) you instruct us to make.
+
+Warning: Some banks do not cross check the account number with the account name, which may lead to your payment being placed into the wrong account, if you enter an incorrect BSB or account number. You must ensure that the BSB and account number you give us are correct. We will not be liable for any loss as a result of you entering the wrong BSB or account number.
+
+58.4. Pay Anyone transfers may be processed as a Direct Entry Payment or, once the NPP has been launched, as an Osko Payment.
+
+58.5. We may decide whether to process Pay Anyone transfers you request from your accounts as Direct Entry Payments or Osko Payments in our absolute discretion and you must not assume that Osko Payments will always be available or offered to you.
+
+59. Payments
+
+59.1. We may impose restrictions on the accounts from which a Pay Anyone transfer may be made or impose limits on the amount of Pay Anyone transfers. The default Pay Anyone daily limit is $5,000.
+
+59.2. We may decide not to make any payment if there are insufficient funds available for withdrawal in the specified nominated account to be debited on the due payment date.
+
+59.3. We may decide not to process a future-dated Pay Anyone transfer if you have instructed us to make the transfer using a PayID and, at the relevant transfer time, we become aware that the details registered for that PayID in the NPP Addressing Service have substantially changed since you instructed us or, in the case of recurring payments, since the previous transfer.
+
+59.4. A delay may occur in the processing of a Pay Anyone transfer where:
+
+there is a public or bank holiday on the day you instruct us to make a Pay Anyone transfer; or
+you instruct us to make a Pay Anyone transfer on a day which is not a business day or after our payment cut-off time on a business day (for payment cut-off times see clause 63).
+
+59.5. Regardless of when an immediate Pay Anyone transfer is made, the account from which you want us to debit the Pay Anyone transfer will be debited immediately.
+
+59.6. Pay Anyone transfers are irrevocable and once you have told us to make a Pay Anyone transfer it cannot be stopped or cancelled. You must therefore take care to ensure all information you give us in relation to a Pay Anyone transfer request is correct and complete.
+
+59.7. Where we process a Pay Anyone transfer as an Osko Payment, the transfer will be processed, cleared and settled on a 24/7 near real-time basis.
+
+59.8. Delays may occur in processing Osko Payments.
+
+60. If a transfer amount is incorrect
+
+60.1. You must ensure that the information you give us in relation to each Pay Anyone transfer is correct. If you discover that we have been instructed to make a transfer for an incorrect amount:
+
+if the amount transferred is greater than the required amount, contact the person or business to whom the funds were transferred to obtain a refund for the excess;
+if the amount transferred is less than the required amount, you can simply make a further Pay Anyone transfer for the difference.
+61. Suspension of the Pay Anyone Service
+
+61.1. We may suspend your right to use the Pay Anyone service at any time if you are suspected of acting in a fraudulent or improper manner or we believe doing so is reasonably necessary in order for us to ensure the security or integrity of the Up app, the Pay Anyone service or your account.
+
+62. Limit reductions
+
+62.1. We may reduce your Pay Anyone daily limit if you do not use any or part of your limit over a period of time. We will notify you in writing at least 20 days before taking such action, where we are required to do so under the ePayments Code.
+
+63. Cut-off times
+
+63.1. If you instruct us to transfer funds before the time specified below, the transfer will be processed overnight on that business day. Subject to the financial institution to whom the funds are being transferred, the payment will in most cases settle on the next business day.
+
+Cut-off times:
+
+Monday -- Friday: 7.00pm (AEST/AEDT)
+
+Saturday, Sunday and Public Holidays: processed next business day.
+
+63.2. Pay Anyone transfers may take longer to be credited if you tell us to make a Pay Anyone transfer on a Saturday, Sunday or public holiday or if the recipient's financial institution does not process the payment as soon as they receive it.
+
+64. Liability for mistaken payments, unauthorised transactions and fraud
+
+64.1. You must notify us immediately:
+
+if you become aware that you may have made a mistake (except in relation to the Pay Anyone transfer amount - see clause 60 above or paying funds to an Unintended Recipient -- see clause 65.1), when instructing us to make a Pay Anyone transfer;
+if you did not authorise the Pay Anyone transfer from your account;
+if you believe a Pay Anyone transfer was not processed in accordance with your instructions (including delays);
+if you think you have been fraudulently induced to make a Pay Anyone transfer.
+
+64.2. We will attempt to rectify any such matters in relation to your Pay Anyone transfer in the way described in this clause. If a Pay Anyone transfer is made on your account without your knowledge or consent, liability for that unauthorised Pay Anyone transfer will be determined in accordance with clause 44. Otherwise, except as set out in this clause 64 we will not be liable for any loss or damage you suffer as a result of using the Pay Anyone Service.
+
+64.3. You indemnify us against any loss or damage we may suffer due to any claims, suits, demands or action of any kind brought against us arising directly or indirectly because you:
+
+did not observe any of your obligations under the terms and conditions in this section; or
+acted negligently or fraudulently in connection with the other terms and conditions.
+
+64.4. We are not liable for any consequential loss or damage you suffer as a result of using the Pay Anyone Service other than any loss or damage which is due to our negligence or breach of any condition or warranty implied by law which cannot be excluded, restricted or modified at all or only to a limited extent.
+
+65. Mistaken Internet Payments
+
+65.1. In this clause, the following words have these specific meanings:
+
+"Mistaken Internet Payment" means a 'Mistaken Internet Payment' under the ePayments Code or a 'Mistaken Payment' under the NPP Regulations.
+
+Note: This relates to payments you make to an Unintended Recipient using the Pay Anyone Service where you enter an incorrect BSB or account number. It does not include Misdirected Payment under the NPP Regulations or payments made using BPAY.
+
+"Other ADI" means the authorised deposit-taking institution (as defined in the Banking Act 1959 Cth) of the Unintended Recipient.
+
+"Unintended Recipient" means the recipient of funds as a result of a Mistaken Internet Payment.
+
+65.2. This clause applies where you have made a Mistaken Internet Payment covered by the ePayments Code and the Other ADI subscribes to the ePayment Code or which was processed through NPP.
+
+65.3. If you have made a Mistaken Internet Payment, you must notify us as soon as possible. We will investigate the matter and inform you (in writing) of the outcome within 30 business days from the date you notified us.
+
+65.4. Without the consent of the Unintended Recipient, it may be possible to retrieve the funds from your Mistaken Internet Payment if:
+
+you reported the Mistaken Internet Payment to us within 7 months;
+we decide that a Mistaken Internet Payment has occurred;
+the Other ADI decides that a Mistaken Internet Payment has occurred; and
+the Unintended Recipient has sufficient credit available in their account to retrieve the funds.
+
+Note: If you report the Mistaken Internet Payment after 10 days but before 7 months, the Unintended Recipient will be given an opportunity to establish that they are entitled to the funds.
+
+65.5. With the consent of the Unintended Recipient, it may be possible to retrieve the funds from your Mistaken Internet Payment if:
+
+both we and the Other ADI decide that a Mistaken Internet Payment has occurred but the Unintended Recipient does not have sufficient credit in their account;
+both we and the Other ADI decide that a Mistaken Internet Payment has occurred, but you reported the Mistaken Internet Payment after seven months; or
+the Other ADI decides (in their discretion) to seek the Unintended Recipient's consent to return the funds even if the Other ADI is not satisfied that a Mistaken Internet Payment has occurred.
+
+65.6. If the Other ADI withdraws funds from the Unintended Recipient's account, they will return the funds to us. We will then return the funds to you as soon as possible.
+
+65.7. You will be responsible for any of your losses following a Mistaken Internet Payment if:
+
+both we and the Other ADI decide that no Mistaken Internet Payment has occurred; or
+in certain circumstances, the Unintended Recipient is able to establish that they are entitled to the funds; or
+the consent as described in clause 65.5 is not obtained from the Unintended Recipient.
+
+65.8. You can complain to us about the way your report of a Mistaken Internet Payment is dealt with by contacting us at the Customer Advocate Office on telephone 1300 002 258 from 8:30am -- 5.00pm (AEST/AEDT) Monday to Friday.
+
+65.9. If you are not satisfied with the outcome under clause 65.8, you may contact our external dispute resolution scheme. External dispute resolution is a free service established to provide you with an independent mechanism to resolve specific complaints. Our external dispute resolution provider is the Australian Financial Complaints Authority (AFCA). You can contact the AFCA at:
+
+Australian Financial Complaints Authority
+
+GPO Box 3
+
+Melbourne VIC 3001
+
+Phone: 1800 931 678
+
+Website: www.afca.org.au
+
+Email: info@afca.org.au
+
+65.10. We are not liable for any consequential loss or damage you suffer as a result of using the Pay Anyone facility other than any loss or damage which is due to our negligence or breach of any condition or warranty implied by law which cannot be excluded, restricted or modified at all or only to a limited extent.
+
+65.11. Where you are the recipient of a Mistaken Internet Payment, you authorise us to withdraw the funds relating to that Mistaken Internet Payment from your account if we are required under the ePayment Code to recover those funds from you and return them to the payer's authorised deposit taking institution.
+
+66. Incorrect Account Number
+
+66.1. When we process your Pay Anyone transfer, we process the Pay Anyone transfer based on the BSB and account number you provide.
+
+WARNING: We do not cross check the account number with the account name or reference you provide us.
+
+66.2. If your Pay Anyone transfer is to another financial institution, your Pay Anyone transfer may also be processed on the BSB and account number provided as not all financial institutions cross check account numbers and names.
+
+Example 1: You want to send a Pay Anyone transfer to Mr Citizen's account, being BSB 001 012 Account Number 123456 however you type in BSB 001 012 Account Number 123465, the payment will be made into account number 123465 instead of Mr Citizen's account.
+
+Example 2: You want to send a Pay Anyone transfer to Mr Citizen's account, being BSB 001 012 Account Number 123456 however you type in BSB 001 021 Account Number 123456, the payment will be made into account number 123456 at BSB 001 021 instead of BSB 001 012.
+
+66.3. It is vital that you include the correct account number and BSB.
+
+67. PayIDs
+
+67.1. In our discretion, we may allow you to create a PayID for your account so that NPP Payments can be made to your account using the PayID instead of the BSB and account number.
+
+67.2. Creating a PayID using your personal details (eg. mobile phone number or email address) is optional. We will not create a PayID for your account using your personal details without your consent.
+
+67.3. We will issue you with an Up generated PayID as part of holding an account with Up, and may disclose it to other Up customers.
+
+Creating a PayID
+
+67.4. You may register and unregister a PayID for your account in the Up application.
+
+67.5. You may only create a PayID for your account if:
+
+we are able to verify your identity in a manner that is satisfactory to us;
+you own or are authorised to use the PayID;
+the PayID is not likely to be misleading as to who the accountholder for the account is; and
+creating the PayID will not infringe on the intellectual property rights of any person.
+
+67.6. We may refuse to allow you to create a PayID for any reason, including where we have not been able to satisfactorily verify your identity or we are not satisfied that you own or are authorised to use the PayID you are trying to create or we are not satisfied that creating the PayID will not infringe the intellectual property rights of any person.
+
+67.7. By creating a PayID for your account:
+
+you assure us that you own or are authorised to use the PayID;
+you agree to immediately notify us if any of the information you provide to us when creating the PayID changes or becomes incorrect or misleading;
+you acknowledge that the PayID and information relating to you and the account the PayID is linked to (including the account name, BSB and account number) will be registered in the NPP Addressing Service operated by NPP Australia Limited (not us); and
+you consent to:
+us disclosing your personal information and the other information you provide to us to NPP Australia Limited as necessary to create the PayID in the NPP Addressing Service; and
+third parties, such as NPP Australia Limited and other financial institutions that connect to or use the NPP, collecting, storing, using and disclosing that information (including your name and account details) in accordance with the NPP Regulations and NPP Procedures and as necessary for purposes related to NPP Payments to you or your account. Without limiting the last sentence, you acknowledge that the account name associated with your account, or a summary of it, may be disclosed to any person that initiates a NPP Payment using the PayID.
+
+67.8. The types of PayIDs we allow you to create and link to your account may differ depending on your circumstances and the type of account you have.
+
+67.9. More than one PayID can be created and linked to an account provided that each PayID is unique.
+
+67.10. When creating a PayID we will automatically provision a PayID name that is substantially representative of the account.
+
+Transferring a PayID from or to another account
+
+67.11. With the exception of PayIDs generated by Up (eg. @up.me addresses) you can transfer a PayID created and linked to one account with us or another financial institution to another account with us or another financial institution. However, you cannot transfer a PayID while it is locked (see 67.16 below).
+
+67.12. If you want to transfer a PayID you have created for one account with us to another account with us or another financial institution, you can do so by contacting us and requesting that we transfer the PayID. We will action your request within one business day unless we agree another time period with you. A transfer of your PayID to another institution is completed by that institution.
+
+67.13. If you want to transfer a PayID that has been created and linked to an account at another institution to an account with us, you must first contact the other financial institution to tell them you want to transfer the PayID and then create the PayID with us.
+
+Updating, locking and closing a PayID
+
+67.14. With the exception of PayIDs generated by Up (eg. @up.me addresses) you can request that we update or close a PayID that has been created and linked to your account at any time by contacting us. Generated PayIDs cannot be cancelled or transferred.
+
+67.15. You must promptly notify us if, at any time, you cease to own or be authorised to use a PayID created and linked to your account or if any of the information you give us when the PayID is created changes, and request that we update or close the PayID.
+
+67.16. We will action a request from you to update or close a PayID within one business day unless we agree another time period with you.
+
+67.17. We may, if we have reasonable grounds for doing so, lock or close a PayID created and linked to your account at any time without prior notice to you. Without limitation, this includes where we suspect you created the PayID or are using the PayID in connection with fraudulent or illegal activity.
+
+67.18. If your PayID is locked, you can request that it be unlocked by contacting us. If a PayID is closed it must be re-created before it can be used again.
+
+PayID disputes
+
+67.19. If a PayID cannot be created for your account because it has already been created and linked to another account by someone else we can lodge a dispute. However, there is no guarantee that the dispute will be resolved in your favour or result in you being able to create the PayID for your account. We will promptly notify you of the outcome of the dispute.
+
+Liability for PayIDs
+
+67.20. We are not liable to you for any loss or damage you suffer as a result of:
+
+a PayID being created and linked to your account or you using or attempting to use a PayID that has been created and linked to your account;
+us refusing to create a PayID or any delay in a PayID being created and linked to your account;
+us locking or closing a PayID that has been created and linked to your account; or
+any failure or malfunction of the NPP (including the NPP Address Service) or any of our systems or procedures that use or connect with the NPP.
+
+67.21. You indemnify us against, and will be liable to us for, any direct or indirect loss, damage, charge, expense, fee or claim we may suffer or incur in respect of any PayID that is created and linked to your account or your use or attempted use of such a PayID. We may debit any such loss, damage or cost to any account you hold with us.
+
+Sending to Up PayIDs
+
+67.22. When receiving a payment from another Up customer, we will reveal their Up-generated PayID to you. This will allow you to make a payment back to that PayID. This feature is only available between Up customers and does not apply to accounts from other institutions. Payments sent using this PayID are covered by the same terms as any other PayID payment.
+
+Published Friday, 31 May 2019
+
+This section applies if you use the Pay Anyone Service. The Key Features Table indicates the accounts for which this is available.
+
+57. About the Pay Anyone Service
+
+The Pay Anyone Service is an online service that allows you to transfer funds directly to accounts at financial institutions within Australia. The transfer may be a once only transfer (either immediate or future date) or you can arrange regular reoccurring transfers.
+
+58. Using the Pay Anyone Service
+
+58.1. When you tell us to make a Pay Anyone transfer, you must provide us with the following information:
+
+the account from which you want us to debit the Pay Anyone transfer;
+the correct account number of the person or business to whom you wish to transfer funds;
+the correct BSB of the financial institution at which the account to whom you wish to transfer funds is held or a PayID created and linked to the account;
+a reference;
+the amount of the Pay Anyone transfer; and
+when you want the transfer made.
+
+58.2. You acknowledge and accept that we are not obliged to effect a Pay Anyone transfer if you do not give us all of the above information or give us inaccurate information.
+
+58.3. You authorise us to debit the nominated account you specify with the amount of that Pay Anyone transfer(s) you instruct us to make.
+
+Warning: Some banks do not cross check the account number with the account name, which may lead to your payment being placed into the wrong account, if you enter an incorrect BSB or account number. You must ensure that the BSB and account number you give us are correct. We will not be liable for any loss as a result of you entering the wrong BSB or account number.
+
+58.4. Pay Anyone transfers may be processed as a Direct Entry Payment or, once the NPP has been launched, as an Osko Payment.
+
+58.5. We may decide whether to process Pay Anyone transfers you request from your accounts as Direct Entry Payments or Osko Payments in our absolute discretion and you must not assume that Osko Payments will always be available or offered to you.
+
+59. Payments
+
+59.1. We may impose restrictions on the accounts from which a Pay Anyone transfer may be made or impose limits on the amount of Pay Anyone transfers. The default Pay Anyone daily limit is $5,000.
+
+59.2. We may decide not to make any payment if there are insufficient funds available for withdrawal in the specified nominated account to be debited on the due payment date.
+
+59.3. We may decide not to process a future-dated Pay Anyone transfer if you have instructed us to make the transfer using a PayID and, at the relevant transfer time, we become aware that the details registered for that PayID in the NPP Addressing Service have substantially changed since you instructed us or, in the case of recurring payments, since the previous transfer.
+
+59.4. A delay may occur in the processing of a Pay Anyone transfer where:
+
+there is a public or bank holiday on the day you instruct us to make a Pay Anyone transfer; or
+you instruct us to make a Pay Anyone transfer on a day which is not a business day or after our payment cut-off time on a business day (for payment cut-off times see clause 63).
+
+59.5. Regardless of when an immediate Pay Anyone transfer is made, the account from which you want us to debit the Pay Anyone transfer will be debited immediately.
+
+59.6. Pay Anyone transfers are irrevocable and once you have told us to make a Pay Anyone transfer it cannot be stopped or cancelled. You must therefore take care to ensure all information you give us in relation to a Pay Anyone transfer request is correct and complete.
+
+59.7. Where we process a Pay Anyone transfer as an Osko Payment, the transfer will be processed, cleared and settled on a 24/7 near real-time basis.
+
+59.8. Delays may occur in processing Osko Payments.
+
+60. If a transfer amount is incorrect
+
+60.1. You must ensure that the information you give us in relation to each Pay Anyone transfer is correct. If you discover that we have been instructed to make a transfer for an incorrect amount:
+
+if the amount transferred is greater than the required amount, contact the person or business to whom the funds were transferred to obtain a refund for the excess;
+if the amount transferred is less than the required amount, you can simply make a further Pay Anyone transfer for the difference.
+61. Suspension of the Pay Anyone Service
+
+61.1. We may suspend your right to use the Pay Anyone service at any time if you are suspected of acting in a fraudulent or improper manner or we believe doing so is reasonably necessary in order for us to ensure the security or integrity of the Up app, the Pay Anyone service or your account.
+
+62. Limit reductions
+
+62.1. We may reduce your Pay Anyone daily limit if you do not use any or part of your limit over a period of time. We will notify you in writing at least 20 days before taking such action, where we are required to do so under the ePayments Code.
+
+63. Cut-off times
+
+63.1. If you instruct us to transfer funds before the time specified below, the transfer will be processed overnight on that business day. Subject to the financial institution to whom the funds are being transferred, the payment will in most cases settle on the next business day.
+
+Cut-off times:
+
+Monday -- Friday: 7.00pm (AEST/AEDT)
+
+Saturday, Sunday and Public Holidays: processed next business day.
+
+63.2. Pay Anyone transfers may take longer to be credited if you tell us to make a Pay Anyone transfer on a Saturday, Sunday or public holiday or if the recipient's financial institution does not process the payment as soon as they receive it.
+
+64. Liability for mistaken payments, unauthorised transactions and fraud
+
+64.1. You must notify us immediately:
+
+if you become aware that you may have made a mistake (except in relation to the Pay Anyone transfer amount - see clause 60 above or paying funds to an Unintended Recipient -- see clause 65.1), when instructing us to make a Pay Anyone transfer;
+if you did not authorise the Pay Anyone transfer from your account;
+if you believe a Pay Anyone transfer was not processed in accordance with your instructions (including delays);
+if you think you have been fraudulently induced to make a Pay Anyone transfer.
+
+64.2. We will attempt to rectify any such matters in relation to your Pay Anyone transfer in the way described in this clause. If a Pay Anyone transfer is made on your account without your knowledge or consent, liability for that unauthorised Pay Anyone transfer will be determined in accordance with clause 44. Otherwise, except as set out in this clause 64 we will not be liable for any loss or damage you suffer as a result of using the Pay Anyone Service.
+
+64.3. You indemnify us against any loss or damage we may suffer due to any claims, suits, demands or action of any kind brought against us arising directly or indirectly because you:
+
+did not observe any of your obligations under the terms and conditions in this section; or
+acted negligently or fraudulently in connection with the other terms and conditions.
+
+64.4. We are not liable for any consequential loss or damage you suffer as a result of using the Pay Anyone Service other than any loss or damage which is due to our negligence or breach of any condition or warranty implied by law which cannot be excluded, restricted or modified at all or only to a limited extent.
+
+65. Mistaken Internet Payments
+
+65.1. In this clause, the following words have these specific meanings:
+
+"Mistaken Internet Payment" means a 'Mistaken Internet Payment' under the ePayments Code or a 'Mistaken Payment' under the NPP Regulations.
+
+Note: This relates to payments you make to an Unintended Recipient using the Pay Anyone Service where you enter an incorrect BSB or account number. It does not include Misdirected Payment under the NPP Regulations or payments made using BPAY.
+
+"Other ADI" means the authorised deposit-taking institution (as defined in the Banking Act 1959 Cth) of the Unintended Recipient.
+
+"Unintended Recipient" means the recipient of funds as a result of a Mistaken Internet Payment.
+
+65.2. This clause applies where you have made a Mistaken Internet Payment covered by the ePayments Code and the Other ADI subscribes to the ePayment Code or which was processed through NPP.
+
+65.3. If you have made a Mistaken Internet Payment, you must notify us as soon as possible. We will investigate the matter and inform you (in writing) of the outcome within 30 business days from the date you notified us.
+
+65.4. Without the consent of the Unintended Recipient, it may be possible to retrieve the funds from your Mistaken Internet Payment if:
+
+you reported the Mistaken Internet Payment to us within 7 months;
+we decide that a Mistaken Internet Payment has occurred;
+the Other ADI decides that a Mistaken Internet Payment has occurred; and
+the Unintended Recipient has sufficient credit available in their account to retrieve the funds.
+
+Note: If you report the Mistaken Internet Payment after 10 days but before 7 months, the Unintended Recipient will be given an opportunity to establish that they are entitled to the funds.
+
+65.5. With the consent of the Unintended Recipient, it may be possible to retrieve the funds from your Mistaken Internet Payment if:
+
+both we and the Other ADI decide that a Mistaken Internet Payment has occurred but the Unintended Recipient does not have sufficient credit in their account;
+both we and the Other ADI decide that a Mistaken Internet Payment has occurred, but you reported the Mistaken Internet Payment after seven months; or
+the Other ADI decides (in their discretion) to seek the Unintended Recipient's consent to return the funds even if the Other ADI is not satisfied that a Mistaken Internet Payment has occurred.
+
+65.6. If the Other ADI withdraws funds from the Unintended Recipient's account, they will return the funds to us. We will then return the funds to you as soon as possible.
+
+65.7. You will be responsible for any of your losses following a Mistaken Internet Payment if:
+
+both we and the Other ADI decide that no Mistaken Internet Payment has occurred; or
+in certain circumstances, the Unintended Recipient is able to establish that they are entitled to the funds; or
+the consent as described in clause 65.5 is not obtained from the Unintended Recipient.
+
+65.8. You can complain to us about the way your report of a Mistaken Internet Payment is dealt with by contacting us at the Customer Advocate Office on telephone 1300 002 258 from 8:30am -- 5.00pm (AEST/AEDT) Monday to Friday.
+
+65.9. If you are not satisfied with the outcome under clause 65.8, you may contact our external dispute resolution scheme. External dispute resolution is a free service established to provide you with an independent mechanism to resolve specific complaints. Our external dispute resolution provider is the Australian Financial Complaints Authority (AFCA). You can contact the AFCA at:
+
+Australian Financial Complaints Authority
+
+GPO Box 3
+
+Melbourne VIC 3001
+
+Phone: 1800 931 678
+
+Website: www.afca.org.au
+
+Email: info@afca.org.au
+
+65.10. We are not liable for any consequential loss or damage you suffer as a result of using the Pay Anyone facility other than any loss or damage which is due to our negligence or breach of any condition or warranty implied by law which cannot be excluded, restricted or modified at all or only to a limited extent.
+
+65.11. Where you are the recipient of a Mistaken Internet Payment, you authorise us to withdraw the funds relating to that Mistaken Internet Payment from your account if we are required under the ePayment Code to recover those funds from you and return them to the payer's authorised deposit taking institution.
+
+66. Incorrect Account Number
+
+66.1. When we process your Pay Anyone transfer, we process the Pay Anyone transfer based on the BSB and account number you provide.
+
+WARNING: We do not cross check the account number with the account name or reference you provide us.
+
+66.2. If your Pay Anyone transfer is to another financial institution, your Pay Anyone transfer may also be processed on the BSB and account number provided as not all financial institutions cross check account numbers and names.
+
+Example 1: You want to send a Pay Anyone transfer to Mr Citizen's account, being BSB 001 012 Account Number 123456 however you type in BSB 001 012 Account Number 123465, the payment will be made into account number 123465 instead of Mr Citizen's account.
+
+Example 2: You want to send a Pay Anyone transfer to Mr Citizen's account, being BSB 001 012 Account Number 123456 however you type in BSB 001 021 Account Number 123456, the payment will be made into account number 123456 at BSB 001 021 instead of BSB 001 012.
+
+66.3. It is vital that you include the correct account number and BSB.
+
+67. PayIDs
+
+67.1. In our discretion, we may allow you to create a PayID for your account so that NPP Payments can be made to your account using the PayID instead of the BSB and account number.
+
+67.2. Creating a PayID using your personal details (eg. mobile phone number or email address) is optional. We will not create a PayID for your account using your personal details without your consent. We will issue you with an Up generated PayID as part of holding an account with Up.
+
+Creating a PayID
+
+67.3. You may register and unregister a PayID for your account in the Up application.
+
+67.4. You may only create a PayID for your account if:
+
+we are able to verify your identity in a manner that is satisfactory to us;
+you own or are authorised to use the PayID;
+the PayID is not likely to be misleading as to who the accountholder for the account is; and
+creating the PayID will not infringe on the intellectual property rights of any person.
+
+67.5. We may refuse to allow you to create a PayID for any reason, including where we have not been able to satisfactorily verify your identity or we are not satisfied that you own or are authorised to use the PayID you are trying to create or we are not satisfied that creating the PayID will not infringe the intellectual property rights of any person.
+
+67.6. By creating a PayID for your account:
+
+you assure us that you own or are authorised to use the PayID;
+you agree to immediately notify us if any of the information you provide to us when creating the PayID changes or becomes incorrect or misleading;
+you acknowledge that the PayID and information relating to you and the account the PayID is linked to (including the account name, BSB and account number) will be registered in the NPP Addressing Service operated by NPP Australia Limited (not us); and
+you consent to:
+us disclosing your personal information and the other information you provide to us to NPP Australia Limited as necessary to create the PayID in the NPP Addressing Service; and
+third parties, such as NPP Australia Limited and other financial institutions that connect to or use the NPP, collecting, storing, using and disclosing that information (including your name and account details) in accordance with the NPP Regulations and NPP Procedures and as necessary for purposes related to NPP Payments to you or your account. Without limiting the last sentence, you acknowledge that the account name associated with your account, or a summary of it, may be disclosed to any person that initiates a NPP Payment using the PayID.
+
+67.7. The types of PayIDs we allow you to create and link to your account may differ depending on your circumstances and the type of account you have.
+
+67.8. More than one PayID can be created and linked to an account provided that each PayID is unique.
+
+67.9. When creating a PayID we will automatically provision a PayID name that is substantially representative of the account.
+
+Transferring a PayID from or to another account
+
+67.10. With the exception of PayIDs generated by Up (eg. @up.me addresses) you can transfer a PayID created and linked to one account with us or another financial institution to another account with us or another financial institution. However, you cannot transfer a PayID while it is locked (see 67.16 below).
+
+67.11. If you want to transfer a PayID you have created for one account with us to another account with us or another financial institution, you can do so by contacting us and requesting that we transfer the PayID. We will action your request within one business day unless we agree another time period with you. A transfer of your PayID to another institution is completed by that institution.
+
+67.12. If you want to transfer a PayID that has been created and linked to an account at another institution to an account with us, you must first contact the other financial institution to tell them you want to transfer the PayID and then create the PayID with us.
+
+Updating, locking and closing a PayID
+
+67.13. With the exception of PayIDs generated by Up (eg. @up.me addresses) you can request that we update or close a PayID that has been created and linked to your account at any time by contacting us. Generated PayIDs cannot be cancelled or transferred.
+
+67.14. You must promptly notify us if, at any time, you cease to own or be authorised to use a PayID created and linked to your account or if any of the information you give us when the PayID is created changes, and request that we update or close the PayID.
+
+67.15. We will action a request from you to update or close a PayID within one business day unless we agree another time period with you.
+
+67.16. We may, if we have reasonable grounds for doing so, lock or close a PayID created and linked to your account at any time without prior notice to you. Without limitation, this includes where we suspect you created the PayID or are using the PayID in connection with fraudulent or illegal activity.
+
+67.17. If your PayID is locked, you can request that it be unlocked by contacting us. If a PayID is closed it must be re-created before it can be used again.
+
+PayID disputes
+
+67.18. If a PayID cannot be created for your account because it has already been created and linked to another account by someone else we can lodge a dispute. However, there is no guarantee that the dispute will be resolved in your favour or result in you being able to create the PayID for your account. We will promptly notify you of the outcome of the dispute.
+
+Liability for PayIDs
+
+67.19. We are not liable to you for any loss or damage you suffer as a result of:
+
+a PayID being created and linked to your account or you using or attempting to use a PayID that has been created and linked to your account;
+us refusing to create a PayID or any delay in a PayID being created and linked to your account;
+us locking or closing a PayID that has been created and linked to your account; or
+any failure or malfunction of the NPP (including the NPP Address Service) or any of our systems or procedures that use or connect with the NPP.
+
+67.20. You indemnify us against, and will be liable to us for, any direct or indirect loss, damage, charge, expense, fee or claim we may suffer or incur in respect of any PayID that is created and linked to your account or your use or attempted use of such a PayID. We may debit any such loss, damage or cost to any account you hold with us.
+
+Prior to June 2019, our Product Terms were available in PDF form.

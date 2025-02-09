@@ -1,0 +1,68 @@
+Section F: EFT Transactions – PIN, Passcode and mobile number generated transactions
+
+Current and historical versions of the Section F: EFT Transactions – PIN, Passcode and mobile number generated transactions section of the Up Personal Accounts Terms & Conditions.
+
+Publication date:
+
+Friday, 31 May 2019
+Published Friday, 31 May 2019
+
+We warrant that we will comply with the requirements of the ePayments Code.
+
+43. Liability for authorised transactions
+
+43.1. You are responsible for all transactions carried out using a PIN, or your registered mobile number and passcode, by you or by anyone else with your knowledge and consent.
+
+43.2. If the Up app malfunctions after having accepted your instructions or fails to complete the transaction in accordance with your instructions resulting in loss to you of some or all of the amount of a transaction, we will correct that loss by making any necessary adjustments to your account, including an adjustment of any interest or fee. If you consider that you have incurred additional losses as a consequence of the malfunction you may make a claim for any such loss.
+
+43.3. If you are aware or should have been aware that the Up app was unavailable for use or was malfunctioning, then our responsibility will be limited to the correction of errors in your account and the refund of any fee imposed as a result.
+
+43.4. We may withdraw electronic access to your account without prior notice to you in the event of any Up app malfunction.
+
+44. Liability for unauthorised transactions
+
+44.1. You will not be liable for losses arising out of:
+
+unauthorised transactions where it is clear that you have not contributed to the loss;
+the fraudulent or negligent conduct of our employees or agents or companies involved in networking arrangements or of merchants who are linked to the EFT system or their agents or employees;
+any component of an access method that is forged, faulty, expired or cancelled;
+unauthorised transactions occurring after you have notified us as required by these terms and conditions of the loss, theft or misuse of a card, forming part of an access method or that the security of a PIN, your passcode or mobile number has been breached;
+transactions which require the use of a card or PIN linked to your account, and that occurred before you received that card or PIN from us (including a reissued or replacement card or PIN);
+the same transaction being incorrectly debited more than once to the same account.
+
+44.2. You are liable where we can prove on the balance of probability that you have contributed to the losses in any of the following ways:
+
+through your fraud;
+by you voluntarily disclosing the recovery code, PIN or your passcode to anyone, including a family member or friend;
+by keeping a record of the PIN (without making any reasonable attempt to disguise the PIN or prevent unauthorised access to the PIN) on the one article, or on several articles, carried with the card, so that they are liable to loss or theft simultaneously with the card;
+by keeping a record of your PIN or passcode (without making any reasonable attempt to protect the security of the records) on the one article, or on several articles so that they are liable to loss or theft simultaneously;
+where we permit you to select or change a PIN or passcode, by selecting numbers which represent your birth date or letters which are a recognisable part of your name, if immediately before this was done we specifically warned you not to do so and that you might incur liability by doing so;
+by acting with extreme carelessness in failing to protect the security of the recovery code, PIN or your passcode;
+where the ePayments Code requires, that the recording or voluntary disclosure of one or more but not all of the codes forming part of the access method was the dominant contributing cause of the loss;
+by leaving a card in an ATM which incorporates reasonable safety standards that mitigate the risk of a card being left in the ATM.
+
+In these cases, you will be liable for the actual losses which happened before you notified us that the card had been misused, lost or stolen or that the security of an access method had been breached, but you will not be liable for any of the following amounts:
+
+that portion of the losses incurred on any one day which exceed the applicable daily withdrawal limits;
+that portion of the losses incurred in a period which exceeds any other periodic withdrawal limits applicable to that period;
+that portion of the total losses incurred on any account which exceeds the balance of that account (including any prearranged credit);
+all losses incurred on any accounts which we and you had not agreed could be accessed using the access method;
+any losses incurred as a result of conduct we expressly authorised you to engage in;
+any losses incurred as a result of you disclosing, recording or storing a recovery code, PIN or passcode in a way that is required for the purposes of using a service such as a password manager, or storing your codes in an electronic wallet on your computer which is expressly or implicitly promoted, endorsed or authorised by us.
+
+44.3. Where we can prove on the balance of probability that you have contributed to the losses by unreasonably delaying notification after becoming aware of the misuse, loss or theft of a card forming part of the access method, or that the security of all the codes forming part of the access method has been breached, you are liable for the actual losses which occur between when you became aware (or should reasonably have become aware in the case of a lost or stolen card) and when we were actually notified, but you are not liable for any of the following amounts:
+
+that portion of the losses incurred on any one day which exceed any applicable daily withdrawal limits;
+that portion of the losses incurred in a period which exceeds any other periodic withdrawal limits applicable to that period;
+that portion of the total losses incurred on any account which exceeds the balance of that account;
+all losses incurred on any accounts which you and we had not agreed could be accessed using the access method.
+
+44.4. Where we cannot prove you were liable under clauses 44.2 or 44.3 and a PIN or passcode was required to perform the unauthorised transaction, you will be liable for the least of:
+
+$150;
+the balance of those accounts (including any prearranged credit) which you and we have agreed may be accessed using the access method;
+the actual loss at the time we were notified (where relevant) that the card has been misused, lost or stolen or that the security of the codes forming part of the access method has been breached (excluding that portion of the losses incurred on any one day which exceed any applicable daily withdrawal or other periodical withdrawal limits).
+
+44.5. | You authorise us to debit any amount for which you are liable under this clause 44 to your account.
+
+Prior to June 2019, our Product Terms were available in PDF form.

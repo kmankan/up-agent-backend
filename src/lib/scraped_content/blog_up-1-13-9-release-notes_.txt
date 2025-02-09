@@ -1,0 +1,60 @@
+Up 1.13.9 Release Notes
+
+Updates
+
+Pause & Resume Auto Transfers
+
+Go ahead, take your time, take as long as you need.
+
+Now Auto Transfers from Savers will hit the pause button when there's not enough money to make the move. Resume your regular Automated Transfers right away with a tap or take a little longer and resume at a later date. We'll keep your settings warm until you come back.
+
+To manually Pause an Auto transfer to or from a Saver tap on the ‘Auto Transfer’ option in a Saver and then tap the more options in the top right to hit Pause or remove the automation entirely.
+
+Shareable Hook Up a Mate
+
+Let's get that volume a little bit louder now. You can now spread the word of Up further and faster. Use your $Upname to create a custom Hook up a Mate URL to share with your mates online or off.
+
+Shareable Hook Up a Mate uses your Upname to create a custom link with magical properties that rewards you for sharing.
+
+To enable shareable Hook Up a Mate you need to opt-in by heading to the Hook Up a Mate screen in your app and following the instructions to enable it.
+
+You're now the proud owner of a public webpage with your Upname and profile photo on it. So if you'd rather keep that information on the down low, you can still invite your mates by sending an invite to their mobile number.
+
+If you do opt-in and change your mind you can opt back out at any time (tap the three dots on the Hook Up a Mate screen in the app) and your shareable page will be deactivated.
+
+All the regular invite bonus' still apply, be sure to check out the Hook up a Mate page for the full T&Cs.
+
+Up
+
+Easy Money
+
+@up_banking
+
+Tags: Release Notes, Up 1.13.9, Automated Transfers, Hook Up a Mate
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Up 1.13.6 Release Notes
+
+Undo Transfers, Attempted Charges & Android Boot Time Improvements
+
+Up
+
+May 28, 2020
+
+Up 1.13.5 Release Notes
+
+New 'Pay an Upsider' payment option & Upsider payment replies
+
+Up
+
+May 04, 2020
+Keep reading
+
+More from the makers of Up.

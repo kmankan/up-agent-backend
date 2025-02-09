@@ -1,0 +1,66 @@
+Up 1.14.0 Release Notes
+
+Updates, Saving and Budgeting
+
+It’s more important than ever to keep your savings spark alive. Numbers can often seem meaningless, cash is not always convenient and even debit cards are feeling a little obsolete.
+
+We’re dedicated to improving the everyday relationship we have with dollars in our accounts. In this release we’re taking a bold visual step in this direction. The goal was simple; encourage better saving habits by making it a fun thing to do.
+
+Saver Pools
+
+Dive in, the water’s just right.
+
+Saver Pools are a new way to visually track and play with your hard saved cash - a reimagining of how money should look in a 100% digital environment. Pump some money into any of your Savers and watch them turn into a buzzing soup of round-ups, regulars, savings and interest.
+
+Your pool moves with you, so you’ll always know where your savings stand with just a quick glance. Fill your Saver pool to the top to reach your goal or drain your dollars out to take your Saver Pool down to a puddle. It’s a real hands on experience.
+
+Round Ups and Auto transfers are now front and centre. When Auto Transfers enabled for a Saver you’ll always be able to see the expected date you will hit your Savings goal.
+
+Whether it’s coins in a piggy bank, stashing cash in the sock drawer or a Saver Pool filled to the brim, there is a heck of a buzz to reaching your savings goals and getting what you want! Jump into any of your Savers to take a dip in your digital pool of funds.
+
+Saver Goal Notifications
+
+Go you good thing! Sometimes everyone needs a little bit of encouragement from the sidelines. Now you’ll get a notification when you’ve hit 25%, 50% and 75% of your target Saver goal. Just a gentle reminder that you’re on your way to Savings greatness. Hit 100% of your goal to really get the party started..
+
+iOS Widget Updates
+
+Get more at a glance. We’ve updated our iOS widget to show more info on all your accounts. See your Spending balance and last transaction, then expand to see balances across your Savers and keep tabs on your stash. Another tool in the kit to keep you on top.
+
+Biometric Fixes
+
+Upsiders with certain Android devices (all OnePlus devices with in-screen fingerprint readers on Oxygen OS) were having issues with logging in or stepping up with their fingerprint. We’ve fixed up biometrics and what was once great is now great again. No infinite loop for you.
+
+Up
+
+Easy Money
+
+@up_banking
+
+Tags: Release Notes, Up 1.14.0, Saver Pools, Saver Goals, Saving, iOS widgets
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Up 1.13.9 Release Notes
+
+Pause & Resume Auto Transfers and Shareable Hook Up a Mate
+
+Up
+
+Jun 15, 2020
+
+Up 1.13.6 Release Notes
+
+Undo Transfers, Attempted Charges & Android Boot Time Improvements
+
+Up
+
+May 28, 2020
+Keep reading
+
+More from the makers of Up.

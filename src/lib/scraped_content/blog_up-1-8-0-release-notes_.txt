@@ -1,0 +1,66 @@
+Up 1.8.0 Release Notes
+
+Updates
+
+Scheduled Payments
+
+Live in the moment, or live it later, up to you. Scheduled Payments have arrived. Specify a specific date and time for your outgoing payment to be sent. Your future self is proud of you for thinking ahead, well done.
+
+You can schedule a payment the same way you make a regular payment. Before sending tap on the new 'options' button to reveal your payment customisation.
+
+Use the date picker to pick your desired date and time. Your payment will patiently wait in the shadows until it is time to leave the nest.
+
+We’ll go ahead a pop that payment in-between your other Upcoming payments so you can keep on top of it.
+
+Repeating Payments
+
+Feel like history is repeating? You can now repeat payments every day, week, fortnight or month. That’s working smart, not hard.
+
+To set a Payment to repeat just go ahead and tap on the new ‘options’ button before sending a payment. Specify your repeat frequency from the options and sit back, relax and let the payments roll. To check up on your repeating payments either pop into the payment thread from your Payments screen, or mosey on down to your Upcoming tab, we’ll keep all your repeat payments there too!
+
+Salary Identification
+
+Let’s make Pay day a great(er) day. You can now identify your salary and get a better view of those delicious incoming pays + correct company names and logos. Money in is a win.
+
+For the majority of Upsiders getting their Salary paid into their Up account, you’ll notice a newly updated contact with correct company name and logo. If we’ve missed some you can manually identify a contact as your salary by tapping on the new ‘This is my Pay/ Salary’ open when identifying an incoming payment.
+
+New Category Icons
+
+Our older icons have moved onto retirement. We thank them for 10 months of loyal service, what a ride. We’ve brought in some new & fresh icons to every one of our categories. Here’s to moving with the times 🍻
+
+Check out the new gang by tapping on your ‘Monthly Summary’ and sifting through the categories.
+
+Up
+
+Easy Money
+
+@up_banking
+
+Tags: Release Notes, Up 1.8.0, Payments, Insights
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Up 1.6.5 Release Notes
+
+Pay your bills with BPAY® & Upsider Payments.
+
+Up
+
+Aug 22, 2019
+
+Up 1.6.1 Release Notes
+
+Boosted Round Ups and Even Dollar Round Ups.
+
+Up
+
+Jul 31, 2019
+Keep reading
+
+More from the makers of Up.

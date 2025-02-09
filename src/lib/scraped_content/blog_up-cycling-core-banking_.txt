@@ -1,0 +1,62 @@
+Up-cycling core banking
+
+Building Up
+
+Up is treading a different path to most other digital banks in that it’s being developed through a collaboration between a software company (us) and a so-called “traditional bank” (Bendigo Bank). This article explores that relationship in more detail and hopes to give you a better understanding of why we think it’s the right approach for delivering a new bank.
+
+In an earlier blog post, Rebooting Transactions, we outlined the core ingredients we believe are needed to underpin a truly modern banking platform. To refresh your memory, they were:
+
+A complete data picture
+A relational, meaningful data model
+A real-time, event-based architecture
+
+Delivering a platform with those qualities is a big challenge. And of course it still needs to do all the things a core banking system must do – comply with the many and complex regulatory requirements; generate countless reports; satisfy all manner of auditing needs; the list goes on (it really does).
+
+If you’re anything like us, your eyes are already starting to glaze over. Why would anyone in their right mind want to build such a system from scratch? Most of your time is going to be spent learning how to build all those core banking bits that are massively important but incredibly intricate and time consuming to develop. We had to ask ourselves, is that really the thing we want to focus on?
+
+“If you wish to make an apple pie from scratch, you must first invent the universe” — Carl Sagan
+
+What if we could deliver those essential ingredients but do so on top of an existing banking core system that took care of all the “banky” stuff for us? Well we think we can and that’s exactly the approach we’ve taken with Up.
+
+By teaming up with Bendigo we’ve found a great match. They are willing and able to provide us with a dependable and trusted core banking system we can “up-cycle” and develop on top of. Just as importantly, they really believe in what we want to achieve with Up: a platform that helps people better understand where their money goes and encourages them to build savings, while having a bit of fun along the way.
+
+Having an ADI (the banking license that lets you take customer deposits) and a core banking system are the absolute foundations needed for a digital bank. With Bendigo’s backing, Up receives that out of the box. That’s a huge leg-up over our competition. Only time will tell how many of them can clear that hurdle on their own.
+
+“Green fields” projects are undoubtedly a siren song to software teams. Opportunities to start projects from scratch don’t come around all that often in a developer’s career and letting them go can be tough. We won’t claim that there are never challenges or frustrations in building against a traditional core banking system. But we do celebrate the fact that every risk and compliance meeting avoided gives us more time to focus on developing the features that actually matter to our customers.
+
+And the fact that this approach means we can stay a small enough team that we can still sit around the (admittedly crowded) lunch table for a meal every day is all the validation we need to know we’re on the right track.
+
+Anson Parker
+
+Head of Product
+
+@anson
+
+Tags: Sustainability
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Lock it Up!
+
+Keeping your money safe is at the heart of everything we do at Up. But effective security doesn’t need to get in your way.
+
+Anson Parker
+
+Aug 09, 2018
+
+Rebooting Transactions
+
+The humble banking transaction is perhaps the fundamental unit of your financial life. It represents everything from your daily spending and regular bills through to your income and interest payments. It is the key to understanding where your money actually goes, yet it’s one of the most neglected and outdated parts of today’s banking experience.
+
+Anson Parker
+
+Feb 07, 2018
+Keep reading
+
+More from the makers of Up.

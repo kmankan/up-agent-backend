@@ -1,0 +1,106 @@
+Pay Day
+
+How to Up, Spending and Budgeting
+
+Thousands of Upsiders have chosen to have their salary deposited into their Up accounts, making Up their primary bank account. They’ve placed trust in our product and support teams to quickly resolve any issues relating to their hard earned cash. That vote of confidence means a lot to us, thank you!
+
+It’s been my pleasure to work on a few new features, designed especially for these customers to make pay day a great experience. Let me explain what you can expect on pay day with Up.
+
+Breeze Between Pay Days
+Learn how Pay Day works
+Instant Gratification
+
+If you’ve ever found yourself short on money at the end of your pay cycle you’re not alone. When this happens it’s really important to know when you’re paid. With traditional banks you might find yourself checking your balance repeatedly on the days leading up to pay day to see if it’s dropped into your account early, or leave you frustrated if there’s unexpected delays.
+
+With Up, we’ll let you know the second you’re paid with a push notification. Rest easy.
+
+Salary ID
+
+One of Up’s most loved super-powers is something we call the Naked Truth which has been more than 6 years in the making. Our merchant system is great at recognising who you’ve purchased from. Rather than shouting at you in ALL CAPS with obscure transaction descriptions we’ll show you the correct business name, logo, time and location.
+
+We’ve been busy extending this system so we can bring this same level of clarity to your favourite payments, like your incoming salary!
+
+Sometimes this is very difficult. As an example, there’s been fifty payments with nothing more than the description 301500. That is not very helpful at all.
+
+The ability to match incoming payments with employers is brand new, so there’s a chance your salary payments won’t be correctly identified right off the bat. We may ask for your help in identifying your salary correctly. You can also contact us anytime using Talk to Us if your salary payments are not automatically identified, or they’re just not looking quite right. That way when you hook up your work mates we may be able to identify your employer by the time they move their salaries across! Pay it forward and identify your Pay / Salary.
+
+Pay History
+
+No longer will you need to hunt through your activity feed or pay slips to find out how much you’ve earned. Up will automatically present your pay history clearly in a new thread for your employer on the Payments screen.
+
+At a glance, you’ll clearly be able to see your pay cycle and spot when there’s been changes in frequency or amount. This new style of payment thread is specifically designed for incoming payments, a variation on the thread style for conversational payments that you already know and love.
+
+Savings
+
+We are unapologetic in encouraging people to save more. We believe that savings can make a huge difference to your well-being. Savings is cash at hand to deal with unexpected circumstances. Savings can give you the confidence to quit a toxic job. Savings is freedom and security. A bit like insurance, but better! Rather than paying someone else for this security your savings pays you compounding interest, it’s a win-win.
+
+One way we encourage savings is with Round Ups, a kind of “gateway drug” into a lifelong savings habit that you won’t want to kick. This feature helps people who didn’t know they could save start their savings journey. Everyday purchases will move your spare change into savings, little by little, or in bigger chunks with Boosted Round Ups for those brave souls wanting to save more aggressively.
+
+Another time we want to encourage saving is on pay day. It’s a time when you can either gain more control over your spending and saving, or get yourself into trouble by spending more than you should. A strategy that many financial experts recommend is to move portions of your pay into savings on the day it’s deposited. Rather than trying to save with whatever is left at the end of your pay cycle, setting aside money at the time it’s deposited gives you an accurate available balance for spending that takes into account your savings goals.
+
+Split Payments
+
+No matter what your savings goals are, it’s now easy to automate them with Split Payments. Simply turn it on, and then adjust the percentages of your pay that you want to send into your Savers on pay day. It’s as easy as that!
+
+Set up like this, each time you’re paid Up would immediately send:
+
+10% of your pay into your Holiday Saver
+10% of your pay into your Home Saver
+20% of your pay into your Emergency Saver
+
+Leaving 60% of your pay in your Up account for spending.
+
+You can decide how much or how little you want to have available for spending. If you believe your money is stretched too thin as it is, why not give it a try with 5% to begin with and see how it goes? You might be surprised, and you can withdraw from your Up Savers whenever you need to.
+
+Saving 120%
+
+Designing and developing this unique interface was a lot of fun, and it went through many iterations. We wanted to make it as easy as possible for you to set up your automated pay day transfers, and to show you visually how this was affecting the amount you have remaining for spending.
+
+We spent quite a bit of time getting the boundaries feeling right, adding resistance to the dragging when you’d hit 100%. It’s satisfying seeing those sliders bounce back in line, don’t you think?
+
+Salary Activity
+
+In your Up Activity feed we’ll show you exactly what’s happened when your pay was deposited. All activity relating to your automated Split Payments will be clearly grouped together with your incoming pay.
+
+The payment receipt will also feature your automated pay day transfers, useful as a reference when looking back at your savings. Insights will show how much your employer has paid you in the month, year and all time as well.
+
+Split Payments are a simple yet powerful way to automate your savings that we hope encourages you to save more, and gain more control over your spending. This awesome new Up feature will help keep your savings on track.
+
+If you haven’t yet moved your salary across to Up you can also enable Split Payments for your funding accounts. Or, simply ask your employer to move your pay across to Up to take advantage of these features automatically on pay day. You can find your Up account details at the top of the Up menu, simply slide across and tap “Copy BSB/Account Number”.
+
+There’s never been a better time to start saving than now. Give it a try and let us know what you think, we’d love to hear how you’re using it!
+
+Mark Brown
+
+Engineer
+
+@markbrown4
+
+Tags: Payments, Saving, Automated Transfers, Round Ups, Pay Splitting
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+TransferWise integrates with Up
+
+First of its kind collaboration in Asia-Pacific soon to offer Upsiders the best way to move money overseas.
+
+Up
+
+Oct 15, 2019
+
+Up 1.8.0 Release Notes
+
+Scheduled & Repeating Payments, Salary Identification & New Category Icons
+
+Up
+
+Sep 10, 2019
+Keep reading
+
+More from the makers of Up.

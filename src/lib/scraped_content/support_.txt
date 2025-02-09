@@ -1,0 +1,790 @@
+How can we help?
+
+Got questions? Need answers? We got you.
+
+Chat to our support team in-app using Talk to Us.
+
+Can't access the app or card stolen?
+
+Up in a nutshell
+
+The big questions.
+
+What is Up?
+
+Up is an Australian mobile-only digital bank. Up is designed, developed and delivered through a collaboration between Ferocia (a software company) and Bendigo Bank. Up runs on your smartphone, and provides you with an app and a debit card linked to a real bank account. “Super-powered” banking refers to Up’s superior ease-of-use and awesome features including signing-up in as little as 3-minutes in-app, seamless merchant identification, instant in-app Apple Pay activation, real-time conversational payments, automated round-ups, spending insights, and more.
+
+How safe is Up?
+
+The Up app and all Up branded banking and financial products available in the Up app are issued and provided by Bendigo and Adelaide Bank. Deposits provided through the Up apps are protected by the Financial Claims Scheme (FCS), up to $250,000 per person (in aggregate across all deposit products held with Bendigo and Adelaide Bank). Up also uses the latest security technology, including smartphone biometrics and advanced cryptography, to protect your money.
+
+Is my money used ethically?
+
+Deposits provided through Up are held by Bendigo and Adelaide Bank. Where your Up deposits are held matters and because of this Bendigo has committed to:
+
+Supporting global efforts to limit warming to 1.5°C by reducing absolute emissions to net zero by 2040.
+No direct lending to projects or large-scale electricity generation in coal, coal seam gas, crude oil, natural gas and native forest logging.*
+Maintaining Community Bank investment, through a profit-with-purpose social enterprise Community Bank model.
+Gender diversity (40:40:20) at every level of the organisation by the end of 2025.
+Reducing complexity, modernising and digitising the Bank to improve outcomes for customers and enhance protection over their personal data and information.
+Continuing to be Australia’s Most Trusted Bank and maintaining both Bendigo Bank and Up’s strong customer satisfaction scores.
+
+* Applies to all employees and all other parties acting for or on behalf of the Group that prepare credit applications and undertake credit decisioning.
+
+Can I use my Up card overseas?
+
+Yes! The Up card makes a great travel companion, and is accepted at more than 47 million Mastercard® acceptance locations worldwide. There are no fees on international purchases online or in person, and there’s no rebates or conditions to worry about.
+
+So how much does Up cost?
+
+Precise pricing for your Up account.
+
+Does Up have monthly account keeping fees?
+
+No. Up doesn’t charge monthly account keeping fees. In fact, Up is actually free for most standard use with practically no fees at all.
+
+Does Up have any ATM fees?
+
+ATM access for Up customers is currently free at most major banks in Australia, including Bendigo Bank and the 4 major banks. Although Up does not charge ATM fees, we do not control the fees charged by any other financial institution or independent ATM operator. All ATMs must display the fee at the time of transaction and allow you to accept or decline. If you choose to accept the fee we do not offer ATM rebates.
+
+Okay, how do I get started?
+
+How to get Up and running.
+
+How do I fund my Up account? Can I deposit cash or cheques?
+
+Funding your account digitally is a breeze: your Up spending account has a BSB and Account Number like any other bank account in Australia. You can also easily nominate your phone number or email address as a “PayID”. Up lets you use your BSB and Account Number, or your phone number or your email address to deposit money almost instantly using “Osko”. Osko provides near-instant payments 24/7 (including weekends) between participating financial institutions.
+
+You can also deposit cheques through Bank@Post™ at your local Australia Post outlet with no fees attached.
+
+Can I deposit cash or cheques?
+
+You can deposit cash and cheques through Bank@Post™ at your local Australia Post outlet with no fees attached. All you need is your physical, activated Up card and PIN. You may also be asked for ID if depositing a cheque.
+
+Please note: Cash/Cheque deposits may not be available for 5-10 business days.
+
+How do I open an Up account?
+
+To get an Up bank account on your mobile in under 3 minutes, simply download the Up app from the App Store for iOS or Google Play for Android and follow the instructions. Opening a regulated bank account in Australia requires an Australian Driver's Licence or a Passport. After we successfully validate your ID, you can start banking with Up.
+
+Is there a limit to how much I can pay someone using Up?
+
+Yep. Up applies dynamic payment limits at the time you create a payment. These limits are based on a number of factors, including how much or how frequently you’ve paid the intended recipient previously.
+
+These limits are in place for the protection of both you and your money. Your specific limits will be visible when you make a payment.
+
+Is there a limit to how much I can withdraw from an ATM using Up?
+
+Up currently has a combined $1,000 daily limit for ATM and EFTPOS withdrawals, unless you ask for the daily limit to be changed.
+
+Do I earn interest on the money I have in Up?
+
+Once activated by making 5 successful physical or digital card purchases in a calendar month, Up pays 4.35% p.a. across your Up and 2Up Savers, up to a combined balance of $1M on deposits in your Up Savers as well as up to $1M in your 2Up Savers. Interest on Savers is calculated daily and paid monthly. Money held in Everyday accounts does not earn any interest. Read the full conditions.
+
+What if I don’t want to earn interest? Can I opt out?
+
+If you’d prefer not to earn interest on the money in your personal or 2Up Savers, you can opt out at any time.
+
+Head to your Savers tab in-app, tap the “Bonus Rate” banner at the top of the Savers list, and press “Manage Interest Settings”.
+
+Note: If you have a 2Up account, both you and your Player 2 have equal control over your interest settings. See Section 8 of the Up Terms and Conditions for more information.
+
+How do I send money into my Up account from overseas?
+
+It's simple to wire transfer money from an international destination to your Up account. You'll need to use a SWIFT code. For Up, the details you'll need are:
+
+Swift code: BENDAU3B
+Bank Name: Bendigo and Adelaide Bank
+Address: Bendigo Centre, Bath Lane, Bendigo, VIC 3550
+
+Your account details will be your name, BSB and account number.
+
+Just for your reference, the exchange rate applied on incoming transfers is updated daily and is subject to change without notice. You can check that here: https://www.bendigobank.com.au/calculators/foreign-exchange/
+
+To have funds sent into your account from overseas the below fees will be charged:
+
+Acceptance of payments in a foreign currency for SWIFT transfer into your account: $10.00 AUD
+Acceptance of payment in AUD currency for SWIFT transfer into your account: $2.00 AUD
+What should I use as the official name of this financial institution?
+
+Often when you are setting up a new direct debit arrangement, you'll be asked to provide some details. For Up, these are those details:
+
+Branch Name: Up Money / Bendigo and Adelaide Bank
+Address: Bendigo Centre, Bath Lane, Bendigo, VIC 3550
+Account title: Your account title is your full name
+
+What device features does Up support?
+
+How Up works with your devices.
+
+What smartphones does Up support?
+
+Up currently supports the following devices:
+
+iOS 13.4 or later, on Apple devices.
+Android 6.0 or later, on Android devices.
+
+For your security, and for the best experience on the Upside, we’d recommend keeping automatic app updates on, and your app up to date!
+
+Does Up support Apple Pay, Google Pay, Samsung Pay and other digital wallets?
+
+We certainly do! With Up, you can pay the way you want. You can add your Up card to Apple Pay, Google Pay, Samsung Pay, Garmin Pay and Fitbit Pay.
+
+Does Up support Siri?
+
+Yep. You can use Siri to check your Up account balance, or transfer money into one of your Up Savers. Key phrases for Siri are "Check my bank account", "Transfer $10 to my holiday account" and "Check my bank balance".
+
+Does Up support Touch ID and Face ID?
+
+Yep. Up supports both Touch ID and Face ID. You’ll be prompted to enable Touch ID or Face ID from within Up’s Activity screen, depending on the features your iPhone supports. You can still use a passcode if you prefer.
+
+How do I add my Up card to Apple Pay?
+
+Up supports instant in-app activation of Apple Pay which means there's no need to wait for your Up plastic card to arrive, Up will simply prompt you to add your card to Apple Pay as part of the sign-up process.
+
+If you have an Apple Watch, once you've set it up for your Apple Wallet, you can use the Watch app on your iPhone to install Up and we'll walk you through the setup process. Our watch app also works standalone over LTE (if you have your eSim enabled).
+
+If you choose not to set up Apple Pay during sign-up, you can still enable Apple Pay within the Card section of the Up menu. Simply tap "Setup Apple Pay". These in-app set up methods for Apple Pay are automated and do not require you to scan your Up card, or enter your details manually.
+
+If you choose to set up Apple Pay via Apple Wallet (from outside of the Up app) you will be required to scan your Up card, or enter your details manually. Therefore the automated methods are recommended.
+
+How do I add my Up card to Google Pay?
+
+Up supports instant in-app activation of Google Pay which means there's no need to wait for your Up plastic card to arrive, Up will simply prompt you to add your card to Google Pay as part of the sign-up process.
+
+If you choose not to set up Google Pay during sign-up, you can still enable Google Pay within the Card section of the Up menu. Simply tap "Setup Google Pay". These in-app set up methods for Google Pay are automated and do not require you to scan your Up card, or enter your details manually.
+
+If you choose to set up Google Pay via Google Pay App (from outside of the Up app) please first make sure your physical card has been activated. You will be required to scan your Up card, or enter your details manually. Therefore the automated methods are recommended.
+
+Does Up support Apple Watch?
+
+We do indeed! If you have an Apple Watch, use the Watch app on your iPhone to install Up and we'll walk you through the setup process. Our watch app also works standalone over LTE (if you have your eSim enabled).
+
+Does Up work well with VoiceOver and TalkBack?
+
+Yep. We aim to make all features easy to use with assistive technologies, Talk to Us if you have any issues with this.
+
+Does Up work across multiple devices?
+
+Yep. You can access and operate your Up account on all of your devices at the same time.
+
+To keep everything running smoothly when switching devices, we’d strongly recommend keeping automatic app updates turned on, and your Up app up to date across your devices.
+
+Can I use Apple Pay with EFTPOS?
+
+Yes you can. To set up Apple Pay with EFTPOS first remove and then re-add your Up card from within the Apple Wallet app.
+
+What about my Up card?
+
+The Up app and your debit card.
+
+What type of card will I get with Up?
+
+By default, you’ll get a digital Zap Card which you can use instantly when you sign up. You can also request a beautiful Mastercard® Debit card, if you want a bit of that plastic action. Up plastic cards can take up to 15-20 business days to arrive, depending on the postal service and your location.
+
+It’s worth noting that if your phone supports Apple Pay or Google Pay, you can add your Zap Card to your digital wallet straight away - you can also instantly access the card details within the Up app.
+
+Can I lock, block, or disable my card?
+
+You can temporarily block any of your Up cards at any time!
+
+To temporarily block your card in-app, head to the Up tab > 'Cards' > Select the card you want to block > toggle 'Card Active' off.
+
+To unblock it, just toggle it back on.
+
+Important note: This switch won’t block the ability to use your card via digital wallets like Apple or Google Pay.
+
+How do I activate my Up card?
+
+Activate your Up card simply by selecting the “Activate Card” prompt within the Activity screen. If the “Activate Card” option is not automatically displayed, you can also activate your Up card in the Card section of the Up menu. Simply tap “Activate Card”.
+
+I've lost my Up card
+
+If you can’t find your card, you should lock it straight away. Head to the Up app, then open the Up menu on the far left. Scroll down to the ‘Cards’ section, and tap on your Up Plastic card. Toggle the ‘Card Active’ switch off to temporarily disable your card.
+
+If you can’t find it anywhere and need a new card, head back to Up > Cards > Up Plastic Card and hit ‘Report card as lost, stolen or damaged’ and follow the prompts.
+
+If your card has been lost and you can't access your App please give us a call on 1300 002 258.
+
+My card was stolen!
+
+If you haven't already, head to the Up tab > Card > Toggle off 'Card active'. This will ensure your card is inactive while it’s not physically with you.
+
+Once you're ready to order a new card, head to Up > Cards > Up Plastic Card and hit ‘Report card as lost, stolen or damaged’ and follow the prompts.
+
+If your card has been stolen and you can't access your App please give us a call on 1300 002 258.
+
+I'm running into issues with my card
+
+Sometimes issues can be with the card itself, but other times, it can be the EFTPOS machine or ATM.
+
+Some basic troubleshooting steps for a declining card are:
+
+Head to Up > Cards and tap on the card you’re having issues with. From there, make sure your card is activated, and ‘Card Active’ is toggled on.
+Tap into ‘Configure Card’ and make sure no settings there are blocking your transaction.
+If you haven’t already, try your card at a few different places to narrow down the problem.
+
+If you notice that your card continues declining at multiple places and your card controls are all on, it could be an indication that the card is damaged.
+
+If you think that’s the case, head to the Card section of the app, where you'll see the option to report your card as damaged.
+
+Don’t hesitate to reach out via Talk To Us in the Up app if you need a hand at all.
+
+What’s the difference between Zap & Plastic cards?
+
+Here's a blog post we prepared earlier 😉
+
+Okay, but what is a Zap card?
+
+Your Zap card is your digital only card - it gives you a set of card details instantly upon sign up or if you need a new card; meaning you can update any bills or subscriptions right away, without waiting for a new card to be delivered. You don’t need to opt-in to a plastic card unless you want one. Your Zap card works online and in your digital wallet, just like a regular plastic card would!
+
+You can read more about our cards here.
+
+How long do cards take to arrive?
+
+Delivery of Up plastic cards can take up to 15-20 business days, depending on your location and the postal service.
+
+Can I get express delivery on my card? How long does it take?
+
+If you need your card in a hurry, we can express post a card to you!
+
+Some key details:
+
+Cards sent via express delivery generally take 2-5 business days to arrive
+They can be sent either via Toll Courier or Express Post (Your choice)
+There’s a $15 fee for express posting cards.
+
+Reach out to our Support Team via Talk To Us to arrange an express card delivery.
+
+How do I use card controls?
+
+We offer lots of fine-grained control over how your card works.
+
+Just head to the Up tab > Cards menu > Select the card you want to configure > Configure Card.
+
+From here you can change your ATM withdrawal limit, disable contactless purchases, limit online or overseas transactions and more!
+
+For more info, check out Cards & Controls.
+
+My card has been blocked!
+
+No worries! Just reach out in the app via Talk To Us - we’ll be there to help.
+
+If your card has been blocked and you can't access your App please give us a call on 1300 002 258.
+
+So what about different types of accounts?
+
+The accounts Up has on offer.
+
+What are Up Savers?
+
+You can create Savers in Up for each of your life goals by giving them a name and specifying the amount you would like to save. You can instantly create multiple Savers in seconds by simply tapping the plus button and following the prompts. Once activated by making 5 successful physical or digital card purchases in a calendar month, they earn 4.35% p.a up to a combined balance of $1M. Read the full conditions. Your Up Spending account does not earn interest. You can also enable automatic roundups on one of your Savers. Use the edit function on each Saver to disable or activate roundups.
+
+Does Up support joint accounts?
+
+We sure do. Learn more about 2Up - Joint accounts reimagined.
+
+Does Up have home loans?
+
+Absolutely! We’ve got a whole section of our website dedicated to Up Home, ready to answer all your home loan questions! Just click here to go there and take a peek 👀
+
+So, how do I pay my mates?
+
+Payment types and timeframes.
+
+How do I make a payment from my Up account?
+
+You can make a payment from your Up account to other bank accounts by heading to the Payments tab.
+
+Tap the orange ‘+’ then the ‘Pay Someone’ option - this will show your phone contacts who are with Up, and contacts who you have paid previously.
+
+If you want to enter a BSB & Account Number or a PayID, just tap ‘Create New’ in the top right hand corner and follow the prompts!
+
+How long do payments take with Up?
+
+Up supports PayID and Osko for near-instant payments to and from your Up account. Payments should be processed almost instantly by Up, but processing times may vary depending on security delays and payment rules put in place by the other financial institution and/or whether or not they support Osko. Using the standard “Pay Anyone” capability of traditional banks with BSB and Account Number can take up to 1-3 business days, again depending on the other institutions’ processing times and security delays.
+
+Why are my payments sometimes delayed?
+
+First time transfers to new payees or payments made from new devices may be delayed as a security precaution.
+
+If you need to make abnormally large payments to new payees, we recommend that you plan ahead and use a "scheduled transfer" at a specific point in time in the future.
+
+I made a mistake when making a payment
+
+Our Support team are ready to help with any payment queries - just reach out via Talk To Us with as much detail as possible, and we’ll get back to you ASAP.
+
+Using Up Overseas
+
+Make your trip easy.
+
+How do I use my card overseas?
+
+Your Up card is accepted at more than 47 million Mastercard locations all over the globe, so it makes a great travel companion and means you don’t need a travel-specific card.
+
+Once activated, you can use your Up card just as you do in Australia! Just tap, swipe or insert your card as per usual, and we’ll handle the rest behind the scenes.
+
+To read more about travelling with Up, check out our Travel Easy page 🌴
+
+Can I see my balance in local currency while I'm overseas?
+
+Yep! Travel Mode will automatically switch on when you’re using your card overseas, showing your balance in the local currency and in AUD.
+
+You can also switch it on manually at any time by heading to Up > Travel.
+
+Does Up have a currency converter?
+
+We sure do — you can check out our currency converter at any time by heading to Up > Travel and toggling on ‘Travel Mode’.
+
+What's the exchange rate for overseas card purchases?
+
+We'll automatically convert international transactions from the local currency to AUD using the Mastercard exchange rate, with 0% bank fees (when selecting Mastercard). We’ll also automatically show your balance in the local currency once we detect you’re travelling. If you want to turn this on manually, you can head to Up > Travel and turn on “Travel Mode”. You can check out the exchange rate by heading to Up > Travel in the app, or on the Mastercard currency converter website.
+
+When overseas we'd also recommend paying in the local currency as opposed to AUD when given the choice by the EFTPOS terminal. This lets you take advantage of the great exchange rate you get by being an Upsider, instead of the rate the merchant terminal chooses to give you 😊
+
+Can I buy international currency in advance?
+
+At this stage, you can only hold AUD in your Up account.
+
+When making international transactions, we automatically convert the currency in real time. If you’re travelling and start making transactions, we’ll also automatically show your balance in the local currency in your activity feed.
+
+You can check out the rate that will be applied to international card purchases on the Mastercard currency converter website or in the Up App by heading to Up > Travel.
+
+Do I need to set up your Wise integration to use my card overseas?
+
+There’s no need to set up our Wise integration to use your Up card overseas - your card is always ready to go! Our Wise integration is a quick and easy way to send funds internationally.
+
+If you're keen to get started with Wise, head to the Payments tab, tap the orange (+) button, select ‘International Payments’ and follow the prompts.
+
+You can also check out this page for further information on our partnership with Wise.
+
+I'm having trouble with my card whilst overseas
+
+If you’re running into issues with your card overseas, here’s a rapid-fire checklist of things to try:
+
+If you’re using an iPhone, double click the side button and make sure the switch below your Up card in Apple Pay is set to ‘Mastercard’ not ‘eftpos SAV’ - this is because eftpos SAV only works in Australia.
+Head to Up > Cards and make sure your Up Plastic card is activated and unblocked.
+Jump into the ‘Configure Card’ menu and make sure you don’t have Overseas transactions set to blocked.
+Try your card at a couple of different merchants to narrow down the problem
+
+If that doesn't fix things up, reach out via Talk To Us.
+
+If you can’t access your app or it’s outside our Support hours (6am-midnight, Melbourne time) please give us a call on +61 1300 002 258.
+
+But what about...?
+
+Rapid responses to the most common Up queries.
+
+The Up app won’t accept my identification
+
+Send us an email at support@up.com.au
+
+I don’t have suitable ID
+
+You can’t join Up without valid Australian identification documents.
+
+I’m not 18 years old
+
+That’s ok, but you’ll need to be at least 16 years old to get an Up account.
+
+I have tax obligations in another country
+
+No problems. You’ll just need to be an Australian resident and provide your overseas tax information during sign up.
+
+I’m not an Australian resident
+
+Up is only available to people living in Australia.
+
+I forgot my Up passcode
+
+If you get your Up passcode wrong too many times, you can reset it within the Up app. Make sure you have your Up recovery code handy. Your recovery code was emailed to you when you verified your email address after joining Up.
+
+If you don’t have your recovery code, please follow our account recovery page for options to recover access to your account.
+
+If this still doesn't work, please email our Account Recovery Experts with your full legal name & mobile number at support@up.com.au.
+
+I suspect fraudulent activity on my Up account
+
+Call 1300 002 258. You can also temporarily disable your Up card. Simply go to the Up menu and select Card. Then toggle the card switch off.
+
+I need to update my personal information
+
+You can update most of your personal information in-app! Just head to Up > Profile and follow the prompts!
+
+If you run into any issues, reach out via Talk To Us
+
+How can I tell you about my overseas travel plans?
+
+There’s no need to tell us about your travel plans! Up accounts come ready to travel.
+
+I got a new phone
+
+Download the Up app, and follow the prompts to set up your new device.
+
+You can also follow our account recovery page for options to recover access to your account.
+
+I changed my mobile number
+
+You can change your mobile number by heading to the Up menu, then tapping on Profile. From there, tap your mobile number and enter your new one. If you run into any dramas, let us know using ‘Talk to Us’ in the Up app.
+
+You can also follow our account recovery page for options to recover access to your account.
+
+I lost my phone
+
+Provided you haven't shared your passcode, your funds are safe. Get a new phone, then download the Up app, and follow the prompts to set up your new device.
+
+You can also follow our account recovery page for options to recover access to your account.
+
+Why do I get an insecure network error?
+
+From a technical perspective it means that the app cannot negotiate a secure SSL connection to the right server for Up. It can happen when you have a proxy or something that’s getting in the way of the app talking to the Up servers.
+
+What does this mean? Essentially we haven’t been able to verify that your connection is secure and that no one is attempting to decode your app networking traffic while you're using the app. Sometimes this isn't a malicious scenario (eg. company devices/network can have this issue). However, because it's a security related thing, we stop you being able to use the app to protect your data and ours.
+
+Why can’t I link Up with external services?
+
+Up doesn’t use email and password combinations for sharing with external services, keeping access limited to your approved devices. We do offer a Developer API for personal use, and are fully accredited for Open Banking.
+
+Open Banking is an agreed & regulated way for all banks to enable their customers to safely share data with third parties, such as lenders & other budgeting apps. You can read more about Open Banking here.
+
+If a third party is accredited with Open Banking, they'll be listed here 👉 https://www.cdr.gov.au/find-a-provider and you'll be able to share your data with them securely.
+
+Statements?
+
+Our statements are completely paperless! To access your current and previous monthly statements including proof of balance, tap into ‘Statements’ from under the ‘Up’ tab.
+
+I need an interest summary for my tax
+
+Interest summary statements showing all interest earned will show up on July 5, at the beginning of a new financial year. You can find them under Statements from the Up menu.
+
+How do I get my Personal Access Token?
+
+Your Personal Access Token allows you to securely access your personal data. You can read more about it here.
+
+To claim your Personal Access Token, head over to Up > “Data Sharing” > tap the “Personal Access Token” button and follow the prompts.
+
+Make sure you copy the token and store it somewhere safe before you exit out of that part of the app.
+
+If you ever want to revoke your token in the future, you can do it from the same menu!
+
+Can I log in on my computer? Does Up have a web version?
+
+We’re currently a mobile-only product, but we’re continuing to explore alternative interfaces for Upsiders.
+
+Do I need to “log out” of the app?
+
+There’s no need to log out of your app when you’re done - any important action requires that you authenticate yourself first.
+
+If you’re not comfortable with this, we do have a ‘Require Log In’ feature.
+
+You can turn this on in the Up tab > Security > toggle on ‘Require Log In’.
+
+Toggling this on will require you to log into the app upon opening, and automatically ‘lock’ the app after you close it.
+
+Can I apply for an overdraft?
+
+At this stage, we don't offer overdraft facilities on Up accounts.
+
+Anything else
+
+Send us an email at support@up.com.au, or ask us in ‘Talk to Us’ in the Up app (if you’re already an Up customer).
+
+Afterpay
+
+Learn about connecting Up with Afterpay.
+
+How do I connect to Afterpay?
+
+Find an Afterpay payment in your activity and tap the transaction. On the receipt page you'll have the option to connect to Afterpay. This will take you to the Afterpay website where you can login and give Up permission to access your Afterpay payment data.
+
+What does connecting to Afterpay do?
+
+Once you've connected to Afterpay any Afterpay transactions in your activity feed will be updated to show the actual merchant you transacted with. Tapping on a transaction will show the amount and number of payments remaining and most often the items you purchased. In the Upcoming screen we'll show you all your future Afterpay payments and give you a reminder a couple of days out from each payment.
+
+Why do some of my transactions still just show up as Afterpay only?
+
+If you have made all four Afterpay payments before you connect to Afterpay from Up we cannot currently show detailed information for those purchases. We're working to improve this in the future.
+
+What about Afterpay purchases made with other cards?
+
+We only show Afterpay payments initiated with your Up card. If you add your Up card to purchases currently in progress we will show any new payments in Up, but are not able to show these in Upcoming. We're working to improve this in the future.
+
+Complaints, Disputes & Hardship
+
+What you can do if something's not going right
+
+Have a complaint?
+
+While we hope you never get to this point, if you do have a complaint to make, we need to hear it. The best place to start is using "Talk to Us" in the Up app. You can also call us on 1300 002 258 or e-mail us at support@up.com.au. We will promptly investigate your complaint and notify you of the outcome. If you are not satisfied with the response provided, you may refer your complaint directly to our External Dispute Resolution scheme (see section 21.5 of the Up Terms and Conditions). You can learn more about how we manage complaints here.
+
+Need to dispute a transaction?
+
+If you'd like to dispute a transaction, please let us know the transaction details using "Talk to Us" in the Up app. We will work through our standard dispute process to try and recover your money. Please keep in mind when raising chargebacks we are governed by scheme rules which provide guidelines we must follow for these to be considered valid. In some circumstances, we may need to re-issue your card to prevent additional disputed transactions. If you are unable to dispute a transaction using Talk to Us, you can also call us on 1300 002 258.
+
+Experiencing financial hardship?
+
+Personal circumstances change all the time. This is part of life, even if it is not always easy. We’re here to help. If you’re experiencing financial hardship, there are a number of ways we may be able to assist you. Please reach out in-app via "Talk to Us". You can also call us on 1300 002 258 or e-mail us at support@up.com.au.
+
+Additionally, there’s a number of services available to you who may also be able to help:
+
+The National Debt Helpline have easy to use, step-by-step guides on how to tackle debts - ndh.org.au . You can also call the National Debt Helpline on 1800 007 007 to talk to a financial counsellor for free, independent advice about your situation.
+Financial Counselling Australia will help you find a financial counselling agency in your area - www.financialcounsellingaustralia.org.au
+ASIC’s ‘MoneySmart’ website provides information and tools to help you make the most of your money - www.moneysmart.gov.au
+The ABA’s ‘Financial Hardship’ website can help know what to do if you are experiencing financial difficulties, how your bank can help, where to go for more information and how to apply for help - www.ausbanking.org.au/resource/resource.pdf
+The CreditSmart website has information on managing debt and hardship assistance - www.creditsmart.org.au/financial-hardship
+Experiencing financial abuse?
+
+Financial abuse occurs when one person manipulates another to control their finances and property without their consent. It can happen to anyone, no matter how old, or how much money they have. We recognise that it may be difficult for you to seek assistance. If you feel you're in a financially abusive situation, please do not hesitate to speak to any member of our staff. The best place to start is using "Talk to Us" in the Up app. You can also call us on 1300 002 258 or e-mail us at support@up.com.au.
+
+Scams
+
+Keeping yourself and your finances safe from fraud and scams.
+
+I think I'm being scammed!
+
+Firstly, stop and take a deep breath. Then, check out our Scam Self-Defence Guide. Scams often start from a phone call, email, social media or SMS – Our guide is designed to show you how to identify common scams and how to protect yourself.
+
+If you’re ever concerned or unsure, don't hesitate, contact us directly via Talk To Us. Don’t get pressured into making a payment or taking other action in the meantime.
+
+Some additional resources that may be helpful:
+
+Scamwatch - How to spot and avoid scams
+IDCare
+The Australian Cyber Security Centre
+
+It’s also super important to remember that Up or Bendigo Bank will never ask you to share your Up Passcode or Recovery Code.
+
+Deceased estate, power of attorney & guardianship questions
+
+At Up, we understand that this is a difficult time for you. There are a number of ways we can assist.
+
+Have a deceased estate, power of attorney or guardianship question?
+
+At Up, we understand that this is a difficult time for you. Among all the important things to take care of when a loved one passes away, having to sort through bank matters is another thing to add to the list. If you find yourself in this situation there are a number of ways we may be able to assist you, please get in touch with us by calling on 1300 002 258 or e-mailing us at support@up.com.au.
+
+Closing your account
+
+How to close your account.
+
+Want to close your account?
+
+To close your individual account in-app, head to the Up tab > 'Close Up account' and follow the prompts.
+
+From here, there are a few things to do before your account closure can be finalised. Firstly, you'll need to have a balance of $0 in your Up Spending and Savers accounts. You'll also need to make sure you don't have an active 2Up account (this needs to be closed first, see below for more information) or an active Up Home loan.
+
+To close a 2Up Account, either Player can just head to the 'Up' tab > 'Profiles' > 'Close 2Up Account'. Like your individual account, before the account can be closed, all funds need to be transferred out of the account. If either Player changes their mind, you have 24 hours to cancel the closure.
+
+The in-app prompts will walk you through each step but if you have any questions, just reach out to our friendly Support crew via Talk to us and we'll help you out.
+
+Does Up have joint accounts?
+
+2Up - A new way to join financial forces.
+
+What is 2Up?
+
+No more lists on the fridge or ‘you pay rent and I’ll get the shopping’. 2Up is a simpler way to share expenses. It’s easy to set up and close down, and gives you tools to pay together while keeping your own financial life, completely your own.
+
+Read all about it here.
+
+How do I invite my Player 2?
+
+Tap the 2Up banner on your Up tab to invite your Player 2
+
+If your Player 2 isn’t an Upsider, send them an invite through Hook Up a Mate first.
+
+Can I make a payment with my 2Up? How about direct debits, BPay or Scheduled & Repeating payments?
+
+At release, you will be able to use all the regular Up payment features except payment requests, pay splitting, and International payments.
+
+International payments have to be linked to individual Wise account holders, so you’ll need to use your own Up account for those.
+
+Does this mean my Player 2 sees everything I do?
+
+You will both see every purchase made on your 2Up Spending account, and each purchase will show who bought what. If you contact our Support team, you can choose to both be included in the chat.
+
+And of course, your own Up accounts are completely your own. Neither of you can see, smell or touch the other person’s main Up account.
+
+Can I have two or three accounts? Can I add my whole family?
+
+At this point, 2Up is for two Upsiders only, and each Upsider can be part of one 2Up at a time. Shared accounts (for more than two people) are planned for the future.
+
+So if you had a 2Up with your flatmate you’ll need to shut it down before you make a fresh account with your new Player 2.
+
+What if my Player 2 empties our 2Up and takes off to a tropical island?
+
+You both have full access to spend, transfer or make payments with money in 2Up without requiring permission from each other..
+
+It's important you only join 2Up with someone you know well and trust. Only add money to 2Up you're happy for either of you to spend.
+
+Does Up pay interest on 2Up accounts?
+
+Your 2Up Everyday account is a spending account and does not earn interest. 2Up Savers are eligible to earn bonus interest once unlocked. Purchases made using your 2Up Everyday account contribute to the five transactions needed to unlock bonus interest repayments across both your personal Up Savers and on 2Up Savers. So if between you and your 2Up you make five purchases, you’ll both earn interest on your private Up Savers and 2Up Savers.
+
+At present, Up Savers pay up to 4.35% p.a. for up to $1M in deposits in your Up Savers as well as $1M in your 2Up Savers.
+
+Read the full conditions on our pricing page.
+
+Is it a big deal to close a 2Up?
+
+As soon as your 2Up is empty and all 2Up Savers have been closed, either one of you can close it. Just a few taps and you’re a lone ranger once more.
+
+Slice, Slice, Baby
+
+Slice any purchase or payment with your mates on Up.
+
+What if my mates aren’t all on Up?
+
+First of all, Hook them Up with the world’s snazziest orange banking solution. If they aren’t yet on the Up train, you’ll have to go old school. Cover their share and get your cash in the car park.
+
+What if they don’t pay me back right away?
+
+Up sends repeating requests so you don’t have to. If they keep ignoring those requests, maybe they’re just not a good mate. We’re really sorry, you’re worth more than that. A mate of ours likes to lend $50 to people he never wants to see again and considers it well spent. Hope this sorta helps.
+
+How many people can I slice a bill with?
+
+We’re working with 20 for now. That… should be enough?? Go get it you party animal.
+
+Can I slice 2Up transactions?
+
+Not at the moment. We’re starting with regular-flavoured Up accounts. More awesome tooling is coming as we grow.
+
+What should we get Grandma for her birthday?
+
+Fancy gin, a ridiculously comfy throw that matches her couch, and some quality time cause she loves you and honestly she really just wants to know what you’re up to.
+
+Maybuy, maybuy not
+
+Buy things you actually love, with money you actually have.
+
+Can I put more money towards a Maybuy?
+
+Sure can! To add more money to an active Maybuy, swipe down on your Activity feed for ‘Quick Actions’, then tap ‘Transfer’.
+
+Then, select your Maybuy and transfer your desired amount.
+
+Future scheduled saves will adjust automatically to include your manual top-up.
+
+Do Maybuys earn interest?
+
+Absolutely!
+
+Each Maybuy is its own Saver, so once you’ve activated the bonus rate for the month, you’ll earn interest as you would on any other Saver 💸
+
+Maybuy with my 2Up?
+
+You can absolutely Maybuy with your Player 2 👭
+
+During setup, before locking in ‘amount of saves’, you can ✔️ the ‘save with $Player2’ checkbox and each save will come from your 2Up Spending account.
+
+Can I Maybuy a whole cart from a single store?
+
+That would be pretty awesome. Right now though it’s just individual items.
+
+How many Maybuys can I have?
+
+That depends. Each Maybuy is its own Saver, and you can have a total of 50 Savers with Up.
+
+So, just as an example, say you already had 15 Savers, you’d be able to create 35 Maybuys before you maxed out at 50 💪
+
+What if the item was sold out or a different price when I was ready to buy?
+
+Maybuys don’t reserve or purchase the item for you like a Buy Now Pay Later service would. (But also nobody but you has your money). Think of Maybuy as a Saver, with the primary focus on helping you save for something on your own terms, with your own funds.
+
+Locked Savers
+
+Remove the weight of self‑control.
+
+Can I lock a 2Up Saver?
+
+You sure can! Either Player can lock or unlock 2Up Locked Savers 🔐
+
+Does a locked Saver earn interest?
+
+Sure does!
+
+Once you’ve activated the bonus interest rate, a locked Saver will earn interest like any other Saver 💪
+
+How many Savers can I lock?
+
+There’s no limit to the amount of Savers you can lock down.
+
+You can have a maximum of 50 active Savers, all of which can be locked 🔒
+
+Can I still use Auto Transfers?
+
+Auto-transfers in and out of a locked Saver are absolutely possible, but there are a few limitations.
+
+Firstly, you can’t set up a new Auto-transfer in or out without unlocking it first 🔓
+
+If you set up an Auto-transfer before locking a Saver, it’ll continue to be scheduled as usual 💪
+
+Changing the date & amount of an Auto Transfer while a Saver is locked isn’t possible, but you can pause or delete it if need be. However, if you’ve paused it, you’ll need to unlock the Saver to make changes again.
+
+What if I ask a friend for faster access and they don't respond?
+
+Good question.
+
+If your nominated Upsider doesn’t respond to your request to unlock the Saver early, you’ll need to wait for the 3 hours to elapse.
+
+Save Up 1000
+
+Now is your time to shine. Saving $1,000 in a year is your challenge and Up is on your team.
+
+What if I have a big week and I can't save anything?
+
+You can change up this challenge, switching between big saving weeks, little weeks, and the odd mini break when you need it. Mum would say it's a marathon not a sprint and she's pretty wise. Cut yourself some slack and start again.
+
+How does Save Up 1000 work with mates?
+
+Turn on social sharing (on by default) to let your contacts on Up see you’re in the challenge. Who’ll level up first? Let's find out. We'll also add you to a Class so you can track yourself against other anonymous Upsiders.
+
+Or turn it off to play this game on your own, cause your dreams don't have to be for anyone but you.
+
+What should I save up for?
+
+$1000 could be your first emergency fund; return tickets to Bali; the foster doggo you've always wanted (with accessories) or the start of a lifetime savings habit. Who knows? The sky's the limit so go forth you good thing and save.
+
+(If you get a puppy please send pics).
+
+Happy Hour
+
+Pay on Up for a chance to win cash back on your end of week food & drinks.
+
+Can I play Happy Hour more than once?
+
+Your first eligible purchase ($10 or more) made between 5-7pm on a Friday will go into the draw to be selected for a chance to play. Happy Hour runs every Friday 5-7pm, so you can enter once every week!
+
+My favourite spot is not in the ‘Restaurants & Cafes’ or ‘Pubs & Bars’ category
+
+If the merchant isn’t yet to be identified, you can identify them in-app by tapping into the purchase. If they’re already identified but don’t fall under the eligible categories, shoot our Support team a message in-app and they’ll take a look to see if we can help.
+
+How old do I need to be to play?
+
+Happy Hour is open to all Upsiders, 16 years and over.
+
+Do my mates need to be on Up to boost my potential prize?
+
+Nope! Any of your mates can boost your potential prize by scanning your QR code. Make sure you let them know that after they give you a boost, they can get a $10 gift if they sign up with Up.
+
+I missed my Happy Hour notification! Now what?
+
+Dang! If you’ve missed your Happy Hour notification, you’ll have to try again next Friday between 5-7pm. Keep your eyes peeled.
+
+Can I opt out of Happy Hour forever?
+
+Yep! Just shoot our Support team a message in-app via the Talk to Us tab and they’ll sort that out for you.
+
+Unable to access the Up app?
+
+The fastest way to get access to your account is to read our account recovery guide. If you're still having trouble, email our Account Recovery Experts with your full legal name & mobile number at support@up.com.au.
+
+National Relay Service
+
+Users who are deaf or have hearing or speech impairment can call through the National Relay Service:
+
+TTY: users phone 133 677 then ask for 1300 002 258
+Internet relay: users connect to the National Relay Service and then ask for 1300 002 258
+Speak and Listen (speech-to-speech relay): users connect to the National Relay Service and then ask for 1300 002 258
+Card lost or stolen?
+
+For your protection please give us a call on 1300 002 258 as soon as possible to let us know your card has been lost or stolen or if you’re seeing unauthorised charges on your account. If you're overseas, please use +61 1300 002 258.

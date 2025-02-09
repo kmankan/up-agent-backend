@@ -1,0 +1,60 @@
+The Tree of Up
+
+Building Up, Updates
+
+We're excited to introduce a new kind of product roadmap. We're calling it The Tree of Up – a technology tree-like view of our product plans for 2019.
+
+Developing a close relationship with our customers has been a core aim of Up from the beginning. This meant providing customers with a convenient, in-app means to not only get support, but to provide feedback, suggestions and bug reports. In order for us to be responsive to customer needs we felt it was essential they could engage with us in a casual, personal and low-friction way.
+
+Talk to Us – the place in the Up app where this all happens – has delivered on that goal. We’ve engaged in many thousands of conversations and continue to receive (and try to answer) hundreds of new ones each day. Some of the “idea” submissions we receive are questions about when Up will support certain features while many others are new idea suggestions – some already in our plans and others entirely novel.
+
+Over the five months Up has been live, these conversations have coalesced into something of a whole. We now have a solid understanding of the features customers feel are essential for banking and also the direction they'd like to see Up progress.
+
+Lately we’ve put a lot of consideration into the best way to share this information. The obvious choice was some form of public roadmap that would give existing customers reassurance that Up would cater to many of their needs and ideas while also assisting new or prospective customers in understanding where we’re headed.
+
+We looked around at what others had done in this space. Public roadmaps are not uncommon but are typically presented as written lists, segmented by delivery window - some variation of “now, next and future” or “short-, medium- and long-term”. We felt these were OK, but didn’t do a good job or conveying strategy and direction or communicating priority. In the end we came up with something we think is new in this space. We call it The Tree of Up.
+
+Essentially, we've borrowed the idea of a technology tree (an evolutionary map of technological development) commonly found in strategy games and co-opted it to map out the current Up feature set and also show where future functionality will fit in.
+
+In games where you find tech trees, they serve to guide your development of skills and technology. For example, a branch of technology might start with the discovery of how to smelter iron and lead to the forging of tools and weapons which in turn might lead to the development of machines.
+
+It occurred to us that this evolution of technology is similar to our development approach with Up. A lot of the basics – sometimes called “table stakes” features – need to be developed in order to open up the more enticing, world-changing features down the track. You've got to walk before you can run, as they say.
+
+The Tree of Up lays out existing functionality and suggests a “natural” order to the development of new features. It reveals dependencies such as the need for multi-user account capability before we can deliver the much-requested joint and shared accounts.
+
+As we develop this idea further we’ll be adding more to the Tree – more detail around timing, a sense of demand or popularity, and perhaps even more in-depth explainers for features and notes from customers who’ve requested them. Right now we’ve scoped the Tree to an approximation of the main features we’d like to hit in 2019. No doubt there will be more features added, and maybe some that don’t make it in before the year’s end. It’s a best-effort sort of venture and we’ll certainly be learning and sharing over the coming months.
+
+Anson Parker
+
+Head of Product
+
+@anson
+
+Tags: Tree of Up, Roadmap
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+The Round Ups Round-up
+
+Having now made over 250,000 round ups we take a nerdy dive into the data we've seen, including the most common cents amounts on purchases and our plans for the future.
+
+Anson Parker
+
+Feb 28, 2019
+
+Who are our Upsiders?
+
+With Up flying past 30,000 customers within a few months of launch, we thought we'd introduce a few faces who are enjoying life on the Upside.
+
+Up
+
+Feb 13, 2019
+Keep reading
+
+More from the makers of Up.

@@ -1,0 +1,89 @@
+Up Blog
+
+Keep up to date with in-depth content from the makers of Up.
+
+Read by topic
+How to Up (40)Updates (37)Building Up (26)Release Notes (24)Spending and Budgeting (19)Saving (19)Insights (14)Payments (14)Innovation (12)Development (12)
+
+Where Do Emoji Come From?
+
+With our most recent release supporting a crop of exciting new emojis, we ask the question: where do emoji come from anyway?
+
+Xavier Shay
+
+May 22, 2019
+
+Building Saver Icons
+
+New in our most recent release is the ability to choose a custom emoji icon for your savers. Learn some of the technical challenges surmounted while building it.
+
+Xavier Shay
+
+May 13, 2019
+
+Up 1.4.3 Release Notes
+
+Emoji saver icons, change your mobile number, grouped transactions, and card controls.
+
+Up
+
+May 08, 2019
+
+The Tree of Up
+
+We're excited to introduce a new kind of product roadmap. We're calling it The Tree of Up – a technology tree-like view of our product plans for 2019.
+
+Anson Parker
+
+Mar 13, 2019
+
+The Round Ups Round-up
+
+Having now made over 250,000 round ups we take a nerdy dive into the data we've seen, including the most common cents amounts on purchases and our plans for the future.
+
+Anson Parker
+
+Feb 28, 2019
+
+Who are our Upsiders?
+
+With Up flying past 30,000 customers within a few months of launch, we thought we'd introduce a few faces who are enjoying life on the Upside.
+
+Up
+
+Feb 13, 2019
+
+Afterpaying with Up
+
+Spending wisely requires being more connected to your past purchases than many of us are today. It also requires a better understanding of your future spending commitments. Armed with knowledge of the past and future you are able to make better informed — wiser — spending decisions.
+
+Anson Parker
+
+Feb 04, 2019
+
+Designing a Super Powered Welcome Experience
+
+For a branchless digital bank, the tangible moments you have with your customers are few and far between. We relished the opportunity to design both our debit card and its welcome pack from scratch.
+
+Daniel Wearne
+
+Jan 24, 2019
+
+Top 10 highlights from 2018
+
+Happy New Year! While 2019 has just begun and there are so many awesome things planned for Up this year, I just thought it’d be cool to look back at a few highlights from 2018.
+
+Dom Pym
+
+Jan 16, 2019
+
+Continuous delivery at Up
+
+Deploying change to production is the heartbeat of any modern tech company. Not so much for most banks, where sometimes it is only done a few times per year. At Up we do it several times per day!
+
+Chris Aitchison
+
+Dec 03, 2018
+Keep reading
+
+More from the makers of Up.

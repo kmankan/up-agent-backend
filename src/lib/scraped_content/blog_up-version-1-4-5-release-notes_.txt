@@ -1,0 +1,52 @@
+Up 1.4.5 Release Notes
+
+Updates
+
+Transaction Tagging
+
+It’s time to get granular. You can now add custom tags to your purchases and get a new layer of spending insights. Work expenses? Indoor plants? Cheeseburgers? Whatever is in your bag just add a tag. Track your ongoing spending with ‘tag insights’ in your monthly summaries. The power is in your hands.
+
+To add a custom tag to your purchase just tap on ‘Add tags’ when viewing a transaction.
+
+Contact Icons
+
+Contact icons are spreading their wings. You'll now notice new contact icons when sending or receiving money from your mates. A welcome addition to your activity feed.
+
+Order New Card
+
+Keep yourself from being cardless. The next order is on you. You can now tee up your own replacement card if yours should become lost, stolen or damaged. Order your replacement card from, you guessed it, the ‘Card’ menu of the Up tab.
+
+Up
+
+Easy Money
+
+@up_banking
+
+Tags: Release Notes, Up 1.4.5
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Up 1.4.4 Release Notes
+
+New statements, new loaders, new emoji and skin tone support.
+
+Up
+
+May 22, 2019
+
+Where Do Emoji Come From?
+
+With our most recent release supporting a crop of exciting new emojis, we ask the question: where do emoji come from anyway?
+
+Xavier Shay
+
+May 22, 2019
+Keep reading
+
+More from the makers of Up.

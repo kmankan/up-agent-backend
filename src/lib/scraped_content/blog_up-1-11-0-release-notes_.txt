@@ -1,0 +1,54 @@
+Up 1.11.0 Release Notes
+
+Updates
+
+We really wanted to ship out one more gift before this decade is done for! Thank you all so much for your support in 2019. Here’s to all of you 🍻
+
+In App Card Details
+
+We’d like to welcome 16 very special digits to the end of year digital party. Your favourite numbers have arrived! You can now view your Up card details from directly within the app. With this tool in your pocket you’ll be equipped at all times to tackle any and all card related expeditions. Don’t reach for your wallet, reach for the stars.
+
+To view your card details in app just open the ‘Card’ menu of your app and tap on ‘Show card details’. You’ll need to enter your passcode or Face/Touch before you can peek in the vault. Need to keep those digits secure. For your eyes only.
+
+Make sure you’ve enabled payments and have an activated card before grabbing your card details in-app. If you cancel or need to have your card reissued you’ll be able to view your card details in-app when the new card is activated.
+
+Copying Card Details
+
+It’s the most convenient of copies right when you need it. You can now tap to copy any of your card details directly to your clipboard just by tapping on… any of your card details 😄
+
+Copy each detail for those online card input fields, or copy the whole lot if that’s your deal. The possibilities are endless.
+
+Up
+
+Easy Money
+
+@up_banking
+
+Tags: Release Notes, Up 1.11.0, Payments
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Up 1.9.3 Release Notes
+
+Auto Transfers & Instant Samsung Pay
+
+Up
+
+Nov 07, 2019
+
+CSV: Custom Savings Viewer
+
+CSV export is (finally) here - and we've got a starting point for you to play with.
+
+David Buchan-Swanson
+
+Oct 31, 2019
+Keep reading
+
+More from the makers of Up.

@@ -1,0 +1,90 @@
+Where Do Emoji Come From?
+
+Building Up
+
+What are emoji?
+
+Well first, what are letters? A, Z, É: they mean nothing special to a computer. Computers store text as a long list of numbers. Each number represents a particular character. Historically it was somewhat of a hard problem getting everyone to agree on which numbers should represent which characters, but these days everyone has pretty much agreed to let a non-profit group called The Unicode Consortium call the shots.
+
+When a computer anywhere in the world today sees 65 in its list of numbers, it will interpret and display it as an A. It doesn't always make sense -- the character 1 is represented by the number 49 🙃 -- but it doesn't matter as long as we all agree. There are standardized number-to-character mappings for nearly 140,000 distinct characters!
+
+From that set, around 3000 represent emoji characters. 🆒
+
+Can I make an emoji?
+
+Unlike most other characters which are derived from traditional written scripts, emoji are "digital first". As such, there is a different process for adding them to the official list.
+
+Anyone can propose a new emoji, but it isn't easy to be accepted! There is a "budget" of around 60 new emoji per year that was adopted to allow vendors sufficient time to incorporate and make available the new images needed. Each major player (Apple iOS, Google Android, etc...) has it's own emoji "font" that they need to modify in order to include the new icons.
+
+The submission bar is high, requiring a justification of uniqueness, high expected usage, wide applicability and more. The successful (and now available in Up!) llama proposal 🦙 runs to nine pages and includes such delightful factoids as:
+
+"the combined hashtagged posts on Instagram for llama and alpaca are comparable to that of camels (91%)"
+
+It also notes that although there are four major species within the lamini tribe (llama, alpaca, vicuña, guanaco), and despite camels already having distinct emojis for single 🐪 and double humps 🐫 (not bitter at all...), they are only requesting a single new character. So gracious!
+
+What if I really like an emoji?
+
+The Unicode Consortium is a non-profit, but that doesn't mean they don't need money. You can always donate out of the goodness of your heart, but why do that when you can adopt an emoji!? Three tiers of adoption are available, and for the top gold-tier 🏅 level of $5,000 you get sole sponsorship of that character. Most of the new ones are still up for grabs. Time to get saving!
+
+When can I use new emoji?
+
+Once a new emoji version is released, phone vendors typically take about six months to support it with a new release. Emoji V12 was announced on February 5 of this year (get hype for your sloth emoji), but isn't yet supported by any phone or browser.
+
+If you are on an older operating system, you won't be able to see the new emojis yet. While we make some attempt to hide emoji we know your phone can't display, it's a complicated business so for the most part you'll just see blanks or question marks. All the more reason to upgrade!
+
+Technical details
+
+Alright, time for some nerd stuff.
+
+When the consortium releases a new emoji version, they publish a number of plain text specification files. The main one for our purposes is emoji-test.txt, which contains a full list of the emoji in categorized order. Here are the first few lines:
+
+# group: Smileys & People
+
+# subgroup: face-positive
+1F600 ; fully-qualified # 😀 grinning face
+1F601 ; fully-qualified # 😁 beaming face with smiling eyes
+1F602 ; fully-qualified # 😂 face with tears of joy
+
+
+These groups and subgroups define the order that emoji are shown on your keyboard, or in Up. That funny looking code on the left 1F600 represents the unique number -- encoded as hex because that's how we roll -- that now represents a particular emoji. (I don't know what fully-qualified means either.)
+
+This data is sufficient for us to display our picker, but doesn't contain keywords that could be used to power search. When searching for "awesome", how do we decide to show 👍 and 🌟? The Unicode Consortium has nothing to say on this matter. For that, we turn to a community effort emojilib. This is a big database where wonderful humans like yourself have contributed keywords for various emoji.
+
+We use a combination of the emoji-data and emoji-mart-native libraries to pull in all these data sources and combine them into a single large machine readable file, that we then ship with our application.
+
+This process is why we initially shipped with only emoji V10 support: those libraries in the middle hadn't updated their data for V11 yet. Over the last week we went in and contributed patches to help get them updated, culminating in this release with all the 🦛, 🥭 and 🥮 you can save for.
+
+Xavier Shay
+
+Engineer
+
+@xshay
+
+Tags: Emojis, Technology, Development, Innovation
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Building Saver Icons
+
+New in our most recent release is the ability to choose a custom emoji icon for your savers. Learn some of the technical challenges surmounted while building it.
+
+Xavier Shay
+
+May 13, 2019
+
+Up 1.4.3 Release Notes
+
+Emoji saver icons, change your mobile number, grouped transactions, and card controls.
+
+Up
+
+May 08, 2019
+Keep reading
+
+More from the makers of Up.

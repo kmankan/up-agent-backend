@@ -1,0 +1,72 @@
+Announcing the Up API
+
+How to Up, Updates
+
+Today we're thrilled to announce the beta release of the Up API and mark the introduction of the first new channel for accessing your Up data outside of our smartphone app.
+
+Our API gives you the power to develop your own software that can retrieve your balances (spending and saving) and transactions, and get notified in real time about new activity (yep, we're shipping real time web hooks today too - more details below).
+
+This initial beta release is limited in scope and meant for personal use only. That means we're giving you a simple way to access your own Up data but not yet supporting the ability for developers to build integrations and applications for other Upsiders. Support for 3rd party apps will be coming in the future - they're really important to us and a big reason why we're developing an API.
+
+Up API vs Open Banking
+
+Open Banking has received prominent and frequent coverage in the media so you might reasonably ask "Where's Up's Open Banking support?". While we're working to support Open Banking in the near future, we believe there's more immediate value for our customers in delivering this Up API first.
+
+Open Banking and the Consumer Data Right does not necessarily let you directly access your own data. Instead, you must go through an accredited "data recipient" that accesses the data on your behalf (and with your permission). Often these recipients will be accessing your data in order to provide you with financial products or tools. But what if you just want your data?
+
+With our own API and trust models we're able to give you direct access to your data without needing to go through a middleman. But more than that, we can provide real-time updates so you can know as soon as money comes in or goes out. This will unlock amazing potential far beyond what will be possible (at least in the short term) with Open Banking.
+
+Using the Up API will also allow you to extend Up to suit your own needs. For example, in the future you'll be able to build your own tools to automate transfers or develop your own custom round-up logic.
+
+Web hooks
+
+Web hooks are a brilliant technology that free you from the need to constantly query the Up API to check for new transactions (you should know our feelings on pull-to-refresh by this stage - try it in the app if you're unclear). Instead, web hooks allow us to communicate with your app anytime a transaction happens. It's software's version of "don't call us, we'll call you". But we actually call!
+
+This makes it possible to build all kinds of amazing applications and integrations. A bell on your desk that rings any time someone pays you? No problem. Hooking up your sprinkler system so it literally "makes it rain" when you get a salary payment? Inadvisable, but totally do-able.
+
+Web hooks are offered by many great software companies to make real time integrations with their platforms a reality. We believe money gets better in real time and with web hooks you're cordially invited to explore that hypothesis! 🤓
+
+Getting Started
+
+We're hopeful that even if you've never worked with API's before you might still have a tinker with ours. Head to our new developer site for an in-depth rundown of what the API can do and how you can easily get started.
+
+As the developer site will explain, you'll need to generate a Personal Access Token by scanning a QR code from the Up app before you can make API calls. You can generate your token on the API site.
+
+We've also set up a new Github repository for the API. This is the best place to go if you find issues or bugs with the API. Start an issue with us and we'll do our best to help.
+
+Balances and transactions are just the beginning. We're working to put more data and functionality into the API in the near future. But even with what we have today we think you have enough ingredients to bake a pretty tasty pie. Be sure to hit us up on the socials with your delicious creations!
+
+Anson Parker
+
+Head of Product
+
+@anson
+
+Tags: API, Open Banking, Development, Innovation, Technology, Exporting from Up
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Up 1.14.0 Release Notes
+
+Take a dip into Saver Pools, Saver goal notifications, Updates to our iOS widget & a few Biometric fixes
+
+Up
+
+Jun 28, 2020
+
+Up 1.13.9 Release Notes
+
+Pause & Resume Auto Transfers and Shareable Hook Up a Mate
+
+Up
+
+Jun 15, 2020
+Keep reading
+
+More from the makers of Up.

@@ -1,0 +1,33 @@
+Electronic Verification Terms and Conditions
+
+Bendigo and Adelaide Bank Limited and its related entities are required by the Anti-Money Laundering and Counter-Terrorism Financing Act 2006 to verify your identity before we can provide you with financial products and services. Electronic verification allows us to verify your identity by using electronic tools and external data sources.
+
+How electronic verification works
+
+In order to verify your identity electronically, we will ask you for your details (such as your name, address, date of birth) and details of your identification documents. This information will be passed on to external organisations in order to electronically match your information with information on their databases. These organisations will assess and advise us whether all or some of the information you provided matches their records. We have an arrangement with Equifax Pty Ltd who completes electronic verification on our behalf.
+
+The external data sources used to verify your identity include:
+
+Credit information files held by Equifax Pty Ltd (this is only to confirm your identity and is not a credit check)
+Publicly available information such as the electoral roll and white pages
+Information held by the official record holder via third party systems
+
+It is an offence under the Anti-Money Laundering and Counter-Terrorism Financing Act 2006 to provide false and misleading information about your identity.
+
+Who your information will be shared with
+
+We will share your personal information with the following external organisations for the purposes of verifying your identity:
+
+Equifax Pty Ltd
+The official record holder via third party systems, such as Commonwealth and State government departments
+
+These organisations may use your personal information and personal information of other individuals, such as names, addresses and dates of birth, for the purposes of preparing their assessments.
+
+Your agreement
+
+By agreeing to these terms and conditions you agree that:
+
+The information you are providing is your personal information and you have authority to provide it to us, and
+We may use and disclose your personal information for the purposes of electronic verification as described above.
+
+Further information about how we collect and handle personal information is available in our Privacy Policy

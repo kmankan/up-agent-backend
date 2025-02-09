@@ -1,0 +1,80 @@
+New release: Covers & Forwards
+
+How to Up, Spending and Budgeting, Saving
+
+Today we're introducing two new verbs to banking: "Covering" and "Forwarding".
+
+These two actions give you quick and flexible ways to move money back and forth between your main Up balance and your Savers.
+
+Forwarding enables you to send deposits and payments (any "credit" to use the banking parlance) over to a Saver. With just two taps, you can forward a transaction much like you'd forward an email. The money and a copy of the transaction now appear in your chosen Saver – it's basically an account transfer on steroids.
+
+Covering allows you to use money in a Saver to cover the cost of a purchase. With a couple of taps from your Activity feed, you can top up your Up account by the amount of the purchase, from your chosen Saver. A copy of that transaction will appear in that Saver, making it an excellent way to manage budgeting.
+
+To start a forward or cover simply long press (tap and hold down) any transaction. A deposit or incoming payment will trigger a forward while any purchase will begin a cover.
+
+Covering and forwarding are versatile tools that can support all sorts of approaches. To get you started, here are a few ideas for how they can be used:
+
+Forwarding
+Collecting money for a gift
+
+You're collecting money from your friends to buy a gift for someone special. Create a "Gift" Saver and forward each of the contributions to it. Once you buy the gift you can then cover the purchase from that same Saver.
+
+Other ideas
+IOUs: Your friend forgot their wallet so you ended up paying for their lunch. But that money come out of your personal "Work Lunch" budget, so when they send you the money back you can quickly forward it back to the Saver and restore your balance.
+Cash gifts: Quickly forward on that birthday money you received to your holiday Saver before you're tempted to spend it!
+Transfers from other banks: Did you move some money into Up from another bank? Quickly shuffle it over to a Saver with forwards – no need to remember the amount or leave the Activity screen.
+Covering
+Weekly budgets
+
+Set up a Saver with a weekly transfer in to cover your coffee & bagel habit. Any time you indulge, simply cover those purchases from your Saver. Saver starting to run low? Could be time to ease off! This can work for any purpose or category. You might even combine this idea with Up's pay splitting feature to implement one of the many "bucketed" budgeting programs out there.
+
+Tracking project expenses
+
+Have you hit that Saver goal for a project? Could be a holiday, wedding, party or maybe even a renovation project. As you move into spending mode on that project, you can simply use your Up card and then cover those purchases to track your spending and keep copies of all relevant purchases in a single place. Manual transfers are a thing of the past!
+
+Maximising interest
+
+With covers it's now much easier to keep the majority of your money in high-interest Savers and simply cover purchases as they happen to restore a minimal amount in your main Up account. This will admittedly get a lot easier with some of the future work we're doing on covers...
+
+The Future
+
+As shown on the tree, the next step for Covers and Forwards are auto-covers. You will be able to define rules to have Up automatically cover purchases based on the category, merchant or even location you're in. Or simply set a rule to automatically cover every single purchase. Hands-free banking is on its way!
+
+The main thing to keep in mind with covers is that you must first have enough money in your main Up account for the purchase to succeed. The cover will happen after the purchase is made. Over time we plan to solve this so our system can potentially approve purchases even when you don't have the money directly in your main Up account. Combined with auto-covers, Up will then provide an incredibly powerful but surprisingly simple way to fully automate all manner of budgeting systems. No multiple cards. No manual transfers.
+
+The future of money management is looking Up!
+
+Anson Parker
+
+Head of Product
+
+@anson
+
+Tags: Covers, Forwards, Transfers, Pay Splitting, Budgeting
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Up 1.12.0 Release Notes
+
+Upnames are here! Select your own unique handle that will be used to send and receive money within Up.
+
+Up
+
+Feb 10, 2020
+
+Designing Super Powered Events
+
+Events provide a challenge for a team as they offer a rare chance to create a fully immersive customer experience. We take a behind the scenes look at what went into designing the first year of events at Up.
+
+Hannah Gibson
+
+Jan 23, 2020
+Keep reading
+
+More from the makers of Up.

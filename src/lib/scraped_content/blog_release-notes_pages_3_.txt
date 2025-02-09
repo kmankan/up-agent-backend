@@ -1,0 +1,38 @@
+Up Blog
+
+Keep up to date with in-depth content from the makers of Up.
+
+Release Notes
+Back to Blog
+
+Up 1.5.0 Release Notes
+
+Instant Google Pay provisioning, better control over regulars, photos, and a few accessibility improvements.
+
+Up
+
+Jun 26, 2019
+
+Up 1.4.5 Release Notes
+
+Transaction tagging, contact icons, new card ordering.
+
+Up
+
+Jun 06, 2019
+
+Up 1.4.4 Release Notes
+
+New statements, new loaders, new emoji and skin tone support.
+
+Up
+
+May 22, 2019
+
+Up 1.4.3 Release Notes
+
+Emoji saver icons, change your mobile number, grouped transactions, and card controls.
+
+Up
+
+May 08, 2019

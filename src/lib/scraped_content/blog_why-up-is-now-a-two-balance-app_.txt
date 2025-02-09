@@ -1,0 +1,78 @@
+Why Up is Now a Two Balance App
+
+How to Up, Spending and Budgeting
+
+With the introduction of Pay Day, Up is now an app of two balances. Unlike more traditional banking apps that display both a Current and Available balance, we've previously only displayed a single representation.
+
+So with this change, we thought we'd dive in and provide a little more context around why most banks show two balance amounts, what the difference between them is, and why we’re now introducing a second balance into Up.
+
+Available vs Current
+
+So what exactly determines an Available balance vs a Current balance?
+
+Well, your Available balance is the actual amount of money in your account you have access to right now. It’s the maximum amount you could spend on purchases or withdraw from an ATM. It’s an amount that can sometimes be lower than your Current balance, which is the entire sum of money in your account at that time. So when are they different?
+
+One common cause is depositing a cheque at a branch. When you deposit a cheque you generally don’t get access to that amount immediately — the bank first needs to determine whether the piece of paper you just handed them is legit and backed by an account holding the specified amount. This could take several days. What you would see immediately is an increase in your Current balance (but not your Available one) reflecting the deposited amount. Your Available balance would not include the amount of the cheque until it had been “cleared”. Only then would your Available balance increase to match your Current balance.
+
+While that still goes on, the more common cause is making a purchase using a debit or credit card. When you pay for your morning coffee the cost will be immediately subtracted from your available balance. Your current balance, however, remains unchanged until a day or two later when the transaction “settles” — again, a several-day process involving a series of banking processes we won’t delve into in this article.
+
+With other banks you may have noticed that card purchases sometimes appear a couple of days after the actual event (this date is generally called the settlement date). During the time between when you tapped and the settlement date the money was actually still sitting in your account, it just wasn’t available to be spent. Until settlement, your Current balance wouldn’t yet have included that charge, just your Available one.
+
+Ultimately this is all a bit too much information for most of us — that money may as well have left your account the moment you tapped your card. It’s largely for that reason we view the Current balance as less relevant than the Available balance — and in the interests of simplicity and understanding we don’t bother displaying it in Up.
+
+Introducing: Spendable Balance
+
+So if the difference between Available and Current balances is really just a bit of financial guff (with Available being the far more relevant figure) why have we gone and thrown another balance into the mix?
+
+Well, the way we see it, balances are actually missing a really useful piece of context, and that is the dimension of time. To illustrate this let’s look at two hypothetical Upsiders, Gavin and Chelsea. Gavin opens his app and sees an Available balance of $400 while Chelsea checks in and sees she has an Available balance of $650. The question is, who should be paying for the next round of drinks?
+
+While at first glance Chelsea might seem better off, it turns out that tomorrow her car repayment of $450 is due and on top of that she still has a week to get through before her next pay day. Gavin, on the other hand, has just $100 worth of bills to take care of before he gets paid the day after tomorrow.
+
+The actual money Chelsea has to spend is really only $200 (which has to last her a week) while Gavin has $300 that only needs to last him a couple of days.
+
+It was in finding a way to clearly show this true financial position that we developed Spendable balance. It’s a balance that takes into account when you next get paid and what bills and other commitments you need to take care of before then. This amount is summed up and subtracted from your Available balance to show the actual amount you can safely spend without dipping into money that’s already committed.
+
+Spendable Balance also considers all of your upcoming bills — and we really do mean all of them. Enabling Spendable Balance sets aside cash each pay cycle for upcoming bills, but now we’ll start storing away a bit extra to take of those bigger bills you have waiting for you in a few months time.
+
+Each pay cycle we’ll reserve a little more until the due date arrives and when the time comes, you’ll smash it out of the park.
+
+We think the insight Spendable balance provides justifies the addition for a second balance — of course any time you want to view your Available balance instead you can switch back to it easily and instantly.
+
+We’re excited to provide you with this financial super power — an at-a-glance view of the money you can safely spend — and equally as excited to have done it through reimagining a part of banking — the balance—that has been static for decades. Doing so was only possible because of the hard work we’d previously put in building our merchant ID and charge prediction platforms. This complexity under the hood results in an elegant, powerful yet simple feature — there’s almost no input required from Upsiders to unlock this understanding.
+
+To find out even more about this feature, you can read our post discussing it here.
+
+Anson Parker
+
+Head of Product
+
+@anson
+
+Tags: Pay Day, Spendable Balance
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+The Envelope Queen: Setting Up Cashless Cash Envelopes
+
+Love packets of cash... but not actual cash? Here’s how one Upsider digitised ‘envelope stuffing’ with Up.
+
+Emma Nugent
+
+Sep 27, 2021
+
+Wish Farming: How To Save Money with Up
+
+Want more things than your dollars can buy? Try this story on for size.
+
+Anne Shea
+
+Aug 31, 2021
+Keep reading
+
+More from the makers of Up.

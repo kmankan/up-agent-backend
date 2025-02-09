@@ -1,0 +1,97 @@
+Up Blog
+
+Keep up to date with in-depth content from the makers of Up.
+
+Development
+Back to Blog
+
+Get to know the 2022 Line Up
+
+We take a look back at some of the bigger features we released last year with a speedy shuffle through the what, why and when. We made some fine things in 2022 and had some damn fine times along the way...
+
+Up
+
+Feb 06, 2023
+
+Get to know the 2021 Line Up
+
+We take a look back at some of the bigger features we released last year with a fast-paced tour of the what and why. Holy ship, we really cranked out some software in 2021!
+
+Up
+
+Jun 01, 2022
+
+The Ethical Engineer
+
+Meet a tech. engineer who’s matching the Up API, with data on ethical clothing. A match made in fashion heaven.
+
+Matthew Grey
+
+Nov 03, 2021
+
+Making it rain!
+
+Combining garden automation and the Up API to raise money for a cause
+
+Paul Tagell
+
+Aug 26, 2020
+
+Up 1.14.2 Release Notes
+
+1% Pay Splitting Increments, iOS Actionable Covers & Forwards, Up API & Changes to Saver Pools
+
+Up
+
+Aug 03, 2020
+
+Announcing the Up API
+
+Let's Hack On Banking Together! Today we're thrilled to announce the beta release of the Up API.
+
+Anson Parker
+
+Jul 27, 2020
+
+TransferWise integrates with Up
+
+First of its kind collaboration in Asia-Pacific soon to offer Upsiders the best way to move money overseas.
+
+Up
+
+Oct 15, 2019
+
+Up at WWDC 2019
+
+WWDC 2019 is done and dusted. Our iOS wizard, Crafter spent a week in sunny California checking it out!
+
+Marcus Crafter
+
+Jun 24, 2019
+
+Up Apple Watch App
+
+A tour of our new Up App for Apple Watch
+
+Marcus Crafter
+
+Jun 06, 2019
+
+Where Do Emoji Come From?
+
+With our most recent release supporting a crop of exciting new emojis, we ask the question: where do emoji come from anyway?
+
+Xavier Shay
+
+May 22, 2019
+
+Building Saver Icons
+
+New in our most recent release is the ability to choose a custom emoji icon for your savers. Learn some of the technical challenges surmounted while building it.
+
+Xavier Shay
+
+May 13, 2019
+Keep reading
+
+More from the makers of Up.

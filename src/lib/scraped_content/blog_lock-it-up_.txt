@@ -1,0 +1,53 @@
+Lock it Up!
+
+Building Up, Staying Safe
+
+We are building Up to have some of the highest levels of security in the industry while at the same time working to make banking more accessible than it’s ever been. Most banks force their customers to log in any time they open their apps, regardless of whether they’re sending money or simply want to view the details of a transaction. This creates a barrier that gets in the way of people connecting to where their money goes.
+
+Keeping your money safe is at the heart of everything we do at Up. But effective security doesn’t need to get in your way.
+
+Step-up Authentication
+
+Up takes a different approach to security using a model called step-up authentication. Put simply, we only require our customers enter their passcode (or use biometrics like fingerprints or facial recognition) when they’re doing something sensitive like making a payment or updating their mailing address. For common tasks like viewing spending history or checking their balance we can sensibly rely on their phone’s existing security measures to keep their data private.
+
+For some customers this may take a little getting used to, but we think most will come around to our point of view (in fact, most banks have already started moving in this direction with a “quick balance” feature that doesn’t require a customer log in).
+
+It’s worth noting that for those completely opposed to this approach Up can be configured to require a passcode every time it’s opened. But for those open to the idea we’d make this case: we think there’s a useful line that can be drawn between privacy and security. Privacy is mostly about keeping your personal or sensitive information away from others (like your account balance, savings total or salary). Security (in this context) is largely about keeping your money safe – preventing people from sending money out of your account, or withdrawing your money from an ATM.
+
+Today’s smartphones are doing a good job of ensuring people’s data and apps remain private (just ask the FBI!). When your phone isn’t in your pocket or purse, it’s usually on the table next to you. We also see passcodes and biometrics are now nearing universal use. The time is right to reduce the need for banking apps to specifically guard against privacy. We can instead focus on upholding your security while helping you with more understanding and access to your financial activity.
+
+As a final exercise, think about the common apps you use on your smartphone that don’t require you log in to use them – your email, calendar, photos, notes and most social media apps. If you didn’t realise you were trusting your phone to keep your private life private, hopefully you do now!
+
+So perhaps, then, it’s most appropriate to close with some tips on how to best keep your phone and its contents secure.
+
+Shore up your smartphone security
+Lock your phone with a passcode. Make it 6-digits and non-obvious. Yes, there are still people out there that operate with their phones completely unlocked. Those people are climbing a cliff face without a safety rope – sure, everything’s great right now – just don’t slip. Like. Ever.
+Embrace the cloud. On both Android and iPhone you can now have your phone completely backup to the cloud and if the need ever arises, remotely wipe it. So if your phone gets stolen you’ll still be out of pocket the price of a new phone, but your phone’s contents will remain secure and you can be up and running with a new phone restored from your backup. Both Android and iPhone do require a little bit of work to set-up, but it’s well worth the effort.
+You’re done. Honestly, that’s really all there is to it. You’ve now got no excuse!
+
+Anson Parker
+
+Head of Product
+
+@anson
+
+Tags: Security, Authentication
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Rebooting Transactions
+
+The humble banking transaction is perhaps the fundamental unit of your financial life. It represents everything from your daily spending and regular bills through to your income and interest payments. It is the key to understanding where your money actually goes, yet it’s one of the most neglected and outdated parts of today’s banking experience.
+
+Anson Parker
+
+Feb 07, 2018
+Keep reading
+
+More from the makers of Up.

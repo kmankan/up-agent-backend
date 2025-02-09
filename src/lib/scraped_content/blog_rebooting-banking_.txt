@@ -1,0 +1,72 @@
+Rebooting Banking
+
+Building Up
+
+Our journey began with a simple question:
+
+What could a banking platform look like if was built from scratch today, freed from legacy and designed from the outset to embrace the capabilities of current technology?
+
+The more we looked into why banking was the way it was — why, for example, it can take days for purchases on your credit or debit card to show up in your account; why transactions are often so hard to understand, full of abbreviations and written in shouty uppercase; why you can’t pay your friends (or even bills) on the weekend — the more we felt it didn’t need to be that way.
+
+A Brief History…
+
+A lot of the limitations in banking only really make sense today once you understand the constraints that existed at the time a function was first introduced. For example, you would have noticed sending money to someone at another bank almost always takes longer than a day. Why is this? Well, before networked computing, representatives from banks would need to physically swap records of payments between each of their banks. It simply would have been impractical to do this more frequently than once a day. When this process was digitised it made everyone’s life a lot easier (as you can imagine) but because all the processes in place relied on a daily “batch” swap this is how the system continued, never mind that technology made it practical to have money transfer between banks instantly.
+
+Mainframes like the IBM 360 system powered the early digitisation of banking.
+
+Similarly, your transaction history is often so hard to understand because of limitations imposed decades earlier by computer mainframe systems that only supported an uppercase character set and had a very modest storage capacity (by today’s standards) that restricted how long a transaction description could be. Neither of these constraints exist any more, but their echoes continue to influence the way we view our past spending.
+
+Our view is these constraints no longer exist or make sense, so let’s not continue to impose them on our customers. What we need is a fresh approach.
+
+First Principles
+
+You have probably heard of Elon Musk, the entrepreneur/inventor behind the electric vehicle manufacturer Tesla, now one of the biggest auto companies in the world, as well as SpaceX, his privately held space exploration company. He is renowned for his “first principles” approach to problem solving. As Elon describes it:
+
+“First principles” is a physics way of looking at the world… what that really means is that you boil things down to the most fundamental truths... and then reason up from there.
+
+We’re applying this way of thinking in order to reboot banking. We are challenging the assumptions and limitations that are prevalent in the banking industry and re-evaluating them from a more current point of view:
+
+For example, most money movement occurs digitally, whether its between accounts or through contactless purchases at retailers; computing power and storage is both awesome and reasonably priced; almost all Australians are going about their daily lives with always-connected supercomputers in their pockets.
+
+Yet despite these fundamental truths, people are at risk of becoming less connected to their finances than ever before. A recent study found 1 in 3 Australians spends more than they earn. Many people are getting into difficulty by leaning too heavily on credit cards, with the average Australian credit card balance over $4000 in the red. Technology has made paying for things faster and more convenient than ever before, but we have yet to see it used as effectively to help us better understand our spending.
+
+We think there’s an opportunity to improve this situation and reverse the trend — to help people better connect with their spending but also to free them from the “banking busywork” of manually shuffling funds around or filling out forms, albeit digitally.
+
+Over the coming weeks we’ll be writing about a number of areas we’re looking to reimagine. We’ll be discussing both the challenges faced by consumers today as well as some of the opportunities we think technology provides to improve them.
+
+In the meantime, we’d love to hear from you about any of the frustrations you have with banking (or ideas for improvements).
+
+Anson Parker
+
+Head of Product
+
+@anson
+
+Tags: History, Innovation
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Up-cycling core banking
+
+Up is treading a different path to most other digital banks in that it’s being developed through a collaboration between a software company (us) and a so-called “traditional bank” (Bendigo Bank).
+
+Anson Parker
+
+Aug 15, 2018
+
+Lock it Up!
+
+Keeping your money safe is at the heart of everything we do at Up. But effective security doesn’t need to get in your way.
+
+Anson Parker
+
+Aug 09, 2018
+Keep reading
+
+More from the makers of Up.

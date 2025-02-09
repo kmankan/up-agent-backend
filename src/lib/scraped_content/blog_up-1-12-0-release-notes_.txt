@@ -1,0 +1,68 @@
+Up 1.12.0 Release Notes
+
+Updates
+
+Claim your Upname
+
+Today is the day. We're rolling out Upnames to all new and existing Up customers. Every customer will now be asked to select a unique handle that will be used to send and receive money within Up.
+
+Define who you are but choose wisely. Once an Upname is gone, it’s gone!
+
+What's in an Upname?
+
+As of today your Upname will appear on your profile and give you a new more personalised PayID for receiving money into your Up account. Previously, all customers received a generated PayID – a short combination of numbers and letters that served the same purpose, but in a less custom way. A generated PayID looked something like abc123@up.me. With an Upname you can now customise your Up PayID to look like upname@up.me. This should make your Up PayID much easier to remember and share.
+
+That's just the start, the really exciting stuff is just around the corner.
+
+In the coming months you'll be able to send money to your mates on Up using only their Upname. You'll be able to pay upname $10 with just a couple taps. From that payment they can pay you right back. No swapping of details, phone numbers or other personal information is required.
+
+Paying people that aren't close mates is also made better. You no longer need to give out your bank details, phone number or email address to get paid. Your Upname can now do that job.
+
+If you take a look at The Tree of Up you'll see some future plans on the payment branch like requesting money and splitting bills. Having a special mode for payments between Upsiders will let us add new functionality not yet supported by Osko or other payment platforms. We can add new features above and beyond the basics of sending money to another bank account.
+
+As we wrote in our blog post on Up's unique Osko implementation, we believe payments are a conversation. Upnames are a key foundation for allowing us to build the payment experience we think is possible.
+
+How to claim your Upname
+
+To claim your Upname head on over to the Up tab and tap on the new Upname field under your profile photo - Just make sure that you are running the latest version of the app.
+
+Choose wisely, you will only be able to claim your Upname once. Take a second to nail the perfect name before you tap confirm.
+
+More in Version 1.12.0
+Your Upcoming payments will be more alert but not alarmed. From now on you'll get a notification 1 day before a payment is due, not 2. That's 24 more hours of you-time, you've earned it.
+We fixed a bug where your face was sending you into an infinite loop - not ideal. Now if Face ID / Touch ID fails to register you'll be prompted to enter your passcode instead. No more waiting in the infinite-loading abyss for nothing.
+
+Up
+
+Easy Money
+
+@up_banking
+
+Tags: Release Notes, Up 1.12.0, Upnames, Payments
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Designing Super Powered Events
+
+Events provide a challenge for a team as they offer a rare chance to create a fully immersive customer experience. We take a behind the scenes look at what went into designing the first year of events at Up.
+
+Hannah Gibson
+
+Jan 23, 2020
+
+Self-Review: Travelling with Up
+
+Our Head of Product puts the Up card through its paces on his European honeymoon.
+
+Anson Parker
+
+Jan 16, 2020
+Keep reading
+
+More from the makers of Up.

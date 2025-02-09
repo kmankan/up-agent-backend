@@ -1,0 +1,40 @@
+Find your account recovery code
+
+Track down your Account Recovery code to get back into your account.
+
+How to Recover Your Account
+What Is An Account Recovery Code?
+
+Your Account Recovery Code is a unique, 12-digit code that is sent to your registered email once you've verified your email address.
+
+In most cases, this one-time code can be used to help you regain access to your account. Each time you successfully recover your account, a new recovery code is sent to you via email.
+
+Verify Your Email Address
+
+When you signed up we sent you an email asking you to verify your email address. To complete the verification you'll just need to click the ‘Verify Email’ button in that email.
+
+Where Can I Find My Code?
+
+Your Account Recovery code was sent to the verified email address linked to your Up Account.
+
+If you can't find it, try searching the email subject line; 'Verify the email address associated with your Up account' or 'Verify your Up email address'. You can also try to search the email addresses welcome@up.com.au or noreply@up.com.au in your favourite email client.
+
+From time to time spam filters can be a little strong. Some emails may accidentally show in your spam or junk inbox, so have a look in there as well.
+
+Lost Your Code?
+
+Your Account Recovery code is unique and only sent to your verified email once. Only once you've successfully used a code for an Account Recovery are you sent another code.
+
+If you're unable to find your Account Recovery code, tap 'I've lost my recovery code' in your app to begin a Manual Account Recovery. You'll be prompted to take a selfie with your ID. Once submitted our Recovery Experts will review your submission.
+
+Troubleshooting
+
+Some useful tips if you get stuck
+
+Read how
+
+Not What You’re Looking For?
+How to Recover Your Account
+
+If you need a different kind of help, we’re here 👋
+Send us a message via ‘Talk to Us’ in your Up app, or email support@up.com.au if you don’t have access.

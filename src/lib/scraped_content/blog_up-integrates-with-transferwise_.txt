@@ -1,0 +1,74 @@
+TransferWise integrates with Up
+
+Building Up, Spending and Budgeting
+
+TransferWise is now live! Read all about it here
+
+Media Release
+
+TransferWise, the global technology company for international payments, launches TransferWise for Banks in Australia, announcing a partnership with Australia’s first digital bank, Up (that’s us! 😏). This first of its kind offering allows banks, credit unions and other financial institutions to integrate TransferWise’s API directly into their own infrastructure.
+
+More than 130,000 Upsiders will be able to send money abroad in 52 currencies directly from their transaction account, powered by TransferWise’s lightning fast, low-cost transfers without needing to leave their Up app.
+
+The integration with TransferWise makes Up the first Australian bank to provide international money transfers with no exchange rate markups, setting the stage for the rest of the banking sector, in-line with the recommendations put forward by the ACCC. Up customers will know upfront exactly how much they’ll pay in fees and the corresponding amount they’ll receive in the foreign currency.
+
+The TransferWise for Banks launch in Australia, follows a succession of bank partnerships across Europe, including Monzo in the UK, Bunq in the Netherlands, N26 in Germany and LHV in Estonia. TransferWise has also announced a partnership with BPCE, France’s second largest bank and more recently in the US with Novo, a banking platform for small businesses, freelancers and startup founders, and Stanford FCU, a credit union that serves the Stanford University community and tech companies in the Bay Area.
+
+The TransferWise and Up partnership came about from a shared mission to simplify and bring greater transparency in the traditional banking sector.
+
+Bringing TransferWise for Banks to Australia is another positive step towards our vision of everyone getting a fast, cheap, transparent way to send money abroad and we’re thrilled to have Up on board as our first Australian partner.
+
+By plugging into our API, Up just became the fastest and cheapest to use in Australia for international payments. In fact, Australians staying with traditional providers could end up paying between 5-8x more than Up customers, who will have a seamless, low-cost TransferWise experience without leaving the Up app.
+
+TransferWise and Up have been looking forward to this day for some time. We share a common vision to modernise an outdated financial system and provide a fair and transparent banking experience for consumers. Working together is a very natural fit and we’re excited for this to be the first of many bank partnerships in Australia and the broader Asia Pacific region.
+
+We’re excited that Up customers can now access international payments through our partnership with TransferWise. We’re pleased to bring two great fintech brands together to set a new standard in banking and international transfers. Up is about providing clever ways to organise your money and simplify your life. This partnership is another way we’re giving our customers the freedom to simply live their lives, doing the things they love.
+
+Joining forces with TransferWise to make international payments simpler for Up customers is awesome. By using TransferWise, Up customers will be able to send money cheaper and faster than sending money with traditional banks. TransferWise joins Up’s portfolio of partners including founding partners Ferocia and Bendigo and Adelaide Bank, Mastercard, Google, and Afterpay. It’s another exciting step in our growth story.
+
+TransferWise via Up will roll-out in a private beta next month, with a full launch to follow shortly after.
+
+About TransferWise
+
+TransferWise is a global technology company that’s building the best way to move money around the world. Whether you’re sending money to another country, spending money abroad, or making and receiving international business payments, TransferWise is on a mission to make your life easier and save you money.
+
+Co-founded by Taavet Hinrikus and Kristo Käärmann, TransferWise launched in 2011. It is one of the world’s fastest growing tech firms having raised $692m in primary and secondary funding from investors such as Lead Edge, Lone Pine, Vitruvian, IVP, Merian Global Investors, Andreessen Horowitz, Sir Richard Branson, Valar Ventures and Max Levchin of PayPal. Over six million people use TransferWise, which processes over £4bn in payments every month, saving customers over £1bn a year.
+
+Media Contacts
+Anhar Khanbhai for TransferWise: anhar.khanbhai@transferwise.com
+Anne Shea for Up: media@up.com.au
+
+Up
+
+Easy Money
+
+@up_banking
+
+Tags: Wise, TransferWise, Technology, Innovation, Development
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Up 1.8.0 Release Notes
+
+Scheduled & Repeating Payments, Salary Identification & New Category Icons
+
+Up
+
+Sep 10, 2019
+
+Up 1.6.5 Release Notes
+
+Pay your bills with BPAY® & Upsider Payments.
+
+Up
+
+Aug 22, 2019
+Keep reading
+
+More from the makers of Up.

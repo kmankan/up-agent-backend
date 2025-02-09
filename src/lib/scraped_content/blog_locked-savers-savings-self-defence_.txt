@@ -1,0 +1,115 @@
+Locked Savers: Savings Self-Defence
+
+Building Up, Saving, Spending and Budgeting
+
+Any advice provided on this website is of a general nature only and does not take into account your personal needs, objectives and financial circumstances. You should consider whether it is appropriate for your situation.
+
+Up’s always on the lookout for ways to help Upsiders reduce the stress and anxiety around money.
+
+We’re all only human, and it can be hard to resist our own impulses at times – especially when it comes to buying things we want. Or rather, the things we think we want in the moment. We’ve all splurged on something good, and later realised – with a sinking heart – that we’d meant to use that money for something else.
+
+This is actually one of the reasons we released Maybuy, a savings-based alternative to Buy Now Pay Later that gives you the ability to change your mind at any time.
+
+We wanted to go one step further down this path though. So today, we’re releasing one of the features that’s been among the most requested since it first appeared on the Tree of Up: Locked Savers.
+
+Upsiders were keen for a way to lock up their money! We wanted to deliver, but not without properly interrogating the psychology that sits behind saving. We also faced an interesting challenge: on the one hand, a lock that can be too easily unlocked is a pointless feature; on the other hand there’d be times when Upsiders really did need to get access to their money quickly, and we’d need to provide a way to do that.
+
+Here’s what we came up with:
+
+Set up a Saver and put some money in there. Maybe you already have one, like ‘☔️ Rainy Day’.
+Now lock it down – well, really it’s more like adding a delay to access it. That is, a 3-hour long self imposed delay. If you choose to unlock it, this means you get ample time to reconsider spending the money – or better yet just forget (and re-lock later).
+If you’re in a super tight spot, a mate can have your back. You can choose a mate who’s on Up to hold the keys for immediate access at your request. (To do this you just pick your champion when initially locking the saver).
+If your mate ignores your request (or misses it) and doesn’t unlock it for you, then you’ll need to wait the full 3 hours.
+Once unlocked, your Saver is just a regular ol’ Saver again. You’ll be able to access the money and transfer it into your Up or 2Up spending account to use.
+Why do this to yourself?
+
+‘Why would I torture myself like that!?’ you ask. ‘Shouldn’t I just use self control?’
+
+It’s a valid question! Many might argue that ultimately willpower determines success when saving is involved.
+
+The design thinking for us is centred in the thought (based on solid research, with roots in behavioural psychology) that there’s far more to our habits, both the good and the bad, than simply willpower and determination. Both of those things come in limited supply, anyway.
+
+A simplified summary of the 3 factors that make or break habits are:
+
+Context - your environment
+Motivation - how badly you want it
+Ability - how capable you are of doing it
+
+For example, it’d be really really easy to stick to an exercise routine if you were on holiday at a health retreat, surrounded by personal trainers (context), having just had a health scare (motivation), doing a program that’s just tough enough for you (ability). Real life, though, adds a whole lot of complexity.
+
+It’s the same with saving. Hypothetically, sure, just save! But real life throws stuff at us all the time that we have to figure out, and that’s tiring.
+
+So let’s flip those factors: what about disrupting them on an undesirable habit like impulsive spending?
+
+Let’s say you’re saving for a trip to Europe next year and you’ve got a goal in mind for how much cash you’ll need. But you’re not in Europe. It’s not top of mind. It’s not your context.
+
+Now your daily commute means passing a lot of shops: a different context. You spot some sneakers in the window: they’d look good on you (motivation)! Next thing you know the phone is out, the transfer is done and those savings are gone (ability). No! You meant to save that money, but the context, motivation and ability were so much closer to the shops here than the trip in a few months’ time.
+
+Locked Savers is a circuit breaker here. First, when you go to get your money the lock is visible. You know instantly what the deal is – you’ve got a reminder there that the money is for plane fares, baguettes, and ouzo in the sun. But maybe you’re happy to progress? Ok now there’s 3 hours to reflect, do you still want them enough to come back for them later?
+
+Will the urge stick? Maybe you’ll get to work or Uni, have time to remember that you could buy some amazing shoes in Europe, and lock down that money once more.
+
+A savings goal (motivation) coupled with a visible lock (context) and some handy friction (ability) may be just the formula to break your auto-pilot and re-focus on what matters more.
+
+This framework helped us feel confident, when designing the Locked Savers feature, that we could do something that was helpful but also grounded in an understanding of people (us included), and how we all really operate day-to-day.
+
+PS: If you’re someone who genuinely is struggling with a form of addiction (i.e. gambling), we’d strongly recommend reaching out to a professional for help.
+
+Add a mate for a sprinkling of extra Saver Flavour
+
+‘Could it be even more though?’ we wondered, once we got this far 👆 in our thinking.
+
+Up is a social place, a product that’s better with mates. That was top of mind for us when late last year we released our Slices feature for easily splitting bills with friends. Our view was, and still is, that money journeys should not be travelled alone, and we wanted to bring this feeling home with Locked Savers.
+
+This led us to the idea of an accountability buddy and weaving that into the experience. It’s not a new concept, but it’s one generally reserved for the likes of fitness programs.
+
+We know there are times when a mate has your back, but the best mates keep it real with you and help you to stay true to your own goals (be they financial or other ones).
+
+Ultimately getting to a point where you feel good about money involves being open with the ones you trust, sharing your wins….and your struggles as well. So let’s remove the stigma and make money convos feel natural. You don’t have to add a mate to your Locked Saver when you set it up, but we’d encourage you to at least give it some thought. It could help you in better embedding those healthy saving habits.
+
+Get locking
+
+Locked Savers is live from today – just make sure you’re on the latest version of the app. One thing to keep in mind once you have locked your first Saver: you can keep adding money to it. You just can’t take it out, without following the steps outlined above.
+
+As always, we’re really keen for feedback, so let us know how it’s working for you by dropping us a note through the Talk To Us tab in your app.
+
+We think you’ll love that moment you lock that first saver, and our guru animators in house had a lot of fun refining the visuals and interactions for it.
+
+A big thank you to the many Up customers, through their feedback, that helped us bring this feature to life.
+
+Oh, one more thing
+
+If you like the sound of how we approach thinking about our features, and have product design chops, then let us know! We’re hiring in our product design team at the moment and would love to chat.
+
+Or, if you have a friend or colleague who you think might be an awesome fit, then send this blog post their way 🙏
+
+Evan Simmonds
+
+Tags: Locked Savers, Saving
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Get to know the 2021 Line Up
+
+We take a look back at some of the bigger features we released last year with a fast-paced tour of the what and why. Holy ship, we really cranked out some software in 2021!
+
+Up
+
+Jun 01, 2022
+
+A Beautiful, Chaotic Machine: ADHD & Money Management
+
+Let’s map Up to better suit your own personal brain magic. Here’s a little inspiration from Upsider Ollie.
+
+Ollie
+
+Apr 29, 2022
+Keep reading
+
+More from the makers of Up.

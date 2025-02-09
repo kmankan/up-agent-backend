@@ -1,0 +1,66 @@
+Up 1.4.3 Release Notes
+
+Updates
+
+Emoji Saver Icons
+
+We thought it was about time to breathe some life into your Savers. You can now set Emojis as your Saver Icons! Nothing like a bit of visual motivation to get you moving towards your saving goals. New bike? 🚲 Floppy disks? 💾 Pet Camel? 🐫 Whatever you’re saving for there is probably an emoji for it.
+
+You can set your custom emoji by tapping edit on your existing saver. We’ve also updated the creation flow of Savers so you can pick the most fitting Emoji from the start 🥫😬🤙🧤
+
+Change Mobile number
+
+New number? No Worries! From now on you won't need to message us to update your digits. You can now update your mobile number in the profile section of the Up tab. Much easier.
+
+To update your number, swipe across to the Up tab and tap on profile.
+
+Grouped Transactions
+
+Hitting the coffee shop back to back in the space of a few hours? More than a few rounds at the pub? We feel you. We’ve given your activity feed a bit of a tidy up and similar transactions will be grouped up into a neat little package.
+
+From today consecutive transactions from the same merchant and transfers to the same Saver will roll up and display a badge showing you how many transactions are in that group. Quickly get a look at your grouped spend or tap the transaction to see your itemised list. Your activity feed isn’t the only place you’ll see these groups. Take a peek into one of your Savers and you’ll notice that consecutive round ups, quick saves and transfers are grouped up.
+
+Not since The Wiggles have you seen a group this tight.
+
+Worth noting: We’ve got the super computer running at top speed to group up your past transactions, might just take a minute.
+
+Configure Card
+
+Keeping your card secure has never been easier. You can now add controls to your card and define how your card is used. Don’t want ATM Cash withdrawals? Disable it. Contactless payments? Turn them off. In-store or online purchases in Australia or overseas? Kill ‘em. Configure card is now in the card menu of the Up tab. You’re the shot caller. Become who you were born to be.
+
+You can enable or disable specific functions of your Up card in the ‘Card’ menu of the Up tab.
+
+Up
+
+Easy Money
+
+@up_banking
+
+Tags: Release Notes, Up 1.4.3, Emojis, Savers
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+The Tree of Up
+
+We're excited to introduce a new kind of product roadmap. We're calling it The Tree of Up – a technology tree-like view of our product plans for 2019.
+
+Anson Parker
+
+Mar 13, 2019
+
+The Round Ups Round-up
+
+Having now made over 250,000 round ups we take a nerdy dive into the data we've seen, including the most common cents amounts on purchases and our plans for the future.
+
+Anson Parker
+
+Feb 28, 2019
+Keep reading
+
+More from the makers of Up.

@@ -1,0 +1,62 @@
+Up 1.14.2 Release Notes
+
+Updates, Saving and Budgeting
+
+1% Pay Splitting Increments
+
+Pay Splitting lets you carve up your pay into a bunch of different savings accounts before you spend it on stuff you don’t want or need, an easier way to stockpile for your lifestyle. Now Pay Splitting is getting a smaller percentile. You can now instantly carve up your payday cash to the nearest 1% and choose your own savings adventure.
+
+We’ve also turned up the useful information generator and pumped more of it into your activity feed, labelling the source of every split in your saver. Handy.
+
+Actionable Covers & Forwards
+
+Shoot quick from the hip, you're the real sheriff in town. iOS users, now you can initiate a Cover for your purchases and a Forward for your deposits right from your notifications.
+
+How it works - Up notifications for a purchase or an incoming payment will now be actionable right from your notification screen. Long press it to get started: that’ll automatically kick open Up and the cover / forward drawer. Make a habit of covering and forwarding in the moment, and you’ve just built yourself the most powerful money management system in town.
+
+New to covers and forwards? We got you, covered. Read on.
+
+The Up API
+
+Calling all daredevil devs and exploratory engineers. The first version of the Up API is officially open for business. It’s your data, so have at it (securely) and go build that confetti cannon that fires on payday. Head to our developer page to get started.
+
+Changes to Saver Pools
+
+It’s dry season and the pools are shrinking. We've brought down the size of Saver pools so you can see a little more transaction action.
+
+You'll see some better pool performance but other than that — same great recipe; same great flavour.
+
+Up
+
+Easy Money
+
+@up_banking
+
+Tags: Release Notes, Up 1.14.2, Pay Splitting, Covers, Forwards, API, Development
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Announcing the Up API
+
+Let's Hack On Banking Together! Today we're thrilled to announce the beta release of the Up API.
+
+Anson Parker
+
+Jul 27, 2020
+
+Up 1.14.0 Release Notes
+
+Take a dip into Saver Pools, Saver goal notifications, Updates to our iOS widget & a few Biometric fixes
+
+Up
+
+Jun 28, 2020
+Keep reading
+
+More from the makers of Up.

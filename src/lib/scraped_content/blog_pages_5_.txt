@@ -1,0 +1,89 @@
+Up Blog
+
+Keep up to date with in-depth content from the makers of Up.
+
+Read by topic
+How to Up (40)Updates (37)Building Up (26)Release Notes (24)Spending and Budgeting (19)Saving (19)Insights (14)Payments (14)Innovation (12)Development (12)
+
+Stopping Payment Abuse: How Up is Designing for Safety
+
+In July 2020, we got a message from a customer saying their ex-partner was sending abusive chat messages through Up. By August, we’d built new code to find payment abuse, and designed a new approach to stopping abuse on Up.
+
+Nektarea Cameron-Smith
+
+Feb 26, 2021
+
+Request money and say goodbye to OMT
+
+Don't let Owed Money Tension get you down. When the sacred bonds of mateship don’t get you your money back when you need it, you can now request money from your mates on Up.
+
+Up
+
+Feb 15, 2021
+
+Level Up for 2021
+
+A new year deserves a new challenge, so today we’re bringing you three levels of Up to tackle. From setting up your first shiny Saver, to building your very own custom tagging system.
+
+Up
+
+Jan 29, 2021
+
+Upgrade your finances with the Upsider community
+
+Put the kettle on. Because today our Upsider community is sharing their best advice for small-but-slick financial changes that’ll really pack a punch in 2021.
+
+Up
+
+Dec 17, 2020
+
+UpYear Is Here! Let's Wrap Up Your 2020
+
+Finish the year strong. Starting today take a trip down memory lane and get your personalised spending and saving review of 2020.
+
+Up
+
+Dec 17, 2020
+
+Up 1.17.0 Release notes
+
+Faster payments experience with Contacts on Up.
+
+Up
+
+Nov 05, 2020
+
+Up turns 2! But we're turning up for you.
+
+Less stress. Good times. And more to come.
+
+Up
+
+Oct 30, 2020
+
+Up 1.16.0 Release notes
+
+Up Widgets, Eftpos for Apple Pay, Allow Contact Settings.
+
+Up
+
+Oct 26, 2020
+
+The Evolutionary Design of Up
+
+A deep-dive on the design journey of the Up app. A collaboration between product, design, engineering and our growing base of Upsiders.
+
+Daniel Wearne
+
+Sep 22, 2020
+
+Making it rain!
+
+Combining garden automation and the Up API to raise money for a cause
+
+Paul Tagell
+
+Aug 26, 2020
+Keep reading
+
+More from the makers of Up.

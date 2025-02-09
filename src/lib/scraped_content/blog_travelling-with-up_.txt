@@ -1,0 +1,128 @@
+Self-Review: Travelling with Up
+
+How to Up, Spending and Budgeting
+
+Last winter I escaped the grey gloom of Melbourne for a belated summer honeymoon in Europe (albeit with our two-year-old along for the ride). It was the perfect opportunity to field test the Up card and get some first-hand experience with what it's like to use our product abroad.
+
+After five weeks away, I have a more personal understanding of both the advantages and limitations of travelling with Up. It's rare you hear a product manager talk critically about their own product which, when I reflect on it, seems like a missed opportunity to acknowledge where there may be limitations or trade-offs and explain why they exist. Despite outward appearances, we are usually painfully aware of them after all. Nothing, least of all software, is perfect. So let's not pretend.
+
+Rather than a full re-telling of my trip (with accompanying slideshow) I've broken down my experience into some key sections related to using Up and put together a scorecard for each. No area gets a perfect score (yet) although that is certainly our goal. I hope you find the scores reasonable and enjoy this small expedition into our thinking.
+
+2022 Update: As of June 2022, I've upgraded our scores within the Spending and Online Purchasing categories to reflect improvements in those areas. We're still not at full marks, but closer than ever!
+
+Spending
+
+Enjoying traveling with @up_banking and building out our Lisbon merchant database. This is all tax deductible right? pic.twitter.com/NKXI687kF0 — Anson Parker (@anson) July 23, 2019
+
+Europe has embraced contactless payments with an enthusiasm that makes travelling with Up a dream. I was able to almost exclusively tap my phone to pay bills  -  there was only the odd occasion I needed to use my physical card.
+
+Unlike most banks in Australia, Up adds no fees or mark-up to foreign currency charges and simply passes on the Mastercard® rate. This alone makes Up a great card to travel with.
+
+Payment notifications were helpful in letting me know the amount charged in AUD straight after tapping. While Up is only able to report the $AUD amount on a pending transaction today, it would have been great to see the foreign currency amount at that point too (we currently show the foreign currency amount once the transaction settles a couple of days later).
+
+The good news is we'll soon be showing foreign currency amounts as soon as you tap your card. Had this been in place during my trip I would have unashamedly scored us full marks in this category.
+
+I was thrilled to see some of my purchases overseas come up as identified (i.e. Up already knew about the merchant). So kudos to those Upsiders that have previously blazed a trail through Portugal and Spain!
+
+Updated rating:
+
+Foreign currency information now immediately shown and rate is now locked in from time of purchase.
+
+Original rating:
+
+ A quick aside: often in Europe (and perhaps other places too) the merchant will ask whether you want to pay in their local currency or in AUD. This is known as dynamic currency conversion. As an Upsider you should always choose to pay in the local currency - you'll benefit from Up's margin-free mid-market foreign currency rate. If you do choose to pay in AUD the merchant will perform the currency conversion at a rate that will likely never be as good as ours (it's actually a way for them to make a bit more money on your purchase).
+Online Purchasing
+
+You would think online purchasing wouldn't factor much into travel, but in fact we often found ourselves buying tickets to museums and galleries online to skip the long ticket queues you'll encounter in Europe in July.
+
+It was common for these shopping carts to trigger Mastercard's SecureCode online checkout authentication. With Up, this means you'll be sent a text message containing a 6-digit code but if you're like me, you travel with your phone in Aeroplane mode, hopping between free WiFi hotspots where possible. To receive this code requires connecting your phone to an overseas carrier.
+
+We've had customers raise this with us but nothing beats feeling the pain yourself. With my mobile plan, connecting my phone to a network overseas activates a $10 daily charge (which includes a bunch of data and calls). Obviously this is not ideal if I only want to receive a single text message. So I have to take points off for that. We are on the case though – we're working to support an in-app model so that in the future you'll be able to authorise online purchases directly within the Up app with no need to enter a text message code.
+
+Other than this, Up is of course brilliant for online purchases overseas with no foreign exchange fees, a great rate, and instant notification of the purchase.
+
+Updated rating:
+
+We now support SecureCode through push notifications – no SMS required!
+
+Original rating:
+
+Withdrawing Cash
+
+There's no sugar coating it, Up has trailed some of the competition in this category. While we offer a great currency conversion rate, until recently we charged a $5 AUD fee for overseas ATM withdrawals.
+
+The good news is as of 6 January 2020 we've ditched the international ATM withdrawal and balance enquiry charges. Some ATMs may still charge you an operator fee – this will be shown on-screen when you go to withdraw money and you'll have a chance to decline the transaction if you don't want to pay it.
+
+It's worth noting that ATMs in Europe can vary a great deal in the fees they charge. The worst offenders seem to be the free-standing ATMs commonly seen near convenience stores and bars. They tend to charge high fees and offer a poor conversion rate. In Italy I needed some Euros so I went to the nearest ATM, a Euronet-branded machine like the one pictured above. It wanted to charge me a €3.95 fee with a quoted conversion rate of €0.5425 for $AUD1. To withdraw €280, the amount I wanted, would have cost $AUD523.31. Surely I could do better than that!
+
+Despite the heat, I continued walking until I found an ATM on the side of an actual bank (I had heard these were better). Amazingly, this ATM requested no fees. It didn't even quote a rate, but on the assumption it couldn't be any worse than what I had just seen I entered my PIN and went for it. Through Up I was able to instantly see the amount deducted: $462.32 - over $60 less than the first ATM would have charged! So while some competitors offer to rebate operator fees, my rule of thumb is that if you're being charged a fee you're probably being ripped off on conversion rate. Using a card that rebates overseas operator fees might tempt you into using an expensive ATM thinking your fees were being rebated. But let's compare:
+
+Competitor card at Euronet ATM with fees rebated: $516.13
+Up card at major bank ATM: $462.32
+
+Even at a major bank ATM, using Up can work out a lot cheaper than competitors given we offer the best exchange rate we can. Check out this Tweet from a happy customer (as mentioned above, we no longer charge the $5 fee so this works out even better now):
+
+Used ANZ AU card to take out $1000 cash at ANZ NZ ATM got charged $989 whereas @up_banking only took $947 + $5 at same place 🤝 @dompym — inder gill (@indersinghgill) August 21, 2019
+
+Updated rating:
+
+No margin on FX conversion but yep, we don't refund operator fees like some others.
+
+Original rating:
+
+$5 fee and no rebated operator fee.
+Insights
+
+Holidays tend to be one of those classic scenarios where it's all too easy to disconnect from what you're actually spending. After all, it can be kind of a downer to dwell too much on money during what is often a once-in-a-lifetime experience. Sometimes you just gotta lay down that credit card and go for that meal, helicopter ride, or what-have-you.
+
+Having said that, the post-holiday come-down is only going to be harder when you finally do check in on your balance and see it's twice as bad as you thought!
+
+Up's instant spend notifications, weekly and monthly insights, and (in-development) location insights are a solid start to keeping you more connected with your holiday spending. Insofar as we're really unmatched at even our current level, it's fair to give us a solid rating here. We plan on continuing to develop and improve our insights. The ability to set budgets, better track spending across cities and countries and more explicitly track a holiday are all enhancements we're looking to support in the future.
+
+Rating:
+
+No one else comes close, but there's still room to improve!
+Conclusion
+
+It's in the stars – I found Up a great product to travel with.
+
+Our weakest area historically has been overseas ATM withdrawals - however, this can be mitigated by applying a bit of care as to which ATM you choose. In every section above there is room for improvement and we are determined to improve as much as possible. Our goal is to have a perfect score before the year is done.
+
+I hope you felt this a fair review  -  obviously our viewpoint could never be represented as completely impartial, but we have endeavoured to give an honest picture of both the ways in which Up is a brilliant travel offering as well as the areas we can (and will) improve. Feel free to call us out on any points you think I missed or didn't represent fairly.
+
+This article should not be taken as an official Up product description - it's simply my personal experience travelling with Up in July and August of 2019. Always refer to our website, terms and pricing details for the latest up-to-date information.
+
+Anson Parker
+
+Head of Product
+
+@anson
+
+Tags: Travel, Currency, FX, Spending, Insights
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Up 1.11.0 Release Notes
+
+In App Card Details are here!
+
+Up
+
+Dec 16, 2019
+
+Up 1.9.3 Release Notes
+
+Auto Transfers & Instant Samsung Pay
+
+Up
+
+Nov 07, 2019
+Keep reading
+
+More from the makers of Up.

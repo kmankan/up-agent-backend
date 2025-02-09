@@ -1,0 +1,100 @@
+Auto Covers Preview Release
+
+Up High
+
+Background
+
+In October 2019, a year after launching, we held Up’s first in-person meet up to introduce our “Spring Tree” — a major update to our public product roadmap. The new spring growth on the Tree represented a new set of planned features, including a pair of actions named “Covering” and “Forwarding”.
+
+Forwarding would let you transfer a deposit sitting in your Up spending account to one of your Savers, as if it were an email, moving the value of that deposit and the transaction information along with it.
+
+Covering would allow you top up your spending account by transferring in money from a Saver to cover the exact cost of a chosen purchase. This function would make it possible to run all manner of money management systems, from a few simple buckets to a tall stack of envelopes.
+
+Soon after the event we launched those two features, but there was an important related function that didn’t make the release.
+
+Covering a purchase, by long-pressing a transaction and selecting the action, was relatively fast to do, but at the end of the day, still a manual operation. The real power of Covering, we thought, would only be unleashed once the operation was automated. Auto Covers would allow you to set up hands-free rules for when various Savers should cover purchases.
+
+An automated system, needing just a single debit card that can programatically pull money from the right place based on a set of rules was, for us, some sort of holy grail.
+
+Yet here we are, over 3 years later, without Auto Covers in the app. What happened?
+
+Lifting The Covers
+
+There’s that old saying about not letting perfect be the enemy of good. It might well be fair to say we did not heed that advice with Auto Covers.
+
+We believed it was important for the feature to be so fast that you could tap your debit card at a merchant and, if that purchase was to be covered automatically, the money would transfer into your Spending account just before the purchase itself. This would mean, for example, that you could keep little to no money in your spending account, and have money pulled from the appropriate Saver just in time to enable the purchase to go through — this turned out to be a lot harder than we expected!
+
+Over the last couple of years our engineers worked hard, researching and testing a number of strategies to achieve the speed needed for this approach. We got close. Oh so close. But we couldn’t quite get there 100% of the time. We’d get to the point where Auto Covers would work perfectly 9 out of 10 times, but there was still that 1 in 10 failure. When you scale that to 100,000s of customers making millions of transactions, we just didn’t think that would cut it.
+
+Of course, you could argue there might be many occasions when that speed may not matter. For example, if you have enough money in your spending account for the transaction to work, it will be replenished nearly immediately — it becomes a bit academic as to which of those two things happened first. So what if we relaxed our need for speed, and just shipped a version of Auto Covers that requires you first have the balance in your spending account for the transaction to succeed — would that be worth doing?
+
+Well we decided it was time to find out…
+
+Good? Certainly Not Perfect.
+
+Starting today, we’re letting Upsiders who’ve joined our Up High Early Access program test out a preview release of Auto Covers. Does that mean Auto Covers is going to require being an Up High subscriber? No it doesn’t! Auto Covers will be a 100% free feature when it is ready for general release. We’re using Early Access as way to gather feedback and test this “good, not perfect” version of Auto Covers, to understand whether it is, in fact, good enough.
+
+It’s not just the speed issue we’re testing though. An early staff version of Auto Covers only allowed automatic covering based on the category of the transaction. While this worked OK in some cases, it turned out categories were too broad for many potential uses.
+
+In the preview release you can now configure Savers to cover based on either the category or merchant. You can, in a sense, “train” a Saver by manually covering a transaction first and then setting up an Auto Cover for any subsequent purchases at that business.
+
+Do we need to add even more flexibility? Maybe. We could consider using location, time of day, or even currency to add more configurability to Auto Covers. We’re excited to hear from those of you who join Up High Early Access and try the feature.
+
+And of course, we understand not all of you are willing or able to join Up High. We look forward to releasing Auto Covers to you later in the year. Tried. Tested. And totally free.
+
+Start Automating Your Covers
+
+Once you're loaded into the clouds with Up High Early Access you can start adding Automation rules for each of your Savers to follow. Starting early means you can take Up out with confidence knowing your Auto Cover rules are set in stone.
+
+Tap on any Saver and enable Auto Covers to start configuring which Merchants and Spending Categories will be automatically be Covered from this Saver.
+
+You can also use Auto Covers on your 2Up account, but both Players 1 & 2 will need to be members of Up High Early Access.
+
+Covering Your Own Rules
+
+Take control with a little configuration creativity. You can choose specific Spending Categories, Sub Categories or Individual Merchants to be Covered from your selected Saver. You can add combinations of all three to suit however you have your savings structured.
+
+Quickly find specific Merchants from a preselected list of common merchants by tapping on the Merchants option during set up. Mix and match individual Spending Categories by tapping on Categories.
+
+If you didn't nail it the first time — no problemo. You can come back and configure any Auto Cover rules by tapping on your Savers with Auto Covers enabled.
+
+Adding More as You Go
+
+If the Merchant you're looking for is not searchable when setting up Auto Covers from a Saver, you can add a Merchant by performing a manual Cover first by long pressing on the transaction to then be prompted to Automate that Cover for the future.
+
+Deal with it in the moment when a purchase comes up, or take a scroll through transactions past to add to your Auto Cover collection.
+
+Anson Parker
+
+Head of Product
+
+@anson
+
+Tags: Auto Covers
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+UpYear is Here!
+
+Let’s wrap up your 2023. Get your Spending and Saving insights from the other side.
+
+Up
+
+Dec 19, 2023
+
+Hi—Fi: The Financially Sound System
+
+Hi—Fi: Your Financially Sound System is here, but what is it and how does it work? Hear from the mind behind the machine on why Hi—Fi is the future of money management.
+
+Anson Parker
+
+Nov 03, 2023
+Keep reading
+
+More from the makers of Up.

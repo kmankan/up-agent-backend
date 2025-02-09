@@ -1,0 +1,88 @@
+Paying Someone
+
+How to Up
+
+(Already an Up customer and looking for your PayID in-app? Go to Up > Payment Settings > Up Spending)
+
+In an earlier post on this blog we described how one of our core aims in building Up is to explore the following question:
+
+What could a banking platform look like if was built from scratch today, freed from legacy and designed from the outset to embrace the capabilities of current technology?
+
+The area of payments presents one of the bigger opportunities for innovation and improvement in banking, but also exerts the greatest challenge on us to remain truly forward-looking and uncompromising while maintaining compatibility with industry standards.
+
+In the next few weeks or so we’ll be releasing version 1.0 of payments to all Up customers. We’re excited to show you our ambitious vision for what a modern payments platform can be. In the meantime we wanted to provide this brief introduction into how we’ve approached payments.
+
+At the core of our approach is this central premise:
+
+We believe payments are a conversation
+
+Banks have traditionally represented payments as two separate halves: payments out vs payments in. Payments out are usually made by filling in a “Pay Anyone” form, with saved payees used to make completing the form faster; while payments in are treated no differently to any other deposit to your account. There’s no easy way to see when a friend last paid you (or you, them) let alone to use that context to inform making a new payment.
+
+We think payments between you and your friends belong together, whether they are payments in or payments out. We think this view should be similar to the one you’d have in WhatsApp, iMessages or any other modern messaging platform.
+
+A preview of a payment thread in Up: a single place to view your activity with a friend.
+
+Initially we’ll support a single “conversation” between you and each of your contacts but eventually this threaded approach will allow for more than two participants. This will make splitting bills with friends or collecting money from a group of friends for a concert much simpler than it is today. But we’re getting into future roadmap territory here, let’s focus on the basics for now…
+
+Creating this conversational view when you build your own payments platform such as Venmo (in the US) or the Australian analog, Beem It, is relatively straight-forward. Delivering this view in a banking app designed to work with all other banks in the country is a little trickier.
+
+To achieve our aim, we actually need a little help from our customers to match both sides of the conversation together — the payments you’ve made to your friend, to the payments they’ve made to you. Once that connection has been established Up will take care of the work from then on.
+
+Identifying a contact for an unidentified incoming payment thread
+
+So that’s the threaded view. It looks far more like messaging apps such as WhatsApp than a traditional banking payments screen. But what about the other issues with bank transfers in Australia? If you’ve ever sent money to someone you might have noticed you can generally only type in a few characters for a message and that money can only be sent on weekdays during business hours. That’s where Osko enters the picture…
+
+The New Payments Platform
+
+Australia has recently seen a massive uplift to its underlying payments infrastructure used to send money between Australian bank accounts. The New Payments Platform, and it’s consumer overlay Osko, have recently come online.
+
+This new payments infrastructure allows you to send money almost instantly to most bank accounts in Australia. It is available 24 hours a day, 7 days a week. Osko allows you to type much longer messages with payments that can support foreign languages and emoji characters! 😊
+
+Along with Osko a new service called PayID has been introduced. It lets you map your mobile phone number or email address to your bank account so your friends don’t need to know your BSB or Account number — they can instead use one of those two contact details. You can enable PayID in Up today from the Payment Settings screen:
+
+Up has built a payment system that leverages Osko at its core to enable near immediate payments 24/7. Up will only fall back to traditional payment methods when Osko is unavailable so you can still send cash to any account in Australia.
+
+Not all payments are the same
+
+We understand not all payments are best viewed as a conversation. We recognise, for example, that you may have accounts at other banks, either transactional in nature or for products Up doesn’t currently offer such as a credit card or mortgages. It makes sense to treat payments to these external accounts differently.
+
+In fact, by identifying your accounts at other banks Up can deliver you custom notifications, allow you to quickly transfer money to and (eventually) from those accounts and give you better insights into where your money goes. Up can start to become, over time, a smart hub to manage your money wherever it may be. We can use this understanding to enable programmatic banking, performing actions automatically like transferring a percentage of your pay to your external credit card when you get paid or rounding up your purchases to a mortgage account elsewhere.
+
+Launching Soon
+
+Payments in Up is currently being tested with a small customer group who’ve been given early access. All going well, we will be releasing payments broadly in the next few weeks.
+
+Anson Parker
+
+Head of Product
+
+@anson
+
+Tags: Payments, Threads, Osko, PayID
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Rebooting Banking
+
+Our journey began with a simple question: what could a banking platform look like if was built from scratch today, freed from legacy and designed from the outset to embrace the capabilities of current technology?
+
+Anson Parker
+
+Oct 31, 2018
+
+Up-cycling core banking
+
+Up is treading a different path to most other digital banks in that it’s being developed through a collaboration between a software company (us) and a so-called “traditional bank” (Bendigo Bank).
+
+Anson Parker
+
+Aug 15, 2018
+Keep reading
+
+More from the makers of Up.

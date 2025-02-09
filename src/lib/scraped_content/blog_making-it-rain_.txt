@@ -1,0 +1,92 @@
+Making it rain!
+
+How to Up
+
+Remember when you were a kid, how much fun it was to go to a school fair and get the chance to dunk a teacher (or better yet the principal) in a dunking tank?
+
+Designs for the pool were always slightly different. Lots of schools would have their PTA assembled dunk tank they'd cart out year after year.
+
+You'd hand over some hard-earned pocket money for the chance to throw a beanbag at the trigger. If you were lucky enough to hit home they’d fall into the pool and get soaked.
+
+The ice-bucket challenge was kinda similar in that it helped people raise enough money to convince themselves it was worth pouring a bucket of ice water over their heads.
+
+There's something about being able to soak people that's satisfying to humans and importantly, they’re willing to pay for the privilege.
+
+But what does this have to do with Up?
+
+For ages, we've wanted to find a way for people to use Up to support causes that mattered to them. We're still working on it, but with two school aged kids and no school fairs in the near future, at a recent hack-day I set out to create a way for Australians to replicate the fun of the dunk tank from home.
+
+To make it happen I combined a few things that don't often go together - banking and garden watering automation.
+
+My challenge was to make it rain when people donated to a cause by sending money to my Upname or PayID.
+
+How does it work?
+
+I wanted the experience for a donor to be simple, so I started by making the digital equivalent of a piece of cardboard with "$1 per throw" written on it. As there wasn't really an element of chance (you couldn't miss), I hiked up my prices from the get go. A simple website told people where the money I raised would be donated, presented donors with a menu and gave them payment details. In retrospect, allowing 1 cent payments was not a good idea. In my case, I chose to donate it to my local primary school.
+
+Both Up-to-Up and PayID payments are pretty much instant, so are perfect for this sort instant-gratification experiment. As soon as payments hit my Upname or PayID, the Up API and its Webhooks let my site know about the payment. The site then used the payment description and incoming name to add the donation to a queue of upcoming soakings.
+
+Separately, I had a raspberry pi running a very simple ruby script polling for new donations every few seconds. If it found one waiting it would execute the soaking and mark that particular event complete, and pick up the next one. This would also update the website so you could see when it was your money causing it to rain or pour.
+
+With the website ready and a webcam pointed at myself on a very cold winter's day I sat back and waited for people to donate.
+
+Pretty much straight away people started making it rain.
+
+Needless to say, I got very wet and very cold. Turns out donations over $50 involved a bucket of water full of ice-cubes which I was very much not expecting. It was worth it though.
+
+So how'd it go?
+
+All up I raised $205 in about 5 minutes from 50 people and that money has now been donated to the local primary school. I wondered whether people would donate more than once, and it turns out people were happy to part with their cash for continued pouring.
+
+Most importantly though, doing all this made the team smile and gave them a laugh. I could only get screenshots of people who weren't muted, but seeing them light up made it all worthwhile.
+
+As a future improvement, I’d love to have the website include a video clip of the victim being soaked with each particular donation, so you had something to treasure and share (which would hopefully pull in even more donors) - something like "I paid $2.50 to make it rain on $paul and here's the proof!"
+
+But why?
+
+Apart from the novelty value, I think there’s actually a whole lot of potential in the idea to raise money for various causes.
+
+Tying a “reward” directly to a real-time bank transaction has never really been possible outside of using hard cash or paying for a credit card merchant. In Australia, at least, the tech just hasn't been available for non-businesses. Upsider payments, PayID, and the Up API makes all of this possible in very near real-time for normal people like you and I.
+
+One of the things I really like is that the approach scales far further than any local school fair or fundraiser could, simply because you aren't limited by the number of people who can turn up on a given day.
+
+I performed this demo to my fellow Ferocians and some close friends, but once you have things set up ready to go there’s nothing to stop you from doing multiple sessions to different groups of people, or even streaming live Australia-wide. From there, it’s just a question of who you invite to soak and who you invite to watch and donate. Imagine how much people would pay to soak various politicians or celebrities right now.
+
+Want to try it?
+
+This is most definitely not an official Up service. We're not ready to organise charity or fundraising payments yet, and everyone involved understood that the donations would go through my personal account as a kind of proof of concept before I sent them along to the school. That said, all the pieces you’d need to replicate this are available with a bit of gardening know-how, programming (and fundraising permits etc). If you have an idea for a collaboration get in touch. We'd love to hear from you.
+
+Paul Tagell
+
+Head of Marketing
+
+@tagell
+
+Tags: API, Hackday, Development, Webhooks
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Up on TransferWise
+
+International Payments are now available to all Up customers via TransferWise. Let me take you on the grand tour.
+
+Mark Brown
+
+Aug 19, 2020
+
+Up 1.15.0 Release notes
+
+International Payments powered by TransferWise, Monthly Insights updates & Up API Changelog
+
+Up
+
+Aug 09, 2020
+Keep reading
+
+More from the makers of Up.

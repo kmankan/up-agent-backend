@@ -1,0 +1,66 @@
+Up 1.16.0 Release notes
+
+Updates
+
+##Up Widgets
+
+Home sweet home screen. Get more at a glance with Up widgets.
+
+Go ahead and sprinkle a selection of your home screen with a small window into your financial life for both iOS and Android. Break out of the app and add a pocket size version of your accounts so you can easily keep your eyes on the prize at all times.
+
+##iOS14 Widgets
+
+With some help from iOS14 you can now add a small size Up widget to your iOS home screen. Add an Activity widget to display your available balance and recent transaction, or a Savers widget to check your balance, activity or progress for one or all of your Savers.
+
+##Android Widgets
+
+The wait is over - equal widgets . Add an Up widget to your compatible Android device and check your available balance, keep eyes on an individual Saver or see all of your Savings in one hit.
+
+Note: If you don’t want iOS or Android widgets to show any data ever, you can enable or disable ‘Allow Widgets’ from the ‘Security’ menu of the Up app.
+
+##Eftpos for Apple Pay
+
+Another tool on the belt and another network to pay. Upsiders using Apple Pay can now pay using either Mastercard® (CR) or the Eftpos network (SAV). Set a preferred payment option or make the choice when you pay.
+
+To enable your card for eftpos support, you'll need to remove it and then re-provision it from the Wallet app using the manual card entry or card scanning method - so make sure you’ve got your card handy!
+
+Stay tuned for Eftpos support for instant in-app provisioning.
+
+##Allow Contacts Settings
+
+Here's a new paver in our future payments path. Decide in your Payment Settings if other Upsiders in your phone contacts can see that you're using Up. Opt-out of being visible to other Upsiders with your mobile number alone. Your future network will be as big as you want it to be.
+
+Up
+
+Easy Money
+
+@up_banking
+
+Tags: Release Notes, Up 1.16.0, iOS Widgets, Android Widgets, EFTPOS
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+The Evolutionary Design of Up
+
+A deep-dive on the design journey of the Up app. A collaboration between product, design, engineering and our growing base of Upsiders.
+
+Daniel Wearne
+
+Sep 22, 2020
+
+Making it rain!
+
+Combining garden automation and the Up API to raise money for a cause
+
+Paul Tagell
+
+Aug 26, 2020
+Keep reading
+
+More from the makers of Up.

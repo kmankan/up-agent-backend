@@ -1,0 +1,91 @@
+Pay Day & Spendable Balance
+
+Updates, Spending and Budgeting, How to Up
+
+With the release of our Pay Day feature we wanted to provide some background on it and why we think it’s kind of a big deal. Read on to learn more about how this feature came into being and how to get up and running with it. If you’re looking for a shorter version head over to the Pay Day feature page.
+
+Breeze Between Pay Days
+Learn how Pay Day works
+
+Today we're excited to launch a feature that has been a part of the vision for Up since the earliest days. Our original pitch centred around developing a new set of capabilities, absent in banking apps of the day (and still mostly AWOL), that would provide customers with a vastly increased level of clarity and understanding over their finances. Specifically, these capabilities included:
+
+Merchant ID: A technology to identify the businesses customers spend their money with, powering insights and the next feature...
+Upcoming: Detecting patterns in past spending to predict future charges. Which can then be used to calculate your...
+Spendable balance: The money you can safely spend before next pay, making sure your upcoming charges are taken into account.
+
+These features build on top of each other — we couldn't have delivered a Spendable balance without first understanding your future commitments, which we couldn't have done without first identifying merchants to determine their charging patterns.
+
+And so this day carries with it a special sense of achievement. While Pay Day is not our flashiest feature nor our most complex (by any stretch), it is one of our most important.
+
+Let Up Do the Math
+
+Working out when all your bills, subscriptions, and repayments are due and how much they add up to is not something most of us can do in our heads. Yet understanding how much you need to set aside for bills is one of the more important elements to successfully managing your everyday finances. Without it, you risk spending money that you don’t really have — money that’s already been committed.
+
+To work this number out, you need three ingredients:
+
+A list of upcoming bills, charges and payments. We already have a place for these in Up — it’s the Upcoming screen. Upcoming is not just about rent and subscriptions, it also takes into account saving commitments, repayments, and investments.
+A time frame. Many future charges are repeating ones. It therefore becomes important to work out how far we need to look ahead to determine which charges we’re allowing for. It turns out your pay day is a great marker for this — it’s the day you’ll be seeing money deposited into your account, so we can assume charges from that day onward can be taken care of by that next pay packet.
+A balance. Your Available balance is the starting point from which we then subtract the relevant upcoming charges (over the time frame identified in the previous step). This is what then gives us your Spendable balance.
+
+With these ingredients combined, we can then offer some beautifully simple upgrades in the app. Upcoming can now show you just the total of charges before your next pay day, while the Activity screen now lets you switch between your Available balance and your Spendable balance (which again, is your Available balance minus relevant upcoming charges).
+
+Those of us on the team who have been testing this feature have found it an enormous help. No more last minute shuffling of funds or bounced bills needing to be chased down. But we know there are a lot of different ways people use Up as well as all sorts of different ways people get paid. Admittedly, Pay Day works best for those on regular pay cycles (or with regular deposits from their other accounts) who are happy to keep their bill money in their main Up Spending account.
+
+With all that being said, let’s take a walk through getting set up with the feature as it stands today...
+
+Step 1: Add Your Pay Day to Up
+
+In the Upcoming screen of the app you can now add your pay day (follow the prompts) by indicating the frequency of your pay — weekly, fortnightly or monthly — and providing the date of your next pay.
+
+This doesn’t have to be your “official” pay packet — it could be the day you transfer money into Up from another account, or even just a cycle that works for you in the case you have multiple sources of income.
+
+After setting up Pay Day, Upcoming will now show you the total of your expected charges that fall before your next pay. But the really cool bit is the next piece...
+
+Step 2: Switch to Spendable
+
+Now you’ve got your pay day added, you can now swipe back over to Activity and you’ll notice the label for your Available balance looks a little different. Tapping it will switch between your Available and Spendable balances.
+
+It’s worth noting your Spendable balance will never display a number less than $0. So if you’re seeing $0 it means you have less money in your account than you do expected charges. Head back over to Upcoming to see what the total of those charges is and adjust accordingly.
+
+In certain places we’ll now start showing your Spendable balance in preference to your Available one (e.g. spending notifications). We’re still rolling out Spendable across the apps and widgets, so let us know if you spot the perfect location we’ve missed.
+
+Let Us Know
+
+We hope this feature offers a genuine improvement to the way you manage your everyday finances, making it easier to stay on the right side of your bills.
+
+While this feature might not work perfectly for every set up, we think for many Upsiders it will be a great help. We hope you’ll try out the feature and let us know if there are changes that could make it work better for you. We’re excited to hear your thoughts either way.
+
+Anson Parker
+
+Head of Product
+
+@anson
+
+Tags: Release Notes, Up 2.0.5, Pay Day, Spendable Balance
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Up 2.0.4 Release Notes
+
+2Up Automated Transfers, Send FJD with International Payments
+
+Up
+
+Jul 12, 2021
+
+How to start saving (from the very beginning) with Up
+
+If saving money doesn’t come naturally to you, you’re not alone. We’re here to start at the beginning. No spreadsheets. No stress. Just Up.
+
+Up
+
+Jun 22, 2021
+Keep reading
+
+More from the makers of Up.

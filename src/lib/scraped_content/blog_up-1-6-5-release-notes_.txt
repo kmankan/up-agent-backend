@@ -1,0 +1,58 @@
+Up 1.6.5 Release Notes
+
+Updates
+
+BPAY®
+
+Praise be unto the holy lords of bill payments. Today is the day to rejoice! BPAY payments are now available on Up.
+
+Send those bills to the hallowed lands with swift justice. Equipped with your BPAY Biller Code and Customer Reference Number (CRN for you BPAY enthusiasts out there) you are now a bill paying powerhouse. Claim your new payment method in the same place as your other payment methods.
+
+Swipe over to the payments tab to start a new payment and tap on BPAY biller to begin your journey.
+
+Upsider Payments
+
+It’s an unspoken bond. A feeling you can’t un-feel. Up to Up payments are delivering a new kind of connection.
+
+When paying other Upsiders using PayID you’ll be greeted with your pals Profile Photo and Preferred Name - see, told you those profile photos would be used for something.
+
+There are no strangers here. Up to Up payments will auto identify as a new contact, and to top it off, you can now immediately shoot back a reply payment.
+
+Life is a conversation, so let’s rap.
+
+Head over to the Payments tab to see the changes.
+
+Up
+
+Easy Money
+
+@up_banking
+
+Tags: Release Notes, Up 1.6.5, BPAY, Payments
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Up 1.6.1 Release Notes
+
+Boosted Round Ups and Even Dollar Round Ups.
+
+Up
+
+Jul 31, 2019
+
+Up 1.5.0 Release Notes
+
+Instant Google Pay provisioning, better control over regulars, photos, and a few accessibility improvements.
+
+Up
+
+Jun 26, 2019
+Keep reading
+
+More from the makers of Up.

@@ -1,0 +1,78 @@
+Up 1.15.0 Release notes
+
+Updates
+
+International Payments powered by TransferWise
+
+Make breaking down borders a breeze. We’re very excited to announce that International payments powered by TransferWise have arrived. Now you can get a fast, easy and cheap way to move your money overseas all from your Up app! Move money in for 48 different currencies, no surprise fees and a super fast set up.
+
+Head over to the payments tab in your app to create a new International Payment. If you already have a TransferWise account all you need to do is log in and start sending. If you're a newbie, that's cool too! Creating a TransferWise account is no big: you can take care of it in the Up app with just a couple of taps.
+
+Learn more about our TransferWise integration head over to our new TransferWise page.
+
+Relax and move freely around the cabin, paying friends and family overseas has officially reached cruising altitude ✈️
+
+#More insights into Monthly Insights
+
+Monthly Insights will now tell you if you're on track to be the hero of your savings story. Now you can quickly see total change in your Savers, total savings in or out for the month, as well as, total payments and total purchases. You're now a professor of precision with total clarity.
+
+Tap on any of the monthly headings in your Activity Feed to view your Monthly Insights 📲
+
+Up API Changelog
+
+There will be no changes getting past you. To get your hands on any changes or improvements to our API be sure to head over to the API Changelog on GitHub. If you want to receive all updates to this changelog, click the "Subscribe" button in the Github sidebar.
+
+Latest Changelog:
+
+🐛 Various bugfixes and tweaks
+
+📝 Add optional description to webhooks
+
+🏷️ Add tags
+
+🏷️ List all tags
+
+🔗 See which tags are associated with a transaction
+
+See the tags field in the relationships section
+
+🔍 Filter transactions by tag
+
+See the filter[tag] query parameter
+
+🔗 Add/remove tags to transactions
+
+Up
+
+Easy Money
+
+@up_banking
+
+Tags: Release Notes, Up 1.15.0, Transferwise, Wise
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Up 1.14.2 Release Notes
+
+1% Pay Splitting Increments, iOS Actionable Covers & Forwards, Up API & Changes to Saver Pools
+
+Up
+
+Aug 03, 2020
+
+Announcing the Up API
+
+Let's Hack On Banking Together! Today we're thrilled to announce the beta release of the Up API.
+
+Anson Parker
+
+Jul 27, 2020
+Keep reading
+
+More from the makers of Up.

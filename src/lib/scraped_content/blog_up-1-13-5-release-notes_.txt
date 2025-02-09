@@ -1,0 +1,54 @@
+Up 1.13.5 Release Notes
+
+Updates
+
+Upsider Payments
+
+The fast just got faster. Now you can pay an Upsider using only their $Upname, that’s it, nothing else, that’s refreshing.
+
+This new way to pay is moving dollars back and forth in a different way. Today it provides a fast, reliable way to shoot cash to other Upsiders. Tomorrow, it will provide the foundation for our epic payments roadmap.
+
+To pay an Upsider via Up tap on the new ‘Pay an Upsider’ option when starting a new payment.
+
+As usual you can shoot an Upsider payment right back. A true Up2Up experience.
+
+Payment Replies
+
+You used to say it best when you said nothing at all. Say goodbye to the sound of silence and prepare to have the last word. You can now reply to a received Upsider payment with an Emoji or a message.
+
+To reply to an Upsider payment just tap on the new ‘Reply’ bubble under a received payment. Throw together a quick message or if you’re truly left speechless just react with an emoji. After all a picture is worth 1000 words.
+
+Up
+
+Easy Money
+
+@up_banking
+
+Tags: Release Notes, Up 1.13.5, Pay an Upsider, Payments
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Up merchant logos: back to the past.
+
+Retro logos are the best logos.
+
+Anthony Langhorne
+
+Apr 01, 2020
+
+Five ways Up can help you spend wisely
+
+With the economic uncertainty as a result of COVID-19, spending wisely has become more important than ever.
+
+Up
+
+Mar 31, 2020
+Keep reading
+
+More from the makers of Up.

@@ -1,0 +1,216 @@
+Top 10 highlights from 2018
+
+Building Up, Updates
+
+Happy New Year! While 2019 has just begun and there are so many awesome things planned for Up this year, I just thought it’d be cool to look back at a few highlights from 2018.
+
+Up launched publicly in October 2018, just over 12 weeks ago, but the Up journey actually started back in 2016 when we first pitched the idea to Bendigo Bank. It took about one year of development and testing before we launched the first working version of Up into production in late 2017. Then we tested Up for another year to make sure we had everything sorted before public launch, which means Up was being used for the whole of 2018.
+
+Here are the top 10 Up highlights from 2018 (in chronological order). Pretty sure everyone has their own favourites, and we would love to hear from you what you loved most about Up in 2018. Here goes:
+
+#1 — Alpha goes live, hosted on Google Cloud Platform
+
+The Up Alpha program had 50 internal staff customers, and really kicked off in earnest during early 2018, so we’re running with that as the first highlight. During 2018, prior to launch in October, we had around 1,500 Beta testers. 3 months later, during the first week of January 2019, we gained nearly 1,000 new Up customers a day.
+
+Technically, the first live Up transaction happened on 11 October 2017. We bought a long mac at Giddiup, a popular cafe in Melbourne.
+
+Michael (head of technology at Up) was officially the first Up customer, and a few of our engineers and systems operations staff followed to make sure everything worked ok before Anson and the rest of the crew jumped on-board to give Up a whirl from a customer/product perspective.
+
+We had around 50 internal staff Alpha testers (from Bendigo Bank and Ferocia) until April 2018 when we added around 150 family and friends. We ended up with a total of around 1,500 Beta testers to help test Up for several months before we launched. While writing this we’re now adding between 500 and 1,000 new Up customers with actual bank accounts every day — in part due to Up’s awesome in-app sign-up process.
+
+When we first launched Up into production, we chose to host Up in the public cloud with Google Cloud Platform. The technical reasons why we chose GCP are probably better left for another post. In the meanwhile, here are some highlights from my perspective:
+
+GCP provides Up with a world-class, global-scale platform that just works. Up runs on the same infrastructure that Google uses internally for its end-user products, such as Google Search and YouTube.
+Some of the key reasons we chose GCP include their world-renowned service reliability, security controls, and scalability. GCP also supports open source tools and mass automation, which helps deliver Up’s real-time continuous auditing (hourly), and platform infrastructure automation.
+With massive parallelisation on GCP, it takes just 45 seconds to deploy an entire Up platform for end-to-end automated testing.
+With the benefits that GCP delivers, we’re able to focus our attention on building great new Up features for customers, and delivering updates multiple times per day. At the time of choosing GCP public cloud, our target was 5 software releases to production per day — which would, of course, be totally amazing (especially for a bank).
+During 2018 we transitioned Up through several stages of testing including our Alpha and Beta programs very smoothly with GCP. We even migrated Up from one GCP enterprise instance to another, with just 2.5 mins of down-time for customers (at the time they were test customers, not the general public).
+#2 — “Up” brand name and website announced
+
+So much passionate work has gone into creating Up, and we’re so proud of what we’ve done so far. We really hope you like it too. Here’s a bit of background on creating the Up brand for your reading pleasure. Enjoy.
+
+One of our logo and branding walls at Up headquarters from December 2017, just prior to the public announcement of the Up brand.
+
+Sometimes we’re known as “Up Money” (like in the app stores) and sometimes “Up Bank” (officially, and so people know what Up is), but most of the time we’re simply known as “Up”. The process of naming a new digital bank is not an easy one. It took months to finalise the name, design all the material and launch the brand (which, in the scheme of things, is pretty quick actually).
+
+Like the product itself, the name “Up” and the awesome branding we’ve developed was a few years in the making. Strictly speaking, Up wasn’t always known as “Up”. We had some internal code names and originally announced our new digital bank under a different brand name, until we settled on “Up” and secured the business names, domain names, regulatory consent, etc. Here’s a brief summary:
+
+“Ferocia bank” was one of the first code names for Up. We used this name while we worked with a couple of the large four pillar Australian banks, helping them to launch digital banks in Australia and throughout Asia. None of those efforts ultimately ended up in customers hands, even though we spent several years working on them.
+Although we’d been talking about Ferocia Bank since 2015, the first official document shared outside of Ferocia was an internal paper in September 2016 which referred to our new digital bank concept as “Project Apollo” and was written when we first pitched the idea to Bendigo Bank.
+By February 2017 we had worked our way through a naming exercise and settled on a name. For those interested, some of the names we considered included Volt and Leap (which had both been working titles for earlier digital bank concepts we built) and Ginko (Japanese for bank).
+In April 2017 we pitched Bendigo Bank again, this time with a brand and a business plan (pretty sure they loved it by the way). By May 2017 we had agreed to collaborate. On 25 September 2017 we launched a website to announce our new digital bank brand, with iOS and Android apps “coming soon”. Everything was developed in-house.
+We were in production with the first version by October 2017, and at the same time we were still reviewing the brand, including the name. By December 2017 we had decided to use the name “Up”, and in January 2018 we told the world.
+During that time we secured the domain name up.com.au (against fierce competition from multinationals), designed a word mark, colour scheme, website, debit card, welcome pack, and an app user experience for both iOS and Android. It was a very very busy time in the birth of Up.
+Since then, the Up logo and brand has continued to evolve. The first iteration was a custom word mark designed and developed in-house by our very own Dan (head of Design at Up) including a custom colour scheme comprising the Up “salmon” colour, accompanied by the “black Russian” colour which we’re still using today.
+Then, in April 2018 we met Pete Johnson and his awesome design team at CIP Studio. Pete helped bring a bit more playfulness, illustration, and colour to the Up brand, and he’s been helping us enhance, improve, position, and promote Up ever since.
+#3 - Partnering with Bendigo Bank, an ethical major Australian bank
+
+Up is a collaboration between Ferocia (a technology company) and Bendigo Bank (the fifth largest Australian retail bank). We just wanted to share a few of the reasons why we’re so proud of our partnership and how awesome, ethical and forward-thinking Bendigo really are.
+
+Dom Pym, co-founder of Up, and Marnie Baker, Managing Director of Bendigo and Adelaide Bank, signing the Up collaboration agreement.
+
+We’ve actually been working with Bendigo Bank for nearly 7 years to deliver their award-winning mobile and Internet banking platform, which is amongst the best in Australia.
+
+After we’d been working together for about 5 years, we pitched Bendigo Bank on the idea of partnering to deliver Australia’s first next-generation digital bank. Many people ask us “Why Bendigo Bank?”. Some people may not think it matters where deposits are held, but it really does. Bendigo Bank is not just the fifth largest Australian retail bank, they are also innovators and ethical.
+
+Here are some of the main reasons we are so proud of our partnership to deliver Up with Bendigo Bank:
+
+Bendigo Bank do not currently lend to projects in the coal and coal seam gas sectors. In fact, Bendigo Bank is the only major Australian bank listed by Market Forces with no record of funding fossil fuels.
+Bendigo Bank doesn’t shy away from their ethical responsibilities and have publicly stated their recognition of climate change. In 2010 Bendigo published their strategies to reduce/offset their own carbon footprint, and help others to do the same. Bendigo Bank has also voluntarily reported the banks carbon emissions since 2011.
+Just over 20 years ago in 1998, Bendigo Bank launched a globally significant initiative called the “Community Bank® model” helping their customers and local communities to make a real difference, and share in the rewards. During the 1990s, almost one third of Australia’s bank branches closed. Approached by abandoned communities, Bendigo Bank launched the Community Bank® model helping communities to own and operate their own bank branches. Around 320 communities across Australia now operate Community Bank® companies, which literally help change lives, and save lives, every single day. Their home loans are building skate parks and sports facilities, hospital wings and classrooms. Personal loans, business banking and credit cards are funding ambulances, rescue boats, disabled and aged care facilities. As of 2018, over $205 million has been returned to communities and initiatives by Community Bank® companies nationwide.
+Bendigo Bank was recognised in 2017 by Fortune as the #1 Australian company (and the 13th company globally) helping make the world a better place. This is quite an amazing achievement with Bendigo Bank counting themselves amongst global multi-national firms such as Apple, Toyota, Vodafone, Microsoft and others. The recognition is well deserved, and has a lot to do with the work Bendigo Bank have been doing in local communities and for the environment over recent decades.
+According to independent research conducted by Roy Morgan in early 2018, Bendigo Bank were named the most trusted bank and 3rd most trusted brand in Australia, ahead of Bunnings, Qantas, Australia Post, Kmart, and the ABC. Roy Morgan’s Net Trust Score ranks the trustworthiness of Australian brands (including reliability, commitment to customers, knowledge of staff, ease of contact, and prior experiences, amongst other criteria). Awesome.
+
+Besides all that, the Bendigo Bank staff are just really really great people to work with, which made our job in 2018 delivering Up together a whole lot easier.
+
+#4 - First bank in Australia with app-based sign-up including instant Apple Pay
+
+In 2018 Up was the only bank in Australia to support a full in-app sign-up flow including setting up a bank account and instantly activating Apple Pay, in as little as 3 mins from downloading the Up app.
+
+Instant Apple Pay activation in-app was available in Up just ahead of our public launch.
+
+In 2018 we released Apple Pay for Up. By launch in October, we’d also released Apple Pay instant issuance, Apple Pay inactive card activation, and the ability to set up Apple Pay before you even fund your Up account. We even made it possible to set up Apple Pay during sign-up, after sign-up or from Apple Wallet. Making Up the best and easiest way to get Apple Pay in Australia.
+
+With Up, there’s no need to wait for your plastic card to arrive either, you will simply be prompted to add your card to Apple Pay as part of the sign-up process, and it’s totally automated — you don’t need to scan your Up card, or enter your details manually, or even fund your Up account (of course you will need money in your Up account to make a purchase later on, but we don’t let that stop you from experiencing a completely seamless bank account setup, including Apple Pay activation). Up will actually fill in all the details for you, and you just have to agree to the Apple T&Cs and accept the addition of your Up card to the Apple Wallet.
+
+Some of the Up engineering team have actually been working with Apple since the App Store was first invented, back in 2008, so we know a thing or two about the Apple ecosystem and how to deliver the best customer experience, and we hope the results actually speak for themselves. Here are some of the 2018 highlights for Up sign-ups and Apple Pay activations:
+
+During 2018, the average time for a new customer to complete the Up sign-up process in a single session and get a full Australian bank account was 2 mins and 54 secs (the median was just 2 mins and 2 secs).
+Over half of Up’s new customers also went on to set up Apple Pay instantly during sign-up. During 2018, the average time to set up Apple Pay was less than 1 minute, meaning the full sign-up process including Apple Pay could be completed in less than 3 minutes.
+Justin (community manager and content guru at Up) actually managed to complete the entire in-app sign-up process in 1 minute and 45 seconds on film, so we’re claiming him as the current world record holder for setting up Apple Pay with Up.
+Finally, for those customers who didn’t manage to set up Apple Pay during sign-up, around one third of iOS customers set up Apple Pay automatically in-app post sign-up (most of them before we offered the instant sign-up feature).
+#5 — First next-generation digital bank to launch in Australia
+
+It doesn’t matter what you call Up; a digital bank, a neo-bank, a challenger bank — they’re all fine with us. In short, Up was the only next-generation digital bank operating in Australia in 2018 with an actual banking product in market.
+
+Some of the Upsiders celebrating at the Melbourne Up launch event on 9 October 2018.
+
+Ferocia is a 100% independent software company that designs, develops and delivers Up through a collaboration with Bendigo Bank. Up was the first next-generation digital bank to launch actual banking products in Australia in October 2017 (to kick-off our Alpha and Beta programs) and then publicly in October 2018.
+
+A little bit of history
+
+A neo-bank is a digital-only bank (sometimes a mobile-only bank) with no branches. It’s not defined by whether or not the bank has their own banking licence. For example Simple (from the US), often considered the first neo-bank in the world (and coincidentally founded by an Australian), launched using a licensed financial product from Bancorp. Moven (also from the US, and also founded by an Australian) is nearly always referred to as a neo-bank but they never had a banking license, instead they partnered with CBW Bank. Even Monzo (from the UK) considered one of the world’s leading neo-banks originally offered financial products through Wirecard when they first launched.
+
+Following our successful public Beta, we launched Up publicly with a portrait Mastercard® debit card, multiple high-interest savers with a competitive interest rate, automatic transaction round-ups, the best merchant identification in market, upcoming automated regular bill detection, and support for all the major digital wallets (including Apple Pay, Google Pay, Fitbit Pay, Garmin Pay), and more.
+
+We gathered over 100 media and partners for the Melbourne Up launch event at the awesome Notel rooftop in Flinders Lane. Despite the typical rainy Melbourne weather everyone had a great time finding out more about Up’s super-powers inside each of the “super powered” Airstreams perched upon the Notel rooftop.
+
+The next day, we hosted the Sydney Up launch event at the amazing DesignByThem studio in Chippendale. The indoor setting was perfect, given the still rainy weather, and in addition to the Up super-power demos, we also quietly announced our unique Afterpay partnership to be the first bank to deliver retail smart receipts.
+
+All launch participants got to use Up on their smartphones to purchase burgers and beers (from Huxtaburger in Melbourne, and Rustic Kitchen in Sydney), as well as Up merchandise — so they could experience the Up super-powers firsthand, with all proceeds being donated to local charities (including Maddie Riewoldt’s Vision, Youth Off The Streets, Children’s Ground, Wayside Chapel, and Sober Living Housing. It was a real “Up Yeah” moment for sure.
+
+#6 — Live Mario Kart scoreboard, and world champion at PAX
+
+In late 2018 Up had the opportunity to participate in PAX, one of the biggest gaming events of the year, where Upsiders got to challenge the Moo Moo Meadows world record holder to a race.
+
+PAX 2018 attendees challenging Upsiders to a game of Mario Kart with “Kartalytics”, a real-time leaderboard developed by Up engineers.
+
+We participated in a lot of awesome events during 2018 (including Intersekt, CeBit, the Australian Payments Summit, RubyConf, the Fintech Summit, and more). The biggest of them all was in October 2018 when we were fortunate enough to be able to participate in PAX Australia (the Penny Arcade Expo) at the Melbourne Convention and Exhibition Centre, which saw up to 100,000 gamers, cosplayers, and others attending the biggest-ever gaming convention in Australia, held over 3 days.
+
+The Up Mario Kart competition at PAX was powered by the “Kartalytics” leaderboard, some bespoke real-time analytics software developed as a side project by Up’s very own @mtcmorris.
+
+Upsiders were challenged to a game of Mario Kart by the Moo Moo Meadows world record holder, which was awesome. He was so good, he took a break to quickly win the PAX Mario Kart tournament and then came back to deal out another thrashing. We managed to snap a selfie with the champ mid-game (and he still won).
+
+Australian eSports champions ORDER also visited the Up Mario Kart stall, and did we mention the phenomenal cosplay from PAX attendees? It was unbelievable.
+
+#7 — Continuous delivery to production for customers
+
+2018 was a big year for Up. We achieved 99.97% up-time for customers, most likely better than any other bank in Australia. During that time we completed more than 23,000 automated software updates, and achieved up to 10 customer releases per day.
+
+Up’s build pipeline, as represented by our in-house “Pipe-light” system, using programmable LIFX bulbs hooked into our Buildkite servers.
+
+Every time an Up engineer writes software, our continuous delivery system kicks in to help us release software updates to customers all the time. It’s the way we‘ve built Up from day one and forms an important part of our automated delivery framework.
+
+In December 2018, Chris (engineering lead at Up) published an article describing how we build Up. If you’re interested, you should head on over to his article and check it out. Here’s a few highlights:
+
+Automated software testing at Up takes just 26 minutes, including a full platform regression test. This means we’re able to test Up twice an hour, or around 50 times per day.
+Up achieved 99.97% up-time in our first year (even during our Alpha and Beta phases), including 6 system migrations, for a total of 2 hours and 35 minutes of planned and unplanned down-time. A great outcome for customers, and one we’re not sure any other bank in Australia would have achieved.
+By 4 December 2018 there had been 23,361 automated software updates, and an average of 10 customer releases per day at peak during November 2018 (with the overall average for 2018 exceeding our target of 5 per day).
+
+Some of that might sound like gobbledegook to you, but what it all boils down to is that Up can deliver higher quality features more often for customers than any other bank in Australia. We can iterate and improve Up for you every day, so not only will Up be first to market with new innovations, but we will keep improving Up every day to stay ahead of our competition and ultimately deliver a better outcome for customers.
+
+#8 — First bank in Australia with conversational payments
+
+Nearing the end of 2018, Anson let the world know that Up had become the first bank in Australia to offer conversational payments leveraging Osko, a near-instant industry payments service, running on the New Payments Platform, which was released in February 2018.
+
+Up’s conversational payments, seen here as a conversational thread with Anson (Up’s head of product) in November 2018.
+
+We’ve been thinking about payments as a conversation for many years. Sometimes they are financial (like splitting a bill or paying back a friend) and other times they are conversational (like letting your friend know how much they owe you, or thanking someone for a recent payment).
+
+On 13 December 2018, just before 2018 was over, we released conversational payments for customers, combining both the messaging aspect (similar to popular messaging apps like WhatsApp or iMessage offer) integrated with the financial transaction component (similar to a traditional bank payment or transfer, but faster).
+
+Prior to release, in November 2018, Anson (Up’s head of product) published an article describing how at Up we were designing payments from the ground up to be conversational and real-time. If you’re interested, you should check it out. In the meanwhile, I’ve just provided a few highlights here to whet your appetite:
+
+With Up, you can see all your payments to/from your friends in a conversational thread just like WhatsApp.
+Up lets you send and receive money near-instantly 24/7, with all Australian banks also using NPP/Osko (over 60 banks).
+Up will also fall back to the traditional direct entry method used by all Australian banks (if the receiving bank is not NPP compliant, or does not support Osko). So, of course, you can use Up to pay in the traditional way using BSB and Account number as well.
+Osko also supports much longer payment messages, and emojis! 😊
+#9 — Up Savers ongoing bonus interest rate announced
+
+At launch, Up offered a 4-month introductory bonus interest rate for all customers with no conditions. As a little Christmas bonus, we announced Up’s ongoing bonus interest rate and conditions.
+
+Just before the end of 2018 we announced the ongoing Up Savers rate for 2019.
+
+In addition to the awesome features and technology Up offers, we know rate is still important to many people, and we wanted Up to be competitive. At the same time, we are competing in a market dominated by the four largest companies in Australia (and amongst the most profitable banks in the world), so competing on price alone was not really an option.
+
+When Up launched in October 2018 we offered all customers a 4-month introductory bonus interest rate with no conditions. Even though the rate was competitive, and there were no conditions many customers and would-be customers still wanted to know what would happen after 8:30pm, 31 January, 2019, and whether or not Up would be able to maintain an ongoing competitive savings rate.
+
+We were very pleased to announce on 27 December 2018, just after Christmas and while many of us were still enjoying time with our families and friends, that the bonus interest rate for Up Savers would be ongoing, available on multiple accounts (not just one) and without any monthly deposits required (unlike most current Australian banks). Highlights as follows:
+
+Up Savers attract 2.75% p.a. including bonus rate from 8:30pm, 31 January 2019.
+The only criteria is making at least 5 successful card purchases per month.
+Eligible transactions include purchases via debit card, Apple Pay™, Google Pay™ and other digital wallets.
+The base and bonus interest rates apply to multiple Up Savers, up to a combined balance of $50,000.
+
+For further details please visit the pricing page.
+
+This new bonus interest rate structure, in addition to Up’s no conditions and no rebates model on overseas transactions and at local ATMs, helps Up maintain our position as a serious competitor in the Australian banking sector.
+
+#10 — Last minute hint at the future of Up social payments
+
+Just before 2018 was done and dusted, the final highlight was a sneaky little tweet from Anson hinting at the future of Up social payments with the up.me domain name.
+
+A screenshot of Anson’s terminal while setting up the up.me domain name for a new product launch in 2019.
+
+At the end of 2018, Anson announced we’d secured the up.me domain name, which was no small feat. This domain name was certainly well coveted, especially as it’s a 2-letter prefix and 2-letter suffix, making it one of the more valuable domain names in the world.
+
+Behind the scenes, it actually took us more than 9 months to secure the up.me domain name, while in parallel we developed some new payments capability for Up.
+
+As for what comes next. You’ll just have to guess for now, or wait until later in 2019 to see up.me in action.
+
+If 2019 is half as big for Up as 2018 was, then one thing we can guarantee is that you won’t be disappointed.
+
+Dom Pym
+
+Co-founder
+
+@dompym
+
+Tags: Launch, Onboarding, Innovation
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Continuous delivery at Up
+
+Deploying change to production is the heartbeat of any modern tech company. Not so much for most banks, where sometimes it is only done a few times per year. At Up we do it several times per day!
+
+Chris Aitchison
+
+Dec 03, 2018
+
+Paying Someone
+
+The area of payments presents one of the bigger opportunities for innovation and improvement in banking, but also exerts the greatest challenge on us to remain truly forward-looking and uncompromising while maintaining compatibility with industry standards.
+
+Anson Parker
+
+Nov 21, 2018
+Keep reading
+
+More from the makers of Up.

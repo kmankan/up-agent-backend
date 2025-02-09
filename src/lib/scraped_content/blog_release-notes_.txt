@@ -1,0 +1,89 @@
+Up Blog
+
+Keep up to date with in-depth content from the makers of Up.
+
+Release Notes
+Back to Blog
+
+Up 2.1.7 Release Notes
+
+Set fixed amounts when Pay Splitting
+
+Up
+
+Oct 12, 2021
+
+Pay Day & Spendable Balance
+
+Pay Day is a great day, but what if the day before could be great to? Breeze between pays with our new feature.
+
+Anson Parker
+
+Jul 26, 2021
+
+Up 2.0.4 Release Notes
+
+2Up Automated Transfers, Send FJD with International Payments
+
+Up
+
+Jul 12, 2021
+
+Up 2.0.2 Release Notes
+
+Split your pay into 2Up & 2Up Activity, Card Controls & Trackers on watchOS
+
+Up
+
+Jun 15, 2021
+
+Up 1.18.1 Release notes
+
+iOS Monthly Insights widgets
+
+Up
+
+Mar 01, 2021
+
+Up 1.17.0 Release notes
+
+Faster payments experience with Contacts on Up.
+
+Up
+
+Nov 05, 2020
+
+Up 1.16.0 Release notes
+
+Up Widgets, Eftpos for Apple Pay, Allow Contact Settings.
+
+Up
+
+Oct 26, 2020
+
+Up 1.15.0 Release notes
+
+International Payments powered by TransferWise, Monthly Insights updates & Up API Changelog
+
+Up
+
+Aug 09, 2020
+
+Up 1.14.2 Release Notes
+
+1% Pay Splitting Increments, iOS Actionable Covers & Forwards, Up API & Changes to Saver Pools
+
+Up
+
+Aug 03, 2020
+
+Up 1.14.0 Release Notes
+
+Take a dip into Saver Pools, Saver goal notifications, Updates to our iOS widget & a few Biometric fixes
+
+Up
+
+Jun 28, 2020
+Keep reading
+
+More from the makers of Up.

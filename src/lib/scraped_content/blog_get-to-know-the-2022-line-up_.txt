@@ -1,0 +1,190 @@
+Get to know the 2022 Line Up
+
+How to Up, Building Up, Development
+
+We take a look back at some of the bigger features we released last year with a speedy shuffle through the what, why and when. We made some fine things in 2022 and had some damn fine times along the way...
+
+Save Up 1000
+
+RELEASED FEBRUARY 2022
+
+What does it do?
+
+Challenges you to save your way to $1,000 in a year by selecting from a range of small amounts to save each week. You’ll get regular reminders to save and even a few optional cheat weeks to help you stay in the game.
+
+Why did we build it?
+
+Ever since we included the Save Up 1000 Challenge in our welcome pack mailer we knew its true home was in the app. We think helping Upsiders save their first $1K and gaining that belief that they can save is about as good as it gets!
+
+Who's it for?
+
+If you’ve always wanted to save but never got into the habit, Save Up 1000 is for you. Or if you just really fancy having a spare grand in your Savers this time next year.
+
+“It was a challenge and I don’t like failing challenges 😂” - Upsider
+
+Where can I find out more?
+
+https://up.com.au/features/save-up-1000/
+
+Quick Release
+Home Deposit Savers 🏡
+
+Dreaming of a tiny home or helipad to call your own? No matter where you are in the dream-to-deposit journey, Home Deposit Savers are custom cut from only the finest Saver fabric, to help you get there better than regular bank accounts.
+
+Tell Up what you have saved (both in Up and anywhere else), what you can put away each pay, and what you hope to buy. We’ll give you a timeline that takes into account all this stuff, as well as stuff like stamp deposit and first home buyer grants.
+
+The path to your own place is now power washed clear.
+
+https://up.com.au/features/home-savers/
+
+Maybuy
+
+RELEASED AUGUST 2022
+
+What does it do?
+
+Like kryptonite for buyer’s remorse, Maybuy lets you easily save in instalments for the things you want while allowing you to change your mind at any time and bank the money you’ve saved.
+
+Why did we build it?
+
+The world is full of amazing things to buy and our apps are now full of ads for those things! Temptation is everywhere and pay-later offers are readily available. Talk about a recipe for regret! We wanted to provide an alternative that still captured some of the thrill of the hunt, but backed it with a savings-based solution where no one loses.
+
+Who's it for?
+
+All of us. Maybuy is not just a cooling-off valve for fast fashion faux-pas, but a way to save for your next iPhone, car registration renewal or NYE festival ticket. See how some of our good mates are using Maybuy
+
+Where can I find out more?
+
+https://up.com.au/features/maybuy/
+
+Quick Release
+Improved Insights 👀
+
+This year we overhauled Spending Insights to now offer you a financial reality in the timeline of your choosing. Monthly insights were our OG, letting you see how your spending and saving progressed through the year. But now they’ve made room for Insights by Pay Day, Year, Financial Year or a custom timeline, so the choice of Insight is yours.
+
+Compare Insight periods with a swipe & observe your spending categories from above your feed. Trackers, tags and CSV export now fall in line with your time bending abilities. Where will your new insights take you?
+
+https://up.com.au/blog/custom-spending-insights/
+
+Locked Savers
+
+RELEASED AUGUST 2022
+
+What does it do?
+
+Locking a Saver helps protect your hard-won savings from impulsive spending. When you really, really, definitely need that money, you can unlock it again, but you’ll need to either wait three hours for the lock to spring, or get a well-chosen mate to help you open it faster.
+
+Why did we build it?
+
+Upsiders have been asking us to keep their money away from them since the day we launched. We used to laugh it off, but we soon realised you were serious. And very persistent..
+
+Who's it for?
+
+Everyone who’s ever struggled to save in the face of dinners out, Friday drinks, Saturday sales and… look, it’s for everyone.
+
+“...the new Lock Saver feature is amazing and is long enough that any impulse urge I have to spend has generally passed before my saver is finished counting down. This is a game changer.”
+
+Where can I find out more?
+
+https://up.com.au/blog/locked-savers-savings-self-defence/
+
+Quick Release
+2Up Reactions 😱
+
+If you’re a 2Upsider (an Upsider with 2Up) you’ll be no stranger to seeing that notification pop up from your Player 2 spending it up. Whether they’re picking up dinner, the groceries, or paying the vet bill we found ourselves wanting to slap an emoji on it to acknowledge their efforts (or ruthlessly judge them for a late-night Macca’s run). How you use it is really up to you…
+
+https://up.com.au/2up/
+
+Zap card
+
+RELEASED MARCH 2022
+
+What does it do?
+
+Gives new Upsiders a digital debit card that’s immediately available for use online or in digital wallets.
+
+Why did we build it?
+
+Before Zap (BZ), new Upsiders would need to wait for their plastic card to arrive to get their card details. This could be frustrating for Upsiders wanting to move bills over or purchase stuff online. The Zap Card solves that frustration. Not only that, but it’s easy on the environment, making a plastic card an option, not a default.
+
+Who's it for?
+
+New Upsiders, yes. But existing Upsiders, too, can add a Zap card to Up. This can be great to get new card details in the unfortunate event your physical card is lost or stolen.
+
+Where can I find out more?
+
+https://up.com.au/features/cards
+
+Up Home
+
+RELEASED JULY 2022
+
+What does it do?
+
+Up Home is what a home loan is supposed to be. No weird fees or haggling on the (ugh) phone. Just a simple good home loan that lives in your Up app.
+
+Why did we build it?
+
+We looked around at home loans and thought they could be better. Different rates for different people, plus complicated combos of offsets and redraw and rate combos and.. It all seemed a bit unnecessary, yeah?
+
+Up home loans are simple, transparent and negotiation-free. There’s no secret offer you could be on if only you were mates with the right person or knew the magic handshake. All your Savers become free offsets; redraw is free too; and your loan sits right in there with all your other Up stuff so you stay in touch. You can use Up features like Round Ups and Pay Splitting to pay it off faster too, if you want.
+
+Who's it for?
+
+Right now, Up Home is designed for people who are refinancing a home they live in.
+
+Where to next?
+
+We’re working hard to get Up Home ready for those of you who are shopping around for a home and want pre-approval. Hold on to your jocks, it won’t be long now.
+
+Where can I find out more?
+
+https://up.com.au/home-loans
+
+
+
+That's a wrap
+
+Those were some of the major features we released last year. It's not even the full list, but we'll leave the rest for you to discover. If some of those came as a surprise or you only recently joined Up, here's how to keep your finger on the pulse in 2023:
+
+Make sure you're subscribed to the monthly newsletter
+Follow us on the socials: Twitter and Instagram
+Check out our blog
+Keep an eye on the Tree of Up, our public roadmap
+
+Here's looking forward to more years ahead – we’re pumped to be taking the journey together!
+
+Up
+
+Easy Money
+
+@up_banking
+
+Tags: Locked Savers, Maybuy, Save Up 1000, Up Home, Zap Card
+
+Get the gist
+
+We’ll swing our monthly newsletter and release notes your way.
+
+Preferred Name
+Email
+Go
+
+Turn Your Resolution into a Revolution
+
+New Year’s resolutions feel good to make, but there’s a smarter way to change. Upsider Anna shares her secret to really saving.
+
+Anna Spargo-Ryan
+
+Jan 04, 2023
+
+23 Easy Ways to Save This Summer
+
+Here’s the Up team’s best – easy – tips to find a little extra $ left in your beach bag when the sun finally sets on summer.
+
+Up
+
+Dec 14, 2022
+Keep reading
+
+More from the makers of Up.
