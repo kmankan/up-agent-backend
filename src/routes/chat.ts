@@ -23,7 +23,7 @@ export const chatRouter = new Elysia({ prefix: '/chat' })
       const answer = await generateAnswer(result.data.message);
       return {
         status: 'success',
-        response: answer
+        response: `the server said: ${answer}`
       };
     } catch (error) {
       console.error('Error processing message:', error);
