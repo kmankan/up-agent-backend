@@ -1,39 +1,85 @@
-import { Elysia, t } from "elysia";
+import express from 'express';
 import { z } from "zod";
 import { generateAnswer } from '../lib/rag';
 
-// Zod schema for message validation
+const router = express.Router();
+
+// Message validation schema
 const MessageSchema = z.object({
   message: z.string().min(1),
+  history: z.array(z.object({
+    role: z.enum(['user', 'assistant']),
+    content: z.string()
+  })).optional()
 });
 
-// all routes will have /chat prefix (e.g. /chat/message)
-export const chatRouter = new Elysia({ prefix: '/chat' })
-  .post('/message', async ({ body }) => {
-    // Validate the incoming message
-    const result = MessageSchema.safeParse(body);
-    if (!result.success) {
-      return {
+// Text chat endpoint
+router.post('/message', express.json(), async (req, res) => {
+  const result = MessageSchema.safeParse(req.body);
+  if (!result.success) {
+    return res.status(400).json({
+      status: 'error',
+      error: 'Invalid message format'
+    });
+  }
+
+  try {
+    const answer = await generateAnswer(result.data.message);
+    res.json({
+      status: 'success',
+      response: answer
+    });
+  } catch (error) {
+    console.error('Error processing message:', error);
+    res.status(500).json({
+      status: 'error',
+      error: 'Failed to process message'
+    });
+  }
+});
+
+// Audio transcription endpoint
+router.post('/transcribe', express.raw({ type: 'audio/webm', limit: '25mb' }), async (req, res) => {
+  try {
+    if (!req.body || !req.body.length) {
+      return res.status(400).json({
         status: 'error',
-        error: 'Invalid message format'
-      };
+        error: 'No audio data provided'
+      });
     }
 
-    try {
-      const answer = await generateAnswer(result.data.message);
-      return {
-        status: 'success',
-        response: `the server said: ${answer}`
-      };
-    } catch (error) {
-      console.error('Error processing message:', error);
-      return {
-        status: 'error',
-        error: 'Failed to process message'
-      };
+    // Convert request body to Buffer if it isn't already
+    const audioBuffer = Buffer.from(req.body);
+
+    const response = await fetch("https://api.deepgram.com/v1/listen", {
+      method: "POST",
+      headers: {
+        Authorization: `Token ${process.env.API_KEY_DEEPGRAM}`,
+        "Content-Type": "audio/webm",
+      },
+      body: audioBuffer,
+    });
+
+    if (!response.ok) {
+      throw new Error(`Deepgram API error: ${response.statusText}`);
     }
-  }, {
-    body: t.Object({
-      message: t.String()
-    })
-  }); 
+
+    const result = await response.json();
+    const transcript = result.results.channels[0].alternatives[0].transcript;
+    console.log('transcript', transcript);
+
+    res.json({
+      status: 'success',
+      transcript: transcript
+    });
+  } catch (error) {
+    console.error('Transcription error:', error);
+    res.status(500).json({
+      status: 'error',
+      error: 'Failed to transcribe audio',
+      details: error instanceof Error ? error.message : String(error)
+    });
+  }
+});
+
+export { router as chatRouter };

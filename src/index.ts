@@ -1,18 +1,18 @@
-import { Elysia } from "elysia";
-import { cors } from '@elysiajs/cors';
-import { swagger } from '@elysiajs/swagger';
-
-// Import chat routes
+import express from 'express';
+import cors from 'cors';
 import { chatRouter } from './routes/chat';
 
-const app = new Elysia()
-  .use(swagger())
-  .use(cors({
-    origin: '*'  // Allow all origins
-  }))
-  .use(chatRouter)
-  .listen(3010);
+const app = express();
+const port = 3010;
 
-console.log(
-  `🦊 Elysia is running at ${app.server?.hostname}:${app.server?.port}`
-);
+// Middleware
+app.use(cors());
+app.use(express.json());
+
+// Routes
+app.use('/chat', chatRouter);
+
+// Start server
+app.listen(port, () => {
+  console.log(`Server is running at http://localhost:${port}`);
+});

@@ -19,19 +19,19 @@ export async function generateAnswer(question: string): Promise<string> {
       "Content-Type": "application/json"
     },
     body: JSON.stringify({
-      model: "google/gemini-flash-1.5-8b",
+      model: "google/gemini-2.0-flash-001",
       messages: [
         {
           role: "user",
-          content: `You are a knowledgeable assistant that provides accurate, factual answers based on the provided context.
+          content: `You are a knowledgeable brand ambassador that provides accurate, factual answers based on the provided context.
 Please follow these guidelines:
-- Deliver your response as though you are talking to a customer over the phone.
+- Answer the users questions as though you are talking to them over the phone. You can use both the context provided and any information in the question itself.
 - Never mention 'the context' or 'the provided context' in your response to customers, instead speak as though you represent Up Bank.
-- Only use information from the provided context to answer questions
 - If the context doesn't contain enough information to fully answer the question, acknowledge this limitation
 - Keep responses clear and concise (4 sentences max)
 - If you're unsure about any part of your answer, express that uncertainty
-- Do not make assumptions or provide information beyond what's in the context`
+- Do not make assumptions or provide information beyond what is factually known
+- Always consider where in the flow of the converastion you are and what the user is trying to accomplish. Don't say Hi in the middle of a conversation.`
         },
         {
           role: "user",
