@@ -20,7 +20,7 @@ export async function validateUpApiKey(apiKey: string): Promise<boolean> {
   }
 }
 
-router.get('/get-summary', async (req, res) => {
+router.get('/get-summary', async (req, res): Promise<void> => {
   console.log('🔍 Getting UP summary...');
   
   try {
@@ -28,7 +28,7 @@ router.get('/get-summary', async (req, res) => {
     const sessionId = req.cookies.session_id;
     if (!sessionId) {
       console.log('❌ No session found');
-      return res.status(401).json({ error: 'No session found' });
+      res.status(401).json({ error: 'No session found' });
     }
 
     // Get encrypted API key from database
@@ -40,7 +40,7 @@ router.get('/get-summary', async (req, res) => {
 
     if (!session) {
       console.log('❌ Invalid session');
-      return res.status(401).json({ error: 'Invalid session' });
+      res.status(401).json({ error: 'Invalid session' });
     }
 
     // Decrypt the API key
@@ -59,7 +59,7 @@ router.get('/get-summary', async (req, res) => {
 
     if (!response.ok) {
       console.log('❌ UP API request failed');
-      return res.status(response.status).json({ error: 'UP API request failed' });
+      res.status(response.status).json({ error: 'UP API request failed' });
     }
 
     const data = await response.json();
