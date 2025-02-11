@@ -14,13 +14,14 @@ const MessageSchema = z.object({
 });
 
 // Text chat endpoint
-router.post('/message', express.json(), async (req, res) => {
+router.post('/message', express.json(), async (req, res): Promise<void> => {
   const result = MessageSchema.safeParse(req.body);
   if (!result.success) {
-    return res.status(400).json({
+    res.status(400).json({
       status: 'error',
       error: 'Invalid message format'
     });
+    return
   }
 
   try {
@@ -39,13 +40,14 @@ router.post('/message', express.json(), async (req, res) => {
 });
 
 // Audio transcription endpoint
-router.post('/transcribe', express.raw({ type: 'audio/webm', limit: '25mb' }), async (req, res) => {
+router.post('/transcribe', express.raw({ type: 'audio/webm', limit: '25mb' }), async (req, res): Promise<void> => {
   try {
     if (!req.body || !req.body.length) {
-      return res.status(400).json({
+      res.status(400).json({
         status: 'error',
         error: 'No audio data provided'
       });
+      return
     }
 
     // Convert request body to Buffer if it isn't already
