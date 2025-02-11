@@ -1,6 +1,10 @@
 import { Pool } from 'pg';
 import OpenAI from 'openai';
 import { createChunks } from './chunking';
+import sqlite3 from 'sqlite3';
+import type { Database } from 'sqlite';
+import { open } from 'sqlite';
+import type { Database as SqliteDatabase } from 'sqlite3';
 
 // Type definitions
 interface DocumentMetadata {
@@ -78,3 +82,46 @@ export async function searchSimilarDocuments(
     throw error;
   }
 } 
+
+// ! NEED TO UNDERSTAND THIS BETTER 
+// Create/open database connection
+export async function getDb() {
+  return open({
+    filename: './database.sqlite', // * This is where the DB file will be created
+    driver: sqlite3.Database // * sqlite3 is the actual driver creating/managing the file
+  });
+}
+
+// ! NEED TO UNDERSTAND THIS BETTER 
+// Initialize database tables
+export async function initDb() {
+  const db = await getDb();
+  
+  await db.exec(`
+    CREATE TABLE IF NOT EXISTS sessions (
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      session_id TEXT UNIQUE NOT NULL,
+      private_key TEXT,
+      user_encrypted_api_key TEXT,
+      stored_encrypted_api_key TEXT,
+      status TEXT NOT NULL DEFAULT 'pending',
+      created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
+      last_used_at DATETIME DEFAULT CURRENT_TIMESTAMP
+    );
+    
+    CREATE INDEX IF NOT EXISTS idx_session_id ON sessions(session_id);
+  `);
+  
+  return db;
+}
+
+export const withDb = async (
+  operation: (db: Database<SqliteDatabase>) => Promise<void>
+): Promise<void> => {
+  const db = await getDb();
+  try {
+    await operation(db);
+  } finally {
+    await db.close();
+  }
+};
