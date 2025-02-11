@@ -1,18 +1,44 @@
 import express from 'express';
 import cors from 'cors';
+import cookieParser from 'cookie-parser';
 import { chatRouter } from './routes/chat';
+import { authRouter } from './routes/auth';
+import { upRouter } from './routes/up';
+import { initDb } from './lib/db';
 
 const app = express();
-const port = 3010;
+const PORT = 3010;
 
-// Middleware
-app.use(cors());
-app.use(express.json());
+// Initialize database before starting server
+const startServer = async () => {
+  try {
+    // Initialize database
+    await initDb();
+    console.log('Database initialized successfully');
 
-// Routes
-app.use('/chat', chatRouter);
+    // Middleware
+    app.use(cors({
+      origin: 'http://localhost:3000', // Your frontend URL
+      credentials: true, // Allow credentials
+      methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
+      allowedHeaders: ['Content-Type', 'Authorization', 'Cookie']
+    }));
+    app.use(cookieParser());
+    app.use(express.json());
 
-// Start server
-app.listen(port, () => {
-  console.log(`Server is running at http://localhost:${port}`);
-});
+    // Routes
+    app.use('/chat', chatRouter);
+    app.use('/auth', authRouter);
+    app.use('/up', upRouter);
+
+    // Start server
+    app.listen(PORT, () => {
+      console.log(`Server is running at http://localhost:${PORT}`);
+    });
+  } catch (error) {
+    console.error('Failed to start server:', error);
+    process.exit(1);
+  }
+};
+
+startServer();
