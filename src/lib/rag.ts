@@ -1,13 +1,16 @@
 import { searchSimilarDocuments } from './db';
+import {up_report} from '../../content'
 
 export async function generateAnswer(question: string): Promise<string> {
   // 1. Find relevant documents using db.ts
   const similarDocs = await searchSimilarDocuments(question, 7);
   
   // 2. Format context
-  const context = similarDocs
-    .map(doc => `${doc.content}\n(Source: ${doc.metadata.source})`)
-    .join('\n\n');
+  // const context = similarDocs
+  //   .map(doc => `${doc.content}\n(Source: ${doc.metadata.source})`)
+  //   .join('\n\n');
+
+  const context = up_report
 
   // 3. Generate answer using OpenRouter/Gemini
   const response = await fetch("https://openrouter.ai/api/v1/chat/completions", {
@@ -19,7 +22,7 @@ export async function generateAnswer(question: string): Promise<string> {
       "Content-Type": "application/json"
     },
     body: JSON.stringify({
-      model: "google/gemini-2.0-flash-001",
+      model: "google/gemini-flash-1.5-8b",
       messages: [
         {
           role: "user",
