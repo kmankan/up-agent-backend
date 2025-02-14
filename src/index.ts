@@ -3,6 +3,7 @@ import cors from 'cors';
 import cookieParser from 'cookie-parser';
 import { chatRouter } from './routes/chat';
 import { authRouter } from './routes/auth';
+import { blandRouter } from './routes/bland';
 import { upRouter } from './routes/up';
 import { initDb } from './lib/db';
 
@@ -30,6 +31,7 @@ const startServer = async () => {
     app.use('/chat', chatRouter);
     app.use('/auth', authRouter);
     app.use('/up', upRouter);
+    app.use('/bland', blandRouter);
 
     // Start server
     app.listen(PORT, () => {

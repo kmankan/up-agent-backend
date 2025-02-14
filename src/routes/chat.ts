@@ -16,6 +16,7 @@ const MessageSchema = z.object({
 // Text chat endpoint
 router.post('/message', express.json(), async (req, res): Promise<void> => {
   const result = MessageSchema.safeParse(req.body);
+  console.log('recieved message', result)
   if (!result.success) {
     res.status(400).json({
       status: 'error',
