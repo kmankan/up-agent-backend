@@ -8,7 +8,8 @@ import { upRouter } from './routes/up';
 import { initDb } from './lib/db';
 
 const app = express();
-const PORT = 3010;
+const PORT = process.env.PORT || 3010;
+const FRONTEND_URL = process.env.FRONTEND_URL || 'http://localhost:3000';
 
 // Initialize database before starting server
 const startServer = async () => {
@@ -19,8 +20,8 @@ const startServer = async () => {
 
     // Middleware
     app.use(cors({
-      origin: 'http://localhost:3000', // Your frontend URL
-      credentials: true, // Allow credentials
+      origin: FRONTEND_URL,
+      credentials: true,
       methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
       allowedHeaders: ['Content-Type', 'Authorization', 'Cookie']
     }));
