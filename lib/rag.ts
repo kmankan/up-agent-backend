@@ -1,5 +1,5 @@
 import { searchSimilarDocuments } from './db';
-import {up_report} from '../../content'
+import {up_report} from '../content'
 
 export async function generateAnswer(question: string): Promise<string> {
   // 1. Find relevant documents using db.ts
