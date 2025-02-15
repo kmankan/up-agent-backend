@@ -100,7 +100,7 @@ router.post('/recieve-key', async (req, res): Promise<void> => {
     res.cookie('session_id', sessionId, {
       httpOnly: true,
       secure: true,
-      sameSite: 'none',
+      sameSite: 'lax',
       maxAge: 7 * 24 * 60 * 60 * 1000,
       path: '/',
       domain: '.railway.app'
