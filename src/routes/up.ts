@@ -151,8 +151,70 @@ router.post('/get-summary', async (req, res): Promise<void> => {
 });
 
 router.post('/insights', async (req, res): Promise<void> => {
-  console.log('received request', req.body.content); // now req.body will be typed as InsightRequest
+  console.log('received request', req.body); // now req.body will be typed as InsightRequest
   console.log('🔍 Getting insights...');
+
+  const { messages, anonymisedSummary } = req.body;
+
+  const systemPrompt = `You are a helpful financial assistant analyzing bank transaction data. 
+Your task is to:
+1. Understand the user's question about their spending
+2. Analyze the provided transaction data
+3. Provide a clear, concise response with relevant financial insights
+4. If amounts are mentioned, always include the total and individual transactions
+5. Keep responses brief and focused on the specific question asked
+
+Transaction data format:
+${JSON.stringify(anonymisedSummary[0], null, 2)}`;
+
+  const userQuestion = messages[messages.length - 1].content;
+  const userContent = `Question: ${userQuestion}
+
+Please analyze the following bank transaction data to answer this question.
+Each transaction includes:
+- description: The merchant or transaction description
+- amount: The transaction amount in AUD
+- createdAt: The transaction date
+- status: The transaction status
+- rawText: Additional transaction details
+
+Transaction Data:
+${JSON.stringify(anonymisedSummary, null, 2)}
+
+Please provide:
+1. A direct answer to the question
+2. The total amount (if applicable)
+3. A brief breakdown of relevant transactions
+4. Any notable patterns or insights`;
+
+  const response = await fetch("https://openrouter.ai/api/v1/chat/completions", {
+    method: "POST",
+    headers: {
+      "Authorization": `Bearer ${process.env.API_KEY_OPENROUTER}`,
+      "HTTP-Referer": process.env.SITE_URL || "", 
+      "X-Title": "Up Bank Assistant",
+      "Content-Type": "application/json"
+    },
+    body: JSON.stringify({
+      model: "google/gemini-2.0-flash-001",
+      messages: [
+        {
+          role: "system",
+          content: systemPrompt
+        },
+        {
+          role: "user",
+          content: userContent
+        }
+      ],
+      max_tokens: 500,
+      temperature: 0.6,
+    })
+  });
+
+  const completion = await response.json();
+  console.log('completion', completion);
+  res.json({ answer: completion.choices[0].message.content });
 });
 
 export { router as upRouter };
