@@ -23,10 +23,17 @@ const startServer = async () => {
       origin: FRONTEND_URL,
       credentials: true,
       methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
-      allowedHeaders: ['Content-Type', 'Authorization', 'Cookie']
+      allowedHeaders: ['Content-Type', 'Authorization', 'Cookie'],
+      exposedHeaders: ['set-cookie']
     }));
     app.use(cookieParser());
     app.use(express.json());
+
+    // Add this middleware to debug cookies
+    app.use((req, res, next) => {
+      console.log('🍪 Incoming cookies:', req.cookies);
+      next();
+    });
 
     // Routes
     app.use('/chat', chatRouter);
