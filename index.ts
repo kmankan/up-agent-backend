@@ -20,7 +20,19 @@ const startServer = async () => {
 
     // Middleware
     app.use(cors({
-      origin: FRONTEND_URL,
+      origin: (origin, callback) => {
+        // If no origin (like a direct API tool request) 
+        // OR if origin is in our allowed list
+        if (!origin || FRONTEND_URL.includes(origin)) {
+          // callback(error, allowedOrigin)
+          // null = no error
+          // origin = yes, this origin is allowed
+          callback(null, origin);
+        } else {
+          // If origin is not allowed, send back an error
+          callback(new Error('Not allowed by CORS'));
+        }
+      },
       credentials: true,
       methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
       allowedHeaders: ['Content-Type', 'Authorization', 'Cookie'],
