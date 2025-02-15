@@ -143,4 +143,39 @@ router.get('/verify-session', async (req, res): Promise<void> => {
   }
 });
 
+router.post('/logout', async (req: Request, res: Response): Promise<void> => {
+  try {
+    const sessionId = req.cookies.session_id;
+    
+    // Clear the session cookie
+    res.clearCookie('session_id', {
+      httpOnly: true,
+      secure: process.env.NODE_ENV === 'production',
+      sameSite: 'strict',
+      path: '/' // Important: ensure cookie is cleared for all paths
+    });
+
+    // Update session status in database if session exists
+    if (sessionId) {
+      await withDb(async (db) => {
+        const result = await db.run(
+          'UPDATE sessions SET status = ?, stored_encrypted_api_key = NULL WHERE session_id = ? AND status = ?',
+          ['expired', sessionId, 'active']
+        );
+        
+        if (result.changes === 0) {
+          console.log('⚠️ No active session found to logout');
+        } else {
+          console.log('✅ Session expired successfully');
+        }
+      });
+    }
+
+    res.status(200).json({ success: true });
+  } catch (error) {
+    console.error('❌ Logout error:', error);
+    res.status(500).json({ error: 'Failed to logout' });
+  }
+});
+
 export { router as authRouter };
