@@ -1,6 +1,6 @@
 import { Pool } from 'pg';
 import OpenAI from 'openai';
-import { createChunks } from './chunking';
+//import { createChunks } from './chunking';
 import sqlite3 from 'sqlite3';
 import type { Database } from 'sqlite';
 import { open } from 'sqlite';
