@@ -100,8 +100,9 @@ router.post('/recieve-key', async (req, res): Promise<void> => {
     res.cookie('session_id', sessionId, {
       httpOnly: true,
       secure: process.env.NODE_ENV === 'production',
-      sameSite: 'strict',
-      maxAge: 7 * 24 * 60 * 60 * 1000
+      sameSite: 'lax',
+      maxAge: 7 * 24 * 60 * 60 * 1000,
+      path: '/'
     });
     
     console.log('✅ Success!');
@@ -114,12 +115,13 @@ router.post('/recieve-key', async (req, res): Promise<void> => {
 
 router.get('/verify-session', async (req, res): Promise<void> => {
   try {
-    console.log('🔍 Verifying session...');
+    console.log('🔍 Verifying session...', req.cookies);
     const sessionId = req.cookies.session_id;
     
     if (!sessionId) {
       console.log('❌ No session found');
       res.status(401).json({ error: 'No session found' });
+      return;
     }
 
     let session: Session | undefined;
@@ -130,13 +132,14 @@ router.get('/verify-session', async (req, res): Promise<void> => {
       );
     });
 
-  if (!session) {
-    console.log('❌ Invalid session');
-    res.status(401).json({ error: 'Invalid session' });
-  }
+    if (!session) {
+      console.log('❌ Invalid session');
+      res.status(401).json({ error: 'Invalid session' });
+      return;
+    }
 
-  console.log('✅ Session verified');
-  res.json({ success: true });
+    console.log('✅ Session verified');
+    res.json({ success: true });
   } catch (error) {
     console.error('Error:', error);
     res.status(500).json({ error: 'Failed to verify session' });
