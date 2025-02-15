@@ -67,7 +67,7 @@ router.post('/transcribe', express.raw({ type: 'audio/webm', limit: '25mb' }), a
     if (!response.ok) {
       throw new Error(`Deepgram API error: ${response.statusText}`);
     }
-
+    // Get the transcript from the response
     const result = await response.json();
     const transcript = result.results.channels[0].alternatives[0].transcript;
     console.log('transcript', transcript);
