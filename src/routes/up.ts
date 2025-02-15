@@ -151,8 +151,9 @@ router.post('/get-summary', async (req, res): Promise<void> => {
 });
 
 router.post('/insights', async (req, res): Promise<void> => {
-  console.log('received request', req.body.content); // now req.body will be typed as InsightRequest
+  console.log('received request', req.body); // now req.body will be typed as InsightRequest
   console.log('🔍 Getting insights...');
+  res.json({ answer: 'Insights received' });
 });
 
 export { router as upRouter };
