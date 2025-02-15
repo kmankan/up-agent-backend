@@ -36,7 +36,7 @@ const startServer = async () => {
 
     // Start server
     app.listen(PORT, () => {
-      console.log(`Server is running at ${process.env.RAILWAY_PUBLIC_DOMAIN}`);
+      console.log(`Server is running at ${process.env.NEXT_PUBLIC_SERVER_URL}`);
     });
   } catch (error) {
     console.error('Failed to start server:', error);
