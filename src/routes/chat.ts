@@ -27,6 +27,7 @@ router.post('/message', express.json(), async (req, res): Promise<void> => {
 
   try {
     const answer = await generateAnswer(result.data.message);
+    console.log('answer', answer)
     res.json({
       status: 'success',
       response: answer

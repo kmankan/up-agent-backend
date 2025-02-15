@@ -25,7 +25,7 @@ const data = {
  "answered_by_enabled": false,
  "wait_for_greeting": false,
  "noise_cancellation": false,
- "record": false,
+ "record": true,
  "amd": false,
  "interruption_threshold": 100,
  "voicemail_message": null,

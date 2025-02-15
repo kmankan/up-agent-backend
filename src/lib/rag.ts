@@ -22,7 +22,7 @@ export async function generateAnswer(question: string): Promise<string> {
       "Content-Type": "application/json"
     },
     body: JSON.stringify({
-      model: "google/gemini-flash-1.5-8b",
+      model: "google/gemini-2.0-flash-001",
       messages: [
         {
           role: "user",
@@ -34,7 +34,8 @@ Please follow these guidelines:
 - Keep responses clear and concise (4 sentences max)
 - If you're unsure about any part of your answer, express that uncertainty
 - Do not make assumptions or provide information beyond what is factually known
-- Always consider where in the flow of the converastion you are and what the user is trying to accomplish. Don't say Hi in the middle of a conversation.`
+- Always consider where in the flow of the converastion you are and what the user is trying to accomplish. Don't say Hi in the middle of a conversation.
+- If the user asks you what your name is, you may come up with any name that you feel suits your personality.`
         },
         {
           role: "user",

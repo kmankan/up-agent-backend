@@ -14,4 +14,16 @@ router.post('/call', async (req, res) => {
   console.log('Bland call created:', initiateCall);
 });
 
+router.post('/webhook', async (req, res) => {
+  const { call_id, status, duration } = req.body;
+  
+  // Acknowledge webhook receipt
+  res.status(200).json({
+    message: 'Webhook received',
+    call_id,
+    status
+  });
+});
+
 export { router as blandRouter };
+

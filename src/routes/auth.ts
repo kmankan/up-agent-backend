@@ -39,7 +39,7 @@ router.post('/init-session', async (req: Request, res: Response<CreateSessionRes
   }
 });
 
-router.post('/recieve-key', async (req, res) => {
+router.post('/recieve-key', async (req, res): Promise<void> => {
   console.log('📥 Received encrypted API key request');
   try {
     const { sessionId, encryptedApiKey } = req.body;
@@ -61,7 +61,8 @@ router.post('/recieve-key', async (req, res) => {
     
     if (!session) {
       console.log('❌ Invalid session');
-      return res.status(400).json({ error: 'Invalid session' });
+      res.status(400).json({ error: 'Invalid session' });
+      return
     }
     
     // Modified decryption process
@@ -79,7 +80,7 @@ router.post('/recieve-key', async (req, res) => {
     const isValid = await validateUpApiKey(apiKey);
     if (!isValid) {
       apiKey = '';
-      return res.status(400).json({ error: 'Invalid API key' });
+      res.status(400).json({ error: 'Invalid API key' });
     }
     
     console.log('🔒 Encrypting for storage...');
@@ -111,14 +112,14 @@ router.post('/recieve-key', async (req, res) => {
   }
 });
 
-router.get('/verify-session', async (req, res) => {
+router.get('/verify-session', async (req, res): Promise<void> => {
   try {
     console.log('🔍 Verifying session...');
     const sessionId = req.cookies.session_id;
     
     if (!sessionId) {
       console.log('❌ No session found');
-      return res.status(401).json({ error: 'No session found' });
+      res.status(401).json({ error: 'No session found' });
     }
 
     let session: Session | undefined;
@@ -131,7 +132,7 @@ router.get('/verify-session', async (req, res) => {
 
   if (!session) {
     console.log('❌ Invalid session');
-    return res.status(401).json({ error: 'Invalid session' });
+    res.status(401).json({ error: 'Invalid session' });
   }
 
   console.log('✅ Session verified');
