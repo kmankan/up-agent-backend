@@ -7,131 +7,69 @@ export type CreateSessionErrorResponse = {
   error: string;
 }
 
-export type Transaction = {
-  type: "transactions"
-  id: string
-  attributes: {
-    status: "HELD" | "SETTLED"
-    rawText: string | null
-    description: string
-    message: string | null
-    isCategorizable: boolean
-    holdInfo: {
-      amount: {
-        currencyCode: string
-        value: string
-        valueInBaseUnits: number
-      }
-      foreignAmount: {
-        currencyCode: string
-        value: string
-        valueInBaseUnits: number
-      } | null
-    } | null
-    roundUp: {
-      amount: {
-        currencyCode: string
-        value: string
-        valueInBaseUnits: number
-      }
-      boostPortion: {
-        currencyCode: string
-        value: string
-        valueInBaseUnits: number
-      } | null
-    } | null
-    cashback: {
-      description: string
-      amount: {
-        currencyCode: string
-        value: string
-        valueInBaseUnits: number
-      }
-    } | null
-    amount: {
-      currencyCode: string
-      value: string
-      valueInBaseUnits: number
-    }
-    foreignAmount: {
-      currencyCode: string
-      value: string
-      valueInBaseUnits: number
-    } | null
-    cardPurchaseMethod: {
-      method: "CARD_ON_FILE" | string
-      cardNumberSuffix: string
-    } | null
-    settledAt: string | null // ISO date-time
-    createdAt: string // ISO date-time
-    transactionType: string | null
-    note: {
-      text: string
-    } | null
-    performingCustomer: {
-      displayName: string
-    } | null
-    deepLinkURL: string
-  }
-  relationships: {
-    account: {
-      data: {
-        type: "accounts"
-        id: string
-      }
-      links: {
-        related: string
-      }
-    }
-    transferAccount: {
-      data: {
-        type: "accounts"
-        id: string
-      } | null
-      links: {
-        related: string
-      }
-    }
-    category: {
-      data: {
-        type: "categories"
-        id: string
-      } | null
-      links: {
-        self: string
-        related?: string
-      }
-    }
-    parentCategory: {
-      data: {
-        type: "categories"
-        id: string
-      } | null
-      links: {
-        related: string
-      }
-    }
-    tags: {
-      data: Array<{
-        type: "tags"
-        id: string
-      }>
-      links: {
-        self: string
-      }
-    }
-    attachment: {
-      data: {
-        type: "attachments"
-        id: string
-      } | null
-      links: {
-        related: string
-      }
-    }
-  }
-  links: {
-    self: string
-  }
+export interface Category {
+  type: string;
+  id: string;
 }
 
+export interface Transaction {
+  id: string;
+  attributes: {
+    status: string;
+    rawText: string;
+    description: string;
+    message: string | null;
+    isCategorizable: boolean;
+    amount: {
+      currencyCode: string;
+      value: string;
+      valueInBaseUnits: number;
+    };
+    cardPurchaseMethod?: {
+      method: string;
+      cardNumberSuffix: string;
+    } | null;
+    settledAt: string;
+    createdAt: string;
+    transactionType: string;
+    performingCustomer?: {
+      displayName: string;
+    } | null;
+    deepLinkURL?: string;
+  };
+  relationships: {
+    category: {
+      data: Category | null;
+    };
+    parentCategory: {
+      data: Category | null;
+    };
+    tags: {
+      data: string[];
+    };
+    account?: {
+      data: Category | null;
+    };
+    attachment?: {
+      data: string | null;
+    };
+  };
+}
+
+export interface TransactionResponse {
+  data: Transaction[];
+}
+
+export interface InsightRequest {
+  messages: Message[];
+  summary: TransactionResponse;
+}
+
+export interface InsightResponse {
+  answer: string;
+}
+
+export type Message = {
+  role: 'user' | 'assistant';
+  content: string;
+};
