@@ -9,7 +9,11 @@ import { initDb } from './lib/db';
 
 const app = express();
 const PORT = process.env.PORT || 3010;
-const FRONTEND_URLS = process.env.FRONTEND_URL?.split(',').map(url => url.trim()) || [];
+const FRONTEND_URLS = [
+  'https://whatsup.mahlen.dev',
+  'https://www.whatsup.mahlen.dev',
+  'https://voice-agent-up.vercel.app'
+];
 
 // Initialize database before starting server
 const startServer = async () => {
@@ -21,18 +25,33 @@ const startServer = async () => {
     // Middleware
     app.use(cors({
       origin: (origin, callback) => {
-        // If no origin (like a direct API tool request) 
-        // OR if origin is in our allowed list
-        if (!origin || FRONTEND_URLS.some(url => origin.startsWith(url))) {
+        console.log('🔍 Incoming origin:', origin);
+        
+        // Allow requests with no origin (like mobile apps, curl, etc)
+        if (!origin) {
+          callback(null, true);
+          return;
+        }
+
+        // Check if origin matches any of our allowed domains
+        const isAllowed = FRONTEND_URLS.some(allowedOrigin => {
+          const originMatches = origin === allowedOrigin || origin.startsWith(allowedOrigin);
+          console.log(`Checking ${origin} against ${allowedOrigin}: ${originMatches}`);
+          return originMatches;
+        });
+
+        if (isAllowed) {
           callback(null, origin);
         } else {
           console.log('❌ Blocked by CORS:', origin);
+          console.log('Allowed origins:', FRONTEND_URLS);
           callback(new Error('Not allowed by CORS'));
         }
       },
       credentials: true,
       methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
       allowedHeaders: ['Content-Type', 'Authorization', 'Cookie'],
+      exposedHeaders: ['Set-Cookie'],
     }));
     app.use(cookieParser());
     app.use(express.json());
@@ -42,6 +61,9 @@ const startServer = async () => {
       console.log('🍪 Incoming cookies:', req.cookies);
       next();
     });
+
+    // Add OPTIONS handling for preflight requests
+    app.options('*', cors());
 
     // Routes
     app.use('/chat', chatRouter);
