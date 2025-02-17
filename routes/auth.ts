@@ -102,13 +102,11 @@ router.post('/recieve-key', async (req, res): Promise<void> => {
       secure: true,
       sameSite: 'none',
       maxAge: 7 * 24 * 60 * 60 * 1000,
-      path: '/',
-      domain: '.railway.app'
+      path: '/'
     });
 
     console.log('🍪 Cookie set with options:', {
       sessionId,
-      domain: '.railway.app',
       secure: true,
       sameSite: 'none'
     });
@@ -122,6 +120,8 @@ router.post('/recieve-key', async (req, res): Promise<void> => {
 });
 
 router.get('/verify-session', async (req, res): Promise<void> => {
+  console.log('🔍 Full request headers:', req.headers);
+  console.log('🔍 Cookies received:', req.cookies);
   try {
     console.log('🔍 Verifying session...', req.cookies);
     const sessionId = req.cookies.session_id;
