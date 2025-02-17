@@ -97,18 +97,25 @@ router.post('/recieve-key', async (req, res): Promise<void> => {
     });
     
     console.log('🍪 Setting session cookie...');
+    console.log('🔍 Request headers:', {
+      origin: req.headers.origin,
+      referer: req.headers.referer,
+      'sec-fetch-site': req.headers['sec-fetch-site'],
+    });
+    
     res.cookie('session_id', sessionId, {
       httpOnly: true,
       secure: true,
       sameSite: 'none',
       maxAge: 7 * 24 * 60 * 60 * 1000,
       path: '/',
-      //domain: '.railway.app'
     });
+
+    // Log response headers to see if Set-Cookie is present
+    console.log('📤 Response headers:', res.getHeaders());
 
     console.log('🍪 Cookie set with options:', {
       sessionId,
-      //domain: '.railway.app',
       secure: true,
       sameSite: 'none'
     });
@@ -122,6 +129,14 @@ router.post('/recieve-key', async (req, res): Promise<void> => {
 });
 
 router.get('/verify-session', async (req, res): Promise<void> => {
+  console.log('🔍 Verify session request headers:', {
+    origin: req.headers.origin,
+    referer: req.headers.referer,
+    'sec-fetch-site': req.headers['sec-fetch-site'],
+    cookie: req.headers.cookie
+  });
+  console.log('🔍 Full request headers:', req.headers);
+  console.log('🔍 Cookies received:', req.cookies);
   try {
     console.log('🔍 Verifying session...');
     const sessionId = req.cookies.session_id;
