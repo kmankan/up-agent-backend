@@ -103,12 +103,12 @@ router.post('/recieve-key', async (req, res): Promise<void> => {
       sameSite: 'none',
       maxAge: 7 * 24 * 60 * 60 * 1000,
       path: '/',
-      domain: '.railway.app'
+      //domain: '.railway.app'
     });
 
     console.log('🍪 Cookie set with options:', {
       sessionId,
-      domain: '.railway.app',
+      //domain: '.railway.app',
       secure: true,
       sameSite: 'none'
     });
@@ -123,7 +123,7 @@ router.post('/recieve-key', async (req, res): Promise<void> => {
 
 router.get('/verify-session', async (req, res): Promise<void> => {
   try {
-    console.log('🔍 Verifying session...', req.cookies);
+    console.log('🔍 Verifying session...');
     const sessionId = req.cookies.session_id;
     
     if (!sessionId) {
