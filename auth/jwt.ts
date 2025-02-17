@@ -4,7 +4,7 @@ const JWT_SECRET = process.env.JWT_SECRET || 'your-secret-key'; // Make sure to 
 
 export function generateToken(sessionId: string): string {
   return jwt.sign({ sessionId }, JWT_SECRET, {
-    expiresIn: '7d' // Matching the previous cookie expiry
+    expiresIn: '24h' // Matching the previous cookie expiry
   });
 }
 

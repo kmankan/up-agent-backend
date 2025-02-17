@@ -30,6 +30,7 @@
   },
   "devDependencies": {
     "@types/cookie-parser": "^1.4.8",
+    "@types/jsonwebtoken": "^9.0.8",
     "bun-types": "latest"
   },
   "module": "src/index.js"
