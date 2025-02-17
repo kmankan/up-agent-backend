@@ -6,6 +6,7 @@ import type { CreateSessionResponse, CreateSessionErrorResponse } from '../types
 import crypto from 'crypto';
 import { encrypt } from '../auth/encryption';
 import { validateUpApiKey } from './up';
+import { generateToken, verifyToken } from '../auth/jwt';
 
 const router = express.Router();
 
@@ -96,32 +97,16 @@ router.post('/recieve-key', async (req, res): Promise<void> => {
       );
     });
     
-    console.log('🍪 Setting session cookie...');
-    console.log('🔍 Request headers:', {
-      origin: req.headers.origin,
-      referer: req.headers.referer,
-      'sec-fetch-site': req.headers['sec-fetch-site'],
-    });
+    // Replace cookie setting with JWT
+    const token = generateToken(sessionId);
     
-    res.cookie('session_id', sessionId, {
-      httpOnly: true,
-      secure: true,
-      sameSite: 'none',
-      maxAge: 7 * 24 * 60 * 60 * 1000,
-      path: '/'
+    console.log('🎟️ Generated JWT token');
+    
+    res.status(200).json({ 
+      success: true, 
+      apiKeyValid: isValid,
+      token // Send token to client
     });
-
-    // Log response headers to see if Set-Cookie is present
-    console.log('📤 Response headers:', res.getHeaders());
-
-    console.log('🍪 Cookie set with options:', {
-      sessionId,
-      secure: true,
-      sameSite: 'none'
-    });
-
-    console.log('✅ Success!');
-    res.status(200).json({ success: true, apiKeyValid: isValid });
   } catch (error) {
     console.error('❌ Error:', error);
     res.status(500).json({ error: 'Failed to store credentials' });
@@ -129,23 +114,25 @@ router.post('/recieve-key', async (req, res): Promise<void> => {
 });
 
 router.get('/verify-session', async (req, res): Promise<void> => {
-  console.log('🔍 Verify session request headers:', {
-    origin: req.headers.origin,
-    referer: req.headers.referer,
-    'sec-fetch-site': req.headers['sec-fetch-site'],
-    cookie: req.headers.cookie
-  });
-  console.log('🔍 Full request headers:', req.headers);
-  console.log('🔍 Cookies received:', req.cookies);
   try {
-    console.log('🔍 Verifying session...', req.cookies);
-    const sessionId = req.cookies.session_id;
+    const authHeader = req.headers.authorization;
     
-    if (!sessionId) {
-      console.log('❌ No session found');
-      res.status(401).json({ error: 'No session found' });
+    if (!authHeader || !authHeader.startsWith('Bearer ')) {
+      console.log('❌ No token found');
+      res.status(401).json({ error: 'No token found' });
       return;
     }
+
+    const token = authHeader.split(' ')[1];
+    const payload = verifyToken(token);
+    
+    if (!payload) {
+      console.log('❌ Invalid token');
+      res.status(401).json({ error: 'Invalid token' });
+      return;
+    }
+
+    const { sessionId } = payload;
 
     let session: Session | undefined;
     await withDb(async (db) => {
@@ -171,33 +158,41 @@ router.get('/verify-session', async (req, res): Promise<void> => {
 
 router.post('/logout', async (req: Request, res: Response): Promise<void> => {
   try {
-    const sessionId = req.cookies.session_id;
-    
-    // Clear the session cookie
-    res.clearCookie('session_id', {
-      httpOnly: true,
-      secure: process.env.NODE_ENV === 'production',
-      sameSite: 'strict',
-      path: '/' // Important: ensure cookie is cleared for all paths
-    });
-
-    // Update session status in database if session exists
-    if (sessionId) {
-      await withDb(async (db) => {
-        const result = await db.run(
-          'UPDATE sessions SET status = ?, stored_encrypted_api_key = NULL WHERE session_id = ? AND status = ?',
-          ['expired', sessionId, 'active']
-        );
-        
-        if (result.changes === 0) {
-          console.log('⚠️ No active session found to logout');
-        } else {
-          console.log('✅ Session expired successfully');
-        }
-      });
+    const authHeader = req.headers.authorization;
+    if (!authHeader || !authHeader.startsWith('Bearer ')) {
+      res.status(401).json({ error: 'No token found' });
+      return;
     }
 
-    res.status(200).json({ success: true });
+    const token = authHeader.split(' ')[1];
+    const payload = verifyToken(token);
+    
+    if (!payload) {
+      res.status(401).json({ error: 'Invalid token' });
+      return;
+    }
+
+    const { sessionId } = payload;
+
+    // Update session status in database
+    await withDb(async (db) => {
+      const result = await db.run(
+        'UPDATE sessions SET status = ?, stored_encrypted_api_key = NULL WHERE session_id = ? AND status = ?',
+        ['expired', sessionId, 'active']
+      );
+      
+      if (result.changes === 0) {
+        console.log('⚠️ No active session found to logout');
+      } else {
+        console.log('✅ Session expired successfully');
+      }
+    });
+
+    // Send explicit instruction to clear token
+    res.status(200).json({ 
+      success: true,
+      clearToken: true // Add this flag to explicitly tell client to clear token
+    });
   } catch (error) {
     console.error('❌ Logout error:', error);
     res.status(500).json({ error: 'Failed to logout' });

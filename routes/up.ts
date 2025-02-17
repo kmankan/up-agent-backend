@@ -2,6 +2,7 @@ import express from 'express';
 import { getDb } from '../lib/db'; // Make sure this import exists
 import { decrypt } from '../auth/encryption'; // Make sure this import exists
 import type { InsightRequest, InsightResponse, Message, TransactionResponse, Transaction } from '../types';
+import { verifyToken } from '../auth/jwt';
 
 const router = express.Router();
 
@@ -43,19 +44,60 @@ export async function validateUpApiKey(apiKey: string): Promise<boolean> {
   }
 }
 
+// Utility function to fetch transactions with pagination
+async function fetchPaginatedTransactions(apiKey: string, maxTransactions: number = 100): Promise<Transaction[]> {
+  let transactions: Transaction[] = [];
+  let nextPageUrl: string | null = 'https://api.up.com.au/api/v1/transactions?page[size]=100';
+
+  while (nextPageUrl && transactions.length < maxTransactions) {
+    const response = await fetch(nextPageUrl, {
+      method: 'GET',
+      headers: {
+        'Authorization': `Bearer ${apiKey}`,
+        'Accept': 'application/json',
+      }
+    });
+
+    if (!response.ok) {
+      throw new Error(`UP API request failed with status ${response.status}`);
+    }
+
+    const data = await response.json() as TransactionResponse & { links: { next: string | null } };
+    transactions = [...transactions, ...data.data];
+    nextPageUrl = data.links.next;
+
+    // Add a small delay to avoid hitting rate limits
+    await new Promise(resolve => setTimeout(resolve, 100));
+  }
+
+  return transactions.slice(0, maxTransactions);
+}
+
 router.post('/get-summary', async (req, res): Promise<void> => {
-  console.log('recieved request', req.body);
+  console.log('received request', req.body);
   console.log('🔍 Getting UP summary...');
 
   const { accountTypes } = req.body;
 
   try {
-    // Get session ID from cookie
-    const sessionId = req.cookies.session_id;
-    if (!sessionId) {
-      console.log('❌ No session found');
-      res.status(401).json({ error: 'No session found' });
+    // Get and verify JWT from Authorization header
+    const authHeader = req.headers.authorization;
+    if (!authHeader || !authHeader.startsWith('Bearer ')) {
+      console.log('❌ No token found');
+      res.status(401).json({ error: 'No token found' });
+      return;
     }
+
+    const token = authHeader.split(' ')[1];
+    const payload = verifyToken(token);
+    
+    if (!payload) {
+      console.log('❌ Invalid token');
+      res.status(401).json({ error: 'Invalid token' });
+      return;
+    }
+
+    const { sessionId } = payload;
 
     // Get encrypted API key from database
     const db = await getDb();
@@ -67,6 +109,7 @@ router.post('/get-summary', async (req, res): Promise<void> => {
     if (!session) {
       console.log('❌ Invalid session');
       res.status(401).json({ error: 'Invalid session' });
+      return;
     }
 
     // Decrypt the API key
@@ -85,6 +128,7 @@ router.post('/get-summary', async (req, res): Promise<void> => {
     if (!accounts.ok) {
       console.log('❌ UP API request failed');
       res.status(accounts.status).json({ error: 'UP API request failed' });
+      return;
     }
 
     const accountsData = await accounts.json() as UpAccountsResponse;
@@ -108,25 +152,13 @@ router.post('/get-summary', async (req, res): Promise<void> => {
       return acc;
     }, { personal: [], joint: [], all: [] });
 
+    // Replace the single transactions fetch with paginated fetch to get the last n transactions
     console.log('📡 Fetching transactions from UP API...');
-    const response = await fetch('https://api.up.com.au/api/v1/transactions', {
-      method: 'GET',
-      headers: {
-        'Authorization': `Bearer ${apiKey}`,
-        'Accept': 'application/json',
-      }
-    });
+    const transactionsData = await fetchPaginatedTransactions(apiKey, 100);
+    console.log(`✅ Fetched ${transactionsData.length} transactions`);
 
-    if (!response.ok) {
-      console.log('❌ UP API request failed');
-      res.status(response.status).json({ error: 'UP API request failed' });
-    }
-
-    const transactionsData = await response.json() as TransactionResponse;
-    console.log('✅ UP API request successful');
-
-    // Filter transactions based on account types so that we only return the relevant ones
-    const filteredTransactions: Transaction[] = transactionsData.data.filter((transaction: Transaction) => {
+    // Filter transactions based on account types
+    const filteredTransactions: Transaction[] = transactionsData.filter((transaction: Transaction) => {
       const accountId = transaction.relationships.account?.data?.id;
       if (accountTypes.includes('joint') && accountTypes.includes('personal')) {
         return accountIds.all.some(account => account.id === accountId)
@@ -155,6 +187,11 @@ router.post('/insights', async (req, res): Promise<void> => {
   console.log('🔍 Getting insights...');
 
   const { messages, anonymisedSummary } = req.body;
+  const sydneyTime = new Date().toLocaleString('en-AU', {
+    timeZone: 'Australia/Sydney',
+    dateStyle: 'full',
+    timeStyle: 'long'
+  });
 
   const systemPrompt = `You are a helpful financial assistant analyzing bank transaction data. 
 Your task is to:
@@ -165,7 +202,34 @@ Your task is to:
 5. Keep responses brief and focused on the specific question asked
 
 Transaction data format:
-${JSON.stringify(anonymisedSummary[0], null, 2)}`;
+${JSON.stringify(anonymisedSummary[0], null, 2)}
+
+If the user asks questions about their transactions, make sure your output follows this EXACT format:
+[A clear summary statement about the spending analysis]
+
+The transactions are:
+
+[DATE]: [DESCRIPTION] - $[AMOUNT] AUD
+[DATE]: [DESCRIPTION] - $[AMOUNT] AUD
+[DATE]: [DESCRIPTION] - $[AMOUNT] AUD
+
+Rules for formatting:
+- Dates must be in YYYY-MM-DD format
+- Always use positive dollar amounts with a $ prefix
+- Always include "AUD" after the amount
+- Each transaction must be on a new line
+- Use a hyphen (-) before the amount
+- No extra text or annotations
+
+Example output:
+You spent $127.50 AUD at restaurants over 3 transactions.
+
+The transactions are:
+
+2024-03-15: UBER EATS MELBOURNE - $42.50 AUD
+2024-03-14: GRILL'D MELBOURNE - $35.00 AUD
+2024-03-13: MCDONALDS SOUTH YARRA - $50.00 AUD
+`;
 
   const userQuestion = messages[messages.length - 1].content;
   const userContent = `Question: ${userQuestion}
@@ -185,7 +249,9 @@ Please provide:
 1. A direct answer to the question
 2. The total amount (if applicable)
 3. A brief breakdown of relevant transactions
-4. Any notable patterns or insights`;
+4. Any notable patterns or insights
+
+For your reference the date today is ${sydneyTime}`;
 
   const response = await fetch("https://openrouter.ai/api/v1/chat/completions", {
     method: "POST",

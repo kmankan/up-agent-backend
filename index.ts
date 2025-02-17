@@ -12,7 +12,9 @@ const PORT = process.env.PORT || 3010;
 const FRONTEND_URLS = [
   'https://whatsup.mahlen.dev',
   'https://www.whatsup.mahlen.dev',
-  'https://voice-agent-up.vercel.app'
+  'https://voice-agent-up.vercel.app',
+  // Add localhost for development
+  'http://localhost:3000'
 ];
 
 // Initialize database before starting server
@@ -50,26 +52,13 @@ const startServer = async () => {
       },
       credentials: true,
       methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
-      allowedHeaders: ['Content-Type', 'Authorization', 'Cookie', 'Set-Cookie'],
-      exposedHeaders: ['Set-Cookie'],
+      allowedHeaders: ['Content-Type', 'Authorization'],
     }));
-    app.use(cookieParser());
-    app.use(express.json());
-
-    // Add this middleware to debug cookies
-    app.use((req, res, next) => {
-      console.log('🍪 Incoming cookies:', req.cookies);
-      next();
-    });
+    app.use(express.json({ limit: '2mb'}));
+    app.use(express.urlencoded({ extended: true, limit: '2mb' }));
 
     // Add OPTIONS handling for preflight requests
     app.options('*', cors());
-
-    // Add this before your routes
-    app.use((req, res, next) => {
-      res.header('Access-Control-Allow-Credentials', 'true');
-      next();
-    });
 
     // Routes
     app.use('/chat', chatRouter);
