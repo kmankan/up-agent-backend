@@ -45,7 +45,7 @@ export async function validateUpApiKey(apiKey: string): Promise<boolean> {
 }
 
 // Utility function to fetch transactions with pagination
-async function fetchPaginatedTransactions(apiKey: string, maxTransactions: number = 100): Promise<Transaction[]> {
+async function fetchPaginatedTransactions(apiKey: string, maxTransactions: number = 50): Promise<Transaction[]> {
   let transactions: Transaction[] = [];
   let nextPageUrl: string | null = 'https://api.up.com.au/api/v1/transactions?page[size]=100';
 
@@ -154,7 +154,7 @@ router.post('/get-summary', async (req, res): Promise<void> => {
 
     // Replace the single transactions fetch with paginated fetch to get the last n transactions
     console.log('📡 Fetching transactions from UP API...');
-    const transactionsData = await fetchPaginatedTransactions(apiKey, 100);
+    const transactionsData = await fetchPaginatedTransactions(apiKey, 50);
     console.log(`✅ Fetched ${transactionsData.length} transactions`);
 
     // Filter transactions based on account types
