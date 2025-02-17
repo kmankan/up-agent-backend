@@ -50,7 +50,7 @@ const startServer = async () => {
       },
       credentials: true,
       methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
-      allowedHeaders: ['Content-Type', 'Authorization', 'Cookie'],
+      allowedHeaders: ['Content-Type', 'Authorization', 'Cookie', 'Set-Cookie'],
       exposedHeaders: ['Set-Cookie'],
     }));
     app.use(cookieParser());
@@ -64,6 +64,12 @@ const startServer = async () => {
 
     // Add OPTIONS handling for preflight requests
     app.options('*', cors());
+
+    // Add this before your routes
+    app.use((req, res, next) => {
+      res.header('Access-Control-Allow-Credentials', 'true');
+      next();
+    });
 
     // Routes
     app.use('/chat', chatRouter);
