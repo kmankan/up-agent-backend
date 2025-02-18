@@ -74,7 +74,6 @@ async function fetchPaginatedTransactions(apiKey: string, maxTransactions: numbe
 }
 
 router.post('/get-summary', async (req, res): Promise<void> => {
-  console.log('received request', req.body);
   console.log('🔍 Getting UP summary...');
 
   const { accountTypes } = req.body;
@@ -183,7 +182,6 @@ router.post('/get-summary', async (req, res): Promise<void> => {
 });
 
 router.post('/insights', async (req, res): Promise<void> => {
-  console.log('received request', req.body); // now req.body will be typed as InsightRequest
   console.log('🔍 Getting insights...');
 
   const { messages, anonymisedSummary } = req.body;
@@ -279,7 +277,6 @@ For your reference the date today is ${sydneyTime}`;
   });
 
   const completion = await response.json();
-  console.log('completion', completion);
   res.json({ answer: completion.choices[0].message.content });
 });
 

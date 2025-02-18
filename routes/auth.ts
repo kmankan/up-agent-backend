@@ -20,7 +20,7 @@ router.post('/init-session', async (req: Request, res: Response<CreateSessionRes
   try {
     // Generate unique session ID
     const sessionId = crypto.randomUUID();
-    console.log('🔑 Generated session ID:', sessionId);
+    console.log('🔑 Generated session ID');
     
     // Generate keypair for this session
     const { publicKey, privateKey } = generateKeyPair();
