@@ -10,6 +10,7 @@ export async function generateAnswer(question: string): Promise<string> {
   //   .map(doc => `${doc.content}\n(Source: ${doc.metadata.source})`)
   //   .join('\n\n');
 
+  // Replaced the RAG with a comprehensive static report as it has better performance
   const context = up_report
 
   // 3. Generate answer using OpenRouter/Gemini

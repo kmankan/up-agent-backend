@@ -13,6 +13,8 @@ const FRONTEND_URLS = [
   'https://whatsup.mahlen.dev',
   'https://www.whatsup.mahlen.dev',
   'https://voice-agent-up.vercel.app',
+  'https://upassistant.online',
+  'https://www.upassistant.online',
   // Add localhost for development
   'http://localhost:3000'
 ];
